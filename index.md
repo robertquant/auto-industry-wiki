@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-19 | Total pages: 153
+> Last updated: 2026-06-21 | Total pages: 155
 
 ## Entities
 <!-- 按字母排序 -->
@@ -87,6 +87,7 @@
 - [[city-noa]] - 城市 NOA 自动辅助导航驾驶，2026年渗透率预计破50%
 - [[cockpit-driving-fusion]] - 座舱+智驾单芯片融合，2026年真融合量产元年
 - [[data-loop]] - 智驾数据飞轮，中国已具备全球最佳数据土壤
+- [[data-moat]] - 数据护城河，年销50万辆+月度迭代+自动标注99%+构成的竞争壁垒
 - [[humanoid-robot]] - 人形机器人，车企第二增长曲线，技术与供应链复用，智元远征A3全球首个自主打乒乓球全尺寸双足人形机器人
 - [[in-cabin-ai-agent]] - 座舱智能代理，从语音助手升级为 AI Agent
 - [[ar-hud-penetration]] - AR-HUD搭载率突破，2026年达19.11%，从高端选配走向标配
@@ -104,6 +105,7 @@
 - [[world-model]] - 智驾物理世界模拟器，预判能力支撑 L3+，小鹏X-Cache加速器
 - [[liDAR-cost]] - 激光雷达价格下探至2000元内，15万级家用车开始标配
 - [[cockpit-llm]] - 智能座舱大模型，渗透率超40%，豆包搭载700万辆、鸿蒙MoLA 2.0
+- [[traditional-automaker-ai-transition]] - 传统车企AI转型困境，技术可买但数据闭环+组织变革是结构性死结
 - [[training-loop]] - 训练闭环，从数据闭环升级为训练闭环，仿真能力决定系统上限
 - [[organization-friction]] - 组织内耗，AI人才流动与传统组织架构冲突，影响智驾落地
 - [[ai-manufacturing]] - 智能制造AI化，MES装机量超45%，AI质检精度99.9%

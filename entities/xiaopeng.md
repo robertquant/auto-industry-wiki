@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-06-12
+updated: 2026-06-21
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md]
+sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md]
 ---
 
 # 小鹏汽车
@@ -17,6 +17,7 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 ### 销量表现
 - **2026年5月销量32,158辆**：连续增长态势
 - **GX爆款验证**：12小时大定24,863台，市场反响强烈
+- **GX产能爬坡**：6月生产目标7,000台，Q3是销量验证窗口
 - **2026年4月销量31,011辆**：MONA系列放量增长
 - **MONA M03升级版**：1小时大定破1.26万台，爆款延续
 - **2025年四家新势力首次同步盈利**：零跑、理想、小鹏、蔚来共同迈过盈利门槛
