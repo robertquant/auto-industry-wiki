@@ -898,3 +898,20 @@
   - queries/：4个文件
 - 未更新 index.md（无新增页面）
 - 备注：今日为空日，Wiki维护状态良好，昨日欧洲车企动态已完整整合
+
+## [2026-06-23] ingest | Wiki每日整理（cron）
+- 来源：memory/2026-06-23.md 今日对话记录
+- 创建 [[qingzhou]] 实体页面：轻舟智航，NOA市场份额30.1%，累计搭载破100万台
+- 创建 [[stepfun]] 实体页面：阶跃星辰，Step-Audio2首个端到端语音大模型量产上车
+- 创建 [[driving-tech-fusion-paradigm]] 概念页面：智驾技术融合范式，三大范式确立
+- 创建 [[ai-simulation-market]] 概念页面：AI仿真市场，2026-2035年CAGR 39%
+- 创建 [[safety-case]] 概念页面：安全论证，L3量产新门槛
+- 更新 [[horizon]]：添加J7P超越英伟达Thor-X、星空6P舱驾融合芯片信息
+- 更新 [[xiaomi]]：添加OneVL统一潜空间创新
+- 更新 [[huawei-ads]]：添加DriveVLA-W0解决VLA监督稀疏
+- 更新 [[im-ad]]：添加L2/L3/L4量产能力里程碑
+- 更新 [[vla-model]]：添加三大融合范式、小米OneVL、华为DriveVLA-W0
+- 更新 [[l3-autonomous-driving]]：添加智己汽车L2/L3/L4量产能力、Safety Case门槛
+- 更新 [[ai-software-engineering]]：添加AI编程工具效率数据、VectorCAST 2026
+- 更新 index.md：总计161页
+- 核心洞察：智驾技术路线收敛（三大范式）、智驾芯片代际颠覆、L3量产门槛确立（Safety Case）

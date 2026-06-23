@@ -1,7 +1,7 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-06-15
+updated: 2026-06-23
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
 sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md]
@@ -113,6 +113,16 @@ sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/
 - 世界模型+强化学习技术路线
 - 反VLA蒸馏立场鲜明，公开质疑"先训练大模型再蒸馏上车"路线
 - 与[[xiaopeng]]的VLA实测数据50ms决策延迟形成技术分歧
+
+### DriveVLA-W0：解决VLA监督稀疏（2026年创新）
+**技术突破**：
+- VLA核心挑战：语言监督信号稀疏，训练效率低
+- DriveVLA-W0：创新监督机制，解决VLA监督稀疏问题
+- 效果：提升VLA训练效率
+- **技术路线**：华为选择视觉+世界模型直出，不走VLA路线
+- **与小米共识**：均认为VLA是过渡技术，但技术路径不同
+
+详见 [[driving-tech-fusion-paradigm]]
 
 ## 关系网络
 

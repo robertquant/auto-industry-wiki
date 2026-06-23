@@ -1,7 +1,7 @@
 ---
 title: 小米汽车
 created: 2026-05-02
-updated: 2026-06-01
+updated: 2026-06-23
 type: entity
 tags: [xiaomi, china, suv, sedan, battery, adas]
 sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md]
@@ -47,6 +47,16 @@ sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2
 - **性能**：10秒视频重建仅需10秒
 - **应用场景**：合成数据生成、仿真测试、座舱体验
 - **技术立场**：认为VLA是过渡技术，世界模型是下一代方向
+
+### OneVL：VLA与世界模型统一潜空间（2026年创新）
+**行业首创技术**：
+- 传统方案：VLA和世界模型独立训练、推理时串联
+- OneVL：统一潜空间框架，信息无损耗传递
+- 技术突破：消除模态间信息瓶颈，降低延迟
+- **与华为共识**：均认为VLA是过渡技术
+- **区别**：华为选择视觉+世界模型直出，小米选择OneVL统一潜空间
+
+详见 [[driving-tech-fusion-paradigm]]
 
 ## 市场表现
 

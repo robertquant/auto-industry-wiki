@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-21 | Total pages: 155
+> Last updated: 2026-06-23 | Total pages: 161
 
 ## Entities
 <!-- 按字母排序 -->
@@ -68,6 +68,8 @@
 - [[volcengine]] - 火山引擎，字节旗下云服务，豆包大模型搭载700万+辆车
 - [[zhuoyu]] - 卓驭科技（原大疆车载），极致性价比智驾方案，欧洲总部2026年布伦瑞克开业
 - [[deepseek]] - DeepSeek，中国AI大模型公司，开源低成本路线，2026年登美国趋势榜第一
+- [[qingzhou]] - 轻舟智航，NOA市场份额30.1%，累计搭载破100万台，智驾方案商第二梯队
+- [[stepfun]] - 阶跃星辰，Step-Audio2首个端到端语音大模型量产上车，搭载吉利银河M9
 
 ## Concepts
 <!-- 按字母排序 -->
@@ -158,6 +160,9 @@
 - [[c-icap-2026]] - 中汽测评新规程，C-GCAP/C-ICAP/C-NESA/C-ICA"3+1+N"全场景测评体系，智驾版本升级，L3准入技术验证
 - [[iso-26262]] - ISO 26262功能安全，ASIL-D等级要求，AI Agent与功能安全的五大冲突
 - [[vectorcast-ai-testing]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests，AI辅助测试符合功能安全要求
+- [[driving-tech-fusion-paradigm]] - 智驾技术融合范式，2026年三大范式确立：E2E+世界模型+RL、E2E+VLA+世界模型、VLA+世界模型
+- [[ai-simulation-market]] - AI仿真市场，2026-2035年CAGR 39%，从15.1亿增至291.5亿美元
+- [[safety-case]] - 安全论证，L3量产新门槛，取代清单式合规成为核心要求
 
 ## Comparisons
 <!-- 按字母排序 -->
