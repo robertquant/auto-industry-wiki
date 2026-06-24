@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-23 | Total pages: 163
+> Last updated: 2026-06-24 | Total pages: 166
 
 ## Entities
 <!-- 按字母排序 -->
@@ -165,6 +165,9 @@
 - [[driving-tech-fusion-paradigm]] - 智驾技术融合范式，2026年三大范式确立：E2E+世界模型+RL、E2E+VLA+世界模型、VLA+世界模型
 - [[ai-simulation-market]] - AI仿真市场，2026-2035年CAGR 39%，从15.1亿增至291.5亿美元
 - [[safety-case]] - 安全论证，L3量产新门槛，取代清单式合规成为核心要求
+- [[central-soe-restructuring-2026]] - 三大汽车央企重组整合，一汽/东风/长安竞速赛模式，销量+市值对比分析
+- [[brand-sales-may-june-2026]] - 自主品牌销量动态2026年5-6月，零跑新势力第一、极氪破80万、奇瑞出海依赖症
+- [[vectorcast-2026]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests、AI Agent与功能安全边界
 
 ## Comparisons
 <!-- 按字母排序 -->

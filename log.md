@@ -929,3 +929,20 @@
 - 更新 [[ai-software-engineering]]：添加AI编程工具效率数据、VectorCAST 2026
 - 更新 index.md：总计161页
 - 核心洞察：智驾技术路线收敛（三大范式）、智驾芯片代际颠覆、L3量产门槛确立（Safety Case）
+
+## [2026-06-24] ingest | Wiki每日知识库整理（Cron）
+
+- 来源：memory/2026-06-24.md 今日对话记录
+- 创建 [[central-soe-restructuring-2026]] 概念页面：三大汽车央企重组整合，"弱弱联合"辩证分析，长安央企化首年业绩（新能源110.9万辆+51%）
+- 创建 [[brand-sales-may-june-2026]] 概念页面：自主品牌销量动态，零跑新势力第一、极氪破80万、奇瑞出海占比73.4%
+- 创建 [[vectorcast-2026]] 概念页面：VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests、AI Agent与功能安全五大冲突
+- 更新 [[changan]]：添加央企化首年业绩、三大央企对比数据、央企整合关联
+- 更新 [[zeekr]]：累计交付突破80万辆（6月16日），客单价超30万
+- 更新 [[ai-software-engineering]]：添加AI代码目标80%、GM AI虚拟实验室、NVIDIA Halos全栈安全系统
+- 更新 [[ai-manufacturing]]：添加AI质检市场预测（8.29亿→49.2亿美元，CAGR 21.87%）
+- 更新 index.md：Total pages 163→166
+- 核心洞察：
+  - 央企整合本质："强政策+弱市场化能力"的结构性困境，长安是唯一变量
+  - 新势力格局质变：零跑连14月第一，极氪高端化验证（80万交付+30万客单价）
+  - AI代码目标80%：头部车企激进目标，研发范式质变
+  - AI质检市场爆发：2026-2035年CAGR 21.87%
