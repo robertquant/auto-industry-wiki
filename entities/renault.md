@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-04-30
-updated: 2026-06-15
+updated: 2026-06-25
 type: entity
 tags: [renault, europe, strategy, ev]
-sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, raw/articles/2026-05-12-renault-r5-uk-leader.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-22.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-07.md, memory/2026-06-08.md, memory/2026-06-09.md, memory/2026-06-10.md, memory/2026-06-14.md, memory/2026-06-15.md]
+sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, raw/articles/2026-05-12-renault-r5-uk-leader.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-22.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-07.md, memory/2026-06-08.md, memory/2026-06-09.md, memory/2026-06-10.md, memory/2026-06-14.md, memory/2026-06-15.md, memory/2026-06-25.md]
 ---
 
 # 雷诺 (Renault)
@@ -213,6 +213,39 @@ sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-rena
 - [[horse-powertrain]] - 动力合资公司（与吉利）
 - [[远景动力]] - 电池供应商
 - [[宁德时代]] - 电池供应商
+- [[twingo-e-tech]] - Twingo E-Tech车型
+
+## Twingo E-Tech深度分析（2026年6月）
+
+### 竞争力判断
+
+| 维度 | 评估 | 说明 |
+|------|------|------|
+| 产品力 | 劣势 | 续航短、配置基础 |
+| 价格 | 有补贴后优势 | €14,720（法国补贴后） |
+| 品牌信任 | 优势 | 欧洲消费者信任雷诺 |
+| 身份优势 | 核心竞争力 | 欧洲制造+无关税+符合补贴条件 |
+
+### 中国品牌应对策略对比
+
+| 品牌 | 应对策略 | 效果判断 |
+|------|----------|----------|
+| 零跑 | Stellantis渠道+波兰组装 | 规避关税，模式验证成功 |
+| 比亚迪 | 匈牙利建厂本地化生产 | 长期投入，2026年投产 |
+| 雷诺 | 中国研发+欧洲制造 | 验证新模式，21个月开发周期 |
+
+### 战略意义
+
+**对雷诺**：
+- 证明"中国速度、中国技术、中国供应链"打造"欧洲车"可行
+- 21个月开发周期（欧洲传统4-5年）验证效率
+- 有补贴后价格优势，无补贴竞争力存疑
+
+**对中国品牌**：
+- 真正对手不是Twingo，而是关税
+- 竞争本质：谁能让欧洲消费者相信"这车值得买"
+
+**详见**：[[twingo-e-tech]] Twingo E-Tech实体页面
 
 ## ACDC杭州办公室启用（2026年6月）
 

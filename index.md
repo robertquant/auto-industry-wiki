@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-24 | Total pages: 166
+> Last updated: 2026-06-25 | Total pages: 170
 
 ## Entities
 <!-- 按字母排序 -->
@@ -70,6 +70,7 @@
 - [[deepseek]] - DeepSeek，中国AI大模型公司，开源低成本路线，2026年登美国趋势榜第一
 - [[qingzhou]] - 轻舟智航，NOA市场份额30.1%，累计搭载破100万台，智驾方案商第二梯队
 - [[stepfun]] - 阶跃星辰，Step-Audio2首个端到端语音大模型量产上车，搭载吉利银河M9
+- [[twingo-e-tech]] - Twingo E-Tech，雷诺入门纯电小车，中国研发+欧洲制造模式代表，斯洛文尼亚生产
 
 ## Concepts
 <!-- 按字母排序 -->
@@ -105,6 +106,7 @@
 - [[vla-mass-production]] - VLA大模型量产落地，元戎启行DeepRoute IO 2.0、卓驭多模态基础模型
 - [[vla-translation-paradox]] - VLA两次翻译问题，视觉→语言→动作引入信息损失和延迟，华为小米认为VLA是过渡技术
 - [[world-model]] - 智驾物理世界模拟器，预判能力支撑 L3+，小鹏X-Cache加速器
+- [[web-visual-modeling]] - Web端可视化建模工具，Pictorus/PathSim/Node-RED对比，浏览器端建模+OTA部署
 - [[liDAR-cost]] - 激光雷达价格下探至2000元内，15万级家用车开始标配
 - [[cockpit-llm]] - 智能座舱大模型，渗透率超40%，豆包搭载700万辆、鸿蒙MoLA 2.0
 - [[traditional-automaker-ai-transition]] - 传统车企AI转型困境，技术可买但数据闭环+组织变革是结构性死结
@@ -113,6 +115,7 @@
 - [[ai-manufacturing]] - 智能制造AI化，MES装机量超45%，AI质检精度99.9%
 - [[ai-software-engineering]] - 车企软件工程AI化，AI代码占比41%，东软睿驰提效40%-60%，AI视觉测试87%渗透
 - [[aidv]] - AI定义车辆，2026年确立的新范式，AI成为车辆核心竞争力定义者
+- [[ai-auto-rnd-whitepaper]] - 智能体赋能汽车研发设计白皮书，中汽协+阿尔特联合主编，每日构建1500次，人工参与度37%
 - [[ai-r-and-d]] - AI研发工程，阿尔特太乙平台压缩研发周期至18-24个月，车企AI代码占比41%
 - [[ai-marketing-after-sales]] - AI营销与后市场，线索质量+75%、二手车AI估价90秒、预测性维护渗透率68.3%、车载AI盈利仅20%
 - [[new-forces-landscape-2026]] - 新势力格局质变，零跑连续14月第一、格局从“蔚小理”变为“零跑一超+多强”
@@ -159,6 +162,7 @@
 - [[ai-r-and-d-toolchain]] - 研发工具链AI化，NVIDIA×LG×现代Physical AI，仿真试验AI一体化闭环
 - [[autonomous-chip-localization]] - 智驾芯片国产替代趋势，地平线份额47.7%，英伟达在华份额_FROM_39%降至25%
 - [[autonomous-logistics-vehicle]] - 无人物流车市场，2025年保有量3.7万台，东风OpenVAN订单超4000台
+- [[autosar-dev-process]] - AUTOSAR开发流程，SWRS→架构设计→Simulink建模标准化流程，SWC划分原则与VFB设计
 - [[c-icap-2026]] - 中汽测评新规程，C-GCAP/C-ICAP/C-NESA/C-ICA"3+1+N"全场景测评体系，智驾版本升级，L3准入技术验证
 - [[iso-26262]] - ISO 26262功能安全，ASIL-D等级要求，AI Agent与功能安全的五大冲突
 - [[vectorcast-ai-testing]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests，AI辅助测试符合功能安全要求

@@ -749,6 +749,31 @@
   - 激光雷达从高端下探到20万级市场
 - 备注：今日内容来自定时任务自动采集，覆盖智能驾驶、智驾芯片、重庆论坛、技术路线共识
 
+## [2026-06-25] ingest | Wiki每日知识库整理（Cron）
+
+- 来源：memory/2026-06-25.md 今日对话记录
+- 新建实体页面：
+  - [[twingo-e-tech]]：Twingo E-Tech，雷诺入门纯电小车，中国研发+欧洲制造模式代表
+- 新建概念页面：
+  - [[autosar-dev-process]]：AUTOSAR开发流程，SWRS→架构设计→Simulink建模标准化流程
+  - [[web-visual-modeling]]：Web端可视化建模工具，Pictorus/PathSim/Node-RED对比
+  - [[ai-auto-rnd-whitepaper]]：智能体赋能汽车研发设计白皮书，中汽协+阿尔特联合主编
+- 更新实体页面：
+  - [[renault]]：Twingo E-Tech深度分析、ACDC杭州办公室、竞争力判断
+- 更新概念页面：
+  - [[central-soe-restructuring-2026]]："弱弱联合"辩证分析、核心悬念补充
+- 更新 index.md：Total pages 166→170
+- 核心主题：
+  - 雷诺Twingo E-Tech验证"中国研发+欧洲制造"模式可行性
+  - AUTOSAR开发流程深度讨论（SWRS→SWC划分→VFB设计→Simulink建模）
+  - Web端可视化建模工具对比（Pictorus浏览器端建模+OTA部署最值得关注）
+  - 汽车央企重组"第二季"讨论：是"弱弱联合"但不是"躺平式弱弱联合"
+  - 智能体赋能汽车研发设计白皮书数据验证（每日1500次构建合理，37%人工参与度偏高）
+- 趋势判断：
+  - Twingo真正意义：验证"中国速度、中国技术、中国供应链"打造"欧洲车"模式可行
+  - 中国品牌出海对手不是Twingo，而是关税
+  - AUTOSAR建模仍是汽车行业主流，ISO 26262 ASIL-C/D强制要求
+
 ## [2026-06-14] ingest | 欧盟70×70规则分析（Cron）
 - 来源：memory/2026-06-14.md 今日对话记录
 - 创建 [[eu-70x70-rule]]：欧盟70×70规则概念页面，政策背景、覆盖范围、影响分析
