@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-25 | Total pages: 170
+> Last updated: 2026-06-26 | Total pages: 171
 
 ## Entities
 <!-- 按字母排序 -->
@@ -75,6 +75,7 @@
 ## Concepts
 <!-- 按字母排序 -->
 
+- [[japanese-automaker-crisis-2026]] - 日本汽车三座大山危机，美国政策收割+中东地缘冲突+中国市场失守，终结日系25年全球销冠地位
 - [[eu-70x70-rule]] - 欧盟70×70规则，大众Stellantis雷诺联合提议，从关税壁垒升级为全价值链本地化认证
 - [[eu-phev-strategy]] - 欧盟PHEV关税规避策略，中国车企利用政策空档突破欧洲市场
 - [[gen-2-blade-battery]] - 第二代刀片电池，能量密度190-210Wh/kg，5分钟充好、9分钟充饱
@@ -83,6 +84,7 @@
 - [[cockpit-chip]] - 智能座舱芯片格局，高通72.1%绝对垄断，华为7.1%为唯一生态闭环挑战者
 - [[cockpit-supplier-ranking]] - 智能座舱供应商排行，德赛西威15.3%、博世8.7%、华为6.8%
 - [[broadcom-renault-patent-case]] - 博通诉雷诺车载以太网SEP案，车企专利风险新范式
+- [[renault-nissan-development-process]] - 雷诺-日产联盟整车开发里程碑（CF/VCO/GO/ABPT/PPC/SOP），BoxCar布置验证样车
 - [[france-social-leasing-2026]] - 法国社会租赁计划2026，雷诺R5/R4 E-Tech核心受益，月租130-190欧
 - [[changan-tianshu]] - 长安天枢领航智驾系统，Pro全系标配激光雷达，Ultra版VLM大模型量产上车，启源Q06全系搭载
 - [[china-tech-reverse-export]] - 中国汽车技术通过合资/平台共享进入欧洲车企的新模式

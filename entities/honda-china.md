@@ -1,10 +1,10 @@
 ---
 title: 本田中国
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-06-26
 type: entity
-tags: [honda, china, sales-crash, market-share]
-sources: [daily-news/2026-05-13-gasgoo-evening.md]
+tags: [honda, china, sales-crash, market-share, crisis]
+sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-26.md]
 ---
 
 # 本田中国
@@ -52,11 +52,30 @@ sources: [daily-news/2026-05-13-gasgoo-evening.md]
 - [[volkswagen]]：选择与小鹏合作，获得中国本土电动平台
 - [[stellantis]]：与零跑合作，引入中国电动车技术
 
+## 2026年三座大山危机
+
+### 美国关税冲击
+| 指标 | 数据 |
+|------|------|
+| 减值损失 | **90.5亿美元** |
+| 历史意义 | **近70年首次年度营业亏损** |
+
+### 中国市场崩塌
+- 2026年4月销量同比**腰斩**
+- 从2020年峰值162.7万辆跌至年化不足35万辆
+- 纯电P7月销仅50辆，完全缺席中国新能源时代
+
+### 风险评级
+🔴 **高危** — 近70年首次年度亏损，中国崩塌+美国关税双重打击，风险最高的日系车企
+
 ## 判断
 5,100辆不是底部是新常态起点。若无战略转折点（如大众-小鹏模式），退出中国只是时间问题。
 
 ## 相关页面
 - [[toyota]] - 日系车企电动化困境
+- [[nissan]] - 日产生存危机
 - [[volkswagen]] - 大众-小鹏合作模式参考
 - [[stellantis]] - 零跑技术输出模式
 - [[nev-penetration-60-percent]] - 新能源渗透率60%背景
+- [[japanese-automaker-crisis-2026]] - 三座大山危机分析
+- [[byd]] - 颠覆者，2025年销量超日系三强总和
