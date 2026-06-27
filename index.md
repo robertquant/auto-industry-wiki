@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-26 | Total pages: 171
+> Last updated: 2026-06-27 | Total pages: 176
 
 ## Entities
 <!-- 按字母排序 -->
@@ -18,7 +18,7 @@
 - [[catl]] - 全球最大动力电池企业，半固态电池2026量产，6分27秒快充，Q1净利润207亿
 - [[geely]] - 中国汽车制造商，与雷诺建立多领域战略合作
 - [[gaintnt]] - 光庭信息，SDW3.0平台AI Agent驱动汽车软件开发
-- [[hesai]] - 禾赛科技，中国激光雷达领军企业，进入奔驰L3供应链，Q1营收+29.6%连续4季度盈利
+- [[hyundai]] - 现代起亚，全球第三大汽车集团，Q1净利润119.7亿元，危机程度轻于日系德系
 - [[horse-powertrain]] - 雷诺×吉利动力合资公司，DHTS超混平台，热效率44.2%
 - [[huawei-ads]] - 华为智驾方案，ADS 5.0在23城开放L3高速脱手，累计智驾里程破100亿公里，反VLA路线
 - [[jaguar-land-rover]] - 英国豪华车企，在华销量崩塌，与奇瑞合作神行者品牌
@@ -75,7 +75,7 @@
 ## Concepts
 <!-- 按字母排序 -->
 
-- [[japanese-automaker-crisis-2026]] - 日本汽车三座大山危机，美国政策收割+中东地缘冲突+中国市场失守，终结日系25年全球销冠地位
+- [[korea-japan-automaker-divergence]] - 韩日车企分化分析，历史创伤、治理结构、社会危机感差异
 - [[eu-70x70-rule]] - 欧盟70×70规则，大众Stellantis雷诺联合提议，从关税壁垒升级为全价值链本地化认证
 - [[eu-phev-strategy]] - 欧盟PHEV关税规避策略，中国车企利用政策空档突破欧洲市场
 - [[gen-2-blade-battery]] - 第二代刀片电池，能量密度190-210Wh/kg，5分钟充好、9分钟充饱
@@ -84,6 +84,7 @@
 - [[cockpit-chip]] - 智能座舱芯片格局，高通72.1%绝对垄断，华为7.1%为唯一生态闭环挑战者
 - [[cockpit-supplier-ranking]] - 智能座舱供应商排行，德赛西威15.3%、博世8.7%、华为6.8%
 - [[broadcom-renault-patent-case]] - 博通诉雷诺车载以太网SEP案，车企专利风险新范式
+- [[byd-dmi-6]] - 比亚迪DM-i 6.0技术突破，48%热效率、1.8L亏电油耗、2500km+续航
 - [[renault-nissan-development-process]] - 雷诺-日产联盟整车开发里程碑（CF/VCO/GO/ABPT/PPC/SOP），BoxCar布置验证样车
 - [[france-social-leasing-2026]] - 法国社会租赁计划2026，雷诺R5/R4 E-Tech核心受益，月租130-190欧
 - [[changan-tianshu]] - 长安天枢领航智驾系统，Pro全系标配激光雷达，Ultra版VLM大模型量产上车，启源Q06全系搭载
@@ -143,6 +144,7 @@
 - [[entry-ev-profit-crisis]] - 入门电动车盈利困境，欧洲A0/A级纯电单车毛利低于5%，Stellantis已砍掉相关项目
 - [[fifth-gen-lfp-battery]] - 第五代磷酸铁锂电池，能量密度205-230Wh/kg逼近三元，6C超快充，2026年渗透率破30%
 - [[agentic-coding-capability-2026]] - AI Coding能力边界更新，2026年Agentic Coding跨文件重构/架构设计/全功能交付，瓶颈是信任而非能力
+- [[ai-coding-tools-2026]] - AI编程工具爆发，2026年月活开发者7500万，人均代码吞吐量+35%，工程化元年
 - [[vla-translation-paradox]] - VLA两次翻译问题，视觉→语言→动作引入信息损失和延迟，华为小米认为VLA是过渡技术
 - [[ai-testing-agent]] - AI自动化测试智能体，问界M9工厂单车超4400次测试，Playwright三大Agent成本降60%
 - [[deepseek-cockpit-impact]] - DeepSeek开源对座舱影响，吉利/东风/广汽接入，交互效率提升60%+

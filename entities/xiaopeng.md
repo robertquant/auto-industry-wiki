@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-06-21
+updated: 2026-06-27
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md]
+sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md]
 ---
 
 # 小鹏汽车
@@ -111,6 +111,13 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 
 ## 来源
 - 2026-05-11 汽车AI行业全景动态 Cron 报告
+- 2026-06-27 汽车AI每日动态
+
+### 2026年6月:CVPR 2026世界模型技术图谱
+
+- **发布平台**: CVPR 2026
+- **核心内容**: 世界模型技术图谱，双支柱路线
+- **技术意义**: 与华为ADS形成技术共识，均认为VLA是过渡技术
 
 ### 2026年5月下旬:XNGP全国全量开放
 

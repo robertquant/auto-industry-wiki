@@ -1,10 +1,10 @@
 ---
 title: 小米汽车
 created: 2026-05-02
-updated: 2026-06-23
+updated: 2026-06-27
 type: entity
 tags: [xiaomi, china, suv, sedan, battery, adas]
-sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md]
+sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-27.md]
 ---
 
 ## 概述
@@ -34,6 +34,7 @@ sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2
 - 定位：赛道性能版，对标Model Y Performance
 - 特点：碳纤维车标、车厘子红专属色、295/40 R22大胎、大刹车卡钳
 - 意义：小米首次推出高性能版车型，冲击豪华市场
+- **2026年6月纽北圈速**：YU7 GT自动驾驶圈速 10分29秒483，全球首个官方认证
 
 ## 技术特点
 
