@@ -1,7 +1,7 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-05-03
-updated: 2026-05-24
+updated: 2026-06-28
 type: entity
 tags: [catl, battery, china, supplier, technology]
 sources: [memory/2026-05-03.md, memory/2026-05-24.md, memory/2026-06-11.md]
@@ -83,6 +83,7 @@ sources: [memory/2026-05-03.md, memory/2026-05-24.md, memory/2026-06-11.md]
 
 ### 钠电池迈入规模化量产元年
 - **钠电池正式进入规模化量产阶段**
+- **首批交付时间**：2026年9月
 - **定位**：成本敏感型A00/A0级车型的降本利器
 - **优势**：成本低、安全性高、低温性能好
 - **市场预期**：将替代部分磷酸铁锂在低端市场的份额

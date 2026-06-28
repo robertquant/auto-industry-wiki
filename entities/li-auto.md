@@ -4,12 +4,19 @@ created: 2026-05-03
 updated: 2026-06-09
 type: entity
 tags: [li-auto, china, ev, erev, suv, mpv, vla]
-sources: [memory/2026-05-03.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-09.md, memory/2026-06-11.md]
+sources: [memory/2026-05-03.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-09.md, memory/2026-06-11.md, memory/2026-06-28.md]
 ---
 
 ## 概述
 
 理想汽车是中国新能源车企中增程路线的代表,以家庭用户为核心定位。2026年北京车展推出L9 Livis高端车型,定位50万以上市场。
+
+## 资本市场表现
+
+### 港股市值（2026年6月）
+- **市值跌破千亿港元**：与新势力"蔚小理"中蔚来、小鹏同步跌破
+- **市场背景**：新势力估值分化，零跑一超独大，资本市场对增程路线长期盈利能力的重新评估
+- **销量承压**：2026年5月销量同比-18.3%，产品换代期
 
 ## 关键事实
 

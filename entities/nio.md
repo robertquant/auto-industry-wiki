@@ -1,16 +1,23 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-05-31
-updated: 2026-06-13
+updated: 2026-06-28
 type: entity
 tags: [nio, china, ev, battery-swap, luxury]
-sources: [memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-09.md, memory/2026-06-13.md]
+sources: [memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-28.md]
 ---
 
 # 蔚来 (NIO)
 
 ## 概述
 蔚来汽车是中国新势力车企之一,以高端定位和换电模式为核心差异化竞争力。
+
+## 资本市场表现
+
+### 港股市值（2026年6月）
+- **市值跌破千亿港元**：与新势力"蔚小理"中小鹏、理想同步跌破
+- **市场背景**：新势力估值分化，零跑一超独大
+- **行业判断**：资本市场对新势力盈利能力的重新评估
 
 ## 关键数据
 

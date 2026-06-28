@@ -4,13 +4,20 @@ created: 2026-05-11
 updated: 2026-06-27
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md]
+sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
 ---
 
 # 小鹏汽车
 
 ## 概述
 小鹏汽车是中国新势力车企之一,以智驾技术为核心差异化竞争力。2026年在VLA路线之争中与华为形成技术观点分歧,以实测数据回应"蒸馏路线质疑"。
+
+## 资本市场表现
+
+### 港股市值（2026年6月）
+- **市值跌破千亿港元**：与新势力"蔚小理"中蔚来、理想同步跌破
+- **市场背景**：新势力估值分化，零跑一超独大，资本市场对智驾差异化盈利能力的重新评估
+- **竞争格局"：从“蔚小理”变为“零跑一超+多强”，小鹏处于多强阵营
 
 ## 关键数据
 
