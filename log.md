@@ -994,7 +994,28 @@
 - 更新 [[honda-china]]：添加90.5亿美元减值、近70年首次年度亏损、风险评级🔴高危
 - 更新 index.md：总计171页
 
-## [2026-06-28] ingest | Wiki每日知识库整理（Cron）
+## [2026-06-29] lint | Wiki 索引维护（Cron）
+
+- 来源：每日Wiki整理定时任务
+- 检查发现 13 个页面未在 index.md 中列出
+- 补充实体页面索引（6个）：
+  - [[bmw]] - 德国豪华车企，Neue Klasse新世代2026落地
+  - [[hesai]] - 禾赛科技，首家进入奔驰L3供应链的国产激光雷达
+  - [[lushi-ushu]] - 驭势科技，L4自动驾驶，2026年5月港股上市
+  - [[saidou]] - 赛豆科技，字节跳动系新车企，AIVA品牌
+  - [[tesla]] - 美国电动先驱，FSD/OTA/直营模式颠覆者
+  - [[zeekr]] - 吉利高端品牌，累计交付破80万
+- 补充概念页面索引（7个）：
+  - [[2026-beijing-auto-show-feishu]] - 北京车展技术趋势总结
+  - [[2026-beijing-autoshow-software-report]] - 汽车软件技术前瞻报告
+  - [[auto-price-hike-2026]] - 2026车企涨价潮
+  - [[ga-t-2388-2026]] - 中国智驾强制标准
+  - [[hybrid-efficiency-principle]] - 混动省油原理
+  - [[japanese-automaker-crisis-2026]] - 日本汽车三座大山危机
+  - [[lithium-price-surge-2026]] - 2026锂价暴涨
+- 更新 index.md：Total pages 178→185
+- Broken wikilinks 检查：发现部分链接大小写不一致（如 Momenta→[[momenta]]），建议后续修复
+- 备注：今日无新对话内容，本次为索引维护而非内容新增
 - 来源：memory/2026-06-28.md 盖世汽车日报
 - 更新实体页面：
   - [[byd]]：添加6月销量预测（43.5万辆中枢，出口预测破18万辆单月历史新高）
