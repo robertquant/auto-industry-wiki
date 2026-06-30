@@ -1,10 +1,10 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-06-19
+updated: 2026-06-30
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
-sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md]
+sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
 ---
 
 ## 概述
@@ -86,3 +86,12 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md]
 - **揽胜150万+细分市场**：连续**3年**销冠
 - **欧盟警告**：警告欧盟"欧洲制造"规则或损害供应链
 - **判断**：捷豹路虎电动化时间表激进但执行力存疑；奇瑞合作是"借中国技术自救"的模式验证
+
+### 2026年6月下旬：纯电路虎首发确认
+
+- **Type 01纯电GT 10月首发**：纯电揽胜首款车型
+- **Freelander（神行者）奇瑞合作**：专为中国市场的增程/纯电车型
+- **判断**：
+  - Type 01是捷豹路虎电动化转型的关键产品
+  - 奇瑞合作神行者验证中国技术输出欧洲豪华品牌模式
+  - 2030年全面电动化时间表依然激进

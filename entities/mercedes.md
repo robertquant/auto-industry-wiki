@@ -1,10 +1,10 @@
 ---
 title: 梅赛德斯-奔驰 (Mercedes-Benz)
 created: 2026-04-30
-updated: 2026-06-19
+updated: 2026-06-30
 type: entity
 tags: [mercedes, europe, ev, strategy, mma, momenta]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-19.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
 ---
 
 # 梅赛德斯-奔驰 (Mercedes-Benz)
@@ -96,3 +96,14 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
 - **Q1中国销量**：同比下降**27%**，全球最大跌幅市场
 - **纯电CLA困境**：月销一度跌至**21辆**（2026年2月），欧洲月均4000台
 - **判断**：奔驰中国本土化团队强大，但产品力未转化为销量；Momenta合作时间最长，效果却不如后发者
+
+### 2026年6月下旬：价格下探
+
+- **纯电CLA价格进一步下探**：起售价调整至**25.9万元**
+- **CLTC续航**：**866km**
+- **中国团队主导智驾开发**：核心差异化功能由中国研发团队主导
+- **战略意义**：
+  - 德系豪华品牌首次主动下沉至25万级主流市场
+  - 价格下探表明奔驰认识到中国市场竞争激烈程度
+  - 续航866km接近燃油车体验，消除里程焦虑
+- **判断**：奔驰在高端电动化转型受挫后，以价格换市场；但25万级与30万+品牌调性存在张力

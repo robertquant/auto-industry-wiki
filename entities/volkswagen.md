@@ -1,10 +1,10 @@
 ---
 title: 大众集团 (Volkswagen Group)
 created: 2026-04-30
-updated: 2026-06-19
+updated: 2026-06-30
 type: entity
 tags: [volkswagen, europe, ev, strategy, cariad]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-14.md, memory/2026-06-19.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-14.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
 ---
 
 # 大众集团 (Volkswagen Group)
@@ -125,3 +125,20 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
 ### 关系网络更新
 
 - [[xiaopeng]] - 核心技术合作方，CEA架构+VLA智驾
+
+### 2026年6月下旬：产品策略调整
+
+- **ID系列更名回归经典**：放弃数字命名方案，回归传统车型名称（如POLO、GOLF等）
+- **ID.POLO量产确认**：入门级纯电车型，填补细分市场空缺
+- **战略判断**：放弃ID数字命名是对市场反馈的务实调整
+
+### 中国本土化三线并行策略
+
+| 技术路线 | 目标市场 | 合作方 | 进展 |
+|----------|----------|--------|------|
+| 地平线方案 | 中端市场 | 地平线+酷睿程 | 推进中 |
+| 小鹏VLA智驾 | 高端市场 | 小鹏 | "与众08"2026年3月量产 |
+| 自研SoC | 长期战略 | Cariad | SSP平台2030年前 |
+
+- **判断**：大众是欧洲车企中中国本土化最深的一家，地平线+小鹏双供应商策略覆盖10万到50万全价位段
+- **核心优势**：三线并行提供技术冗余，避免单一供应商风险

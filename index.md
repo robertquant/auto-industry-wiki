@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-29 | Total pages: 185
+> Last updated: 2026-06-30 | Total pages: 186
 
 ## Entities
 <!-- 按字母排序 -->
@@ -111,6 +111,8 @@
 - [[qnx-hypervisor]] - 黑莓虚拟化方案，汽车行业座驾融合主流选择
 - [[rgev-platform]] - 雷诺RGEV平台，800V架构，纯电续航750km/增程1400km，追平中国供应链效率的技术底座
 - [[solid-state-battery]] - 固态电池技术路线，宁德半固态2026量产，全固态仍需5-10年
+- [[storage-chip-surge-2026]] - 存储芯片价格暴涨180%，车企自研芯片从"成本优化"升级为"工业自卫战"
+- [[sodium-ion-battery]] - 钠离子电池，2026年规模化量产元年，宁德时代"钠新"首发，175Wh/kg、-40℃保持>90%、资源自给率100%
 - [[synthetic-data-explosion]] - 合成数据爆发，2026年AI训练合成数据占比58%首超真实数据，市场规模85亿美元
 - [[ultra-fast-charging]] - 超快充军备竞赛，比亚迪9分钟/宁德6分27秒
 - [[vla-model]] - Vision-Language-Action 模型，智驾技术演进方向

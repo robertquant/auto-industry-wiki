@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-04-30
-updated: 2026-06-19
+updated: 2026-06-30
 type: entity
 tags: [bmw, europe, ev, strategy, neue-klasse, momenta]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-13.md, memory/2026-06-19.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-13.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
 ---
 
 # 宝马 (BMW)
@@ -86,3 +86,13 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
 - **Momenta智驾**：合作方案2026年量产，**首发国产iX3**
 - **德国之外最大研发网络**：四大基地（北京、上海、沈阳、南京）+ 三家软件公司
 - **判断**：宝马是德系三强中智驾本土化最坚决的一家，选择Momenta而非华为/自研，路线清晰
+
+### 2026年6月下旬：全球首发与高性能路线
+
+- **Neue Klasse iX3韩国首发**：全球亮相活动选址韩国
+- **800V架构确认**：全面搭载高压快充平台
+- **四电机纯电M3预演**：基于"驾控超级大脑"架构，四电机独立驱动
+- **判断**：
+  - 800V是德系豪华品牌电动化标配，400V时代终结信号明确
+  - 四电机M3标志宝马将电动化延伸至高性能领域
+  - 韩国首发体现亚太市场战略权重提升
