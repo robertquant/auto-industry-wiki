@@ -1,7 +1,7 @@
 ---
 title: 第二代刀片电池
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-01
 type: concept
 tags: [battery, byd, technology]
 sources: [raw/articles/2026-06-01-brand-dynamics.md]
@@ -15,7 +15,9 @@ sources: [raw/articles/2026-06-01-brand-dynamics.md]
 ## 核心参数
 - **能量密度**：190-210Wh/kg（较第一代提升约40%）
 - **充电速度**：5分钟充好、9分钟充饱
-- **技术路线**：LFP磷酸铁锂
+- **技术路线**：磷酸锰铁锂体系
+- **CLTC续航**：破1000km
+- **产能状态**：2026年7月产能爬坡中，交付延期
 
 ## 技术突破
 1. **能量密度逼近三元**：190-210Wh/kg已接近中低端三元电池水平

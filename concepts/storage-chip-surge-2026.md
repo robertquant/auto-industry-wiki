@@ -1,7 +1,7 @@
 ---
 title: 存储芯片价格暴涨 (2026 Storage Chip Surge)
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 type: concept
 tags: [chip, supply-chain, strategy, cost]
 sources: [daily-news/2026-06-30-gasgoo-evening.md]
@@ -14,7 +14,9 @@ sources: [daily-news/2026-06-30-gasgoo-evening.md]
 
 ## 关键数据
 - **存储芯片价格暴涨**：**180%**
-- **影响范围**：车载 entertainment 系统、座舱域控、智驾存储
+- **Nor Flash芯片涨价**：**25%**（聚辰股份7月6日起执行新价）
+- **动力电池2026年需求预测**：888.7GWh，同比+15.8%
+- **影响范围**：车载娱乐系统、座舱域控、智驾存储
 - **核心原因**：AI算力需求爆发 + 供应链集中
 
 ## 对汽车行业影响

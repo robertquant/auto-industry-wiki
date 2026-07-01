@@ -1,7 +1,7 @@
 ---
 title: 阿维塔 (Avatr)
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-07-01
 type: entity
 tags: [avatr, changan, huawei, china, ev, adas]
 sources: [memory/2026-06-13.md]
@@ -43,6 +43,12 @@ sources: [memory/2026-06-13.md]
 - 华为智驾方案外溢的重要载体
 - 长安高端化战略的关键布局
 - 与[[changan]]自主智驾路线形成互补
+
+### L3测试牌照（2026年7月）
+- **取得L3自动驾驶测试牌照**：高阶自动驾驶商业化加速
+- **意义**：成为首批获得L3测试资质的车企之一
+- **背景**：工信部L3/L4强制国标征求意见，政策窗口开启
+- 相关概念：[[l3-national-standard]]、[[l3-autonomous-driving]]
 
 ## 关系网络
 

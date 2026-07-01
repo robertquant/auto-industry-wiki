@@ -1,7 +1,7 @@
 ---
 title: 小米汽车
 created: 2026-05-02
-updated: 2026-06-27
+updated: 2026-07-01
 type: entity
 tags: [xiaomi, china, suv, sedan, battery, adas]
 sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-27.md]
@@ -63,6 +63,8 @@ sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2
 
 - 2026年Q1：YU7以7万多辆获得新势力车型销量冠军
 - **2026年Q1汽车交付**：8万台
+- **2026年6月销量**：30,000+辆，连续三月站稳3万+
+- **2026年5月销量**：30,000+辆
 - **2026年4月销量**：30,000+辆
 - **创新业务收入**：199亿元
 - 累计交付65.5万台（2026年4月）

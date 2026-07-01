@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-06-27
+updated: 2026-07-01
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
 sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
@@ -22,6 +22,7 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 ## 关键数据
 
 ### 销量表现
+- **2026年6月销量40,126辆，同比+15.9%**：发布X-Mind技术框架
 - **2026年5月销量32,158辆**：连续增长态势
 - **GX爆款验证**：12小时大定24,863台，市场反响强烈
 - **GX产能爬坡**：6月生产目标7,000台，Q3是销量验证窗口

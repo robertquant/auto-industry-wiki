@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-05-31
-updated: 2026-06-30
+updated: 2026-07-01
 type: entity
 tags: [nio, china, ev, battery-swap, luxury]
 sources: [memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-28.md, daily-news/2026-06-30-gasgoo-evening.md]
@@ -22,10 +22,11 @@ sources: [memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-09.md, memo
 ## 关键数据
 
 ### 销量表现
+- **2026年6月销量40,597辆，同比+62.9%**：创今年单月新高
+  - 主品牌：约2.2万辆
+  - 乐道：约1.4万辆
+  - firefly：约0.45万辆
 - **2026年5月销量37,705辆，同比+62.3%**：强势反弹
-  - 主品牌：约2万辆
-  - 乐道：约1.2万辆
-  - firefly：约0.56万辆
 - **2026年4月销量29,356辆**：稳守3万俱乐部
 - **firefly首月4980台**：新品牌起歩表现
 - **2025年四家新势力首次同步盈利**：零跑、理想、小鹏、蔚来共同迈过盈利门槛

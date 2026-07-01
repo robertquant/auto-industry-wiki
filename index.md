@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-06-30 | Total pages: 186
+> Last updated: 2026-07-01 | Total pages: 189
 
 ## Entities
 <!-- 按字母排序 -->
@@ -193,6 +193,8 @@
 - [[vectorcast-2026]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests、AI Agent与功能安全边界
 - [[china-brand-market-share-2026]] - 中国品牌乘用车市占率75%（2026年5月），同比+6pp，新中国汽车工业史上最高
 - [[un-autonomous-driving-regulation-2026]] - 联合国自动驾驶法规获批（2026年6月），全球首个统一L3+法规框架
+- [[xmind-tech-framework]] - X-Mind技术框架（小鹏），解决车端算力约束下认知推理与实时计算的矛盾
+- [[l3-national-standard]] - L3自动驾驶国标征求意见，工信部首部L3/L4强制国标，智驾宣传乱象将终结
 
 ## Comparisons
 <!-- 按字母排序 -->

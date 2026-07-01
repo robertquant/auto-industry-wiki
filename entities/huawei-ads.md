@@ -1,7 +1,7 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-06-23
+updated: 2026-07-01
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
 sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md]
@@ -16,6 +16,7 @@ sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/
 ### ADS 5.0核心能力
 - **23城开放L3高速脱手**
 - **累计智驾里程破100亿公里**（2026年5月）
+- **智驾"兜底"承诺**（2026年6月22日）：全场景智驾保障，继比亚迪之后行业第二家跟进
 - 首家在中国规模化落地L3的智驾供应商
 - 高速公路场景有条件自动驾驶
 - 车企承担事故责任（法规突破）
