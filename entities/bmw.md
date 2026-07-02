@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-04-30
-updated: 2026-06-30
+updated: 2026-07-02
 type: entity
 tags: [bmw, europe, ev, strategy, neue-klasse, momenta]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-13.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-13.md, memory/2026-06-19.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, daily-news/2026-07-02-eu-carmakers.md]
 ---
 
 # 宝马 (BMW)
@@ -96,3 +96,13 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
   - 800V是德系豪华品牌电动化标配，400V时代终结信号明确
   - 四电机M3标志宝马将电动化延伸至高性能领域
   - 韩国首发体现亚太市场战略权重提升
+
+### 2026年7月：Neue Klasse切换态度坚决
+
+- **停产计划**：i3、i5、iX1将于2026年7月停产，为Neue Klasse让路
+- **iX3长轴距版首发**：搭载Momenta端到端智驾，805km续航，400kW快充
+- **战略意义**：
+  - 首次在华采用本土供应商智驾方案，是德系豪华品牌的破冰之作
+  - 停产现有电动车型显示出对Neue Klasse的绝对信心
+  - 与大众智驾全面切换小鹏形成对标，宝马选择Momenta
+- **判断**：宝马Neue Klasse切换比奔驰更坚决，本土化合作更深入

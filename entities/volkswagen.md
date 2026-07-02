@@ -1,10 +1,10 @@
 ---
 title: 大众集团 (Volkswagen Group)
 created: 2026-04-30
-updated: 2026-06-30
+updated: 2026-07-02
 type: entity
 tags: [volkswagen, europe, ev, strategy, cariad]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-14.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-14.md, memory/2026-06-19.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, daily-news/2026-07-02-eu-carmakers.md]
 ---
 
 # 大众集团 (Volkswagen Group)
@@ -142,3 +142,12 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
 
 - **判断**：大众是欧洲车企中中国本土化最深的一家，地平线+小鹏双供应商策略覆盖10万到50万全价位段
 - **核心优势**：三线并行提供技术冗余，避免单一供应商风险
+
+### 2026年7月：智驾全面切换小鹏
+
+- **智驾战略重大调整**：全面切换至小鹏XNGP + 地平线/小鹏Turing芯片
+- **北京车展发布**：ID. AURA T6、ID.UNYX 07/09、JETTA X、AUDI E7X
+- **产品规划目标**：2026年推20+款新能源，2030年目标50款
+- **裁员规模**：2026年底前19,000人，2030年前德国共50,000人
+- **判断**：大众智驾路线从此前的"三线并行"调整为以小鹏为绝对主导，是欧洲车企本土化最激进的尝试
+- **战略意义**：放弃自研智驾，全押中国供应商，标志着欧洲智驾自主路线的失败

@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-05-03
-updated: 2026-07-01
+updated: 2026-07-02
 type: entity
 tags: [leapmotor, china, ev, strategy, stellantis, technology-export]
-sources: [memory/2026-05-03.md, memory/2026-05-06.md, memory/2026-05-14.md, memory/2026-05-31.md, memory/2026-06-01.md, raw/articles/2026-06-05-daily-summary.md]
+sources: [memory/2026-05-03.md, memory/2026-05-06.md, memory/2026-05-14.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-07-02.md, raw/articles/2026-06-05-daily-summary.md, daily-news/2026-07-02-eu-carmakers.md]
 ---
 
 ## 概述
@@ -17,6 +17,7 @@ sources: [memory/2026-05-03.md, memory/2026-05-06.md, memory/2026-05-14.md, memo
 - Stellantis持股零跑约20%,合资公司"零跑国际"Stellantis控股51%
 - **2026年Q1出口超4万台**,全球24国上牌量增656%
 - **B10平台2026年Q4西班牙投产**,用于欧宝品牌电动SUV
+- **2028年马德里工厂第二款合作车型**
 - **正洽谈联合开发全新整车平台**
 - **增程技术(REx)将输出至欧宝、雪铁龙、标致、DS、菲亚特等品牌**
 

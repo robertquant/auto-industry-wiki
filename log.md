@@ -5,6 +5,20 @@
 > 操作类型：ingest, update, query, lint, create, archive, delete
 > 当此文件超过500条记录时，轮转：重命名为 log-YYYY.md，新建空白文件。
 
+## [2026-07-02] ingest | 每日Wiki知识库整理（Cron）
+- 创建 daily-news/2026-07-02-eu-carmakers.md：欧洲五大车企动态
+- 创建 daily-news/2026-07-02-ai-auto.md：汽车AI应用每日动态
+- 更新 [[volkswagen]]：智驾全面切换小鹏XNGP+地平线/Turing芯片，2026推20+款新能源
+- 更新 [[bmw]]：i3/i5/iX1停产为Neue Klasse让路，首次在华采用本土供应商智驾
+- 更新 [[mercedes]]：MB.EA Large平台停止，EQE/EQS后续取消，高端电动化收缩
+- 更新 [[stellantis]]：Q1出货140万辆+12%，2028年马德里第二款零跑合作车型
+- 更新 [[leapmotor]]：添加2028年马德里工厂第二款合作车型
+- 更新 [[in-cabin-ai-agent]]：长城AIUI主动服务准确率90%+，航盛墨鸲Master+Slave架构
+- 更新 [[ai-simulation-market]]：GB/T 47025-2026仿真法定准入，华为云端算力60 EFLOPS
+- 更新 [[driving-tech-fusion-paradigm]]：端到端智驾三路并进（特斯拉One Model/小鹏模块化/理想双系统）
+- 创建 [[eu-ev-market-2026]]：欧洲EV市场Q1数据，BEV渗透率首破20%
+- 更新 index.md：添加1个新页面，总计190页
+
 ## [2026-04-30] create | Wiki initialized
 - Domain: 新能源汽车行业
 - Structure created with SCHEMA.md, index.md, log.md

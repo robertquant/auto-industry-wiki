@@ -1,10 +1,10 @@
 ---
 title: 梅赛德斯-奔驰 (Mercedes-Benz)
 created: 2026-04-30
-updated: 2026-06-30
+updated: 2026-07-02
 type: entity
 tags: [mercedes, europe, ev, strategy, mma, momenta]
-sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
+sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-05-19.md, memory/2026-06-19.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, daily-news/2026-07-02-eu-carmakers.md]
 ---
 
 # 梅赛德斯-奔驰 (Mercedes-Benz)
@@ -107,3 +107,14 @@ sources: [memory/2026-04-30.md, memory/2026-05-14.md, memory/2026-05-18.md, memo
   - 价格下探表明奔驰认识到中国市场竞争激烈程度
   - 续航866km接近燃油车体验，消除里程焦虑
 - **判断**：奔驰在高端电动化转型受挫后，以价格换市场；但25万级与30万+品牌调性存在张力
+
+### 2026年7月：高端电动化保守收缩
+
+- **MB.EA Large平台开发停止**：EQE/EQS后续车型取消
+- **仅保留MB.EA Medium**：用于C-Class/GLC电动版
+- **MMA平台推进**：用于新CLA电动版
+- **战略判断**：
+  - 高端电动化节奏明显放缓
+  - 奔驰在德系三强中电动化态度最保守
+  - 放弃高端纯电平台意味着EQE/EQS时代的终结
+- **对比BBA**：宝马Neue Klasse切换最坚决，大众智驾本土化最深，奔驰收缩最明显

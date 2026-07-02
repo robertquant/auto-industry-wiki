@@ -1,10 +1,10 @@
 ---
 title: AI仿真市场
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-02
 type: concept
 tags: [adas, simulation, ai, data-loop, technology]
-sources: [memory/2026-06-23.md]
+sources: [memory/2026-06-23.md, memory/2026-07-02.md, daily-news/2026-07-02-ai-auto.md]
 ---
 
 # AI仿真市场
@@ -75,3 +75,15 @@ AI赋能的汽车仿真市场，2026-2035年高速增长赛道。
 - [[training-loop]] - 训练闭环
 - [[world-model]] - 世界模型
 - [[ai-r-and-d-toolchain]] - AI研发工具链
+
+## 2026年法规里程碑
+
+### GB/T 47025-2026实施
+- **仿真成为法定准入环节**：从"辅助手段"升级为"法定准入"
+- **意义**：仿真结果作为安全认证依据，不再可选
+- **影响**：推动AI仿真市场从工具级向基础设施级升级
+
+### 华为云端算力突破
+- **60 EFLOPS**：较2023年增长21倍
+- **判断**：仿真能力取决于云端算力储备，华为算力优势明显
+- **行业趋势**：算力成为智驾竞争的核心资源
