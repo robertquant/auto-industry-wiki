@@ -1,10 +1,10 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-06-30
+updated: 2026-07-03
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
-sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md]
+sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md]
 ---
 
 ## 概述
@@ -95,3 +95,13 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
   - Type 01是捷豹路虎电动化转型的关键产品
   - 奇瑞合作神行者验证中国技术输出欧洲豪华品牌模式
   - 2030年全面电动化时间表依然激进
+
+### 2026年7月：Range Rover Electric交付确认
+
+- **Range Rover Electric 2026年底交付**：纯电路虎首款量产车型
+- **定价策略**：高于燃油版，定位超豪华细分市场
+- **市场定位**：面向揽胜高端客户群，延续品牌溢价
+- **判断**：
+  - 定价高于燃油版印证捷豹路虎"电动化=高端化"策略
+  - 2026年底交付时间紧迫，产能爬坡压力大
+  - 与奔驰EQE/EQS后续取消形成对比，捷豹路虎坚持高端电动化路线

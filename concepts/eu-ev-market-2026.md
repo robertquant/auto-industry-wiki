@@ -1,10 +1,10 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-03
 type: concept
 tags: [europe, ev, market, penetration-rate, data]
-sources: [daily-news/2026-07-02-eu-carmakers.md]
+sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md]
 ---
 
 # 欧洲EV市场2026
@@ -15,14 +15,14 @@ sources: [daily-news/2026-07-02-eu-carmakers.md]
 
 | 指标 | 数据 | 趋势 |
 |------|------|------|
-| Q1注册量 | ~72.4万辆 | +26.2% YoY |
-| BEV渗透率 | ~20% | vs 2025年17% |
+| Q1注册量 | 72.37万辆 | +26% YoY |
+| BEV渗透率 | 20.6% | vs 2025年17% |
 | PHEV增长 | +33% YoY | 持续上升 |
 
 ## 关键判断
 
 ### BEV渗透率首破20%
-- **里程碑意义**：从2025年的17%提升至20%
+- **里程碑意义**：从2025年的17%提升至20.6%
 - **增长动力**：
   - 政策推动：欧盟2035禁燃令
   - 车企电动化转型
@@ -33,6 +33,12 @@ sources: [daily-news/2026-07-02-eu-carmakers.md]
 - **+33% YoY**增长显示PHEV仍有市场
 - **原因**：欧洲消费者对纯电续航焦虑仍存
 - **车企策略**：奔驰、宝马、Stellantis均加码PHEV
+
+### BBA电动化排序更新
+**宝马 > 奔驰 > 大众**
+- 宝马：本土化智驾落地，Neue Klasse切换坚决
+- 奔驰：高端收缩，节奏放缓
+- 大众：在华激进但在欧洲面临巨大成本压力
 
 ## 欧洲车企电动化策略分化
 
