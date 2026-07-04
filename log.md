@@ -5,6 +5,16 @@
 > 操作类型：ingest, update, query, lint, create, archive, delete
 > 当此文件超过500条记录时，轮转：重命名为 log-YYYY.md，新建空白文件。
 
+## [2026-07-04] ingest | 每日Wiki知识库整理（Cron）
+- 创建 [[vector-database]]：向量数据库概念页面，AI基础设施核心组件，车企RAG应用场景
+- 创建 [[graph-database]]：图数据库概念页面，关系推理引擎，知识图谱构建
+- 创建 [[saic]]：上汽集团实体页面，2026H1销量204.5万辆，合资崩塌但自主+海外成功补位
+- 更新 [[xiaopeng]]：添加灵犀技术架构，云端托管AWS Bedrock+Kiro，代码覆盖率70%+
+- 更新 [[nissan]]：添加本田-日产合并进展（2026年7月），ECU联盟+三菱拟加入
+- 更新 [[honda-china]]：添加与日产合并进展，失败原因分析，终将合并的判断
+- 更新 index.md：添加3个新页面，总计194页
+- 核心洞察：向量数据库+图数据库混合架构成AI基础设施趋势，本田日产从合并谈判转向ECU联盟
+
 ## [2026-07-03] ingest | 每日Wiki知识库整理（Cron）
 - 创建 daily-news/2026-07-03-eu-carmakers-weekly.md：欧洲车企动态周报
 - 更新 [[volvo]]：EX90升级800V架构、极星被美国禁售、地缘政治风险分析
