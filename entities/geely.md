@@ -1,10 +1,10 @@
 ---
 title: 吉利 (Geely)
 created: 2026-04-30
-updated: 2026-06-19
+updated: 2026-07-05
 type: entity
 tags: [geely, china, strategy, partnership, ev, export]
-sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, memory/2026-05-06.md, memory/2026-05-14.md, memory/2026-05-25.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-08.md, memory/2026-06-19.md]
+sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, memory/2026-05-06.md, memory/2026-05-14.md, memory/2026-05-25.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-08.md, memory/2026-06-19.md, memory/2026-07-05.md]
 ---
 
 # 吉利 (Geely)
@@ -178,3 +178,27 @@ sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-rena
 
 ### 战略判断
 《台州宣言》是吉利从"多品牌扩张"转向"集约化运营"的标志。智驾团队整合是关键一步——此前各品牌各自为战，技术路线分散、资源浪费严重。统一团队后，预计智驾研发效率提升30%+。
+
+## 千里浩瀚G-ASD智驾平台（2026年7月）
+
+### 核心架构
+- **G-ASD（Geely Autonomous Smart Driving）**：Smart AI Agent架构
+- **推送时间**：2026年推向L3/L4车型
+- **技术路线**：舱驾融合+端到端世界模型
+
+### 战略意义
+- 吉利自研智驾从"千里智驾"品牌升级为"千里浩瀚"技术平台
+- 与华为ADS、小鹏XNGP、比亚迪天神之眼形成智驾第一梯队竞争
+- 3000人统一团队技术路线整合成果首次亮相
+
+## 2026年上半年成绩单
+
+| 指标 | 数据 | 同比 |
+|------|------|------|
+| 销量 | **142万辆** | - |
+| 海外出口 | - | **+158%** |
+
+### 海外进展
+- 出口目标从75万辆**上调至100万辆**
+- 极氪9X三季度登陆中东
+- 星愿印尼国产化率46.5%

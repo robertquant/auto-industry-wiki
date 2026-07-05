@@ -1,10 +1,10 @@
 ---
 title: 璇玑A3芯片
 created: 2026-06-04
-updated: 2026-06-16
+updated: 2026-07-05
 type: entity
 tags: [byd, chip, adas, self-develop]
-sources: [raw/articles/2026-06-04-daily-summary.md, memory/2026-06-16.md]
+sources: [raw/articles/2026-06-04-daily-summary.md, memory/2026-06-16.md, memory/2026-07-05.md]
 ---
 
 # 璇玑A3芯片
@@ -63,9 +63,17 @@ sources: [raw/articles/2026-06-04-daily-summary.md, memory/2026-06-16.md]
 - [[li-auto-m100]] - 理想马赫M100芯片对比
 - [[starry-sky-chip]] - 地平线星空芯片
 
+## 城市领安安全兜底
+
+2026年7月比亚迪智驾发布会宣布：
+- **城市领安1年承诺**：辅助驾驶功能提供1年安全兜底保障
+- **保有量规模**：辅助驾驶车型保有量已达315万+
+- **用户信心**：首家提供智驾安全承诺的主流车企
+
 ## 待观察
 
 - 璇玑A3量产上车时间表
 - 实际性能表现与竞品对比
 - 是否对外销售还是仅供自用
 - 对地平线征程6订单的实际影响
+- 安全兜底承诺的执行细节和赔付标准

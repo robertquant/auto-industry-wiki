@@ -5,6 +5,18 @@
 > 操作类型：ingest, update, query, lint, create, archive, delete
 > 当此文件超过500条记录时，轮转：重命名为 log-YYYY.md，新建空白文件。
 
+## [2026-07-05] ingest | 每日Wiki知识库整理（Cron）
+- 更新 [[byd-xuanji-a3]]：添加城市领安1年安全兜底承诺、辅助驾驶保有量315万+
+- 更新 [[byd]]：6月实际销量39.73万辆、闪充站7000+座、海豹08上市19.69万起
+- 更新 [[geely]]：千里浩瀚G-ASD智驾平台、Smart AI Agent架构、2026年L3/L4推送、上半年142万辆+海外增158%、出口目标上调至100万辆
+- 更新 [[cockpit-llm]]：斑马智行端侧多模态大模型基于高通8397、90%决策闭环无需云端
+- 更新 [[nev-penetration-may-2026]]：6月渗透率61%+、价格战收敛转向利润导向、闪充网络成基础设施焦点
+- 创建 [[ai-cicd-auto]]：AI-CI/CD在汽车行业落地痛点，61%项目未达ROI、人机协同边界是核心
+- 创建 [[mathworks-agentic-ai]]：MathWorks R2026a Agentic AI，MATLAB/Simulink工作流AI化
+- 创建 [[ces-2026-sdv]]：CES 2026 SDV产业化，软件定义汽车从概念进入量产
+- 更新 index.md：添加3个新页面，总计197页
+- 核心洞察：AI工具链从单点提效→链路级优化、端侧大模型成座舱差异化关键、SDV从概念进入量产
+
 ## [2026-07-04] ingest | 每日Wiki知识库整理（Cron）
 - 创建 [[vector-database]]：向量数据库概念页面，AI基础设施核心组件，车企RAG应用场景
 - 创建 [[graph-database]]：图数据库概念页面，关系推理引擎，知识图谱构建

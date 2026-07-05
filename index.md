@@ -2,7 +2,7 @@
 
 > 内容目录。每个Wiki页面按类型分类，附带一行摘要。
 > 查询时先读此文件定位相关页面。
-> Last updated: 2026-07-04 | Total pages: 194
+> Last updated: 2026-07-05 | Total pages: 197
 
 ## Entities
 <!-- 按字母排序 -->
@@ -194,6 +194,9 @@
 - [[eu-ev-market-2026]] - 欧洲EV市场2026，Q1 BEV渗透率首破20%，车企电动化策略分化明显
 - [[central-soe-restructuring-2026]] - 三大汽车央企重组整合，一汽/东风/长安竞速赛模式，销量+市值对比分析
 - [[brand-sales-may-june-2026]] - 自主品牌销酺动态2026年5-6月，零跑新势力第一、极氪破80万、奇瑞出海依赖症
+- [[ai-cicd-auto]] - AI-CI/CD在汽车行业落地痛点，61%项目未达ROI，人机协同边界是核心问题
+- [[mathworks-agentic-ai]] - MathWorks R2026a Agentic AI，MATLAB/Simulink工作流AI化，博格华纳电机温度估算案例
+- [[ces-2026-sdv]] - CES 2026 SDV产业化，软件定义汽车从概念进入量产阶段
 - [[vectorcast-2026]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests、AI Agent与功能安全边界
 - [[china-brand-market-share-2026]] - 中国品牌乘用车市占率75%（2026年5月），同比+6pp，新中国汽车工业史上最高
 - [[un-autonomous-driving-regulation-2026]] - 联合国自动驾驶法规获批（2026年6月），全球首个统一L3+法规框架

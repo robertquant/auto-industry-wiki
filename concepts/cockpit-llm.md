@@ -1,10 +1,10 @@
 ---
 title: 智能座舱大模型
 created: 2026-05-04
-updated: 2026-06-06
+updated: 2026-07-05
 type: concept
 tags: [cockpit, voice-ai, infotainment, alibaba, bytedance, iflytek, deepseek]
-sources: [memory/2026-05-04.md, memory/2026-05-05.md, memory/2026-05-07.md, memory/2026-05-09.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-06-02.md, memory/2026-06-06.md]
+sources: [memory/2026-05-04.md, memory/2026-05-05.md, memory/2026-05-07.md, memory/2026-05-09.md, raw/articles/2026-beijing-autoshow-software-tech-report.md, memory/2026-06-02.md, memory/2026-06-06.md, memory/2026-07-05.md]
 ---
 
 # 智能座舱大模型
@@ -42,7 +42,9 @@ sources: [memory/2026-05-04.md, memory/2026-05-05.md, memory/2026-05-07.md, memo
 
 ### 斑马智行Auto Omni
 - 全模态端侧大模型
+- **基于高通8397芯片**，端侧算力突破
 - 90%场景断网可用，隐私+低延迟双保障
+- **90%决策闭环无需云端**，端侧智能成为差异化关键
 - 上汽系车型（智己、飞凡等）标配
 
 ## 火山引擎豆包深度分析（2026年6月）
