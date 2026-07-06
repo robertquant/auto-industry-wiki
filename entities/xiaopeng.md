@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-07-04
+updated: 2026-07-06
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
 sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
@@ -44,6 +44,8 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 | G9 | 中大型SUV | 旗舰车型 |
 | X9 | MPV | 新增品类 |
 | GX | 纯电SUV | 2026年5月上市,26.98万起售,12小时大定24,863台 |
+| MONA M03 | A+级纯电轿车 | 主力走量车型 |
+| **MONA L03** | A级纯电轿车 | 2026年7月首发,14.38万起 |
 
 ## 技术路线
 
@@ -78,6 +80,7 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 - [[huawei-ads]] - 技术路线竞争对手
 - [[world-model]] - 智驾技术演进方向
 - [[l3-autonomous-driving]] - L3落地竞争
+- [[mona-l03]] - MONA L03车型
 
 ## 判断
 
