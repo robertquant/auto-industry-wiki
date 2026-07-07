@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-04-30
-updated: 2026-06-25
+updated: 2026-07-07
 type: entity
 tags: [renault, europe, strategy, ev]
-sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, raw/articles/2026-05-12-renault-r5-uk-leader.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-22.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-07.md, memory/2026-06-08.md, memory/2026-06-09.md, memory/2026-06-10.md, memory/2026-06-14.md, memory/2026-06-15.md, memory/2026-06-25.md]
+sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-renault-deep-search.md, raw/articles/2026-05-12-renault-r5-uk-leader.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-22.md, raw/articles/2026-06-05-daily-summary.md, memory/2026-06-07.md, memory/2026-06-08.md, memory/2026-06-09.md, memory/2026-06-10.md, memory/2026-06-14.md, memory/2026-06-15.md, memory/2026-06-25.md, raw/articles/2026-07-07-daily-topics.md]
 ---
 
 # 雷诺 (Renault)
@@ -327,6 +327,31 @@ sources: [raw/articles/2026-04-30-renault-daily.md, raw/articles/2026-05-02-rena
 - **CEO变动传闻**：Autocar报道François Provost将接替Luca de Meo任CEO
 - **状态**：需进一步核实
 - **背景**：雷诺战略转向务实，Provost主导Ampere撤销、futuREady发布
+
+## 2026年7月动态
+
+### 丹吉尔工厂系统化布局
+- **定位**：雷诺全球最大海外生产基地之一
+- **核心优势**：嵌入Tanger Med综合体系（港口—物流—工业—出口）
+- **效率特征**：制造到出口距离被压缩到极致
+- **系统化思维**：不是单一工厂，而是嵌入港口-物流-出口体系的制造节点
+- **启示**：为中国车企提供系统化布局借鉴
+- **详见**：[[renault-tanger-factory]]
+
+### Alpine全电动转型里程碑
+- **最后一款燃油车下线**：A110 R70，2026年7月
+- **正式迈入全电动产品周期**
+- **产品线更新**：A390 GTS三电机版推出
+- **转型判断**：跑车品牌全电动化技术门槛相对较低
+  - 电机瞬间扭矩天然适合跑车
+  - 电池重量对跑车可接受
+  - 跑车用户对续航要求较低
+- **详见**：[[alpine-ev-transition]]
+
+### 日产联盟动态
+- **日产CEO表态**：淡化雷诺撤回董事支持事件，称“合作比以往任何时候都更加紧密”
+- **联盟关系**：维持体面，各持15%股权下的合作
+- **相关实体**：[[nissan]]
 
 ## 2026年6月动态
 

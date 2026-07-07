@@ -1,10 +1,10 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-06-18
+updated: 2026-07-07
 type: concept
 tags: [adas, l4, world-model]
-sources: [memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md]
+sources: [memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md]
 ---
 
 # 世界模型
@@ -111,6 +111,16 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 - **90%以上训练场景将由AI自动生成**：从数据采集转向AI生成
 - **全球汽车AI仿真市场**：2025年10.3亿→2035年291.5亿美元（CAGR 39%）
 - **仿真替代实车测试**：奔驰虚拟测试覆盖率97%，中国AI数据飞轮优势扩大
+
+### 2026年7月进展：世界模型量产首发
+- **Momenta R7世界模型量产首发**：首个量产世界模型的智驾方案商
+- **VLA+世界模型双引擎确立**：小鹏VLA 2.0、理想MindVLA-o1、Momenta R7成为技术标杆
+- **技术路线分化明确**：
+  | 阵营 | 企业 | 路线 |
+  |------|------|------|
+  | VLA派 | 小鹏 | VLA 2.0视觉→动作端到端 |
+  | 世界模型派 | 华为、小米 | 反VLA，世界模型优先 |
+  | 双引擎派 | 理想、Momenta | VLA+世界模型融合 |
 
 - 华为、小鹏、理想等主流玩家均采用此路线
 - 小米、蔚来相继发布端到端世界模型，**0.24秒感知决策闭环是质变点**——从逐帧推理升级为场景预测

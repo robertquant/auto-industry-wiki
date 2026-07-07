@@ -1,10 +1,10 @@
 ---
 title: 2026年L3量产元年
 created: 2026-06-01
-updated: 2026-06-18
+updated: 2026-07-07
 type: concept
 tags: [l3, policy, adas, changan]
-sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md]
+sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md]
 ---
 
 # 2026年L3量产元年
@@ -55,6 +55,28 @@ sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2
 3. **世界模型**：物理世界预判能力
 
 从"感知"向"认知"演进
+
+## 2026年7月进展
+
+### L3规模化元年正式开启
+- **工信部首批L3准入许可确认**：长安深蓝、北汽极狐
+- **新国标明确责任划分**：L3量产从"准许试点"升级为"规模量产"
+- **智驾从"感知"向"认知"演进**：端到端+世界模型支撑
+
+### VLA+世界模型双引擎
+2026年7月确立了智驾技术双引擎路线：
+| 企业 | 技术方案 | 特点 |
+|------|---------|------|
+| 小鹏 | VLA 2.0 | 视觉→动作端到端 |
+| 理想 | MindVLA-o1 | 世界模型融合 |
+| Momenta | R7 | 世界模型量产首发 |
+| 华为 | ADS 5.0 | 反VLA路线，坚持感知+规划分离 |
+| 小米 | WorldRec+WorldGen | 世界模型深度耦合 |
+
+### 无图化城市NOA爆发
+- **成本降60%+**：无高精地图依赖显著降低成本
+- **15-20万级车型成主战场**：智驾下沉主流市场
+- **渗透率15.1%**：城市NOA从尝鲜走向普及
 
 ## 与L3的关系
 - [[l3-autonomous-driving]]的技术支撑

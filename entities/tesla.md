@@ -1,10 +1,10 @@
 ---
 title: 特斯拉
 created: 2026-05-04
-updated: 2026-06-05
+updated: 2026-07-07
 type: entity
 tags: [tesla, us, battery, adas, humanoid-robot]
-sources: [memory/2026-05-04.md, raw/articles/2026-06-05-daily-summary.md]
+sources: [memory/2026-05-04.md, raw/articles/2026-06-05-daily-summary.md, raw/articles/2026-07-07-daily-topics.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -58,7 +58,36 @@ sources: [memory/2026-05-04.md, raw/articles/2026-06-05-daily-summary.md]
 - **商业模式验证**：无安全员运营意味着软件成本边际趋近于零，Robotaxi经济性关键在于车辆成本和运营效率
 - **相关概念**：[[l3-autonomous-driving]]、[[l3-mass-production-2026]]
 
+## 2026年Q2销量数据
+
+| 指标 | 数据 | 对比 |
+|------|------|------|
+| Q2交付量 | 48万辆 | 超预期 |
+| 股价反应 | -7.49%（单日） | 市场担忧竞争 |
+| 比亚迪纯电 | 55.7万辆 | 反超特斯拉7.7万辆 |
+
+### 竞争格局变化
+- 比亚迪纯电销量首次在单季度超越特斯拉
+- 特斯拉仍保持全球第二，但份额下降
+- 中国市场竞争加剧，价格战持续
+
+### 市场反应解读
+股价下跌7.49%的原因：
+1. 比亚迪纯电反超成为关注焦点
+2. 中国市场份额持续被侵蚀
+3. Model 3/Y产品力老化，缺乏新车
+4. FSD中国落地进展缓慢
+
+### 判断
+- 特斯拉在销量上的领先地位已被终结
+- 品牌溢价仍在，但技术差距在缩小
+- 中国市场是特斯拉最大的挑战
+- FSD中国落地是关键变量
+
+**详见**：[[tesla-q2-2026]]
+
 ## 相关页面
 - [[humanoid-robot]] - 人形机器人赛道
 - [[catl]] - 宁德时代，电池与智能制造对标
 - [[byd]] - 比亚迪，中国最大电动车企
+- [[tesla-q2-2026]] - Q2 2026销量详细分析

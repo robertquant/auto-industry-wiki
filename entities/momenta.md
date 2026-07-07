@@ -1,10 +1,10 @@
 ---
 title: Momenta
 created: 2026-05-01
-updated: 2026-06-09
+updated: 2026-07-07
 type: entity
-tags: [momenta, adas, l3, strategy, audi]
-sources: [memory/2026-05-01.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-09.md]
+tags: [momenta, adas, l3, strategy, audi, ipo]
+sources: [memory/2026-05-01.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-09.md, raw/articles/2026-07-07-daily-topics.md]
 ---
 
 # Momenta
@@ -97,3 +97,20 @@ Momenta 的核心竞争力：
 - **背景**：AI人才争夺白热化，车企AI部门成为核心资产
 - **行业对比**：通用汽车裁撤IT部门600人，转向招募AI人才
 - **判断**：智驾方案商的技术竞争本质是人才竞争，Momenta全球化人才布局对标华为/特斯拉
+
+### 2026年7月：冲刺港股IPO + R7世界模型量产首发
+- **港股冲刺**：Momenta启动港股IPO流程，智驾方案商上市潮开启
+- **第三方城市NOA市占率**：65%（保持领先）
+- **R7世界模型量产首发**：成为首个量产世界模型的智驾方案商
+- **人才流失**：Momenta系人才密集创业，流向具身智能领域
+
+## R7世界模型
+Momenta R7是世界模型量产首发的代表：
+- **技术特征**：物理世界模拟+预判能力
+- **量产意义**：验证世界模型在量产智驾中的可行性
+- **竞争定位**：与[[xiaopeng|小鹏VLA 2.0]]、[[li-auto|理想MindVLA-o1]]并列为技术标杆
+
+## 关系网络更新
+- [[world-model]] - R7世界模型技术背景
+- [[humanoid-talent-flow]] - 人才流向具身智能
+- [[vla-model]] - VLA技术路线对比
