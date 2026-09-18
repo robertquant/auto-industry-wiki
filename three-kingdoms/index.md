@@ -11,7 +11,6 @@
 ```
 three-kingdoms/
 ├── overview.md          # 历史脉络总览
-├── index.md            # 索引文件（本文件）
 ├── characters/          # 人物档案
 │   ├── shu.md          # 蜀汉人物
 │   ├── wei.md          # 曹魏人物

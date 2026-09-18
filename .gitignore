@@ -1,0 +1,11 @@
+*.py
+*.sh
+*.png
+*.jpg
+*.json
+*.html
+fonts/
+generated_images/
+generated-images/
+frontend-demos/
+.git-credentials

@@ -1,224 +1,97 @@
 # Wiki Index
 
-> 内容目录。每个Wiki页面按类型分类，附带一行摘要。
-> 查询时先读此文件定位相关页面。
-> Last updated: 2026-07-07 | Total pages: 208
+> 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
+> 先读此文件定位相关页面。
+> Last updated: 2026-09-16 | Total pages: 50
 
 ## Entities
-<!-- 按字母排序 -->
 
-- [[aistaland]] - 启境汽车，新能源新玩家，宁德时代+博世超10亿增资，2026年入场门槛已极高
-- [[alpine-ev-transition]] - Alpine全电动转型，2026年7月停产燃油车，A390 GTS三电机版推出
-- [[ampere]] - 雷诺原独立电动车部门，2026年7月撤销，转型为软件+EV工程技术中心，11000员工暂无裁员
-- [[andritz-layoff]] - 安德里茨裁员分析，舒勒裁500人，欧洲车企投资意愿先行指标
-- [[auto-electronics-rnd]] - 汽车电子研发投入，6.8%研发强度全细分领域最高，中国供应商20家上榜
-- [[avatr]] - 阿维塔，长安×华为×宁德时代三方合作，07L搭载华为乾崑智驾+896线激光雷达
-- [[easytt]] - 易捷特，东风×雷诺×日产合资，Dacia Spring生产商，中国技术输出欧洲模板
-- [[byd]] - 比亚迪，中国最大新能源车企，AI研发投入634亿元，布局人形机器人，智驾发布会5月28日，海鸥首款A00级激光雷达车
-- [[byd-dolphin-g-dmi]] - 比亚迪海豚G DM-i，首款专为欧洲开发的PHEV，B级紧凑型避开关税壁垒
-- [[byd-hungary-factory]] - 比亚迪匈牙利工厂，欧洲本土化生产基地，2026年投产
-- [[byd-xuanji-a3]] - 璇玑A3，比亚迪自研4nm智驾芯片，700 TOPS，客户变对手的地平线危机
-- [[catl]] - 全球最大动力电池企业，半固态电池2026量产，6分27秒快充，Q1净利润207亿
-- [[geely]] - 中国汽车制造商，与雷诺建立多领域战略合作
-- [[gaintnt]] - 光庭信息，SDW3.0平台AI Agent驱动汽车软件开发
-- [[hesai]] - 禾赛科技，中国激光雷达领军企业，首家进入奔驰L3供应链
-- [[hyundai]] - 现代起亚，全球第三大汽车集团，Q1净利润119.7亿元，危机程度轻于日系德系
-- [[horse-powertrain]] - 雷诺×吉利动力合资公司，DHTS超混平台，热效率44.2%
-- [[huawei-ads]] - 华为智驾方案，ADS 5.0在23城开放L3高速脱手，累计智驾里程破100亿公里，反VLA路线
-- [[jaguar-land-rover]] - 英国豪华车企，在华销量崩塌，与奇瑞合作神行者品牌
-- [[leapmotor]] - 零跑汽车，技术输出模式代表，B10平台2026Q4西班牙投产，意大利纯电市占率33.5%
-- [[li-auto]] - 理想汽车，增程路线代表，L9 Livis首发全球完全体线控底盘+禾赛FTX纯固态雷达
-- [[li-auto-m100]] - 理想马赫M100芯片，单芯1280 TOPS，5nm工艺，利用率82%
-- [[lushi-ushu]] - 驭势科技，L4自动驾驶公司，专注无人物流/园区场景，2026年5月港股上市
-- [[mona-l03]] - 小鹏MONA L03，A级纯电轿车，2026年7月首发14.38万起，与M03高低搭配下探A级市场
-- [[mercedes]] - 德国豪华车企，MMA/MB.EA双平台推进，MB.EA Large架构暂停
-- [[mg]] - 上汽旗下品牌，MG4 2026款6.58万起配半固态电池，欧洲市场主打
-- [[momenta]] - 中国智驾方案商，2026年市占率60.2%，宝马/奔驰合作方
-- [[renault]] - 法国汽车制造商，Renault 5英国4月纯电销冠，联盟各持15%体面分手，美银评级下调，中国战略转向AI创投
-- [[renault-tanger-factory]] - 雷诺丹吉尔工厂，嵌入Tanger Med港口-物流-工业-出口体系，系统化制造节点
-- [[shangjie]] - 上汽×华为合作品牌，鸿蒙智行第五界，Z7对标小米SU7
-- [[chery]] - 奇瑞，中国出口销冠，墨茵M1人形机器人28.58万元量产
-- [[stellantis]] - 全球第四大车企，零跑B10西班牙投产，计提250亿电动车减值
-- [[特朗普欧盟汽车关税升级_202605]] - 2026年5月特朗普撕毁美欧协议，欧盟汽车关税从15%升至25%，直接针对德国车企
-- [[volkswagen]] - 欧洲最大车企，考虑将中国车型投放欧洲，承认现有商业模式无法创造足够收益
-- [[volvo]] - 瑞典豪华车企（吉利控股），2025年销量71万，极星中国仅163辆
-- [[wenjie]] - 问界，华为×赛力斯智选车，M9新款华为6激光雷达+896线+ADS 5，累计交付28.5万台
-- [[xiaomi]] - 小米汽车，SU7为纯电轿车销冠，世界模型WorldRec+WorldGen深度耦合，10秒视频重建仅需10秒，反对VLA路线
-- [[xiaopeng]] - 小鹏汽车，VLA 2.0视觉→动作端到端，图灵芯片，抛弃激光雷达，复杂小路接管里程提升13倍
-- [[xiangjie]] - 享界，鸿蒙智行第五界，北汽×华为合作，G9定位科技豪华硬派SUV，Q3亮相
-- [[zeekr]] - 极氪，吉利高端新能源品牌，30万+豪华市场，中国品牌高端化最成功案例，累计交付破80万
-- [[saidou]] - 赛豆科技，字节跳动系新车企，AIVA品牌首位，"先有AI，再有车"
-- [[saic]] - 上汽集团，中国最大车企，2026H1销量204.5万辆，合资崩塌但自主+海外成功补位
-- [[toyota]] - 丰田，全球销量第一，Q1营业利润大跌49%创三年新低，电动化转型滞后
-- [[zhijie]] - 智界，华为×奇瑞智选车，V9预售72小时22,500台
-- [[im-ad]] - 智己汽车，上汽高端品牌，端到端智驾路线代表
-- [[honda-china]] - 本田中国，2026年4月销量同比腰斩，电动化转型失败，退出中国风险评估
-- [[horizon]] - 地平线，中国智驾芯片领军企业，征程6系列量产破1000万套，征程6P 560TOPS国产最大算力
-- [[humanoid-talent-flow]] - 自动驾驶人才向具身智能流动，华为/大疆/地平线/Momenta系人才密集创业
-- [[italy-market-2026]] - 意大利汽车市场2026，中国品牌爆发式增长，新能源渗透率19%
-- [[ice-supplier-divergence]] - 燃油车供应商命运分化，彻底淘汰型vs可转型型，2028-2030基本出清
-- [[japanese-sales-china-2026]] - 日系在华销量暴跌2026，丰田-31.7%/本田-48.7%/日产-34.9%，份额降至10.5%
-- [[polestar-us-ban-2026]] - 极星美国禁售事件，2026款后车型被禁，中美科技博弈在汽车行业的首个重大牺牲品
-- [[tesla]] - 特斯拉，美国电动先驱，FSD全自动驾驶/OTA升级/直营销售模式颠覆者，Q2被比亚迪纯电反超
-- [[tesla-q2-2026]] - 特斯拉Q2 2026销量，交付48万辆超预期，但比亚迪纯电55.7万辆反超7.7万辆
-- [[weRide]] - 文远知行，中国L4自动驾驶公司，WRD 3.0平台
-- [[blacksesame]] - 黑芝麻智能，国产智驾芯片企业，山海AI工具链
-- [[bmw]] - 宝马，德国豪华车企，Neue Klasse新世代2026落地，双平台并行策略，中国本土化合作最广泛
-- [[bosch]] - 博世，全球最大汽车供应商，智驾转型中
-- [[nissan]] - 日产汽车，雷诺联盟成员，两年亏损1.2万亿日元陷入生存危机，产品线精简至45款，中国Q1同比+7.2%唯一增长
-- [[pony-ai]] - 小马智行，Robotaxi，2027版成本下探至23万元内，PonyWorld 2.0研发效率+40%
-- [[byd-xuanji-a3]] - 璇玑A3，比亚迪自研4nm智驾芯片，700 TOPS，客户变对手的地平线危机
-- [[changan]] - 长安汽车，获首批准入L3级智驾许可，天枢领航VLM大模型量产上车，深蓝S07搭载华为ADS Pro
-- [[deepal]] - 深蓝汽车，长安旗下新能源品牌，S07增程版15.99万起搭载华为ADS Pro，华为智驾首下15万级市场
-- [[megatronix]] - 镁佳科技，座舱域控方案商中国第二，从Tier 2转Tier 1，99%收入来自硬件
-- [[nio]] - 蔚来汽车，新势力三强之一，换电模式代表，4月销量2.94万辆稳守3万俱乐部
-- [[nio-shenji]] - 蔚来神玑NX9031芯片，5nm车规级1000+TOPS，世界模型NWM+椰子智能体架构，搭载乐道L60
-- [[saab]] - 萨博，瑞典汽车品牌，航空基因与安全技术传奇，2011年破产，通用的边缘化牺牲品
-- [[delorean]] - 德罗宁，美国汽车品牌，不锈钢车身鸥翼门，《回到未来》符号，创始人执念的悲剧
-- [[dual-credit-2025]] - 双积分2025，比亚迪断崖领先，一汽-大众负积分缺口最大(-277万分)
-- [[yamaha-ox99-11]] - 雅马哈OX99-11超跑，零部件巨头跨界造车失败案例，1992年仅产3辆
-- [[caihong-wuxian]] - 彩虹无线，发布一修大模型AI赋能维修诊断，新能源后市场AI诊断服务商
-- [[dongfeng-openvan]] - 东风OpenVAN，L4无人物流车，发布四款车型订单超4000台
-- [[jiushi-intelligence]] - 九识智能，L4无人配送Inside模式供应商，无人物流车赛道头部玩家
-- [[snapdragon-8775]] - 高通骁龙8775P，首款量产舱驾融合芯片，9款车型定点
-- [[starry-sky-chip]] - 地平线星空芯片，中国首款舱驾融合智能体芯片，面向10-20万元车型
-- [[volcengine]] - 火山引擎，字节旗下云服务，豆包大模型搭载700万+辆车
-- [[zhuoyu]] - 卓驭科技（原大疆车载），极致性价比智驾方案，欧洲总部2026年布伦瑞克开业
-- [[deepseek]] - DeepSeek，中国AI大模型公司，开源低成本路线，2026年登美国趋势榜第一
-- [[qingzhou]] - 轻舟智航，NOA市场份额30.1%，累计搭载破100万台，智驾方案商第二梯队
-- [[stepfun]] - 阶跃星辰，Step-Audio2首个端到端语音大模型量产上车，搭载吉利银河M9
-- [[twingo-e-tech]] - Twingo E-Tech，雷诺入门纯电小车，中国研发+欧洲制造模式代表，斯洛文尼亚生产
+### 车企（中国）
+<!-- Alphabetical -->
+- [[byd]] - 比亚迪：新能源龙头，8月销44.03万连续63个月销冠，海外1-8月115.8万超2025全年，1600万辆新能源下线
+- [[catl]] - 宁德时代：全球动力电池龙头，市占率39.9%，61.8亿中期分红
+- [[changan]] - 长安汽车：启源Q05 10万台，多品牌矩阵，阿维塔T09定名（乾崑ADS 5四激光）
+- [[chery]] - 奇瑞汽车：出口王，8月28万辆/出口19.7万辆（+52.1%），占比超70%
+- [[geely]] - 吉利汽车：安聪慧接任，8月27.02万，Q2毛利率18.4%，出口11万（+205%），GTC超级Eva
+- [[leapmotor]] - 零跑：8月全球103,129辆连续两月破10万，新势力唯一盈利，9/16世界模型发布会
+- [[li-auto]] - 理想汽车：增程+AI双线，马赫芯片+VLA，自研电池（PACK自制+电芯代工），累计180万辆
+- [[nio]] - 蔚来：换电体系标杆，9,328座充换电站，乐道8,810辆偏弱，国资接手换电资产
+- [[nissan]] - 日产：研发周期改革，50→37个月缩短40%，追赶中国速度
+- [[seres]] - 赛力斯：AI升级为业务重构引擎，97万问界智驾用户，赛豆科技/AIVA品牌
+- [[xiaomi-auto]] - 小米汽车：SU7累计交付破80万辆（约29个月），龙甲电池+中创新航合作
+- [[xiaomi-pengcheng]] - 小米澎程：N70/N90上市20.99-29.99万，N90 Max对标45万级，逆势重定价增程
+- [[xpeng]] - 小鹏：8月3.91万，G9L首发第二代VLA 9月上市，AI原生定位
+- [[zunjie]] - 尊界：华为+江淮百万级品牌，V680/V800上市，1小时大定2115台
+
+### 车企（欧洲）
+<!-- Alphabetical -->
+- [[bmw]] - 宝马
+- [[volvo]] - 沃尔沃：Q2在华暴跌35%换帅保价，2027年起独家经销领克欧洲：聂科维接任董事长，iX3订单近10万，与Momenta深度共研（R7世界模型）
+- [[mercedes-benz]] - 奔驰：MB.EA首款量产车纯电GLC（800V/703km），「由中国定义、为全球输出」
+- [[renault]] - 雷诺：H1扭亏（净利7.05亿€），欧洲电气化52%，Dacia Spring二代，混动长期生态
+- [[stellantis]] - Stellantis：零跑出海合作伙伴，B10西班牙本土生产，技术输出+本地化模式
+- [[volkswagen]] - 大众：史上最大重组（裁5万/产能降至900万），SSP转多能源路线，奥斯纳布吕克转产国防
+
+### 车企（美国）
+<!-- Alphabetical -->
+- [[tesla]] - 特斯拉：Cybercab发布（20万元/无方向盘），次日遭NHTSA调查，Robotaxi落地
+
+### 人物
+<!-- Alphabetical -->
+
+### 科技公司
+<!-- Alphabetical -->
+- [[horizon-robotics]] - 地平线：征程累计1500万片量产，星空6（首颗5nm舱驾融合），大众酷睿程白盒合作
+- [[huawei-auto]] - 华为汽车生态：乾崑ADS 5（四激光）+XMC数字底盘，H1城市NOA装机32.3万居首，小艺MoLA 2.0
+- [[momenta]] - Momenta：城市NOA装机21.4万辆第二，宝马R7世界模型+奔驰纯电GLC纯视觉方案
+- [[qualcomm-auto]] - 高通汽车：8295座舱霸主，SA8797（640TOPS）舱驾融合「必选项」，零跑D19等客户
+- [[yuanrong-qixing]] - 元戎启行：VLA量产突破，高通双平台，零跑A10合作
+
+### 产品
+<!-- Alphabetical -->
+- [[aistaland]] - 启境汽车：广汽+华为深度合作，GT7猎装首发，GX7鸿蒙座舱6
+
+### 合资企业
+<!-- Alphabetical -->
+- [[saic-gm]] - 上汽通用：合资续约20年至2047年，新能源渗透率20%
 
 ## Concepts
-<!-- 按字母排序 -->
 
-- [[vector-database]] - 向量数据库，AI基础设施核心组件，高维向量语义检索，Vector RAG+Graph RAG混合架构
-- [[graph-database]] - 图数据库，AI基础设施关系推理引擎，知识图谱构建、零部件BOM、故障传播分析
-- [[korea-japan-automaker-divergence]] - 韩日车企分化分析，历史创伤、治理结构、社会危机感差异
-- [[eu-70x70-rule]] - 欧盟70×70规则，大众Stellantis雷诺联合提议，从关税壁垒升级为全价值链本地化认证
-- [[eu-phev-strategy]] - 欧盟PHEV关税规避策略，中国车企利用政策空档突破欧洲市场
-- [[gen-2-blade-battery]] - 第二代刀片电池，能量密度190-210Wh/kg，5分钟充好、9分钟充饱
-- [[tianshen-eye-5]] - 天神之眼5.0智驾系统，自研激光雷达+端到端大模型，全系可选装B方案12000元
-- [[adas-self-develop]] - 车企智驾自研真实能力分层，90%车企不具备从零开发能力
-- [[cockpit-chip]] - 智能座舱芯片格局，高通72.1%绝对垄断，华为7.1%为唯一生态闭环挑战者
-- [[cockpit-supplier-ranking]] - 智能座舱供应商排行，德赛西威15.3%、博世8.7%、华为6.8%
-- [[broadcom-renault-patent-case]] - 博通诉雷诺车载以太网SEP案，车企专利风险新范式
-- [[byd-dmi-6]] - 比亚迪DM-i 6.0技术突破，48%热效率、1.8L亏电油耗、2500km+续航
-- [[renault-nissan-development-process]] - 雷诺-日产联盟整车开发里程碑（CF/VCO/GO/ABPT/PPC/SOP），BoxCar布置验证样车
-- [[france-social-leasing-2026]] - 法国社会租赁计划2026，雷诺R5/R4 E-Tech核心受益，月租130-190欧
-- [[changan-tianshu]] - 长安天枢领航智驾系统，Pro全系标配激光雷达，Ultra版VLM大模型量产上车，启源Q06全系搭载
-- [[china-tech-reverse-export]] - 中国汽车技术通过合资/平台共享进入欧洲车企的新模式
-- [[chongqing-auto-forum-2026]] - 2026中国汽车重庆论坛，AI+汽车变革，L3准入里程碑，大模型上车元年
-- [[city-noa]] - 城市 NOA 自动辅助导航驾驶，2026年渗透率预计破50%
-- [[cockpit-driving-fusion]] - 座舱+智驾单芯片融合，2026年真融合量产元年
-- [[data-loop]] - 智驾数据飞轮，中国已具备全球最佳数据土壤
-- [[data-moat]] - 数据护城河，年销50万辆+月度迭代+自动标注99%+构成的竞争壁垒
-- [[humanoid-robot]] - 人形机器人，车企第二增长曲线，技术与供应链复用，智元远征A3全球首个自主打乒乓球全尺寸双足人形机器人
-- [[hybrid-efficiency-principle]] - 混动省油原理，发动机工作点优化使高效区占比提升
-- [[in-cabin-ai-agent]] - 座舱智能代理，从语音助手升级为 AI Agent
-- [[ar-hud-penetration]] - AR-HUD搭载率突破，2026年达19.11%，从高端选配走向标配
-- [[wake-free-interaction]] - 免唤醒交互渗透率，从26%跃升至57%，一年内翻倍增长
-- [[lithium-price-surge-2026]] - 2026锂价暴涨，碳酸锂从7.5万涨至17.19万元/吨（+129%），成本战新阶段
-- [[l3-autonomous-driving]] - L3自动驾驶，2026年量产元年，长安深蓝/北汽极狐首批准入
-- [[l3-mass-production-2026]] - 2026年L3量产元年，长安获首批准入许可，智驾从“感知”向“认知”演进
-- [[qnx-hypervisor]] - 黑莓虚拟化方案，汽车行业座驾融合主流选择
-- [[rgev-platform]] - 雷诺RGEV平台，800V架构，纯电续航750km/增程1400km，追平中国供应链效率的技术底座
-- [[solid-state-battery]] - 固态电池技术路线，宁德半固态2026量产，全固态仍需5-10年
-- [[storage-chip-surge-2026]] - 存储芯片价格暴涨180%，车企自研芯片从"成本优化"升级为"工业自卫战"
-- [[sodium-ion-battery]] - 钠离子电池，2026年规模化量产元年，宁德时代"钠新"首发，175Wh/kg、-40℃保持>90%、资源自给率100%
-- [[synthetic-data-explosion]] - 合成数据爆发，2026年AI训练合成数据占比58%首超真实数据，市场规模85亿美元
-- [[ultra-fast-charging]] - 超快充军备竞赛，比亚迪9分钟/宁德6分27秒
-- [[vla-model]] - Vision-Language-Action 模型，智驾技术演进方向
-- [[vla-mass-production]] - VLA大模型量产落地，元戎启行DeepRoute IO 2.0、卓驭多模态基础模型
-- [[vla-translation-paradox]] - VLA两次翻译问题，视觉→语言→动作引入信息损失和延迟，华为小米认为VLA是过渡技术
-- [[world-model]] - 智驾物理世界模拟器，预判能力支撑 L3+，小鹏X-Cache加速器
-- [[web-visual-modeling]] - Web端可视化建模工具，Pictorus/PathSim/Node-RED对比，浏览器端建模+OTA部署
-- [[liDAR-cost]] - 激光雷达价格下探至2000元内，15万级家用车开始标配
-- [[cockpit-llm]] - 智能座舱大模型，渗透率超40%，豆包搭载700万辆、鸿蒙MoLA 2.0
-- [[traditional-automaker-ai-transition]] - 传统车企AI转型困境，技术可买但数据闭环+组织变革是结构性死结
-- [[training-loop]] - 训练闭环，从数据闭环升级为训练闭环，仿真能力决定系统上限
-- [[organization-friction]] - 组织内耗，AI人才流动与传统组织架构冲突，影响智驾落地
-- [[ai-manufacturing]] - 智能制造AI化，MES装机量超45%，AI质检精度99.9%
-- [[ai-software-engineering]] - 车企软件工程AI化，AI代码占比41%，东软睿驰提效40%-60%，AI视觉测试87%渗透
-- [[aidv]] - AI定义车辆，2026年确立的新范式，AI成为车辆核心竞争力定义者
-- [[auto-price-hike-2026]] - 2026车企涨价潮，从价格战转向利润修复周期
-- [[ai-auto-rnd-whitepaper]] - 智能体赋能汽车研发设计白皮书，中汽协+阿尔特联合主编，每日构建1500次，人工参与度37%
-- [[ai-r-and-d]] - AI研发工程，阿尔特太乙平台压缩研发周期至18-24个月，车企AI代码占比41%
-- [[ai-marketing-after-sales]] - AI营销与后市场，线索质量+75%、二手车AI估价90秒、预测性维护渗透率68.3%、车载AI盈利仅20%
-- [[new-forces-landscape-2026]] - 新势力格局质变，零跑连续14月第一、格局从“蔚小理”变为“零跑一超+多强”
-- [[nev-penetration-may-2026]] - 新能源渗透率61.1%（2026年5月），自主品牌71.6% vs 合资15%，油电替代不可逆
-- [[zeekr-lynk-co-merger]] - 极氪领克整合（2026年6月），吉利《台州宣言》落地，冲击百万产销
-- [[physical-ai]] - 物理AI，2026北京车展核心共识，AI对物理世界的理解与操作能力
-- [[chip-cpu-bottleneck]] - 智驾芯片CPU短板，地平线征程5案例，规划控制需要CPU算力
-- [[spain-china-gateway]] - 西班牙中企赴欧门户，能源盈余+补贴高10%，复制匈牙利路径
-- [[china-india-tech-blockade]] - 中印技术封锁，磷酸铁锂技术限制出口，堵住印度从买电池到造电池的升级路径
-- [[japanese-automaker-crisis-2026]] - 日本汽车三座大山危机，美国政策收割+中东冲突+中国失守，终结25年全球销冠
-- [[japanese-india-strategy]] - 日系印度战略，2026年90亿美元+投资，押注"中国进不来"的政治确定性
-- [[nev-penetration-60-percent]] - 新能源渗透率破60%里程碑，2026年4月达61.4%，燃油车结构断裂
-- [[ota-lock-scandal-2026]] - 2026锁电门事件，8家车企被约谈，OTA监管实质介入
-- [[adas-liability-guarantee]] - 智驾责任兜底，2026年5月比亚迪天神之眼B首发，竞争从功能指标转向责任承诺
-- [[2026-beijing-auto-show]] - 2026北京车展技术趋势，舱驾融合量产元年、AI Agent座舱、大模型上车、中国市场迭代速度
-- [[2026-beijing-auto-show-feishu]] - 北京车展技术趋势总结，舱驾融合专题展区，智能座舱与AI技术
-- [[2026-beijing-autoshow-software-report]] - 北京车展汽车软件技术前瞻，2026-2028年软件供应链双向适配窗口期
-- [[bba-ev-ranking-2026]] - BBA电动化排序，宝马>奔驰>大众，本土化深度决定成败
-- [[china-export-leaders-2026]] - 中国出海5强格局，奇瑞/比亚迪/上汽/吉利/长安，4月增速与模式分化
-- [[foreign-automakers-chinese-ad]] - 2026年外资车企拥抱中国智驾，大众×地平线/奥迪×华为标志着技术输出转向
-- [[global-battery-competition]] - 全球动力电池竞争格局，中国70%+份额，中日韩技术路线差异
-- [[india-auto-market]] - 印度汽车市场，MG路径不可复制，中国品牌困境与机会
-- [[easytt-model]] - 易捷特模式，中国生产+外资品牌+全球销售，规避欧盟关税的技术输出新范式
-- [[li-l9-livis-tech]] - 理想L9 Livis技术，全球首款完全体线控底盘SUV，线控转向+后轮转向+EMB制动
-- [[digital-twin-factory]] - 数字孪生工厂，奥迪一汽超级智能工厂为代表，AI质检准确率99.5%+
-- [[entry-ev-profit-crisis]] - 入门电动车盈利困境，欧洲A0/A级纯电单车毛利低于5%，Stellantis已砍掉相关项目
-- [[fifth-gen-lfp-battery]] - 第五代磷酸铁锂电池，能量密度205-230Wh/kg逼近三元，6C超快充，2026年渗透率破30%
-- [[agentic-coding-capability-2026]] - AI Coding能力边界更新，2026年Agentic Coding跨文件重构/架构设计/全功能交付，瓶颈是信任而非能力
-- [[ai-coding-tools-2026]] - AI编程工具爆发，2026年月活开发者7500万，人均代码吞吐量+35%，工程化元年
-- [[vla-translation-paradox]] - VLA两次翻译问题，视觉→语言→动作引入信息损失和延迟，华为小米认为VLA是过渡技术
-- [[ai-testing-agent]] - AI自动化测试智能体，问界M9工厂单车超4400次测试，Playwright三大Agent成本降60%
-- [[deepseek-cockpit-impact]] - DeepSeek开源对座舱影响，吉利/东风/广汽接入，交互效率提升60%+
-- [[auto-chip-competitive-landscape]] - 汽车芯片竞争格局，高通战略重心转向手机+AI ASIC，给国产芯片留出窗口
-- [[auto-chip-self-develop]] - 车企自研芯片趋势，比亚迪璇玑A3/理想马赫M100/小鹏图灵量产推进
-- [[cabin-driving-fusion]] - 舱驾融合技术趋势，高通/地平线/英伟达三条路线，决胜在软件生态而非算力
-- [[city-noa-penetration]] - 城市NOA渗透率突破15%，2026年竞争焦点从功能转向体验
-- [[cockpit-interaction-quality]] - 座舱交互质量，人均每小时仅4-5次交互，不骚扰用户成为核心竞争力
-- [[generative-engine-optimization]] - GEO生成式引擎优化，上汽推荐率+74%，用户决策周期从3-4月缩至1月
-- [[tesla-fsd-china]] - 特斯拉FSD中国落地，本土化数据+场景理解仍是护城河
-- [[ai-talent-auto-sector]] - AI人才错配，汽车行业难招顶尖AI人才，大模型公司吸走算力与人才
-- [[ai-code-penetration]] - AI代码渗透率，头部车企AI代码占比60%-75%，开发速度提升6倍
-- [[ai-testing-automation]] - AI自动化测试，渗透率83%，缺陷拦截率提升41%
-- [[auto-ai-toolchain]] - 车企AI研发工具链，NVIDIA Omniverse NuRec、腾讯数据闭环、阿里云真武PPU
-- [[fsd-v14-code-collapse]] - FSD V14代码精简，31万行降至2000行（-99%），端到端范式最硬核实证
-- [[ga-t-2388-2026]] - GA/T 2388-2026智驾法规，中国首个智驾强制标准，2026年7月落地，L2+强制认证
-- [[ai-token-economics]] - AI Token经济学，Codex订阅健身房模式分析，企业日均1000万-5亿Token
-- [[cockpit-ai-evolution]] - 座舱AI演化路径，功能座舱→智能座舱→认知座舱三阶段论，李斌2026年提出
-- [[xiaopeng-adas-roadmap]] - 小鹏智驾路线图，2025Q3类L3→2026年L4低速场景，VLA 2.0视觉到动作端到端
-- [[ai-r-and-d-toolchain]] - 研发工具链AI化，NVIDIA×LG×现代Physical AI，仿真试验AI一体化闭环
-- [[autonomous-chip-localization]] - 智驾芯片国产替代趋势，地平线份额47.7%，英伟达在华份额_FROM_39%降至25%
-- [[autonomous-logistics-vehicle]] - 无人物流车市场，2025年保有量3.7万台，东风OpenVAN订单超4000台
-- [[autosar-dev-process]] - AUTOSAR开发流程，SWRS→架构设计→Simulink建模标准化流程，SWC划分原则与VFB设计
-- [[c-icap-2026]] - 中汽测评新规程，C-GCAP/C-ICAP/C-NESA/C-ICA"3+1+N"全场景测评体系，智驾版本升级，L3准入技术验证
-- [[iso-26262]] - ISO 26262功能安全，ASIL-D等级要求，AI Agent与功能安全的五大冲突
-- [[vectorcast-ai-testing]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests，AI辅助测试符合功能安全要求
-- [[driving-tech-fusion-paradigm]] - 智驾技术融合范式，2026年三大范式确立：E2E+世界模型+RL、E2E+VLA+世界模型、VLA+世界模型
-- [[ai-simulation-market]] - AI仿真市场，2026-2035年CAGR 39%，从15.1亿增至291.5亿美元
-- [[safety-case]] - 安全论证，L3量产新门槛，取代清单式合规成为核心要求
-- [[eu-ev-market-2026]] - 欧洲EV市场2026，Q1 BEV渗透率首破20%，车企电动化策略分化明显
-- [[central-soe-restructuring-2026]] - 三大汽车央企重组整合，一汽/东风/长安竞速赛模式，销量+市值对比分析
-- [[brand-sales-may-june-2026]] - 自主品牌销酺动态2026年5-6月，零跑新势力第一、极氪破80万、奇瑞出海依赖症
-- [[ai-cicd-auto]] - AI-CI/CD在汽车行业落地痛点，61%项目未达ROI，人机协同边界是核心问题
-- [[mathworks-agentic-ai]] - MathWorks R2026a Agentic AI，MATLAB/Simulink工作流AI化，博格华纳电机温度估算案例
-- [[ces-2026-sdv]] - CES 2026 SDV产业化，软件定义汽车从概念进入量产阶段
-- [[vectorcast-2026]] - VectorCAST 2026 AI测试工具，Code2reqs/Reqs2tests、AI Agent与功能安全边界
-- [[china-brand-market-share-2026]] - 中国品牌乘用车市占率75%（2026年5月），同比+6pp，新中国汽车工业史上最高
-- [[un-autonomous-driving-regulation-2026]] - 联合国自动驾驶法规获批（2026年6月），全球首个统一L3+法规框架
-- [[xmind-tech-framework]] - X-Mind技术框架（小鹏），解决车端算力约束下认知推理与实时计算的矛盾
-- [[l3-national-standard]] - L3自动驾驶国标征求意见，工信部首部L3/L4强制国标，智驾宣传乱象将终结
-- [[malaysia-ev-policy-2026]] - 马来西亚电动车政策收紧，2026年7月CBU进口收紧，中国品牌东南至出海新挑战
+### 技术
+<!-- Alphabetical -->
+- [[800v-platform]] - 800V高压平台：已成主流，成本与性能跃升，比亚迪1000V领先
+- [[ai-box-software-first]] - AI Box行业"本末倒置"批判：软件体验驱动的正确路径
+- [[ai-in-automotive-rd]] - 汽车AI研发：AI在汽车研发中的应用趋势
+- [[autonomous-driving-chips]] - 智驾芯片：英伟达/地平线/华为/高通竞争，星空6与SA8797舱驾融合对决
+- [[automotive-rd-speed]] - 汽车研发周期：中国18-24个月vs传统50个月，日产改革缩短40%
+- [[battery-white-box]] - 动力电池白盒模式：车企重构零部件定义权，深度参与电芯设计
+- [[cabin-drive-integration]] - 舱驾融合：驱动力是利润不是技术（利润率3.2%十年新低），星空6/SA8797/龍鹰二号
+- [[chinese-oem-ai-methodology]] - 中国车企AI方法论：体验定义→Agent设计→全栈自研→快速迭代
+- [[cockpit-llm]] - 座舱大模型格局：DeepSeek占45.2%居首，新势力自研vs传统外采，Agent终局=可信执行
+- [[dmi-technology]] - DM-i技术：比亚迪插混核心技术，热效率48%
+  - [[fifteen-five-plan]] - 十五五规划：2030年NEV乘用车70%/商用车40%，首提自动驾驶安全正向基准
+- [[humanoid-robot-industry]] - 人形机器人产业：宇树IPO 610亿市值，A股第一股
+- [[lidar-penetration]] - 激光雷达下沉：从30万级下探至15万级，L3硬件预埋（舱内激光雷达）启动
+- [[nev-battery-swap]] - 换电模式：蔚来4075座换电站+国资合作轻资产运营
+- [[range-extender-trend]] - 增程技术趋势：赛道收缩（1-8月-19.3%），小米澎程逆势重定价
+- [[vla-world-model]] - VLA+世界模型：端到端智驾进入"物理AI"阶段，小鹏/理想/小米路线对比
+
+### 市场/趋势
+<!-- Alphabetical -->
+- [[chinese-oem-export]] - 中国车企出海：8月比亚迪18.9万/奇瑞19.7万/吉利11万，三大模式，出海成利润引擎
+- [[global-battery-market-2026]] - 全球动力电池格局：CATL占39.9%，三星SDI全资控股通用电池工厂
+- [[l3-mandatory-standard]] - L3强制国标：GB 44721—2026正式发布，2027年7月实施，华为智界RX获路测牌照
+- [[nev-penetration-60-percent]] - 新能源渗透率：2026年8月突破65.8%，油电分化不可逆
+
+### 工具
+<!-- Alphabetical -->
+- [[automotive-dev-tools]] - 汽车开发工具：汽车软件开发工具链
 
 ## Comparisons
-<!-- 按字母排序 -->
 
-- [[9-series-suv-battle]] - "9系"SUV战场，问界M9/理想L9/极氪9X/腾势N9/享界G9竞逐C级SUV市场，一季度逆势增长143.5%
-- [[three-electric-regional-comparison]] - 三电区域对比，中国全产业链优势、欧洲弃电池、美国除特斯拉全面落后
+<!-- Alphabetical -->
+- [[2026-08-china-sales-battle]] - 2026年8月销量战报：大盘158万/渗透率65.8%，比亚迪44万封王，零跑10.3万断层
 
 ## Queries
-<!-- 按字母排序 -->
+
+<!-- Filed query results worth keeping -->
