@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-09-09
+updated: 2026-09-18
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
 ---
 
 # 蔚来 (NIO)
@@ -27,6 +27,19 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 - 意义：高速公路换电从「点」到「网络」，国资合资模式（见左上「国资接手」）继续复制
 
 **判断**：乐道8,810辆是警示信号——主品牌+萤火虫撑住大盘，但乐道未达预期，多品牌协同未兑现。大盘见 [[2026-08-china-sales-battle]]。
+
+## 纯电坚守者分析（2026年9月）
+
+2026年8月纯电渗透率达45.3%，是四种动力形式中唯一同比正增长的品类，纯燃油车销量同比暴跌45%。蔚来坚持全系纯电+换电路线，在行业普遍转向"增程+纯电"双线战略的背景下独树一帜。
+
+| 维度 | 数据 |
+|------|------|
+| 1-8月累计交付 | 262,893台（同比+57.9%） |
+| 8月混动渗透率 | 55.7% |
+| 8月纯电渗透率 | 45.3% |
+| 蔚来判断 | Q4新能源突破70%，纯电年底前单月有望超50% |
+
+**李斌判断**：2026年四季度新能源渗透率将突破70%，年底前单月纯电渗透率有望超过50%。蔚来的纯电坚守可能会在纯电渗透率持续提升的趋势中获得回报。
 
 ## 换电体系里程碑
 

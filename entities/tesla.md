@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-09-16
+updated: 2026-09-20
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
+sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -20,6 +20,12 @@ sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-n
 | 价格 | 约20万元人民币 |
 | 运营 | 已接入Robotaxi车队 |
 | 后续 | 次日NHTSA启动安全调查 |
+
+### 9月监管风暴
+- **NHTSA正式立案调查**：Cybercab发布次日即启动安全调查，核心关切是无方向盘车辆在非预期环境下的安全冗余
+- **FSD滥用成社交媒体现象**：用户将FSD用于非设计场景（高速公路睡觉、后排无人、夹带宠物等），相关视频在社交媒体病毒传播
+- **面临145亿美元诉讼风险**：FSD事故相关集体诉讼索赔，创自动驾驶行业诉讼金额纪录
+
 **判断**：Cybercab是L4商业化的标志性事件
 
 ### Cybercab落地运营（2026年9月）
@@ -31,11 +37,33 @@ sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-n
 
 **判断**：Cybercab是L4商业化的标志性事件——「无方向盘」从概念车进入可购量产车，迫使监管（NHTSA调查）与同行（智己启动无方向盘测试）同时行动。与 [[l3-mandatory-standard]]（2027年中国L3国标）形成中美监管节奏对照。
 
+### MPCI：智驾水平的核心度量
+Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注的智驾核心指标。
+
+| 方案 | MPCI水平 |
+|------|----------|
+| 特斯拉 FSD V14 | 千公里级 |
+| 中国Top方案（博世文远/地平线/华为） | 百公里级 |
+| 差距 | 约一个数量级 |
+
+**意义**：MPCI比"接管率"更客观——不仅统计接管次数，还区分关键安全介入与常规体验优化接管。特斯拉V14已进入千公里级，意味着用户平均每1000公里才需要一次安全介入，这已达到人类驾驶员的事故间隔水平。中国智驾整体还在百公里级，差距约一个数量级。
+
 ## 与中国市场关联
 
 - 定价约20万人民币：直接进入中国主流价格带竞争（vs [[byd]]、[[xiaomi-auto]]）
 - 若Cybercab入华，Robotaxi赛道将正面冲击百度/小马智行/文远格局
 - 特斯拉FSD入华进展仍是智驾竞赛最大外部变量（见 [[autonomous-driving-chips]] 生态竞争）
+
+### Optimus宁波审厂：机器人量产推进（2026年9月20日）
+特斯拉Optimus人形机器人量产进入供应商审厂阶段：
+| 维度 | 内容 |
+|------|------|
+| 审厂地点 | 浙江宁波 |
+| 合作方 | 拓普集团确认合作中 |
+| 阶段 | 量产前供应商资质审查 |
+| 产业协同 | 宁波汽车零部件集群→机器人生产 |
+
+**判断**：从汽车零部件到机器人零部件，特斯拉将汽车供应链能力直接复用到机器人。拓普集团（Tier1）从中受益。Optimus的量产审厂启动，意味着特斯拉机器人从「实验室验证」进入「供应商品控+生产验证」阶段。
 
 ## 关系网络
 - [[l3-mandatory-standard]] - 中美L3/L4监管节奏对照

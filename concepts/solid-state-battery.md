@@ -1,15 +1,27 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-05-24
+updated: 2026-09-19
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md]
+sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 ## 概述
 
 固态电池是下一代电池技术的核心方向，分为半固态（Semi-Solid）和全固态（All-Solid-State）两条路线。半固态已在量产边缘，全固态仍面临核心难题。
+
+### 比亚迪官宣：硫化物全固态2027上车（2026年9月泰达论坛）
+| 维度 | 数据 |
+|------|------|
+| 技术路线 | **硫化物**全固态（与丰田同路线，与CATL氧化物路线形成竞争） |
+| 能量密度 | 400 Wh/kg |
+| 量产时间 | **确认2027年上车** |
+| 首款搭载车型 | 未披露（预计唐/汉旗舰序列） |
+| CLTC续航标称 | 1218km |
+| 行业意义 | 全球首个主流车企确认硫化物路线量产时间节点 |
+
+**判断**：比亚迪选择硫化物路线（而非CATL的氧化物）意味着技术路线对决的白热化：硫化物理论能量密度上限更高但工程化更难，氧化物更成熟且安全性占优但能量密度上限较低。比亚迪敢在2027年上硫化物，说明工程化瓶颈已有突破。
 
 ## 技术路线对比
 

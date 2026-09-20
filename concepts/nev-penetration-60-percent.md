@@ -4,7 +4,7 @@ created: 2026-05-13
 updated: 2026-09-16
 type: concept
 tags: [nev, penetration, milestone, 2026, china, sales]
-sources: [memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
+sources: [memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
 ---
 
 # 新能源渗透率60%里程碑 (2026年)
@@ -29,6 +29,20 @@ sources: [memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-n
 - **零售前十车型**：8月TOP10已**无极车上榜**（纯电4席+插混6席）
 - **新能源出口**：8月出口101万辆（+65.3%），连续3个月破百万
 - **中汽协口径渗透率**：8月60.6%——含商用车后数据仍创新高
+
+### 2026年9月18日补充：中汽协8月数据确认
+| 数据口径 | 数值 |
+|----------|------|
+| 中汽协：8月新能源产销 | 165.3万辆 / 164.3万辆（+18.9%/+17.8%） |
+| 中汽协：8月渗透率 | 60.6%（含商用车） |
+| 中汽协：8月汽车出口 | 101万辆（+65.3%），连续3月破百万 |
+| 乘联会：8月国内乘用车 | 同比降幅连续5个月超20% |
+
+### 蔚来李斌判断（2026年9月）
+蔚来创始人李斌判断2026年四季度新能源渗透率将突破70%，年底前单月纯电渗透率有望超过50%。详见[[nio#纯电坚守者分析]]。
+
+### 9月新车投放狂潮
+9月上市新车高达**60款**，9月16日单日7款新车齐发（红旗H7 PHEV、极狐阿尔法T7、方程豹S/S GT、理想i9、奔驰长轴距GLE、吉利星瑞L PLUS、零跑技术日）。1-7月国内乘用车新车总数已达320款。比亚迪执行副总裁何志奇形容行业"彻底疯了"。
 
 **判断**：纯电突破45%是转折性信号——即便含大量插混的65%+渗透率已有共识，纯电单独逼近50%意味着「油电替代」从总量进入结构深化阶段。
 

@@ -5,6 +5,36 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > 超过500条时轮转：重命名为 log-YYYY.md，新建当前文件。
 
+## [2026-09-18 22:00] ingest | 2026-09-17~18 每日信息整理（robert深度对话+盖世日报）
+
+### 新建页面（2个）
+- entities/terra-robotics.md - 地瓜机器人：C轮4亿美元，2026年累计融资近45亿元，旭日系列800万片出货，具身智能客户覆盖率突破50%
+- concepts/dual-rotor-motor.md - 双转子电机技术：岚图/小米专利，混动系统的破局方向，压缩轴向空间+消除换挡中断
+
+### 更新页面（9个）
+- entities/stepfun.md - 新增外供困境分析（同构类比神玑芯片），李书福投资+印奇任董事长细节，极氪8X超级Eva绑定
+- entities/leapmotor.md - 新增自研机器人确认（朱江明9/16披露），11年全域自研技术外溢，整车/电驱/电池技术输出详情
+- concepts/humanoid-robot-industry.md - 新增优必选U1交付+5000万海外订单、零跑确认入局、蚂蚁灵波LingBot-World 2.0开源
+- entities/li-auto.md - 新增全系自研电池切换计划，i6四季度搭载自研5C+马赫芯片双自研组合
+- entities/nio.md - 新增纯电坚守者分析，李斌Q4渗透率70%判断，1-8月累计交付262,893台
+- entities/tesla.md - 新增MPCI指标细节，中国千公里级vs百公里级差距分析
+- entities/changan.md - 新增天枢领航智驾系统（央企首个一段式端到端），启源Q06预售
+- entities/geely.md - 新增银河TT上市信息（12.99-18.59万/800V/6C/激光雷达），阶跃星辰绑定深度；领克欧洲独家经销
+- concepts/nev-penetration-60-percent.md - 新增中汽协8月60.6%数据确认、蔚来Q4 70%预测、9月60款新车投放狂潮
+
+### 导航更新
+- index.md - 新增2页，总数50→52，更新日期至2026-09-18
+- log.md - 追加本条目
+
+### 来源
+- memory/2026-09-17.md（robert深度对话+阶跃星辰分析）
+- daily-news/2026-09-17-gasgoo-evening.md
+- daily-news/2026-09-18-gasgoo-evening.md
+
+### 备注
+- 今日robert无直接对话，cron任务自动整理
+- 核心看点：阶跃星辰外供困境（同构于神玑芯片）、地瓜机器人C轮4亿、零跑自研机器人确认、理想全面自研电池+芯片、新能源渗透率60.6%常态化、双转子电机量产可能性探讨
+
 ## [2026-07-01 22:00] create | Wiki 初始化
 - Domain: 新能源汽车行业
 - 创建目录结构：raw/, entities/, concepts/, comparisons/, queries/, _archive/
@@ -234,4 +264,95 @@
 ### 备注
 - 今日robert无直接对话，全自动化整理
 - 这期内容量大且关键：理想i9发布是Q4纯电旗舰基准、华为L3路测是行业首个、车企「去宁德化」进入加速期
-- 核心看点：纯电渗透率逼近50%转折点、华为智驾+L3+换电三线并行、理想「电池+芯片」双自研全系覆盖、车企电池利润分配矛盾激化
+## [2026-09-19 22:00] ingest | 2026-09-19 每日知识整理（cron自动化）
+
+### 新建页面（2个）
+- concepts/ai-engineering-2026.md - 2026年汽车行业AI工程化：AI从概念验证到全链条价值兑现，光庭SDW/东软AIOS/长安AI全链路三路径并行
+- [index补录] solid-state-battery.md - 比亚迪硫化物全固态2027上车确认，固态电池技术路线竞争格局更新
+
+### 更新页面（18个）
+
+#### 实体（12个）
+- entities/byd.md - 海狮08上市(22.99-27.99万/天神之眼5.0)，固态电池2027上车确认(硫化物400Wh/kg/1218km)，H1海外79.2万辆
+- entities/leapmotor.md - CTC 3.0取消独立蓄电池+48V低压架构，8月单车净利仅583元
+- entities/geely.md - 极氪IPO不足600天私有化退市正式并入吉利，品牌缩减至4个
+- entities/xpeng.md - Infini-VLA长时序架构(前30秒记忆+推演6秒+响应提速300%)，G9L首发
+- entities/volkswagen.md - Future Plan 2030裁约10万+4座EV工厂停产，ID.Polo售罄，ID.3 GTI发布
+- entities/renault.md - 巴西合资EX5 EM-i首车下线(签约不到一年)，IAA新Trafic Van E-Tech双电池
+- entities/tesla.md - NHTSA正式立案调查Cybercab，FSD滥用面临145亿美元诉讼
+- entities/bmw.md - Neue Klasse iX3大获成功验证中国智驾+欧洲底盘模式
+- entities/mercedes-benz.md - GLA EV发布(MMA/800V/657km)，电动C-Class匈牙利投产
+- entities/horizon-robotics.md - 星空Starry 6P(5nm舱驾融合)定位更新，与SA8797正面竞争
+- entities/qualcomm-auto.md - SA8797算力翻倍至1280TOPS，零跑D19首发双芯2560TOPS
+- entities/seres.md - 问界品牌价值34.5亿美元，一级供应商压缩至100家以内
+
+#### 概念（6个）
+- concepts/cabin-drive-integration.md - SA8797 1280TOPS格局更新，零跑D19双芯方案
+- concepts/chinese-oem-ai-methodology.md - 2026年9月AI工程化价值兑现阶段
+- concepts/chinese-oem-export.md - H1出海提速，雷诺巴西合资首车下线
+- concepts/solid-state-battery.md - 比亚迪硫化物路线2027上车确认
+- concepts/vla-world-model.md - Infini-VLA长时序架构，VLA技术路线更新
+- concepts/ai-engineering-2026.md - （新建）2026汽车AI工程化
+
+### 导航更新
+- index.md - 54页(+2)，更新日期至2026-09-19，新增ai-engineering-2026/solid-state-battery条目
+- 全部18个页面摘要同步更新
+
+### 来源
+- memory/2026-09-19.md（7个cron任务汇总）
+- raw/articles/2026-09-19-daily-digest.md（新建）
+
+### 核心洞察
+- **AI工程化不可逆**：光庭SDW、东软AIOS、长安AI全链路、豆包座舱助手——四个独立信源指向同一趋势
+- **SA8797算力翻倍**：1280TOPS重新定义舱驾一体芯片竞争格局，地平线星空6P的650TOPS面临算力代差
+- **零跑悖论深化**：10.3万/月规模+唯一盈利但单车净利仅583元——scale economy仍未兑现利润
+- **欧洲产能结构性危机**：大众裁10万+4厂停产 vs BEV渗透率22%，EV需求集中在入门级不足以支撑过剩产能
+- **雷诺巴西速度**：签约不到一年首车下线，中国技术输出拉美模式验证
+
+### 备注
+- 今日robert无直接对话，cron任务自动化整理
+- 覆盖7个独立cron输出源
+
+## [2026-09-20 22:00] ingest | 2026-09-20 每日信息整理（7个cron任务+盖世晚报）
+
+### 新建页面（0个）
+（今日全部为增量更新）
+
+### 更新页面（10个）
+
+#### 实体（7个）
+- entities/catl.md - 全固态电池至少还需五年，看好钠电和凝聚态，与比亚迪硫化物路线形成路线分歧
+- entities/xpeng.md - 技术出海升级，从大众单一客户→多车企授权EE架构/座舱/图灵芯片
+- entities/li-auto.md - 启动外供：马赫芯片/碳化硅模组/增程器独立运营
+- entities/volkswagen.md - 裁员扩至10万+4座EV工厂停产；FAW-VW ID. AURA T6开启预售
+- entities/changan.md - 泰达论坛：张晓宇给出L3 2027量产/L4 2028商业化的明确时间表
+- entities/tesla.md - Optimus宁波审厂，拓普集团确认合作
+- entities/renault.md - IAA Trafic Van E-Tech：首款SDV纯电商用车（CarOS+800V+V2L/V2G），futuREady战略
+
+#### 概念（3个）
+- concepts/cockpit-llm.md - 豆包座舱助手首发荣威家越07，具身交互+AI Planner直驱实体
+- concepts/vla-world-model.md - CVPR 2026焦点转向"理解与预测世界"，VLA+世界模型深度融合
+- concepts/humanoid-robot-industry.md - 特斯拉Optimus宁波审厂，拓普确认合作
+
+### 导航更新
+- index.md - 54页不变，更新日期至2026-09-20
+- log.md - 追加本条目
+
+### 来源
+- raw/articles/2026-09-20-daily-digest.md（新建）
+- memory/2026-09-20.md（7个cron任务汇总）
+
+### 核心洞察
+- **宁德唱空全固态**：权威发声至少还需五年，聚焦钠电和凝聚态——与比亚迪2027承诺形成路线对立
+- **小鹏/理想双双转型技术供应商**：小鹏对外授权EE/座舱/芯片，理想外供马赫芯片/碳化硅/增程器——中国新势力从"造车"转向"技术输出"
+- **大众生存重组确认**：裁员10万+4厂停产，欧洲22% BEV渗透率下的产能结构矛盾无解
+- **长安L3/L4时间表**：央企首个明确时间表，可信度高于新势力
+- **特斯拉Optimus审厂**：机器人量产转入供应商阶段，拓普切入机器人供应链
+- **CVPR 2026信号**：VLA+世界模型融合成为量产核心方向，从"识别"到"理解与预测"
+
+### 备注
+- 今日robert无直接对话，cron任务自动化整理
+- 涵盖7个独立cron输出源
+- ✅ li-auto.md 外供部分修复上次编辑的格式问题
+
+

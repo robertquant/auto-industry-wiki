@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-19
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -29,6 +29,20 @@ sources: [memory/2026-09-09.md]
 - **「由中国定义、为全球输出」**：在中国的产品定义、供应链、智能化能力反向输出全球
 - **端侧VLM**：与清华联研，上车新一代S级
 - 智驾技术合作方：[[momenta]]（详见 [[bmw]] 同款合作）
+
+### GLA EV（2026年9月发布）
+| 维度 | 参数 |
+|------|------|
+| 平台 | MMA（Mercedes Modular Architecture） |
+| 高压架构 | 800V |
+| 续航 | WLTP 657km |
+| 定位 | 紧凑型纯电SUV，入门级电动化 |
+| 战略意义 | MMA是奔驰「入门电动化」的技术地基，覆盖GLA/GLB等紧凑级 |
+
+### 电动C-Class匈牙利投产
+电动版C-Class在匈牙利凯奇凯梅特工厂投产，标志着奔驰在欧洲的电动化产能布局进一步深入。匈牙利工厂也是宝马iX3长轴的主要海外产能基地，形成直接竞争。
+
+**判断**：GLA EV（紧凑级）+ 电动C-Class（中级）组成奔驰2026下半年电动产品攻势的核心——MMA平台让入门级有了技术竞争力，但关键看定价能否对标宝马iX3的策略（26.99万起）。
 
 ## 2026年市场表现
 

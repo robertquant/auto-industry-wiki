@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-09-16
+updated: 2026-09-20
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -39,6 +39,14 @@ sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, dail
 **i9发布（9月16日）**：定位40万级纯电旗舰「城市顶级大平层」，5225×1970×1752mm/轴距3168mm，风阻0.215Cd（全球量产SUV最低）。101kWh电池/CLTC 705km/5C超充10分钟400-500km。首发自研马赫M100芯片（2560TOPS）+四激光雷达。单Home版本，预期起售价38.98-40.98万元。
 
 **自研电池覆盖全系**：自2026下半年起自研电池逐步覆盖全系——L8、L6、i8已搭载；新一代MEGA首批用宁德时代，后续切换自研5C三元锂；i9初期用宁德时代后切换。
+
+### 全系自研电池切换计划（2026年9月18日更新）
+- **覆盖范围**：从2026年下半年起逐步覆盖全系车型
+- **已搭载**：L8、L6、i8（自研5C三元锂电池）
+- **新一代MEGA**：首批用宁德时代电池，后续切换自研
+- **2026款i6**：四季度推出，搭载自研5C电池+马赫M100芯片——「电池+芯片」双自研组合首次同时上车
+- **电池策略**：自建PACK产线+电芯委托欣旺达/中创新航代工，对标苹果式「设计+代工」轻资产自研
+- **战略意图**：复制苹果、华为的芯片/电池自研模式
 
 **判断**：理想复制苹果式「设计+代工」轻资产自研，与[[byd]]全自建、供应商品质风险划清界限——差异化在于电芯标准定义权而非产能。对比见 [[battery-white-box]]。
 
@@ -104,6 +112,20 @@ sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, dail
 - [[autonomous-driving-chips]] - 智驾芯片格局
 - [[ai-in-automotive-rd]] - 车企AI研发趋势
 - [[vla-world-model]] - VLA+世界模型技术趋势
+
+### 启动外供：马赫芯片/碳化硅/增程器独立运营（2026年9月20日）
+泰达论坛释放信号：理想正式启动自研技术外供，三个独立运营方向：
+| 方向 | 定位 |
+|------|------|
+| 马赫芯片 | 独立对外销售，寻求汽车芯片外部客户 |
+| 碳化硅模组 | 独立运营，面向电驱系统客户 |
+| 增程器总成 | 独立运营，面向增程技术需求方 |
+
+**判断**：从封闭自研到开放供应链，理想开启"技术供应商"第二增长曲线。这一转变的逻辑：
+1. 自研技术投入（1000+人芯片团队、自研电池）需要分摊成本
+2. 增程器外供有现实需求（[[xiaomi-pengcheng]]等增程品牌需要差异化供应商）
+3. 碳化硅模组在800V平台上量趋势下存在独立市场
+4. 对标特斯拉开放专利和华为外供——但理想的技术积累深度仍存疑
 
 ## 待观察
 - VLA模型2026年量产进度与效果

@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-16
+updated: 2026-09-20
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -31,6 +31,19 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 
 ### 全球业绩
 - H1全球销量410万辆（-6%），但**欧洲BEV +8.4%**（欧洲电气化回暖）
+
+### 9月更新：裁员扩大至10万 + 4座EV工厂停产（2026年9月20日）
+- **裁员规模扩大**：从此前计划的5万增至约10万（全球），占集团全球总员工约9%
+- **4座德国EV工厂面临停产**：核心原因——欧洲BEV渗透率仅22%，远低于支撑过剩产能所需的水平
+- **Future Plan 2030**：战略重心从「全面电动」转向「生存重组」
+- **结构性矛盾**：欧洲电车需求集中在入门级（ID.Polo售罄），不足以支撑德国4座EV工厂产能
+
+#### FAW-VW ID. AURA T6开启预售（2026年9月20日上线）
+- 一汽-大众全新纯电SUV ID. AURA T6开启预售
+- 今日上线，时效性事件
+- 定位中型纯电SUV，补充一汽-大众新能源产品线
+
+**判断**：裁员10万+4厂停产标志大众已从「电动化转型」完全进入「生存重组」阶段。欧洲22%渗透率下的产能过剩是所有传统OEM的结构性难题，大众作为体量最大的车企首当其冲。
 
 ### 9月更新：裁员成本或达160亿€
 知情人士透露，大众集团即将达成的改革协议涉及裁员及关厂成本总额约160亿欧元，包括为德国4座工厂寻找替代方案，以及在此前裁员计划基础上再削减约5万个工作岗位。压力主要来自中国车企竞争和产能过剩。
@@ -100,7 +113,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 
 ### 挑战
 1. 新能源转型速度仍落后于中国自主品牌
-2. 中国新能源渗透率已超64%，价格战激烈
+2. 中国新能源渗透率已超65%，价格战激烈
 3. 智能化能力需持续追赶
 4. 燃油车基本盘持续萎缩
 

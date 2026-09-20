@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-08-19
+updated: 2026-09-20
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -34,6 +34,31 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 ### 上市前夕里程碑
 宇树发布"超人"人形机器人视频：腿长0.85米，原地跳高约两米，极限速度12.66米/秒，从零开发约三个多月。
 
+## 2026年9月新动态
+
+### 优必选U1系列交付+海外订单
+- **U1系列超仿生人形机器人**：9月16日正式交付，售价11.98-99万元，全渠道订单已突破1.3万台
+- **首批交付对象**：上海永达集团、北京波士集团、韩国Galaxy机器人乐园
+- **波士集团"双4S融合"**：将在旗下奔驰、现代4S店销售优必选机器人，推出全球首个汽车+机器人融合体验店
+- **海外订单超5000万元**：连续与欧洲、日韩等市场客户签约，交付Walker C1和U1。海外客户买单≈真有用（与国内政府采购形成对照），后续复购率是观察重点
+
+### 零跑确认自研机器人
+9月16日零跑技术发布会上，朱江明确认零跑已小规模投入具身智能并做出完全自研机器人。详情见[[leapmotor#自研机器人确认]]。
+
+### 特斯拉Optimus宁波审厂（2026年9月20日）
+特斯拉Optimus人形机器人量产推进到供应商审厂阶段：
+| 维度 | 内容 |
+|------|------|
+| 审厂地点 | 浙江宁波 |
+| 合作方 | 拓普集团确认合作中 |
+| 阶段 | 量产前供应商资质审查 |
+| 产业协同 | 宁波汽车零部件集群→机器人生产，复用汽车供应链能力 |
+
+**判断**：Optimus量产从"实验室验证"进入"供应商品控+生产验证"阶段。拓普集团作为汽车Tier1切入机器人供应链，验证了"汽车产业链协同机器人"的逻辑。与[[tesla#Optimus宁波审厂]]关联。
+
+### 蚂蚁灵波开源世界模型
+蚂蚁旗下灵波科技开源LingBot-World 2.0，Small版仅13亿参数可在消费级单卡运行。降低机器人仿真训练门槛。
+
 ## 产业意义
 
 ### 资本市场信号
@@ -51,9 +76,11 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 | 参与者 | 类型 | 进展 |
 |--------|------|------|
 | 宇树科技 | 创业公司 | IPO完成，A股第一股 |
-| 优必选 | 创业公司 | 港股已上市 |
+| 优必选 | 创业公司 | 港股上市，U1交付+5000万海外订单 |
 | 特斯拉Optimus | 科技巨头 | 量产推进中 |
+| 零跑汽车 | 车企 | 确认入局，全域自研技术外溢 |
 | 小米CyberOne | 科技公司 | 研发阶段 |
+| 蚂蚁灵波 | 互联网 | LingBot-World 2.0开源 |
 | 传统车企 | 产业玩家 | 多数布局中 |
 
 ## 技术路线
@@ -73,6 +100,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - [[autonomous-driving-chips]] - 智驾芯片供应链协同
 - [[ai-in-automotive-rd]] - AI研发工具链共享
 - [[byd]] - 潜在制造场景与供应链协同
+- [[leapmotor]] - 零跑确认入局机器人
+- [[terra-robotics]] - 机器人芯片方案商
 
 ## 待观察
 - 宇树科技商业化落地进度
@@ -80,3 +109,4 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - 车企入局节奏与策略
 - 工业场景vs家庭场景优先突破
 - 技术成熟度与商业化时间表
+- 优必选海外订单复购率

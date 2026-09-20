@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-20
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -55,3 +55,28 @@ sources: [memory/2026-09-09.md]
 - Dacia Spring二代欧洲销量爬坡
 - Alpine品牌独立上市进展
 - 与吉利合作是否深化（平台/技术/市场互换）
+
+## 9月动态
+
+### 巴西合资首车下线
+- **EX5 EM-i下线**：卢拉总统亲自接见雷诺/吉利高管，从签约到首车下线不到一年
+- 生产地点：巴西戈亚斯州
+- 车型定位：中型SUV（EM-i标识表明插混动力）
+- 战略意义：以巴西为跳板覆盖拉美市场，地缘价值凸显（避免高额关税+本地化生产资格）
+
+### IAA 2026：首款SDV纯电商用车Trafic Van E-Tech
+| 维度 | 参数 |
+|------|------|
+| 车型定位 | 雷诺首款SDV（软件定义汽车）纯电商用车 |
+| 智能系统 | 搭载CarOS智能座舱系统 |
+| 充电能力 | 800V快充平台 |
+| 能源互动 | 支持V2L（对外供电）+ V2G（车网互动） |
+| 电池方案 | NMC+LFP双电池策略 |
+| 目标市场 | 欧洲商用车电动化 |
+| 战略定位 | futuREady战略2028年前布局关键产品 |
+
+**判断**：Trafic Van E-Tech是雷诺SDV能力在欧洲商用车领域的首发验证——CarOS+800V+V2L/V2G的组合体现雷诺对商用车电气化的完整思路。作为futuREady战略的关键组成，2028年前将以此为基础拓展SDV产品矩阵。
+
+### IAA 2026：新Trafic Van E-Tech
+
+**判断**：巴西合资首车下线是「雷诺技术+中国供应链+巴西制造」三角模式验证——签约不到一年的速度折射中国OEM出海模式的高效。与 [[chinese-oem-export]] 模式形成正向循环。

@@ -1,16 +1,20 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-09-16
+updated: 2026-09-19
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 # 赛力斯 (Seres)
 
 ## 概述
 华为智选车模式核心合作伙伴，问界品牌制造商。2026年AI升级为业务重构引擎，覆盖研发、生产、供应、销售、服务全链条。联合宁德时代等成立赛豆科技，布局AI出行品牌AIVA。
+
+### 2026年9月更新
+- **问界品牌价值34.5亿美元**：泰达汽车论坛披露，问界品牌价值评估达34.5亿美元，验证华为智选车生态的商业价值
+- **一级供应商压缩至100家以内**：赛力斯推进供应链极致精简，从传统车企的数百家供应商大幅缩减，核心逻辑是华为生态下多品牌共享供应链
 
 ## 核心业务数据
 

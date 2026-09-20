@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-09-16
+updated: 2026-09-20
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 小鹏汽车 (XPeng)
@@ -20,7 +20,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 | G9L | 首发第二代VLA，9月上市 |
 | 智驾路线 | VLA 2.0（第二代）已从Q3发布变为9月随G9L量产落地 |
 
-**判断**：G9L承戴「第二代VLA量产首车」标签，是验证小鹏「AI原生」叙事的关键一役。VLA路线对比见 [[vla-world-model]]，8月大盘见 [[2026-08-china-sales-battle]]。
+**判断**：G9L承戴「第二代VLA量产首车」标签，Infini-VLA长时序架构是VLA路线的架构级迭代。VLA路线对比见 [[vla-world-model]]，8月大盘见 [[2026-08-china-sales-battle]]。
 
 ## 2026年产品矩阵
 
@@ -75,11 +75,20 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - 与[[autonomous-driving-chips]]格局联动
 - 智驾能力是核心差异化
 
-### VLA 2.0（2026年Q3发布）
-- 下一代端到端智驾方案
+### VLA 2.0 / Infini-VLA（2026年9月发布）
+- **G9L首发第二代VLA**：9月上市，成为小鹏「AI原生」叙事的核心验证车型
+- **Infini-VLA长时序架构**：
+  | 维度 | 参数 |
+  |------|------|
+  | 记忆窗口 | 记住前30秒感知+决策序列 |
+  | 推演能力 | 推演未来6秒场景演变 |
+  | 响应提升 | 决策响应提速300% |
+  | 技术本质 | 从「单帧感知→决策」升级为「短期记忆+推演→决策」 |
 - 对标[[li-auto]]马赫VLA和[[xiaomi-pengcheng]]OneVL
-- 强调量产节奏——小鹏是三家VLA路线中量产节奏最快的
+- 小鹏是三家VLA路线中量产节奏最快的，G9L首发即落地
 - 属于[[vla-world-model]]路线中的核心玩家
+
+**判断**：Infini-VLA是VLA路线的重要迭代——从「即时反应」升级为「记忆+预测+决策」三合一架构。300%响应提速表明不是刷分型改进，而是架构级跃迁。
 
 ### XCoT技术报告（2026年9月）
 小鹏发布XCoT（eXecutable Chain of Thought）技术报告，提出面向物理AI的可执行思维链推理范式。将大模型链式推理能力与机器人/车辆实际执行控制相结合，是智能驾驶与具身智能交叉领域的技术突破。见 [[vla-world-model]]。
@@ -110,6 +119,17 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - [[byd]] - 行业标杆竞争者
 - [[nev-penetration-60-percent]] - 市场环境
 - [[vla-world-model]] - VLA+世界模型技术趋势
+
+### 技术出海升级（2026年9月20日）
+泰达论坛释放信号：小鹏技术出海从大众单一客户升级为**多车企授权模式**：
+| 维度 | 内容 |
+|------|------|
+| 授权范围 | EE架构、智能座舱、图灵芯片 |
+| 客户类型 | 大众之外更多海外车企 |
+| 模式升级 | 从产品输出→技术标准输出 |
+| 竞争意义 | 中国智驾供应链首次实现技术标准输出 |
+
+**判断**：从大众单一客户到多车企授权，小鹏正从「车企」转型为「智驾技术供应商」——与[[volkswagen]]的酷睿程白盒合作、[[huawei-auto]]乾崑生态形成三种中国智驾技术出口模式。
 
 ## 待观察
 - GX能否持续月销5,500+（Q3验证窗口）

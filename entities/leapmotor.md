@@ -4,7 +4,7 @@ created: 2026-06-30
 updated: 2026-09-16
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md]
+sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -18,6 +18,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 |------|------|
 | 7月交付 | 101,267辆（新势力首破10万，同比+102%） |
 | 8月交付（全球） | 103,129辆（+80.7%），连续两月破10万 |
+| 8月单车净利 | **583元**——盈利但极薄 |
 | 盈利状态 | 新势力中唯一盈利 |
 | 5月销量 | 8.1万辆 |
 | 增速 | 断崖式领跑 |
@@ -74,6 +75,35 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 
 **意义**：A10验证零跑小型SUV产品力，激光雷达下探至8万元级市场，加速智驾标配化。
 
+### 技术发布会（2026年9月16日）
+- 主题：世界模型辅助驾驶（C16将搭载）
+- 意义：零跑智驾从「高性价比硬件」迈向「算法定义」，补齐技术护城河短板
+
+### CTC 3.0（2026年9月）
+零跑新一代CTC（电池底盘一体化）技术核心突破：
+| 维度 | 创新点 |
+|------|--------|
+| 核心突破 | **取消独立蓄电池**，整车高压/低压统一由动力电池包供电 |
+| 架构变化 | 取消传统的48V低压架构，改为整车统一高/低压方案 |
+| 行业意义 | 传统12V/48V低压+高压双系统→单电源系统，降本+减重+空间释放 |
+| 与全域自研关系 | CTC 3.0是11年全域自研的典型产物——只有自研才能做到电源统一管理 |
+
+**判断**：取消独立蓄电池是电动车电源架构的根本性简化——类似当年手机从可拆卸电池→一体化，减少物料+提升集成度。零跑在这个方向上走得最激进。
+
+## 自研机器人确认（2026年9月）
+
+9月16日技术发布会上，朱江明确认零跑已小规模投入具身智能并做出完全自研机器人。核心逻辑是**11年全域自研技术外溢**——电机、控制器、感知算法等底层能力可直接复用。
+
+### 技术输出体系
+| 领域 | 合作方 | 规模 |
+|------|--------|------|
+| 整车 | 一汽、Stellantis | 技术输出+本地化量产 |
+| 电驱 | 行业8家合作 | 全域自研延伸 |
+| 电池 | 行业10家合作 | 技术授权 |
+
+### 关键判断
+朱江明在发布会上强调「能赚钱才拿得出手」——零跑做任何事情都有盈利底线，与部分车企不计成本押注机器人形成对照。
+
 ## 竞争判断
 
 ### 优势
@@ -104,9 +134,12 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 - [[nio]] - 新势力竞争对手
 - [[li-auto]] - 新势力竞争对手
 - [[changan]] - 10万级纯电竞争对手
+- [[humanoid-robot-industry]] - 人形机器人产业，零跑已确认入局
+- [[terra-robotics]] - 机器人芯片供应商
 
 ## 待观察
 - B10欧洲销量表现
 - 与Stellantis合作深度（是否扩车型）
 - 智驾能力迭代速度
 - 能否突破20万以上价位段
+- 机器人业务商业化路径与节奏

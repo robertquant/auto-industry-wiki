@@ -1,7 +1,7 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-09-16
+updated: 2026-09-20
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
@@ -83,6 +83,16 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-
 - [[nio]] - 客户+换电标准竞争者
 - [[aistaland]] - 战略投资标的
 - [[li-auto]] - 客户转向自研的代表案例
+
+### 全固态电池表态：至少还需五年（2026年9月20日）
+泰达论坛上，宁德时代权威发声，明确看淡全固态电池短期商用：
+| 维度 | 内容 |
+|------|------|
+| 时间判断 | 全固态至少还需五年才能量产 |
+| 短期看好 | 钠离子电池和凝聚态电池 |
+| 路线分歧 | 与[[byd]]硫化物路线2027上车承诺形成直接对立 |
+
+**判断**：宁德权威唱空全固态，实质是技术路线站队——宁德氧化物路线vs比亚迪硫化物路线。宁德认为钠电和凝聚态在短期更具商业可行性。与[[solid-state-battery]]中比亚迪硫化物方案形成对比。
 
 ## 待观察
 - 车企去宁德化趋势的演变斜率

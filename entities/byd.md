@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-09-16
+updated: 2026-09-19
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -48,6 +48,11 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 - **马来西亚建厂搁置**：比亚迪取消在霹雳州的自建工厂计划，改为与当地企业合作谈判。此前分歧涉及本地组装车辆出口比例（最高80%）未与马方达成一致。马来西亚累计销售已超3.5万辆电动车。
 - **首款人形机器人「小迪」首秀**：比亚迪发布首款人形机器人，正式入局机器人赛道。（15家主流车企已入局）
 - **第36周销量**：9月首周比亚迪54,550辆，持续领跑。
+
+### 9月动态（中旬）
+- **海狮08正式上市**（22.99-27.99万）：搭载天神之眼5.0+云辇-A双腔空悬。原预售价22.98-29.98万，上市价略调。定位中大型六座SUV，竞品理想L8、问界M7/M8。
+- **固态电池确认2027上车**：硫化物技术路线，400Wh/kg能量密度，CLTC续航1218km。比亚迪在泰达论坛上正式披露量产时间表，成为全球首个确认硫化物全固态电池上车时间的主流车企。
+- **H1海外销量79.2万辆**：出海节奏加速，详见 [[chinese-oem-export]]。
 
 ## 2026年8月产品动态
 
@@ -96,6 +101,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 | 维度 | 数据 |
 |------|------|
 | 7月海外出口 | 17.98万辆（同比+124.3%） |
+| H1海外 | 79.2万辆 |
 | 年度出口目标 | 上调至150万辆 |
 | 出海模式 | 本地化生产破关税壁垒 |
 
@@ -138,8 +144,9 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 - [[battery-white-box]] - 电池白盒模式（比亚迪是典型代表）
 
 ## 待观察
-- 海狮08能否在25万级SUV市场站稳脚跟
+- 海狮08能否在25万级SUV市场站稳脚跟（刚需六座+天神之眼5.0组合的市场反馈）
 - 大唐EV在30万以上价位的持续表现
 - 大汉百万级市场接受度
+- 固态电池2027量产能否按时兑现（硫化物路线工程化挑战）
 - 海外本地化生产推进速度
 - 智驾数据规模优势能否转化为体验优势

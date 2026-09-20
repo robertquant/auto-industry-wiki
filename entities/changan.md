@@ -1,10 +1,10 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-09-09
+updated: 2026-09-20
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 长安汽车 (Changan)
@@ -23,6 +23,17 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/
 | 发布节奏 | 年内发布 |
 
 **判断**：T09是长安高端化+华为乾崑全栈的旗舰验证——四激光ADS 5首次量产上车。详见 [[huawei-auto]]。
+
+### 天枢领航智驾系统（2026年9月发布）
+9月18日，长安发布**央企首个一段式端到端智驾系统**：
+| 维度 | 参数 |
+|------|------|
+| 技术路线 | 一段式端到端大模型 |
+| 训练数据 | 超2000万段高质量驾驶数据 |
+| 首搭车型 | 长安启源Q06（开启预售） |
+| 行业背景 | L2辅助驾驶渗透率已达70.5%，但"高搭载、低使用"结构矛盾突出 |
+
+**意义**：央企首个一段式端到端——长安在智驾技术路线上跳过传统的模块化方案，直接进入端到端赛道。与[[xiaomi-auto]]、[[xpeng]]等新势力的端到端路线形成对标。
 
 ### 8月销量
 - 长安新能源8月约10.5万辆；大盘见 [[2026-08-china-sales-battle]]
@@ -88,6 +99,15 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/
 - [[leapmotor]] - 10万级性价比竞争
 - [[ai-in-automotive-rd]] - AI赋能研发，FDE合作模式
 - [[chinese-oem-ai-methodology]] - 中国车企AI方法论
+
+### 泰达论坛：L3/L4明确时间表（2026年9月20日）
+长安执行副总裁张晓宇在泰达论坛收官日给出明确时间表：
+| 维度 | 时间 |
+|------|------|
+| L3量产 | 2027年 |
+| L4商业化 | 2028年 |
+
+**判断**：长安是央企中首个给出明确L3/L4时间表的车企，与[[l3-mandatory-standard]]（2027年7月实施）节奏一致。作为央企，长安的保守风格决定了这个时间表可信度较高——不会像新势力一样画饼后跳票。
 
 ## 待观察
 - 启源品牌能否在10万级纯电市场持续领先

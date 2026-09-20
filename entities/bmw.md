@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-19
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -29,6 +29,11 @@ sources: [memory/2026-09-09.md]
 | iX3长轴起售价 | 26.99万元 |
 | 智驾 | 与[[momenta]]联合开发、端到端全系标配 |
 | 匈牙利工厂 | 加开第二班（欧洲需求拉动） |
+
+### Neue Klasse iX3大获成功
+Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆。Neue Klasse是宝马的下一代纯电平台，iX3的成功验证了宝马「中国智驾+欧洲底盘调校」路线的市场接受度。详见[[chinese-oem-export#反向技术输出]]。
+
+**判断**：Neue Klasse的成功不仅是车型成功，更是「欧洲品牌=中国智能化+欧洲底盘调校」组合公式的验证，对[[mercedes-benz]]和[[volkswagen]]有标杆参考价值。
 
 ## 与Momenta深度共研
 
