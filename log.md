@@ -356,3 +356,10 @@
 - ✅ li-auto.md 外供部分修复上次编辑的格式问题
 
 
+
+## 2026-09-21 索引重建
+- 问题：index.md 仅注册 54 页，实际 248 页，64+ 实体页面为"暗页面"
+- 修复：脚本扫描全部 frontmatter，重建 index.md
+- 结果：248 页全部收录（entities 93 / concepts 140 / comparisons 4 / auto-industry 10 / european-automakers 1）
+- 新增分类：车企按国别拆分（中/欧/美/日/韩），供应商/方案商独立成类，芯片厂商单列
+- 新增摘要：每页自动提取首行内容作为描述
