@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-09-20
+updated: 2026-09-21
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -58,6 +58,12 @@ sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, dail
 - 采用自研马赫M100芯片（1280 TOPS）
 - 端到端智驾方案，对标[[xpeng]]VLA和[[xiaomi-pengcheng]]OneVL
 - 李想："2026年是成为全球AI头部公司的最后机会"
+
+### Mind GPT 座舱大模型
+- **通过国家备案合法化**：首个车企自研AI大模型获国家级备案认证
+- **座舱响应速度提升5倍**：3.1版升级端到端智能体
+- **座舱大模型投入**：180亿量级
+- 详见 [[cockpit-llm]] 与 [[cockpit-model-tiering]]
 
 ### Livis OS
 - 空间交互系统，90Hz全景屏

@@ -89,7 +89,7 @@ sources: [memory/2026-05-14.md]
 
 ## 相关页面
 - [[bmw]] - 宝马实体页面
-- [[mercedes]] - 奔驰实体页面
+- [[mercedes-benz]] - 奔驰实体页面
 - [[volkswagen]] - 大众实体页面
 - [[momenta]] - 宝马/奔驰智驾合作方
 - [[china-tech-reverse-export]] - 中国技术反向输出

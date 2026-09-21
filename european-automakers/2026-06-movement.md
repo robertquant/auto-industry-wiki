@@ -56,7 +56,7 @@
 
 ## 相关Wiki页面
 - [[volkswagen]] - 大众汽车
-- [[mercedes]] - 奔驰
+- [[mercedes-benz]] - 奔驰
 - [[bmw]] - 宝马
 - [[stellantis]] - Stellantis
 - [[jaguar-land-rover]] - 捷豹路虎

@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-20
+updated: 2026-09-21
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -80,3 +80,32 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ### IAA 2026：新Trafic Van E-Tech
 
 **判断**：巴西合资首车下线是「雷诺技术+中国供应链+巴西制造」三角模式验证——签约不到一年的速度折射中国OEM出海模式的高效。与 [[chinese-oem-export]] 模式形成正向循环。
+
+### Niagara 皮卡：阿根廷全球首发（拉美升级为「第二主场」）
+
+| 维度 | 参数 |
+|------|------|
+| 首发地 | 阿根廷（非巴黎/上海） |
+| 车身 | 承载式车身 |
+| 动力 | 1.3T 汽油（160hp） |
+| 开售 | 巴西11月 |
+| 竞品 | Fiat Toro / Ford Maverick / Ram Rampage |
+| 产品计划 | 2030年前国际板块14款新车启动 |
+
+**判断**：Niagara 选在阿根廷而非欧洲本土首发，拉美从「边缘市场」升级为雷诺「第二主场」——与巴西合资工厂形成制造+产品的双落地。
+
+### Provost：开发周期红线
+
+- CEO Provost（Automotive News Europe Congress）：即使中国竞争对手把开发周期压到 **18个月**，雷诺不会低于 **两年**——安全/测试/欧洲法规红线不能让步
+- 同时警告欧洲需保护本土产业链
+
+**判断**：这是欧洲传统车企对「中国速度」的正式回应——不以牺牲合规与安全换速度，本质是把「慢」重新定义为工程严谨性，但与[[byd]]等中国对手的成本/节奏差距难以弥合。
+
+### Twingo E-Tech 参数补全
+
+| 维度 | 参数 |
+|------|------|
+| 续航 | WLTP **263 km** |
+| 电池 | **27.5 kWh** LFP |
+| 售价 | 低于 **€20,000** |
+| 定位 | A0级欧洲本土化低成本路线样本（详见 [[twingo-e-tech]]） |

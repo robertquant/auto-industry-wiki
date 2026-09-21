@@ -53,7 +53,7 @@ sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmak
 
 - [[volkswagen]] - 欧洲最大车企，全面中国化
 - [[bmw]] - Neue Klasse切换最坚决
-- [[mercedes]] - 高端电动化收缩
+- [[mercedes-benz]] - 高端电动化收缩
 - [[stellantis]] - 零跑合作最深入
 - [[leapmotor]] - 中资品牌欧洲本土化首例
 

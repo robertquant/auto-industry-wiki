@@ -363,3 +363,34 @@
 - 结果：248 页全部收录（entities 93 / concepts 140 / comparisons 4 / auto-industry 10 / european-automakers 1）
 - 新增分类：车企按国别拆分（中/欧/美/日/韩），供应商/方案商独立成类，芯片厂商单列
 - 新增摘要：每页自动提取首行内容作为描述
+
+
+## 2026-09-21 每日整理（22:00）
+
+### 新建（2）
+- raw/articles/2026-09-21-daily-digest.md - 今日资讯汇总（奔驰命名重组/EQ退场、雷诺Twingo与Niagara、座舱分层模型）
+- concepts/cockpit-model-tiering.md - 座舱模型分层架构（奔驰Momentum 1+云 / Jetta M6 3模型 / 特斯拉语音 2模型）
+
+### 更新（3）
+- entities/mercedes-benz.md - 【合并重复页】并入旧mercedes.md全部历史内容；新增9月命名重组（GLB不再叫EQB、GLC EV汉诺威亮相）、Momentum分层座舱
+- entities/renault.md - 新增Niagara皮卡阿根廷全球首发、Provost开发周期红线、Twingo E-Tech参数补全
+- entities/li-auto.md - 新增Mind GPT通过国家级备案（响应提速5倍、投入180亿量级）
+- concepts/cockpit-llm.md - 新增Mind GPT备案、座舱模型分层架构主流化
+
+### 归档（1）
+- entities/mercedes.md → _archive/mercedes.md（与mercedes-benz.md重复，合并后归档）
+  - 4处 [[mercedes]] 引用重定向为 [[mercedes-benz]]（bba-ev-ranking-2026 / cockpit-model-tiering / eu-ev-market-2026 / european-automakers/2026-06-movement）
+
+### 导航更新
+- index.md - 删除重复mercedes条目，更新mercedes-benz摘要；新增cockpit-model-tiering；技术分类80→81、欧洲车企10→9
+- 索引完整性校验：comm 输出为空（248页全部注册，缺失0）
+- Total pages 248（entities 92 / concepts 141 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **EQ品牌事实退场**：GLB不再叫EQB、GLC EV汉诺威亮相——奔驰电动线全面回归主品牌命名，EQ后缀作为品牌资产被证伪
+- **座舱模型分层主流化**：奔驰Momentum(1+云)/Jetta M6(3)/特斯拉语音(2)同时采用分层架构，成为跨阵营架构收敛；理想Mind GPT首个车企自研大模型通过国家备案
+- **雷诺双线**：欧洲平价电动（Twingo 263km/<2万欧）+ 拉美第二主场（Niagara皮卡阿根廷首发）；Provost明确2年开发周期红线
+- **数据质量修复**：发现并合并重复实体页mercedes(.md/-benz.md)
+
+### 备注
+- 今日以基础设施工作为主（Wiki索引重建确认、GitHub备份核验），行业资讯为凌晨dreaming对09-20日报的二次摄取
