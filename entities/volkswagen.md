@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-20
+updated: 2026-09-22
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -117,7 +117,28 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 3. 智能化能力需持续追赶
 4. 燃油车基本盘持续萎缩
 
+## 2026年9月：被剔除 Euro Stoxx 50（资本市场判决）
+
+- **2026年9月被剔除 Euro Stoxx 50**，15年来首次
+- 股价自2021年高点跌超 3/4，创16年低点
+- 被动抛压：30只ETF（约590亿欧元）+ 11万只结构性产品（约680亿欧元）必须机械卖出
+- 对照 [[stellantis]] 2025年9月被剔除 → **欧洲车企连续两年被踢出蓝筹指数**，市场判定为结构性而非周期性
+
+### 为什么重组故事不被认可
+- 裁员10万人按人均8-10万欧/年 → 省80-100亿欧，仅占3000+亿欧营收约 **3%**
+- 欧洲高人力/高能源成本对中国的结构性劣势，裁员是「缩表」而非提升单位成本竞争力
+- 详见 [[euro-stoxx-50-exit]]
+
+### 月度报告补充（2026-09）
+- 9/3 监事会批准重组，再裁5万人、2030车型减半；Emden/Zwickau 停产推进
+- SSP 再拖延（Golf EV 推迟~2030），近端靠 MEB+（ID.Polo/ID.Cross 今秋上市 ~2.8万欧）
+- 中国 H1 交付 -26% 至 97.3万辆，欧洲 +3.5%
+- CARIZON（[[horizon-robotics]] JV）自研智驾芯片 500-700 TOPS
+- MOIA robotaxi 融资流产（9/16）
+
 ## 关系网络
+- [[euro-stoxx-50-exit]] - 被剔除蓝筹指数事件
+- [[stellantis]] - 欧洲车企被剔除先例
 - [[saic-gm]] - 上汽合资体系另一支柱
 - [[byd]] - 中国市场竞争者
 - [[leapmotor]] - 中国新势力竞争者

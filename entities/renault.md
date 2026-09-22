@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-21
+updated: 2026-09-22
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -109,3 +109,17 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 | 电池 | **27.5 kWh** LFP |
 | 售价 | 低于 **€20,000** |
 | 定位 | A0级欧洲本土化低成本路线样本（详见 [[twingo-e-tech]]） |
+
+### IAA 汉诺威商用车展（2026-09-15~20）
+- 发布 **Trafic Van E-Tech Electric**（基于 [[rgev-platform]]）
+- Master 新增 **V2G** 功能
+- 2028年前推出 **5款新 LCV**（轻型商用车）
+
+### 雷诺-吉利巴西合资加码（2026-09）
+- 追加投资 **20亿雷亚尔**，总投资升至 **58亿雷亚尔**（~€8.99亿）
+- 2027年起基于 [[geely]] **GEA 平台**生产雷诺品牌电动车
+- 判断：拉美用吉利架构，是「扬长避短」的防守反击——欧洲守销量质量，拉美/新兴市场找出路
+
+### 联盟协同：Twingo 平台外溢到日产
+- 日产复活 Pixo（9/23发布），实为 Twingo E-Tech 换标，斯洛文尼亚代工
+- 联盟协同从「平台共享」延展到「换标代工」（详见 [[nissan]]）

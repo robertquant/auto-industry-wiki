@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-09-20
+updated: 2026-09-22
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -59,11 +59,11 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 | 维度 | 内容 |
 |------|------|
 | 审厂地点 | 浙江宁波 |
-| 合作方 | 拓普集团确认合作中 |
+| 合作方 | 拓普集团、三花智控、均胜电子 |
 | 阶段 | 量产前供应商资质审查 |
 | 产业协同 | 宁波汽车零部件集群→机器人生产 |
 
-**判断**：从汽车零部件到机器人零部件，特斯拉将汽车供应链能力直接复用到机器人。拓普集团（Tier1）从中受益。Optimus的量产审厂启动，意味着特斯拉机器人从「实验室验证」进入「供应商品控+生产验证」阶段。
+**判断**：从汽车零部件到机器人零部件，特斯拉将汽车供应链能力直接复用到机器人。拓普/三花/均胜（Tier1）从中受益，机器人将像汽车一样制造。但审厂 ≠ 定点 ≠ 量产。详见 [[humanoid-robot]]。
 
 ## 关系网络
 - [[l3-mandatory-standard]] - 中美L3/L4监管节奏对照

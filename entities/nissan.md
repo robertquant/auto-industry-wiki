@@ -1,10 +1,10 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-09-22
 type: entity
 tags: [oem-jp, ev-tech, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 日产汽车 (Nissan)
@@ -45,7 +45,23 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md]
 - 组织架构调整力度大
 - 表明管理层意识到危机并采取行动
 
+## 2026年9月：美国大幅增产（押注唯一赚钱市场）
+
+| 维度 | 数据 |
+|------|------|
+| 美国产量 | 487k（2025）→ **1M（2030）** |
+| 方式 | 三班制提效，**不建新厂** |
+| 本土化目标 | 2030年美国销量 **80% 本土生产** |
+| 混动产品 | Rogue 混动 = e-Power 三缸串联 |
+
+**判断**：方向对——美国是日产唯一稳定赚钱的市场，用三班制挖存量产能是低成本选项。但产品撑不起目标（混动是丰田/本田天下，e-Power 认知度低），且两年亏 1.2 万亿日元仍 all-in，执行风险高。
+
+## 联盟协同：Pixo 换标复活（2026-09-23）
+- 日产复活 Pixo，实为 [[renault]] Twingo E-Tech **换标**，斯洛文尼亚代工
+- 联盟协同从「平台共享」延展到「换标代工」——雷诺平台外溢到日产微型车
+
 ## 关系网络
+- [[renault]] - 联盟伙伴，Pixo/Twingo 换标代工
 - [[byd]] - 中国竞争对手，研发效率标杆
 - [[leapmotor]] - 中国新势力，研发效率对比
 - [[automotive-rd-speed]] - 研发周期概念

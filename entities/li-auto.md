@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-09-21
+updated: 2026-09-22
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md]
+sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -132,6 +132,14 @@ sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, dail
 2. 增程器外供有现实需求（[[xiaomi-pengcheng]]等增程品牌需要差异化供应商）
 3. 碳化硅模组在800V平台上量趋势下存在独立市场
 4. 对标特斯拉开放专利和华为外供——但理想的技术积累深度仍存疑
+
+### 芯片子公司估值 150 亿（2026年9月）
+理想芯片子公司（马赫芯片业务）传出 **150 亿元估值**。判断：
+- 受「主机厂外供芯片、同行不买」的天然约束，天花板低——竞品不愿把核心智驾芯片交给对手供应
+- 150 亿是**金融工程**，买的是叙事不是现金流
+- 警惕「从车端扩到云端」是更深烧钱的坑
+
+详见 [[euro-stoxx-50-exit]] 同期「蔚小理卖技术」主题讨论。
 
 ## 待观察
 - VLA模型2026年量产进度与效果

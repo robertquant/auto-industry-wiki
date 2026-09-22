@@ -1,10 +1,10 @@
 ---
 title: AI Box行业"本末倒置"批判
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-22
 type: concept
 tags: [strategy, ai, sw, trend]
-sources: [memory/2026-08-18.md]
+sources: [memory/2026-08-18.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # AI Box行业"本末倒置"批判
@@ -68,6 +68,7 @@ sources: [memory/2026-08-18.md]
 - **是软硬协同整合者**——芯片+模型+OS+座舱一体化
 
 ## 关系网络
+- [[ai-box-independent-compute]] - 独立 AI 算力需求与 AI Box 形态演进（2026-09-22 补充：内存带宽隔离视角）
 - [[chinese-oem-ai-methodology]] - 中国车企AI方法论，软件体验驱动的具体实践
 - [[ai-in-automotive-rd]] - 车企AI研发应用
 - [[li-auto]] - 理想汽车AI布局，用户体验导向的典型案例

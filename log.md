@@ -394,3 +394,37 @@
 
 ### 备注
 - 今日以基础设施工作为主（Wiki索引重建确认、GitHub备份核验），行业资讯为凌晨dreaming对09-20日报的二次摄取
+
+## 2026-09-22 每日整理（22:00）
+
+### 新建（5）
+- raw/articles/2026-09-22-daily-digest.md - 今日资讯汇总（AI Box形态/大众跌出Euro Stoxx/泰达经销商毛利/日产美国增产/特斯拉Optimus审厂）
+- concepts/ai-box-independent-compute.md - 独立AI算力需求与AI Box形态演进（内存带宽隔离视角、三形态、出海合规逻辑）
+- concepts/euro-stoxx-50-exit.md - 欧洲车企被剔除蓝筹指数（大众15年首次，Stellantis先例，结构性定价）
+- concepts/dealer-margin-crisis.md - 经销商毛利危机与残值崩塌（泰达-21.4%口径澄清，残值=品牌资产）
+- concepts/advanced-node-capacity-2027.md - 先进制程产能被AI芯片预订至2027（汽车芯片隐性风险）
+
+### 更新（6）
+- concepts/ai-box-software-first.md - 新增 [[ai-box-independent-compute]] 反向链接，补源
+- entities/volkswagen.md - 新增被剔除Euro Stoxx 50、重组月度补充（再裁5万/SSP拖延/CARIZON）
+- entities/nissan.md - 新增美国增产（487k→1M/2030，三班制不建新厂）、Pixo换标复活
+- entities/li-auto.md - 新增芯片子公司150亿估值判断（金融工程/天花板低）
+- entities/tesla.md - Optimus审厂合作方补全（拓普/三花/均胜）
+- entities/renault.md - 新增IAA商用车（Trafic Van E-Tech/Master V2G）、巴西合资加码、Twingo平台外溢日产
+
+### 导航更新
+- index.md - 新增4个概念页（技术+2、市场/趋势/政策+2）；更新Total pages 248→252
+- 索引完整性校验：comm 输出为空（252页全部注册，缺失0）
+- Total pages 252（entities 92 / concepts 145 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **独立AI算力是真需求，Box只是形态**：本质是内存带宽隔离（memory-bound）；形态演进后装Box→板载协处理器/Chiplet→单芯集成；出海窗口期可能更长（合规门槛）
+- **AI Box = 用硬件换合规**：GDPR把DMS/街景定为个人数据，"数据不出车"海外是准入门槛而非加分项
+- **欧洲车企连续两年被踢出蓝筹指数**（Stellantis 2025.9/大众 2026.9）：市场判定结构性而非周期性，裁员10万仅省营收3%
+- **价格战代价在经销商**：新车毛利率-21.4%（vs行业利润率3.6%），残值崩塌=品牌资产归零
+- **3nm/5nm产能被AI芯片预订至2027**：汽车芯片只能在剩余产能抢，与存储涨价同源
+- **2026是"含模量"分水岭**：比拼工程化落地能力，全栈自研+算力储备者收割中高端
+- **L3"试点非量产"冷现实**：德系收缩，有沦为鸡肋风险
+
+### 备注
+- 今日robert直接对话2轮（AI Box深度追问、行业动态批量点评）+ 7个cron报告
