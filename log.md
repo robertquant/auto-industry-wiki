@@ -428,3 +428,29 @@
 
 ### 备注
 - 今日robert直接对话2轮（AI Box深度追问、行业动态批量点评）+ 7个cron报告
+
+## 2026-09-23 每日整理（22:00）
+
+### 新建（2）
+- raw/articles/2026-09-23-daily-digest.md - 今日资讯汇总（座舱AI五级分级/存储涨价推手/Cybercab运营/欧洲车企中国技术授权）
+- concepts/cockpit-ai-capability-grading.md - 座舱AI能力五级分级（中汽智能 2026-09-08 发布：规则响应→场景辅助→主动服务→自主协同→全域智能）
+
+### 更新（4）
+- entities/renault.md - 新增雷诺5（R5）改款 9/22 开启预订（£21,495 加量不加价、OTA 接入 Google Gemini）
+- entities/volkswagen.md - 新增 ID. UNYX 09 轿车 9/24 首发（与 [[xiaopeng]] 联合开发、CEA 架构）
+- concepts/cockpit-llm.md - 新增座舱AI能力五级分级小节 + 反向链接
+- concepts/cockpit-ai-evolution.md - 未改（已在 cockpit-llm 交叉）
+
+### 导航更新
+- index.md - 技术分类新增 cockpit-ai-capability-grading；更新 Total pages 252→253
+- 索引完整性校验：comm 输出为空（253页全部注册，缺失0）
+- Total pages 253（entities 92 / concepts 146 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **座舱AI首次有了能力坐标系**：中汽智能五级分级对标智驾 L0-L5，把"AI座舱"从营销话术拉回可评估阶梯；渗透率38.6%≠能力等级，L4自主协同仍是头部玩家专属
+- **9月是 L3/L4 分水岭**：Cybercab 无方向盘运营 + 国内 L3 强制国标 2027-07-01 实施倒计时
+- **舱驾一体加速器是存储涨价**：省一套 DDR 即保毛利，Q4 关注成本向定价传导
+- **欧洲车企集体倒向"中国技术授权+本土化"**：大众/奔驰/宝马智驾全数押注 Momenta 或本土伙伴
+
+### 备注
+- 今日全天无 robert 直接对话，均为 cron 产出；多数 8月销量/欧洲动态已在 09-19~09-22 完成摄取，本次以去重后的净新增内容为主

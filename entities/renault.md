@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-22
+updated: 2026-09-23
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -100,6 +100,17 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - 同时警告欧洲需保护本土产业链
 
 **判断**：这是欧洲传统车企对「中国速度」的正式回应——不以牺牲合规与安全换速度，本质是把「慢」重新定义为工程严谨性，但与[[byd]]等中国对手的成本/节奏差距难以弥合。
+
+### 雷诺5（R5）改款：9/22 开启预订
+
+| 维度 | 参数 |
+|------|------|
+| 预订开启 | 2026-09-22（英国） |
+| 售价 | £21,495（加量不加价，维持原价） |
+| 升级点 | 配置增量、OTA 接入 **Google Gemini** |
+| 战略含义 | 平价电动主力（与 [[twingo-e-tech]] 形成 A0+A 双线），座舱智能化补齐 |
+
+**判断**：R5 改款用"加量不加价"稳住英国平价电动市场地位；OTA 引入 Google Gemini 表明雷诺座舱走"外部大模型接入"路线（区别于自研），与欧洲车企普遍"拿来主义"一致。
 
 ### Twingo E-Tech 参数补全
 

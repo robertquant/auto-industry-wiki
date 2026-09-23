@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-22
+updated: 2026-09-23
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -130,6 +130,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - 详见 [[euro-stoxx-50-exit]]
 
 ### 月度报告补充（2026-09）
+- **9/24 ID. UNYX 09 轿车首发**：与 [[xiaopeng]] 联合开发、基于 **CEA 电子电气架构**（与 ID.ERA5X 同源架构，UNYX 为大众安徽「金标大众」序列）
 - 9/3 监事会批准重组，再裁5万人、2030车型减半；Emden/Zwickau 停产推进
 - SSP 再拖延（Golf EV 推迟~2030），近端靠 MEB+（ID.Polo/ID.Cross 今秋上市 ~2.8万欧）
 - 中国 H1 交付 -26% 至 97.3万辆，欧洲 +3.5%

@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-09-22 | Total pages: 252
+> Last updated: 2026-09-23 | Total pages: 253
 
-统计：entities 92 · concepts 145 · comparisons 4 · auto-industry 10 · european-automakers 1
+统计：entities 92 · concepts 146 · comparisons 4 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -137,7 +137,7 @@
 
 ## Concepts
 
-### 技术（83）
+### 技术（84）
 
 - [[800v-platform]] - 800V高压平台已成为2026年主流新能源车型标配。从400V升级至800V后，电驱系统成本增加30%，但功率密度提升60%，每1kW动力单位成本下降19%。充电速度提升50%
 - [[adas-liability-guarantee]] - 智驾竞争正在从功能指标转向责任兜底。
@@ -170,6 +170,7 @@
 - [[chongqing-auto-forum-2026]] - 2026年6月12-13日在重庆举办的中国汽车行业年度盛会，主题聚焦"AI+汽车"变革。
 - [[city-noa]] - Navigate on Autopilot（自动辅助导航驾驶）的城市场景版本。在城区道路实现点对点自动驾驶，包括红绿灯识别、路口转向、变道超车等能力。
 - [[city-noa-penetration]] - 2026年城市 NOA（自动辅助导航驾驶）渗透率突破 15%，标志着智驾竞争焦点的根本性转移——从"功能有无"转向"体验优劣"。
+- [[cockpit-ai-capability-grading]] - 座舱AI能力五级分级（中汽智能 2026-09-08 发布）：规则响应→场景辅助→主动服务→自主协同→全域智能，为座舱AI提供对标智驾的能力坐标系。
 - [[cockpit-ai-evolution]] - 智能座舱从工具属性向伙伴属性演进的三个阶段：功能座舱 → 智能座舱 → 认知座舱。由蔚来李斌在2026年6月提出。
 - [[cockpit-chip]] - 智能座舱芯片是智能汽车的核心零部件之一，2026年Q1数据显示高通以72.1%市场份额形成绝对垄断。
 - [[cockpit-driving-fusion]] - 座舱芯片和智驾芯片融合为单一芯片，一套系统同时运行座舱和智驾功能。区别于之前的"域控融合"（两个芯片塞进一个盒子）。

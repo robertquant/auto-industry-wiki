@@ -1,10 +1,10 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-09-21
+updated: 2026-09-23
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
 ---
 
 # 座舱大模型格局 (Cockpit LLM)
@@ -64,6 +64,12 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md]
 
 **判断**：端云分层模型架构成为座舱主流——常驻小模型保证离线可用与低延迟，云端大模型按需调用承担重负载。详见 [[cockpit-model-tiering]]。
 
+### 座舱AI能力五级分级（中汽智能，2026-09-08）
+
+中汽智能在苏州国际座舱大会发布座舱 AI 能力五级分级（规则响应→场景辅助→主动服务→自主协同→全域智能），为座舱 AI 提供对标智驾的能力坐标系。详见 [[cockpit-ai-capability-grading]]。
+
+**判断**：渗透率（38.6%）≠能力等级——大量车型停留在 L2/L3，L4 自主协同仍属头部玩家能力。分级若上升为强制标准，将重构座舱采购与营销话术。
+
 ## 行业共识
 
 - **Agent终局 = 可信执行**：不是回答问题的聊天机器人，而是能安全执行车内任务的数字员工
@@ -81,6 +87,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md]
 - [[cabin-drive-integration]] - 舱驾融合算力底座
 - [[li-auto]] - Mind GPT自研代表
 - [[ai-in-automotive-rd]] - 车企AI整体布局
+- [[cockpit-ai-capability-grading]] - 座舱AI能力五级分级（能力坐标系）
 
 ## 待观察
 - DeepSeek份额是否见顶（传统品牌自研起步）
