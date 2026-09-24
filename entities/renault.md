@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-23
+updated: 2026-09-24
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -134,3 +134,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ### 联盟协同：Twingo 平台外溢到日产
 - 日产复活 Pixo（9/23发布），实为 Twingo E-Tech 换标，斯洛文尼亚代工
 - 联盟协同从「平台共享」延展到「换标代工」（详见 [[nissan]]）
+
+### 巴黎车展阵容 + 股价承压（2026-09-24）
+- **巴黎车展（10/12-18）**：四大品牌共 50 台展车、**6 款全球首发新车 + 4 台概念车**；Provost 主持 12 日发布会
+- **股价一周跌 8%**：跌破 €27.07 支撑位，9/23 当日再跌 2.42%，做空头寸升至高位
+
+**判断**：产品端（巴黎车展 6 款首发）与资本端（股价一周 -8%）背离——资本市场只认**利润率与欧洲 EV 需求**，对「联盟变现 + 新兴市场换道」的叙事不买账。Q3 财报是关键验证点。日产 Pixo 用一款 Twingo 摊薄出两个品牌 A 段车，直接对冲 Leapmotor T03 / 比亚迪 Dolphin Surf，属防守性协同。

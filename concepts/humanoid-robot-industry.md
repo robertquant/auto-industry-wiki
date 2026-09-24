@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-09-20
+updated: 2026-09-24
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -95,6 +95,18 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - 智驾芯片可迁移至机器人决策
 - 算力需求类似（200-1000 TOPS）
 - 供应链高度重叠
+
+## 车企集体「造人」（2026-09-24）
+
+**14 家主流车企布局人形机器人**：
+
+| 车企 | 进展 |
+|------|------|
+| 小鹏 | 8 月融资超 9 亿美元 |
+| 长安 | 2028 量产目标 |
+| 奇瑞 | 已交付 2000+ 台 |
+
+**判断**：车企集体「造人」是被主业逼出来的转身——汽车行业 1-7 月利润率仅 3.6%、利润总额 -20.4%，人形机器人既是第二曲线也是无奈之举。核心优势是**复用汽车供应链与制造能力**（如宁波零部件集群→Optimus），而非算法领先。
 
 ## 关系网络
 - [[autonomous-driving-chips]] - 智驾芯片供应链协同

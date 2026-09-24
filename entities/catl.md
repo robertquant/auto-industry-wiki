@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-09-20
+updated: 2026-09-24
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -13,6 +13,12 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-
 全球动力电池龙头，2026年全球市占率39.9%。从高速成长期的高资本投入模式，转向兼顾股东长期回报的高质量发展阶段。2026年8月宣布61.8亿元中期分红。9月收购吉利系重庆耀宁新能源股权，同时面临车企「去宁德化」加速的逆风。
 
 ## 2026年9月关键动态
+
+### 宁德时代 × 五菱城配电池（2026-09-24）
+- 面向城市配送场景的电池产品，循环寿命 **1 万次**
+- 定位：商用车/城配高频充放场景，循环寿命为王
+
+**判断**：宁德时代用长循环寿命切入城配（物流车）细分——这是「去宁德化」压力下向 B 端商用车要增量的动作，与乘用车价格战形成区隔。
 
 ### 收购重庆耀宁（2026年9月）
 国家市场监管总局批准宁德时代收购吉利系重庆耀宁新能源股权。该工厂原规划18GWh产能，尚未建成即易手。吉利回应称「这只是整个电池战略中的一个小动作」，否认85亿投资说法。

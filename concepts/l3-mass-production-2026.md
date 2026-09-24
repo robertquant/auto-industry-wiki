@@ -1,10 +1,10 @@
 ---
 title: 2026年L3量产元年
 created: 2026-06-01
-updated: 2026-07-07
+updated: 2026-09-24
 type: concept
-tags: [l3, policy, adas, changan]
-sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md]
+tags: [policy, adas, trend, prediction]
+sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 2026年L3量产元年
@@ -26,6 +26,19 @@ sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2
 - 从"技术可行"转向"法律合规"
 - 责任主体明确转向车企，智驾从"卖功能"变成"卖责任"
 - 后续车企L3商业化节奏将显著加速
+
+## 2026年9月：牌照竞速（卡在强制国标前）
+
+| 时间 | 事件 |
+|------|------|
+| 2026-09-16 | 智界 RX 获 L3 路测牌照 |
+| 2026-09-22 | **长安拿下全国首块 L3 专用牌照** |
+| 2027-07-01 | 强制国标 **GB 44721-2026** 实施（节点） |
+
+- **智界 RX 预售 24h 内「L3 架构版」订单占比超 90%**——「L3 架构版」话术吸睛但需打折看。
+- 华为 ADS 5.0 走 **WEWA 架构**（弃语言中间层，多模态直出轨迹），与小鹏 VLA 2.0 路线同向。
+
+**判断**：L3 的「最后一公里」是**法律与成本，不是技术**。9 月道交法修订草案明确「自动驾驶激活期违法由车企处理」，责任框架补齐；但 2027-07-01 强制国标前不会大规模放开，牌照竞速更多是营销与卡位。参见 [[l3-mandatory-standard]]、[[l3-national-standard]]。
 
 ## 端到端架构革命
 2026年端到端大模型成为智驾主流技术路线：

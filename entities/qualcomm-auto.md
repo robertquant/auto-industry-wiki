@@ -1,10 +1,10 @@
 ---
 title: 高通汽车 (Qualcomm Auto)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-24
 type: entity
 tags: [chip, cockpit, adas, tier1]
-sources: [memory/2026-08-18.md, memory/2026-09-09.md]
+sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 高通汽车 (Qualcomm Auto)
@@ -20,6 +20,14 @@ sources: [memory/2026-08-18.md, memory/2026-09-09.md]
 - 定位：高端舱驾融合，座舱+智驾单芯片
 - 意义：成为舱驾融合时代「事实标品」（详见 [[cabin-drive-integration]]）
 - **关键竞争**：与地平线星空6P（650 TOPS）形成算力代差，但与英伟达Thor仍有差距
+
+### SA8797 量产确认（2026-09）
+- 单芯 ~**700 TOPS**，NPU 为上一代 **12 倍**，支持**端侧 300 亿参数 MoE**
+- 零跑 D19 全球首发双 8797（~1280 TOPS）
+- **8775 走量**：极狐 T5 首搭（144 TOPS），较上代降本 **20-30%**
+- 形成「8797 旗舰 + 8775 走量」双档矩阵，详见 [[snapdragon-8797]]
+
+**判断**：高通把「座舱入口」优势成功复制到舱驾融合——8797 定标高端、8775 下沉主流，双档卡位。座舱域控芯片 1-7 月份额 >70%，高通仍是最大受益者。
 
 ### SA8650
 - 纯智驾芯片，中端车型（零跑A10等）
@@ -38,6 +46,7 @@ sources: [memory/2026-08-18.md, memory/2026-09-09.md]
 - [[autonomous-driving-chips]] - 智驾芯片整体格局
 - [[leapmotor]] - A10（SA8650）/D19（SA8797）客户
 - [[yuanrong-qixing]] - 高通双平台VLA方案
+- [[snapdragon-8797]] - 旗舰量产芯片
 - [[horizon-robotics]] - 国产舱驾融合直接对手
 
 ## 待观察

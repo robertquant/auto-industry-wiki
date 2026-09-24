@@ -1,10 +1,10 @@
 ---
 title: 智界 (Luxeed)
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-09-24
 type: entity
-tags: [zhijie, luxeed, huawei, chery, china, ev]
-sources: [memory/2026-05-03.md]
+tags: [oem-cn, adas, vehicle, policy]
+sources: [memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 ## 概述
@@ -42,6 +42,14 @@ sources: [memory/2026-05-03.md]
 - **直接竞争**：小米SU7、特斯拉Model Y
 - **优势**：华为智驾、鸿蒙座舱、性价比
 - **劣势**：品牌新、产能爬坡中
+
+## 2026年9月：RX 获 L3 路测牌照
+
+- **9/16 智界 RX 获 L3 路测牌照**（卡在 2027-07-01 强制国标 GB 44721-2026 前）
+- **预售 24h 内「L3 架构版」订单占比超 90%**
+- 搭载华为 ADS 5.0（WEWA 架构：弃语言中间层，多模态直出轨迹）
+
+**判断**：「L3 架构版」占比 90% 说明市场对「L3」标签高度买单，但在强制国标落地前属于**营销性卡位**，实际 L3 功能开放节奏仍受法规约束。参见 [[l3-mass-production-2026]]。
 
 ## 关系网络
 

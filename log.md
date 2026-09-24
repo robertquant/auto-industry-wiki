@@ -454,3 +454,43 @@
 
 ### 备注
 - 今日全天无 robert 直接对话，均为 cron 产出；多数 8月销量/欧洲动态已在 09-19~09-22 完成摄取，本次以去重后的净新增内容为主
+
+## 2026-09-24 每日整理（22:00）
+
+### 新建（4）
+- raw/articles/2026-09-24-daily-digest.md - 今日资讯汇总（迪迪虾/高通8797量产/星空6+咖咖虾OS/L3牌照竞速/Faros遥测/汽车AI云市场/雷诺股价）
+- entities/di-di-xia.md - 比亚迪超级智能体（通义千问+阿里生态，跨应用自动执行，首搭腾势N8L）
+- entities/snapdragon-8797.md - 高通旗舰舱驾融合芯片（~700TOPS/NPU上代12倍/端侧300亿MoE，零跑D19双芯首发）
+- concepts/auto-ai-cloud-market.md - 汽车AI云市场（沙利文：2025年122亿→2029年753亿，CAGR 57.5%）
+- concepts/ai-productivity-verification-gap.md - AI提效的验证门禁瓶颈（Faros AI 2026：吞吐+33.7% vs 评审+441.5%/返工+861%）
+
+### 更新（12）
+- entities/starry-sky-chip.md - 补星空6正式规格（5nm/6P 650/6H 500TOPS）+ 咖咖虾OS；tags规范化
+- entities/snapdragon-8775.md - （未改，由 snapdragon-8797 交叉引用）
+- entities/qualcomm-auto.md - 新增SA8797量产确认（~700TOPS/端侧300亿MoE）+ 8775走量双档矩阵
+- entities/renault.md - 新增巴黎车展阵容（6款首发）+ 股价一周跌8%
+- entities/zhijie.md - 新增智界RX获L3路测牌照（9/16）+ 预售24h L3架构版占比>90%
+- entities/byd.md - 新增泰国工厂第10万辆下线 + 迪迪虾发布
+- entities/nio.md - 新增ES9第3万台交付（119天）
+- entities/bmw.md - 新增CEO反对欧盟对华加税
+- entities/catl.md - 新增宁德时代×五菱城配电池（1万次循环）
+- concepts/l3-mass-production-2026.md - 新增2026年9月牌照竞速（长安首块L3专用牌照/GB 44721-2026节点）
+- concepts/cockpit-llm.md - 新增比亚迪迪迪虾（生态派代表）+ 反向链接
+- concepts/humanoid-robot-industry.md - 新增车企集体造人（14家，小鹏/长安/奇瑞）
+- concepts/eu-ev-market-2026.md - 新增H1 2026 BEV 160.8万辆 + 8月EV+40%/份额38%
+
+### 导航更新
+- index.md - 芯片厂商+1（snapdragon-8797）、产品/平台+1（di-di-xia）、市场/趋势/政策+1（auto-ai-cloud-market）、工具/工程+1（ai-productivity-verification-gap）；更新 Total pages 253→257
+- 索引完整性校验：comm 输出为空（257页全部注册，缺失0）
+- Total pages 257（entities 94 / concepts 148 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **AI提效的真实分水岭在「工程门禁」**：Faros 2.2万开发者遥测显示生成速度已不是瓶颈，评审/测试/仿真/覆盖率能否跟上才是；不同步重造CI/CD门禁=埋雷
+- **L3的最后一公里是法律与成本，不是技术**：9月道交法修订草案补齐责任框架，但2027-07-01强制国标前不会大规模放开，「L3架构版」话术需打折
+- **舱驾一体是2026确定性最高的架构变革**：驱动力是存储涨价+降本，8797/星空6双线量产后2027年15-25万主流市场快速普及
+- **供应商把「卖芯片」升级为「卖平台」**：地平线出咖咖虾OS、英伟达出Alpamayo、华为出乾崑OS，用生态守城
+- **雷诺产品与资本背离**：巴黎车展6款首发 vs 股价一周-8%，资本市场只认利润率与欧洲EV需求
+- **车企集体「造人」是被主业逼出来的转身**：利润率仅3.6%、利润-20.4%背景下，人形机器人是第二曲线也是无奈之举
+
+### 备注
+- 今日全天无 robert 直接对话，均为 cron 产出（6个日报/简报）；本次以去重后的净新增内容为主

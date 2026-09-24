@@ -1,10 +1,10 @@
 ---
 title: 地平线星空芯片
 created: 2026-06-16
-updated: 2026-06-18
+updated: 2026-09-24
 type: entity
-tags: [horizon, chip, cockpit-driving-fusion, ai]
-sources: [memory/2026-06-16.md, raw/articles/2026-06-18-ai-panorama.md]
+tags: [chip, cockpit, adas, ai, platform]
+sources: [memory/2026-06-16.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 地平线星空芯片
@@ -39,8 +39,21 @@ sources: [memory/2026-06-16.md, raw/articles/2026-06-18-ai-panorama.md]
 - **舱驾一体优势**：单芯片替代座舱芯片+智驾芯片双方案
 - **量产进展**：Q3量产上车，关注量产进度
 
+### 星空 6 正式规格 + 咖咖虾 OS（2026-09）
+
+| 维度 | 内容 |
+|------|------|
+| 定位 | 中国首款**舱驾融合整车智能体芯片** |
+| 制程 | **5nm** |
+| 算力 | 星空 6P **650 TOPS** / 星空 6H **500 TOPS** |
+| 软件 | 同步推出座舱 OS **「咖咖虾 OS」** |
+
+**判断**：地平线从「卖芯片」升级为「卖平台」——出芯片 + 出 OS，与英伟达（Alpamayo 生态）、华为（乾崑 OS）逻辑一致，用生态守城。驱动力是**存储涨价 + 降本**（[[storage-chip-surge-2026]]）：舱驾一体省一套 DDR，地平线口径单车省 1500-4000 元。
+
 ## 相关链接
 - [[horizon]] - 地平线公司全景
 - [[cabin-driving-fusion]] - 舱驾融合技术趋势
-- [[snapdragon-8775]] - 高通竞品
+- [[snapdragon-8775]] - 高通走量竞品
+- [[snapdragon-8797]] - 高通旗舰竞品
 - [[byd-xuanji-a3]] - 比亚迪自研智驾芯片对比
+- [[storage-chip-surge-2026]] - 存储涨价（舱驾一体成本推手）

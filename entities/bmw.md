@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-19
+updated: 2026-09-24
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -34,6 +34,11 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
 Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆。Neue Klasse是宝马的下一代纯电平台，iX3的成功验证了宝马「中国智驾+欧洲底盘调校」路线的市场接受度。详见[[chinese-oem-export#反向技术输出]]。
 
 **判断**：Neue Klasse的成功不仅是车型成功，更是「欧洲品牌=中国智能化+欧洲底盘调校」组合公式的验证，对[[mercedes-benz]]和[[volkswagen]]有标杆参考价值。
+
+## 反对欧盟对华加税（2026-09-24）
+- 宝马 CEO 公开反对欧盟对中国电动车加征关税
+
+**判断**：宝马在华利益（沈阳长轴 iX3 产能 + 中国市场销量）远大于欧洲本土保护收益，反对加税是利益驱动的必然。与大众/奔驰的立场共同构成德系与法国、意大利阵营在贸易政策上的分裂。参见 [[bmw]] 中国化路线、[[chinese-oem-export]]。
 
 ## 与Momenta深度共研
 

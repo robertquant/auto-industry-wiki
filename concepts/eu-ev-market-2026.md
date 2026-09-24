@@ -1,10 +1,10 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-07-03
+updated: 2026-09-24
 type: concept
-tags: [europe, ev, market, penetration-rate, data]
-sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md]
+tags: [sales, trend, policy, prediction]
+sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 欧洲EV市场2026
@@ -18,6 +18,17 @@ sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmak
 | Q1注册量 | 72.37万辆 | +26% YoY |
 | BEV渗透率 | 20.6% | vs 2025年17% |
 | PHEV增长 | +33% YoY | 持续上升 |
+
+## H1 2026 与 8 月最新数据（2026-09-24）
+
+| 指标 | 数据 |
+|------|------|
+| H1 2026 欧洲 BEV | **160.8 万辆（+1/3）** |
+| 8 月欧洲 EV | **+40%**，份额 **38%** |
+| BYD 欧洲份额 | 2.4% |
+| Tesla 欧洲份额 | 2.4% |
+
+**判断**：H1 BEV 同比 +1/3 显示欧洲电动化重新加速，8 月份额 38% 创高。但 BYD 与 Tesla 份额同为 2.4%——中国品牌与特斯拉在欧洲仍处同一量级，本土品牌（大众/Stellantis）凭入门级 BEV 守住基本盘。
 
 ## 关键判断
 

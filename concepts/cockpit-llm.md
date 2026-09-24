@@ -1,10 +1,10 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-09-23
+updated: 2026-09-24
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 座舱大模型格局 (Cockpit LLM)
@@ -21,6 +21,11 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/art
 | 互联网生态 | 豆包、千问、小艺 | 生态+硬件绑定 |
 
 ## 关键动态（2026年9月）
+
+### 比亚迪超级智能体「迪迪虾」（2026-09-14）
+- 底座：通义千问 + 阿里生态（飞猪、淘宝闪购）；首搭腾势 N8L
+- 能力：跨应用自动执行（「订酒店 + 导航」一次指令闭环）
+- 判断：从「聊天」升级为「执行」的生态派代表，详见 [[di-di-xia]]
 
 ### 吉利超级Eva + G-ASD 4.0
 - 基于阶跃星辰 Step 3.5 Flash（外部大模型+自研框架）
@@ -88,6 +93,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/art
 - [[li-auto]] - Mind GPT自研代表
 - [[ai-in-automotive-rd]] - 车企AI整体布局
 - [[cockpit-ai-capability-grading]] - 座舱AI能力五级分级（能力坐标系）
+- [[di-di-xia]] - 比亚迪超级智能体（生态派代表）
 
 ## 待观察
 - DeepSeek份额是否见顶（传统品牌自研起步）
