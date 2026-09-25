@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-06-19
+updated: 2026-09-25
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md]
+sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 火山引擎
@@ -65,6 +65,11 @@ sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md]
 
 ### 判断
 豆包证明了AI可以做到2亿日活，但也证明了C端AI的商业化困境——"用户免费习惯+算力成本高企"的矛盾。ByteDance转向B端（Seedance）是务实的商业化选择，火山引擎的车载大模型可能成为新的增长点。
+
+### 豆包上车规模（2026-09-25）
+- **已上车超 700 万辆**（50+ 品牌、145 款车型）
+- 日均车内交互超 **3000 万次**
+- **判断**：豆包是座舱大模型“上车规模”最大的第三方之一，但按 [[cockpit-ai-barrier-layering]] 框架，模型层属“弱壁垒”——规模优势不等于护城河。
 
 ## 关联页面
 - [[saidou]] - 赛豆科技，火山引擎核心车企合作方

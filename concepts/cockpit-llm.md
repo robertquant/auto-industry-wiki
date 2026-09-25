@@ -1,10 +1,10 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-09-24
+updated: 2026-09-25
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 座舱大模型格局 (Cockpit LLM)
@@ -75,10 +75,17 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/art
 
 **判断**：渗透率（38.6%）≠能力等级——大量车型停留在 L2/L3，L4 自主协同仍属头部玩家能力。分级若上升为强制标准，将重构座舱采购与营销话术。
 
-## 行业共识
+## 壁垒讨论：功能层 vs 约束层（2026-09-25）
 
-- **Agent终局 = 可信执行**：不是回答问题的聊天机器人，而是能安全执行车内任务的数字员工
-- 端云协同成为主流架构（本地小模型+云端大模型）
+robert 判断「座舱 AI 的编排/主动服务层壁垒很低、容易被抄」。展开结论：**壁垒是「向下」的，不是「向上」的——离用户越近的功能层越易被复制，离车越近的约束层才是护城河。**
+
+- 上层 Agent/编排（如 [[di-di-xia]]）→ 零壁垒（模型/协议公开）
+- 下层 OS/中间件（如比亚迪 [[dicore]]）→ 中等壁垒（主机厂独占，需整车总线控制权）
+- 跨域隔离/Hypervisor、芯片 → 强壁垒
+- 座舱数据**无网络效应**（与智驾数据相反），唯一例外是跨设备数据（小米人车家/华为 1+8+N）
+- 中立供应商困境：往上没壁垒、往下没地盘
+
+完整框架见 [[cockpit-ai-barrier-layering]]。
 
 ## 判断
 
@@ -94,6 +101,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/art
 - [[ai-in-automotive-rd]] - 车企AI整体布局
 - [[cockpit-ai-capability-grading]] - 座舱AI能力五级分级（能力坐标系）
 - [[di-di-xia]] - 比亚迪超级智能体（生态派代表）
+- [[cockpit-ai-barrier-layering]] - 座舱AI壁垒分层框架（本页讨论的延伸）
+- [[dicore]] - 比亚迪座舱OS中间件（下层真壁垒案例）
 
 ## 待观察
 - DeepSeek份额是否见顶（传统品牌自研起步）

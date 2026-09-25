@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-09-24
+updated: 2026-09-25
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -57,6 +57,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 ### 9月动态（下旬）
 - **泰国工厂第 10 万辆下线**：海外本地化生产里程碑，东南亚产能爬坡。
 - **超级智能体「迪迪虾」发布（9/14）**：通义千问 + 阿里生态，首搭腾势 N8L，跨应用自动执行「订酒店+导航」。详见 [[di-di-xia]]。
+- **座舱OS中间件 DiCore 曝光（9/25）**：迪迪虾的执行层，让 Agent 直接调用 CAN FD 总线、V2X、AR-HUD、座椅按摩 ECU，底座为璇玑架构 2.0（舱驾电一体）。判断：**迪迪虾 Agent 是零壁垒，DiCore 才是比亚迪真正的座舱护城河**（需整车总线控制权+ECU级集成+功能安全，只有主机厂能做）。详见 [[dicore]] 与 [[cockpit-ai-barrier-layering]]。
 
 ## 2026年8月产品动态
 

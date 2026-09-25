@@ -1,10 +1,10 @@
 ---
 title: 车企软件工程AI化
 created: 2026-05-05
-updated: 2026-06-23
+updated: 2026-09-25
 type: concept
 tags: [strategy, technology, tesla, huawei]
-sources: [memory/2026-05-05.md, memory/2026-05-07.md, memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-10.md]
+sources: [memory/2026-05-05.md, memory/2026-05-07.md, memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-10.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 车企软件工程AI化
@@ -176,3 +176,22 @@ AI大模型和AI编程工具深度嵌入车企研发流程，改变代码开发�
 - AI接管"数据面"：代码生成、测试、重构
 - 人类退守"控制面"：架构决策、业务逻辑、安全边界
 - 软件工程进入后代码时代：开发速度提升6倍，测试用例生成效率+417%
+
+## 工业级 AI 工具进展（2026-09-25）
+
+### 微软（9/20 AI定义汽车论坛）
+- 自动标注非标目标**零样本准确率 97%+**
+- 宝马用 Microsoft Foundry 多智能体把测试车队数据分析**提速 12 倍**
+
+### 西门子工业 AI 平台
+- **100+ AI Agent**
+- NX MCD 虚拟调试：现场调试时间 **-30%**
+- Eigen：一次性生成代码+HMI+硬件配置
+- 3D 转 2D 效率 **×5**
+
+### 凯捷咨询
+- **89%** 车企研发成本上升
+- **67%** 认为需 2-3 年内降本 15-20% 才保住开发资格
+
+### 虾评
+AI 提效天花板不是模型能力，是**功能安全合规（[[iso-26262]] / SOTIF）**——AI 生成代码须挂确定性验证层。参见 [[ai-productivity-verification-gap]]、[[ai-testing-agent]]。

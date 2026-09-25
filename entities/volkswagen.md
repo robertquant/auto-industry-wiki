@@ -135,6 +135,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - SSP 再拖延（Golf EV 推迟~2030），近端靠 MEB+（ID.Polo/ID.Cross 今秋上市 ~2.8万欧）
 - 中国 H1 交付 -26% 至 97.3万辆，欧洲 +3.5%
 - CARIZON（[[horizon-robotics]] JV）自研智驾芯片 500-700 TOPS
+- **中国智驾与地平线升级（9/25）**：合资酷睿程 CARIZON 大众持股 60%，地平线白盒授权 AI 基座模型 + 自研 SoC **C7H** + **GAIA 世界模型**；2026 Q3 先上 7 款电车、2027 铺 CEA 全系、2027H2 交付 L3
+- **架构分治**：东半球 CEA（与 [[xiaopeng]] 共研）／西半球 SSP（推迟到 2028，软件与 Rivian 合资 RV Tech）
 - MOIA robotaxi 融资流产（9/16）
 
 ## 关系网络

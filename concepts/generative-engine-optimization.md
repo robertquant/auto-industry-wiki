@@ -1,10 +1,10 @@
 ---
 title: GEO 生成式引擎优化
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-25
 type: concept
 tags: [strategy, marketing, data]
-sources: [raw/articles/2026-05-30-ai-panorama.md]
+sources: [raw/articles/2026-05-30-ai-panorama.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # GEO（Generative Engine Optimization）— 生成式引擎优化
@@ -31,6 +31,11 @@ GEO（Generative Engine Optimization）是 2026 年车企营销新变量，指�
 - **传统 SEO 正在失效**：用户不再点击网站，而是直接获得 AI 答案
 - **内容需要"AI 可读"**：结构化数据、实体标签、因果关系清晰
 - **决策链路缩短**：从"搜索→官网→对比→决策"变为"提问→AI 推荐→决策"
+
+## 渗透数据（2026-09-25）
+- **88.6%** 消费者购车前使用 AI 搜索
+- **44%** 将 AI 作为核心查询工具
+- **判断**：GEO 从“可选”变为“必选”——不做 AI 可读性优化 = 在主力购车决策入口上隐形
 
 ## 延伸趋势
 - 车载 AI 功能仅 20% 盈利，GEO 成为低投入高回报的营销路径

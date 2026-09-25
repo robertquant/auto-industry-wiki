@@ -494,3 +494,40 @@
 
 ### 备注
 - 今日全天无 robert 直接对话，均为 cron 产出（6个日报/简报）；本次以去重后的净新增内容为主
+
+## 2026-09-25 每日整理（22:00）
+
+### 新建（3）
+- raw/articles/2026-09-25-daily-digest.md - 今日资讯汇总（座舱AI壁垒对话 + 欧洲车企/雷诺/汽车AI工程/汽车AI全景/盖世晚报）
+- concepts/cockpit-ai-barrier-layering.md - 座舱AI壁垒分层（核心：功能层零壁垒，约束层才是护城河）
+- entities/dicore.md - 比亚迪座舱OS中间件（迪迪虾执行层，主机厂独占的中等壁垒）
+
+### 更新（10）
+- entities/byd.md - 新增 DiCore 座舱OS中间件曝光（9/25）+ 璇玑架构2.0
+- concepts/cockpit-llm.md - 新增「功能层 vs 约束层」壁垒讨论 + 反向链接
+- entities/volkswagen.md - 新增中国智驾与地平线升级（CARIZON 60%/C7H SoC/GAIA世界模型）+ CEA/SSP架构分治
+- entities/mercedes-benz.md - 新增纯电产品矩阵（CLA EV/GLB EV/纯电GLC）+ Momenta 2017最早押注
+- entities/bmw.md - 新增 iX3 中国9/8申报完成、11月交付、+108mm、座舱三方案
+- entities/renault.md - 新增6亿欧元加码西班牙、8 Gordini概念车、Dacia Spring回迁
+- concepts/l3-mandatory-standard.md - 新增关键细节「L2车无法OTA升L3」
+- concepts/generative-engine-optimization.md - 新增渗透数据（88.6%用AI搜索/44%核心工具）
+- concepts/ai-software-engineering.md - 新增工业级AI工具（微软零样本97%/宝马提速12倍/西门子100+Agent/凯捷89%）
+- entities/volcengine.md - 新增豆包上车超700万辆（50+品牌145款车型）
+- concepts/physical-ai.md - 新增技术主线转移（端到端→物理AI基座模型，CVPR 2026首设研讨会）
+
+### 导航更新
+- index.md - 产品/平台+1（dicore）、技术+1（cockpit-ai-barrier-layering）；更新 Total pages 257→259
+- 索引完整性校验：comm 输出为空（259页全部注册，缺失0）
+- Total pages 259（entities 95 / concepts 149 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **座舱AI壁垒在约束层不在功能层**：Agent/编排/主动服务注定被复制，护城河在 OS中间件/跨域隔离/车规级AI安全/端侧效率/确定性编排。功能层是公开战场，约束层才是护城河。
+- **DiCore 是比亚迪真正的护城河**，不是迪迪虾 Agent（千问+公开协议，零壁垒）。
+- **座舱数据没有网络效应**（与智驾数据相反），唯一例外是跨设备数据（小米人车家/华为1+8+N）。
+- **中立供应商的座舱困境**：往上没壁垒、往下没地盘；国外主机厂生意壁垒=合规+本地化（准入壁垒）。
+- **L2 无法 OTA 升 L3** 是关键政策细节，影响存量车主与二手车逻辑。
+- **大众架构分治**：东半球CEA（小鹏）/西半球SSP（Rivian），中国智驾白盒授权地平线。
+- **AI 工程化跨过 demo 门槛**：自动标注零样本97%、测试分析提速12倍——但天花板是功能安全合规。
+
+### 备注
+- 今日有一次 robert 直接对话（15:10 座舱AI壁垒），为核心沉淀；其余为 6 个 cron 日报

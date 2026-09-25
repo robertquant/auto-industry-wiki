@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-24
+updated: 2026-09-25
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -51,9 +51,14 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - 26.99万起+900km续航：直接冲击新势力30万级价位段
 - 智驾平权（端到端全系标配）：「油改电时代」结束，进入「欧洲品牌=中国智能化+欧洲底盘调校」组合竞争时代
 
+### iX3 中国申报与交付（2026-09-25）
+- **9/8 申报完成**：iX3 长轴版中国工信部申报完成，**11 月交付**，轴距加长 **+108mm**
+- **ADAS**：用 [[momenta]] 端到端方案
+- **座舱**：集成阿里 LLM / [[deepseek]] / 华为 HiCar 三方案
+- **判断**：与奔驰（[[mercedes-benz]]）同为“欧洲豪华品牌+中国智驾供应商”组合，宝马在座舱上更开放（三方案并行）
+
 ## 关系网络
-- [[mercedes-benz]] - 德国豪华品牌直接竞品，同用Momenta
-- [[volkswagen]] - 德国巨头转型对照（大众多能源 vs 宝马纯电+插混）
+- [[mercedes-benz]] - 德国豪华品牌直接竞品，同用Momenta- [[volkswagen]] - 德国巨头转型对照（大众多能源 vs 宝马纯电+插混）
 - [[renault]] - 欧洲车企中国化/本土化路线对比
 - [[chinese-oem-export]] - 反向技术输入案例（中国智驾→欧洲品牌）
 - [[autonomous-driving-chips]] - 智驾芯片与方案商格局

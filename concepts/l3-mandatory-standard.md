@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-09-16
+updated: 2026-09-25
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -21,6 +21,11 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-
 
 ### 十五五规划确立自动驾驶安全基准
 工信部等九部门联合印发的《智能网联新能源汽车产业发展「十五五」规划》首次将自动驾驶安全性能确立为正向基准目标：「搭载自动驾驶系统车辆的安全性能须大幅超越人类驾驶员」。详见 [[fifteen-five-plan]]。
+
+### 关键细节：L2 车无法 OTA 升到 L3（2026-09-25）
+- **硬件预埋是硬门槛**：L2 与 L3 的硬件冗余（传感器、算力、线控）不同，**L2 存量车无法靠 OTA 升级到 L3**。
+- **影响**：存量车主吃不到 L3 红利，加剧「买新不买旧」；二手车市场将进一步分层（L2 车残值承压）。
+- **判断**：L3 强制国标（2027/7/1 实施）+ 不可 OTA 升级 → L3 成为新车差异化刚需，而非软件订阅点。
 
 ## 行业信号：L3硬件预埋启动
 

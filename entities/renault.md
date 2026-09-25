@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-24
+updated: 2026-09-25
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -140,3 +140,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **股价一周跌 8%**：跌破 €27.07 支撑位，9/23 当日再跌 2.42%，做空头寸升至高位
 
 **判断**：产品端（巴黎车展 6 款首发）与资本端（股价一周 -8%）背离——资本市场只认**利润率与欧洲 EV 需求**，对「联盟变现 + 新兴市场换道」的叙事不买账。Q3 财报是关键验证点。日产 Pixo 用一款 Twingo 摊薄出两个品牌 A 段车，直接对冲 Leapmotor T03 / 比亚迪 Dolphin Surf，属防守性协同。
+
+### 3日内动态（2026-09-25）
+- **6 亿欧元加码西班牙工厂**（9/24）：欧洲本土产能扩张
+- **8 Gordini 电动概念车发布**（9/23）：致敬经典 Gordini 性能子品牌，纯电化
+- **达契亚 Spring 产线回迁欧洲**：平价电车从中国回迁，呼应 [[france-social-leasing-2026]] 政策需求
+- **判断**：雷诺三条线并行——西班牙扩产（欧洲制造）+ Gordini 情感化概念（品牌向上）+ Dacia 回迁（平价电动守量）

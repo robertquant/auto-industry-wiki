@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-09-21
+updated: 2026-09-25
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -113,6 +113,17 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **GLC EV汉诺威亮相**：借IAA Transportation主场发布纯电GLC
 - **判断**：EQ品牌从「独立电动子品牌」到「事实退场」——奔驰电动线全面回归主品牌命名体系，与[[renault]]等欧洲车企的命名务实化一致。EQ后缀（EQA/EQB/EQC/EQE/EQS）作为品牌资产已被证伪
 - **座舱架构**：奔驰 Momentum 模型采用分层架构——1个小模型常驻车端、其余云端按需唤醒（对比Jetta M6的3模型、特斯拉语音的2模型），详见 [[cockpit-model-tiering]]
+
+### 纯电产品矩阵梳理（2026-09-25）
+
+| 车型 | 平台 | 电池/续航 | 备注 |
+|------|------|----------|------|
+| CLA EV | MMA / 800V | — | 800V 高压入门轿车 |
+| GLB EV | MMA | 85kWh，WLTP 631km | 9/17 发布 |
+| 纯电 GLC | MB.EA | CLTC 703km | MB.EA 首款量产车 |
+
+- **中国智驾用 [[momenta]]**：奔驰 2017 年最早押注 Momenta，是欧洲豪华品牌中绑定最早的。
+- **判断**：MMA（紧凑/入门）+ MB.EA（中型）双平台并行，覆盖 30-70 万纯电主力价位；与 [[bmw]] 的 Neue Klasse 路线正面竞争。
 
 ## 关系网络
 - [[bmw]] - 德国豪华品牌直接竞争对手，同样押注中国智驾供应商

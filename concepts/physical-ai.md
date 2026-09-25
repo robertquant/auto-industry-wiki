@@ -1,10 +1,10 @@
 ---
 title: 物理AI (Physical AI)
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-25
 type: concept
 tags: [adas, l4, world-model, humanoid-robot]
-sources: [memory/2026-05-20.md]
+sources: [memory/2026-05-20.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 物理AI (Physical AI)
@@ -60,6 +60,11 @@ AI对物理世界的理解、预测和操作能力。区别于纯软件AI（如�
 物理AI标志着AI从"数字世界"走向"物理世界"。这是AI产业的第二增长曲线，也是车企、机器人公司、制造企业的新战场。
 
 智驾只是物理AI的第一个大规模商业场景，人形机器人、工业自动化、物流机器人等场景将接续爆发。
+
+## 2026 技术主线：端到端 → 物理AI基座模型（2026-09-25）
+- **主线转移**：智驾技术主线从“端到端”转向 **物理AI基座模型 / 世界模型**
+- **CVPR 2026 首设具身智能基座模型研讨会**：学术界将“具身智能基座模型”列为核心议题
+- **判断**：与车企集体“造人”（[[humanoid-robot-industry]]）同源——智驾技术栈（感知/世界模型/VLA）向具身智能复用，形成“基座模型”统一叙事。参见 [[world-model]]、[[vla-world-model]]。
 
 ## 关系网络
 - [[world-model]] - 技术实现手段
