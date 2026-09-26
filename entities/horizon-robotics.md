@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-26
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [memory/2026-09-09.md, memory/2026-08-18.md]
+sources: [memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -30,7 +30,8 @@ sources: [memory/2026-09-09.md, memory/2026-08-18.md]
 | 星空6P | 650 TOPS（高性能版） |
 | 整车空间 | 官方口径空间占用-50% |
 | 单车降本 | 1,500-4,000元 |
-| 量产节奏 | 最快2026 Q3 |
+| 量产节奏 | 最快2026 Q3，首发客户 iCAR |
+| 安全架构 | 「城堡」物理隔离（座舱/智驾域隔离） |
 
 **判断**：星空6对标高通 SA8797（1280 TOPS）正面竞争——高通算力翻倍至1280TOPS后，星空6P的650TOPS面临直接的算力差距。卖点是「国产5nm+降本+白盒」，直接受益于舱驾融合爆发期（详见 [[cabin-drive-integration]]）。
 

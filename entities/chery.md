@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-26
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [memory/2026-09-09.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -27,6 +27,12 @@ sources: [memory/2026-09-09.md]
 - 全价值链出海： CKD散件组装 + 本地化生产基地（巴西、埃及、印尼等）
 - 覆盖市场以新兴市场为主，避开欧洲高强度竞争
 - 与[[chinese-oem-export]]趋势对照：比亚迪攻欧洲/东南亚，奇瑞深耕新兴市场
+
+## 电池技术路线（9/26）
+- **全固态电池**：2027 上车验证
+- **犀牛固液混合版**：2026 Q4 率先装车
+
+**判断**：奇瑞走「固液混合先行、全固态验证」的渐进路线，与 [[byd]] 硫化物全固态 2027 上车、[[solid-state-battery]] 行业节奏一致。
 
 ## 行业动态
 - 2026年9月：王传福、尹同跃、李斌、项兴初中科大校友同台（行业头部交流信号）

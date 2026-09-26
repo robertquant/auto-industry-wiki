@@ -1,10 +1,10 @@
 ---
 title: AI Token经济学
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-26
 type: concept
 tags: [strategy]
-sources: [memory/2026-06-06.md]
+sources: [memory/2026-06-06.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # AI Token经济学
@@ -39,6 +39,11 @@ AI Token经济学，指AI模型调用的成本结构和商业模式。2026年Cod
 - Codex用户画像：500万周活，仅占ChatGPT付费用户的10%
 - 国产模型需思考订阅模式下的盈利路径
 - 边际成本逻辑与API模式完全不同
+
+## 2026-09：「免费 Token」营销样本（荣威家越07）
+
+- [[roewe-jiayue-07]]（9/23，13.78 万起）**全额包揽用户座舱大模型 Token 成本**
+- **判断**：把持续性调用成本全压给车企，是营销手段而非商业模式——没有向用户收费的出口，无法闭环。若同行跟进，将把 AI 成本变成新的价格战维度。
 
 ## 关联页面
 - [[deepseek]] - DeepSeek开源与成本优势

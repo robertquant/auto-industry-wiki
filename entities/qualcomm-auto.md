@@ -1,10 +1,10 @@
 ---
 title: 高通汽车 (Qualcomm Auto)
 created: 2026-09-09
-updated: 2026-09-24
+updated: 2026-09-26
 type: entity
 tags: [chip, cockpit, adas, tier1]
-sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 高通汽车 (Qualcomm Auto)
@@ -26,6 +26,7 @@ sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-da
 - 零跑 D19 全球首发双 8797（~1280 TOPS）
 - **8775 走量**：极狐 T5 首搭（144 TOPS），较上代降本 **20-30%**
 - 形成「8797 旗舰 + 8775 走量」双档矩阵，详见 [[snapdragon-8797]]
+- **新增骁龙 8787**：对标「8295 座舱 + ADAS 双芯」，直攻 **15-25 万**价位带，与 8797/8775 构成三档矩阵，详见 [[snapdragon-8787]]
 
 **判断**：高通把「座舱入口」优势成功复制到舱驾融合——8797 定标高端、8775 下沉主流，双档卡位。座舱域控芯片 1-7 月份额 >70%，高通仍是最大受益者。
 

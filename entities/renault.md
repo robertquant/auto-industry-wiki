@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-25
+updated: 2026-09-26
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -146,3 +146,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **8 Gordini 电动概念车发布**（9/23）：致敬经典 Gordini 性能子品牌，纯电化
 - **达契亚 Spring 产线回迁欧洲**：平价电车从中国回迁，呼应 [[france-social-leasing-2026]] 政策需求
 - **判断**：雷诺三条线并行——西班牙扩产（欧洲制造）+ Gordini 情感化概念（品牌向上）+ Dacia 回迁（平价电动守量）
+
+### 动态补充（2026-09-26）
+- **西班牙 6 亿欧元**（2026-2030）：Valladolid/Palencia 产 5 款新车 + 新建电池组装线，两款基于 [[rgev-platform]]（RGEV Medium 2.0）的中型 EV
+- **三菱 Eclipse Cross EV**：首款「法国造」三菱（Ampere 杜埃工厂），首款欧洲纯电 SUV
+- **吉利-雷诺巴西**：首台本土制造 **EX5 EM-i**（银河星舰7）在库里蒂巴下线，首批 2026 Q4 交付；纯电 EX2（星愿）12 月投产；**研发周期 3 年压到约 20 个月**
+- **判断**：雷诺把「中国速度」用于拉美——用 [[geely]] 平台 + 本地制造换成本与节奏，是「用产能换技术」的又一注脚。

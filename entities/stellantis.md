@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-26
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md]
+sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -19,6 +19,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md]
 | 合作模式 | 技术输出+本地化生产（合资公司 Leapmotor International） |
 | B10生产 | 西班牙萨拉戈萨工厂（2026年8月起） |
 | 联合开发 | Opel C-SUV，共享平台 |
+| 马德里工厂 | 2028 年（新增） |
+| 品牌策略 | B10 将挂 **欧宝（Opel）标** |
 | 战略意义 | 绕过关税壁垒，中国车在欧洲本土制造 |
 
 ## 关系网络

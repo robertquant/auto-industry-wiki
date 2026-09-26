@@ -1,10 +1,10 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-07-07
+updated: 2026-09-26
 type: concept
 tags: [adas, l4, world-model]
-sources: [memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md]
+sources: [memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 世界模型
@@ -126,6 +126,13 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 - 小米、蔚来相继发布端到端世界模型，**0.24秒感知决策闭环是质变点**——从逐帧推理升级为场景预测
 - 纯视觉方案与多传感器融合路线走向统一
 - [[aidv]] 范式确立，AI能力成为车辆核心竞争力
+
+### 2026年9月：世界模型「祛魅」
+- **叙事转向**：从「端到端万能」兜售 → 解决具体问题
+  - **WorldEngine**：用 3DGS 重建失败场景做后训练
+  - **ResWorld**：只建模动态变化（而非全场景重建）
+- **VLA + 世界模型 2026 进入融合期**（详见 [[vla-world-model]]）
+- **判断**：世界模型从「通用模拟器」收缩为「定向补 corner case 的训练工具」——可解释认知 + 可验证几何被重新引入系统。
 
 ## 关系网络
 - [[vla-model]] - 技术链路配合

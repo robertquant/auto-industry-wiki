@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-23
+updated: 2026-09-26
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -20,6 +20,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 
 ### SSP平台定稿：从「全面电动」转「多能源」
 - 技术规范定稿，2027年首发
+- **降本目标**：SSP 2027 量产降本 **20%**，中国专属版提前一年
+- **Cariad**：裁员 **1,600 人**，集团年底累计减员 **19,000 人**
 - **关键转向**：兼容燃油/混动——大众事实上放弃「全面电动」叙事，务实多能源路线（与[[renault]]混动生态、[[mercedes-benz]]纯电为主形成欧洲三派）
 
 ### 中国智能化深化

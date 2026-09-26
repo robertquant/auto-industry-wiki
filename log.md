@@ -531,3 +531,54 @@
 
 ### 备注
 - 今日有一次 robert 直接对话（15:10 座舱AI壁垒），为核心沉淀；其余为 6 个 cron 日报
+
+## 2026-09-26 每日整理（22:00）
+
+### 新建（6）
+- entities/snapdragon-8787.md - 高通舱驾融合主流档芯片（15-25万价位带），对标「8295座舱+ADAS双芯」，与8797/8775构成三档矩阵
+- entities/xinchi-x10.md - 芯驰科技4nm车规座舱AI芯片，80TOPS/154GB/s带宽，单芯片支持9B端侧大模型
+- entities/roewe-jiayue-07.md - 上汽荣威13.78万起车型，「全额包揽用户Token成本」——判断为营销而非商业模式
+- entities/geely-super-eva.md - 吉利座舱AI Agent「超级Eva」，基座阶跃星辰Step 3.5 Flash，首发极氪8X
+- concepts/swe-agent-paradigm.md - SWE-Agent范式：交付周期-42%、单测-68%、缺陷逃逸-37%，但无自省闭环幻觉率42%
+- concepts/51sim-simone-4.md - 51Sim SimOne 4.0智驾仿真平台：4DGS重建+生成式世界模型，一致性92%
+
+### 更新（18）
+- entities/byd.md - 8月海外18.95万辆(+134%)/占比43%、匈牙利11-12月组装、补能2万→9万座闪充站
+- entities/nio.md - Q2营收321.37亿(+69.1%)、净亏5.28亿、第4000座换电站
+- entities/nio-shenji.md - 神玑NX9031已交付超25万颗
+- entities/chery.md - 全固态2027上车验证、犀牛固液混合2026Q4装车
+- entities/geely.md - 8月极氪36981/领克17027(-37%)、2026目标345万辆、银河E5 9.78万起
+- entities/bmw.md - iX3中国版沈阳产/CLTC破900km、Momenta L2++ 2027底覆盖12款、iX5 Hydrogen 2028
+- entities/volkswagen.md - SSP 2027降本20%/中国专属版提前一年、Cariad裁员1600、年底减员19000
+- entities/mercedes-benz.md - Momenta R6年内扩至9款车型、座舱接入豆包
+- entities/jaguar-land-rover.md - 裁员4000+网络攻击停摆、Range Rover Electric再推迟
+- entities/stellantis.md - 2028马德里工厂、B10将挂欧宝标
+- entities/xpeng.md - 第二代VLA砍语言转译层(20亿/1亿clips)、图灵750TOPS获大众定点、跳过L3直取L4
+- entities/renault.md - 西班牙6亿欧元/三菱Eclipse Cross EV/巴西EX5下线/研发周期3年→20个月
+- entities/horizon-robotics.md - 星空6「城堡」物理隔离、首发客户iCAR
+- entities/qualcomm-auto.md - 新增骁龙8787（三档矩阵）
+- concepts/world-model.md - 世界模型「祛魅」（WorldEngine/ResWorld、VLA+世界模型融合期）
+- concepts/advanced-node-capacity-2027.md - 英伟达Thor算力跳票2000→700TOPS
+- concepts/cockpit-model-tiering.md - 端侧常驻模型压缩至3B以内、座舱市场1828亿
+- concepts/auto-ai-cloud-market.md - 数据闭环市场2026预计450亿美元(+18%)、云端算力占40%
+- concepts/ai-token-economics.md - 荣威家越07「免费Token」营销样本
+
+### 素材
+- raw/articles/2026-09-26-daily-digest.md - 今日7个cron日报汇总
+- daily-news/2026-09-26-gasgoo-evening.md - 盖世汽车晚报（补录）
+
+### 导航更新
+- index.md - 芯片厂商+2（snapdragon-8787、xinchi-x10）、产品/平台+2（geely-super-eva、roewe-jiayue-07）、工具/工程+2（swe-agent-paradigm、51sim-simone-4）；更新 Total pages 259→265
+- 索引完整性校验：comm 输出为空（265页全部注册，缺失0）
+- Total pages 265（entities 99 / concepts 151 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **世界模型「祛魅」**：从端到端万能兜售 → 定向补corner case的训练工具，可解释认知+可验证几何重新引入系统
+- **英伟达Thor跳票（2000→700TOPS）**成供应链最大不确定性，倒逼蔚小理集体自研「去英伟达化」
+- **舱驾融合芯片是2026利润保卫战核心**：行业销售利润率3.2%、单车净利<1万，单芯片是最直接的省钱方案（地平线星空6、高通8787）
+- **座舱Agent竞争从「会聊」转向「能干活」**，壁垒在底层车载基础软件
+- **中国技术反向输出不可逆**：雷诺研发周期3年→20个月是标志性案例
+- **警惕「免费Token」打法**（荣威家越07）：营销而非商业模式
+
+### 备注
+- 今日全天无 robert 直接对话，均为 cron 产出；本次以去重后的净新增内容为主

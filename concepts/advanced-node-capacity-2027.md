@@ -1,10 +1,10 @@
 ---
 title: 先进制程产能被AI芯片预订至2027
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-26
 type: concept
 tags: [chip, supply-chain, trend, strategy]
-sources: [raw/articles/2026-09-22-daily-digest.md]
+sources: [raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 先进制程产能被AI芯片预订至2027
@@ -22,6 +22,7 @@ sources: [raw/articles/2026-09-22-daily-digest.md]
 
 ## 为什么这是汽车行业的风险
 - 智驾芯片正快速向 5nm/4nm 迁移（地平线星空6P 5nm、比亚迪璇玑A3 4nm、蔚来神玑NX9031 5nm、理想马赫M100 5nm）
+- **英伟达 Thor 算力跳票（2000 → 700 TOPS）**：旗舰智驾芯片交付不及预期，加速蔚小理集体自研「去英伟达化」
 - 车企自研芯片 + 舱驾融合放量，恰逢 AI 芯片抢占先进产能
 - 晶圆产能的优先级由出价与量决定，汽车芯片的量级远不及数据中心
 

@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-09-25
+updated: 2026-09-26
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -28,6 +28,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 
 - **「由中国定义、为全球输出」**：在中国的产品定义、供应链、智能化能力反向输出全球
 - **端侧VLM**：与清华联研，上车新一代S级
+- **智驾（Momenta R6）**：年内扩至 **9 款**车型；座舱接入字节豆包
 - 智驾技术合作方：[[momenta]]（详见 [[bmw]] 同款合作）
 
 ### GLA EV（2026年9月发布）

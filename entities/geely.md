@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-09-19
+updated: 2026-09-26
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -25,6 +25,18 @@ sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily
 | Q2营收 | 898亿元（+14%） |
 | Q2毛利率 | 18.4% |
 | 单车收入 | 12.6万元（+12.8%） |
+
+### 8月交付明细 + 全年目标（9/26）
+
+| 品牌 | 8月 | 同比 |
+|------|-----|------|
+| 极氪 | 36,981 | +109.8% |
+| 领克 | 17,027 | -37%（新能源渗透 91%） |
+
+- **2026 目标**：集团 **345 万辆**，中国星全面转 i-HEV
+- **银河E5**：800V+6C，限时 **9.78 万起**
+
+**判断**：极氪高端放量、领克燃油基盘收缩（-37%）但新能源渗透已达 91%——吉利「减法」进入尾声，全年目标靠纯电高压 + 出口兑现。
 
 ### 9月动态
 - **极氪正式并入吉利汽车**：IPO不到600天即完成私有化退市。极氪2021年4月成立，2024年11月纽交所上市，2026年9月私有化退市，上市时长不足600天——成为近年中概股最短上市纪录之一。品牌矩阵从最高峰缩减至**4个**（吉利/银河/极氪/领克）。

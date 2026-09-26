@@ -1,10 +1,10 @@
 ---
 title: 座舱模型分层架构 (Cockpit Model Tiering)
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-26
 type: concept
 tags: [cockpit, ai, sw, trend, ecosystem]
-sources: [memory/2026-09-21.md, raw/articles/2026-09-21-daily-digest.md]
+sources: [memory/2026-09-21.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 座舱模型分层架构 (Cockpit Model Tiering)
@@ -20,6 +20,7 @@ sources: [memory/2026-09-21.md, raw/articles/2026-09-21-daily-digest.md]
 | Jetta M6 | 3个模型分层 |
 | 特斯拉语音 | 2个模型分层 |
 | 理想 Mind GPT | 端到端智能体 + 180亿量级投入，座舱响应提升5倍 |
+| 行业趋势 | 端侧常驻模型压缩至 **3B 以内** + 端云协同（座舱市场预计 1828 亿元） |
 
 ## 为什么分层
 

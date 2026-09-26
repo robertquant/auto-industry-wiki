@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-09-24
+updated: 2026-09-26
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -33,6 +33,16 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 - 延续 50 万级纯电销量冠军势能，是主品牌高端化的核心支撑
 
 **判断**：ES9 交付速度验证高端纯电需求仍在，但乐道偏弱（8,810 辆）的多品牌协同问题未解。ES9 的高端定位与换电网络是蔚来差异化护城河。
+
+### Q2 2026 财报 + 换电里程碑（9/26）
+
+| 维度 | 数据 |
+|------|------|
+| Q2 营收 | 321.37 亿元（+69.1%） |
+| Q2 净亏损 | 5.28 亿元 |
+| 换电站 | 第 **4,000 座**落成 |
+
+**判断**：营收高增但尚未扭亏；换电网络继续扩张（详见 [[nev-battery-swap]]）。蔚来「纯电+换电」重资产模式的盈利拐点仍是核心观察点。
 
 ## 纯电坚守者分析（2026年9月）
 

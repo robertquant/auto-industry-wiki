@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-25
+updated: 2026-09-26
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -56,6 +56,13 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **ADAS**：用 [[momenta]] 端到端方案
 - **座舱**：集成阿里 LLM / [[deepseek]] / 华为 HiCar 三方案
 - **判断**：与奔驰（[[mercedes-benz]]）同为“欧洲豪华品牌+中国智驾供应商”组合，宝马在座舱上更开放（三方案并行）
+
+### 中国版 iX3 + 智驾/氢能规划（9/26）
+- **iX3 中国版**：沈阳产，轴距 **3,005mm**，CLTC 破 **900km**，Q4 交付
+- **智驾**：与 [[momenta]] 端到端「飞轮」方案（L2++），2027 底覆盖 **12 款**车型
+- **氢能**：iX5 Hydrogen **2028** 首发
+
+**判断**：宝马在纯电（Neue Klasse）、智驾（Momenta）、氢能（iX5）三线并行，是德系中技术路线最分散的一家。
 
 ## 关系网络
 - [[mercedes-benz]] - 德国豪华品牌直接竞品，同用Momenta- [[volkswagen]] - 德国巨头转型对照（大众多能源 vs 宝马纯电+插混）

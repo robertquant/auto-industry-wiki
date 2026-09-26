@@ -1,10 +1,10 @@
 ---
 title: 蔚来神玑NX9031芯片
 created: 2026-06-12
-updated: 2026-06-13
+updated: 2026-09-26
 type: entity
 tags: [nio, chip, autonomous-driving, world-model]
-sources: [memory/2026-06-12.md, memory/2026-06-13.md]
+sources: [memory/2026-06-12.md, memory/2026-06-13.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 蔚来神玑NX9031芯片
@@ -37,6 +37,10 @@ sources: [memory/2026-06-12.md, memory/2026-06-13.md]
 ## 产品定位
 
 神玑NX9031是蔚来从Tier-1供应商转向核心技术自研的战略产品。蔚来作为新势力三强之一，与[[byd-xuanji-a3]]、[[li-auto-m100]]、小鹏图灵芯片共同构成2026年车企自研芯片量产浪潮。
+
+## 交付规模（2026-09）
+
+- 神玑 NX9031 已交付超 **25 万颗**——[[nio]] 自研芯片规模化落地的关键数据点，是蔚小理集体自研「去英伟达化」的代表。
 
 ## 搭载车型
 

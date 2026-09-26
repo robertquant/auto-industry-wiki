@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-09-20
+updated: 2026-09-26
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 小鹏汽车 (XPeng)
@@ -130,6 +130,13 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 | 竞争意义 | 中国智驾供应链首次实现技术标准输出 |
 
 **判断**：从大众单一客户到多车企授权，小鹏正从「车企」转型为「智驾技术供应商」——与[[volkswagen]]的酷睿程白盒合作、[[huawei-auto]]乾崑生态形成三种中国智驾技术出口模式。
+
+### 智驾与芯片补强（2026-09-26）
+- **第二代 VLA**：砍掉语言转译层，训练投入 **20 亿元**、**1 亿 clips**
+- **图灵芯片**：算力 **750 TOPS**，已获 **大众**定点
+- **L4 时间表**：跳过 L3 直取 L4，2026 年 5 月首台纯视觉 Robotaxi 下线
+
+**判断**：小鹏以「VLA 砍语言转译 + 图灵芯片外供」双线，把智驾从产品能力升级为可对外输出的技术标准——详见 [[vla-world-model]]、[[volkswagen]]。
 
 ## 待观察
 - GX能否持续月销5,500+（Q3验证窗口）
