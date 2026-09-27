@@ -582,3 +582,35 @@
 
 ### 备注
 - 今日全天无 robert 直接对话，均为 cron 产出；本次以去重后的净新增内容为主
+
+## [2026-09-27 22:00] ingest | 2026-09-27 每日信息整理（8个cron日报+研判周回顾）
+
+### 新建页面（4个）
+- entities/wudang-c1296.md - 黑芝麻武当C1296：本土首个量产舱驾一体方案，与地平线星空6P、高通8797同台
+- concepts/vehicle-computing-agent.md - 计算智能体（汽车）：吉利WNEVC定调「汽车→计算智能体」，核心是「主动性」
+- concepts/battery-electrode-stacking.md - 叠片加速替代卷绕：理想/小鹏/小米导入，电池制造工艺层结构性升级
+- concepts/siemens-xcelerator-ai-agents.md - 西门子Xcelerator上线100+ AI Agent，工业软件侧AI工程化代表
+
+### 更新页面（5个）
+- entities/volvo.md - 2027年1月起沃尔沃成领克欧洲独家经销商（轻资产借渠道）
+- entities/zeekr.md - 极氪9X 9/29上市45.59万起/13分钟大定破万；吉利高端「三个9」矩阵
+- entities/leapmotor.md - D19双8797全球首发（~1280TOPS）；世界模型4.0接管率为头部1/3
+- entities/wenjie.md - 问界新M8 9/30预售（全系L3架构）
+- entities/blacksesame.md - 补录武当C1296（本土首个量产舱驾一体）
+- concepts/cockpit-driving-fusion.md - 新增2026 Q3「爆发」表（星空6P/8797/武当C1296），诱因是钱（利润率1.5%）
+
+### 素材
+- raw/articles/2026-09-27-daily-digest.md - 今日8个cron日报+盖世晚报汇总
+
+### 导航更新
+- index.md - 芯片厂商+1（wudang-c1296）、技术+3（vehicle-computing-agent、battery-electrode-stacking、siemens-xcelerator-ai-agents）；更新 Total pages 265→269
+- 索引完整性校验：comm 输出为空（269页全部注册，缺失0）
+- Total pages 269（entities 100 / concepts 154 / comparisons 4 / auto-industry 10 / european-automakers 1）
+
+### 核心洞察
+- **整车利润率跌至1.5%（十年新低）**：舱驾融合从"技术选择"变"利润保卫战刚需"（星空6P单车省1500–4000元、零跑D19双8797）
+- **计算智能体=叙事框架升级**：壁垒不在功能而在约束——Agent层可复制，中间件（碰CAN/座椅ECU）与芯片不可借
+- **叠片替代卷绕**：继"半固态/全固态"之后的电池隐性战线，高端+超快充先渗透
+- **工业软件侧AI工程化**：西门子100+ Agent量化ROI（↓30%/↑5倍/↑66%），与车企自研侧形成两股力量
+- **沃尔沃渠道变现**：领克借沃尔沃欧洲网络轻资产出海，关键变量是渠道利润分配与品牌调性冲突
+- **研判6机制盲点**：碳酸锂跌破13.5万方向对，但SMM库存口径调整后翻倍——"需求分流"叙事曾掩盖供给过剩；判断准则累计7条

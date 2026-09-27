@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-27
 type: entity
-tags: [oem-eu, strategy, sales]
-sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
+tags: [oem-eu, strategy, sales, export]
+sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -50,8 +50,19 @@ sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-
 
 **判断**：沃尔沃在华进入"保利润、稳渠道"的防御阶段。不同于大众通过合资加速智能化（[[volkswagen]]的酷睿程+小鹏合作），沃尔沃缺乏本土化技术深度——这是"保价优先"策略的技术本质原因。
 
+## 2026-09-27：领克欧洲独家经销商角色落地
+
+| 维度 | 内容 |
+|------|------|
+| 事件 | [[geely]] 与沃尔沃 9/10 达成协议，**2027年1月起沃尔沃成为领克（[[zeekr-lynk-co-merger]]体系）欧洲独家经销商** |
+| 模式 | 轻资产借渠道——用沃尔沃成熟的欧洲销售网络铺领克，无需自建渠道 |
+| 战略意义 | 吉利"轻资产借道"出海的又一落子：与雷诺借道、Stellantis 借道同构，[[chinese-oem-export]] 渠道复用样本 |
+
+**判断**：沃尔沃的欧洲渠道资产被母公司盘活，既缓解领克自建渠道的资本压力，也为沃尔沃自身在华疲软（Q2在华-35%）提供了"渠道变现"的补偿收入来源。对欧洲市场而言，这是中国品牌借道欧洲本土网络的典型路径——**关键变量是渠道利润分配与品牌调性冲突**（领克与沃尔沃价格带部分重叠）。
+
 ## 关系网络
 - [[geely]] - 母公司（收购方）
+- [[zeekr-lynk-co-merger]] - 领克品牌归属方（渠道承接对象）
 - [[volkswagen]] - 欧洲豪华品牌竞争对照
 - [[mercedes-benz]] - 豪华品牌竞争
 - [[bmw]] - 豪华品牌竞争

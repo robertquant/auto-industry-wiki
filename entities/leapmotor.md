@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-09-16
+updated: 2026-09-27
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -126,6 +126,16 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 | 出海模式 | Stellantis合作输出 | 本地化生产 |
 
 **判断**：零跑胜在规模增速和出海先发，但技术护城河弱于比亚迪。长期竞争关键看智驾能力和出海变现速度。
+
+## 2026-09-27：舱驾融合与智驾进展
+
+| 维度 | 内容 |
+|------|------|
+| D19 | 双 [[snapdragon-8797]] **全球首发**（~1280 TOPS），D系列价格 21.98–26.98万，上探30万级 |
+| 世界模型 4.0 | 接管率为头部的 1/3——世界模型路线进入"解决问题"阶段 |
+| 舱驾融合 | 作为 [[cockpit-driving-fusion]] 阵营旗舰样本 |
+
+**判断**：零跑用 D19 双8797 把舱驾融合+高算力下放到20万级，是"性价比路线+降本"一体两面——与地平线星空6P（单车省1500–4000元）同属**利润保卫战**筹码。
 
 ## 关系网络
 - [[stellantis]] - 合作伙伴，技术输出+本地化生产

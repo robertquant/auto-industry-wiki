@@ -1,10 +1,10 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-06-13
+updated: 2026-09-27
 type: entity
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
-sources: [memory/2026-05-03.md, memory/2026-06-13.md]
+sources: [memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 ## 概述
@@ -67,6 +67,16 @@ sources: [memory/2026-05-03.md, memory/2026-06-13.md]
 - **直接竞争**：理想L9/L8/L7、蔚来ES8
 - **优势**：华为智驾、鸿蒙座舱、华为渠道
 - **劣势**：品牌认知度低于传统豪华品牌
+
+## 2026-09-27：新M8 预售
+
+| 维度 | 内容 |
+|------|------|
+| 事件 | 问界新 M8 **9/30 开启预售** |
+| 关键卖点 | **全系 L3 架构** |
+| 背景 | 全国仅长安深蓝SL03、北汽极狐阿尔法S6 拿到 L3 产品准入（[[l3-mass-production-2026]]） |
+
+**判断**：在 L3 强标 GB44721-2026（2027年7月实施）前的窗口期，华为系抢先以"全系L3架构"立规格——用硬件预埋+架构声量抢 L3 用户心智，与华为 ADS 5.0（[[huawei-ads]]）的激进落地路线一致。
 
 ## 关系网络
 

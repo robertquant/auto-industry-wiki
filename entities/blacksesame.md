@@ -1,10 +1,10 @@
 ---
 title: 黑芝麻智能
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-09-27
 type: entity
-tags: [芯片, blacksesame, 智驾, 中国]
-sources: []
+tags: [chip, blacksesame, adas, 中国]
+sources: [raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 黑芝麻智能 (Black Sesame)
@@ -13,6 +13,7 @@ sources: []
 
 ## 技术进展
 
+- **武当C1296**：2026年9月披露——**本土首个量产舱驾一体方案**（座舱+智驾单芯片）。详见 [[wudang-c1296]]
 - **山海AI工具链**: 2026年推出智驾AI开发平台
 - **工具链方向**: 聚焦智驾软件开发效率提升，与小鹏X-Cache加速器形成对标
 
