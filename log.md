@@ -614,3 +614,52 @@
 - **工业软件侧AI工程化**：西门子100+ Agent量化ROI（↓30%/↑5倍/↑66%），与车企自研侧形成两股力量
 - **沃尔沃渠道变现**：领克借沃尔沃欧洲网络轻资产出海，关键变量是渠道利润分配与品牌调性冲突
 - **研判6机制盲点**：碳酸锂跌破13.5万方向对，但SMM库存口径调整后翻倍——"需求分流"叙事曾掩盖供给过剩；判断准则累计7条
+
+## [2026-09-28 22:00] ingest | 2026-09-28 每日信息整理（8个cron日报+盖世晚报）
+
+### 新建页面（3个）
+- concepts/geely-nio-swap-alliance.md - 吉利×蔚来换电联盟：资本互持（易易互联100%股权+6.4亿→蔚来能源30%；蔚来反向持股浩瀚能源10%）+统一C端换电标准
+- entities/shenxingzhe-8.md - 神行者8：奇瑞×捷豹路虎联合打造，30.99-45.99万，华为乾崑ADS5+896线激光雷达
+- comparisons/battery-swap-vs-ultra-fast-charging.md - 补能路线之争：换电联盟 vs 超充阵营（对比维度+破局点+观察指标）
+
+### 更新页面（25个）
+- entities/zhijie.md - 智界RX上市（25.98-38.98万，L3架构版31.98万起，浙赛1:43.210纪录）；鸿蒙智行累计交付155万辆
+- entities/nio.md - 8月3.58万首次同时被小鹏理想超越、港股跌超5%；充换电站9410座；吉利资本互持
+- entities/geely.md - 换电联盟；涪陵耀宁电池工厂让渡宁德（收缩电芯重资产）
+- entities/catl.md - 接盘重庆涪陵85亿30GWh确认（市监总局9/3无条件批准）；产能利用率94.86%
+- entities/deepal.md - 第100万辆下线；S07 AI激光版（豆包共创）；泰国罗勇工厂10万台/年
+- entities/momenta.md - 城区NOA市占率超60%；MG07 245版11.89万下探10万级（R7世界模型）
+- entities/chery.md - 8月28.01万/出口19.7万；神行者8
+- entities/changan.md - 8月21.88万、出口+78.6%但国内承压
+- entities/pony-ai.md - Q2收入1207万美元（+691%）；车队1975→年底3500+
+- entities/li-auto.md - H1毛利率9.5%新势力最低；8月3.77万反超蔚来
+- entities/xiaopeng.md - 8月3.91万首超蔚来；第二代VLA（30秒记忆+6秒推演）；图灵750TOPS下放15万级
+- entities/xiaomi-auto.md - 不自造电芯（中创新航/欣旺达龙甲电池）；累计210亿芯片投入
+- entities/yuanrong-qixing.md - 1亿美元C1轮；年底三款车；端到端量产车跑Robotaxi
+- entities/renault.md - 巴黎车展8 Gordini概念车；巴西新增投资3.19亿欧元
+- entities/horizon-robotics.md - 征程1500万颗（9/15）；31.94%市占率新口径（标注与13.6%口径差异）
+- entities/wenjie.md - 赛力斯主导后首场发布会改录播
+- entities/volcengine.md - 豆包座舱正式入局方案商；深蓝S07共创
+- concepts/nev-battery-swap.md - 吉利×蔚来联盟格局质变；9410座
+- concepts/city-noa-penetration.md - 渗透率15%→18%；下探10万级
+- concepts/new-forces-landscape-2026.md - 8月「零跑独一档+3.5-4万混战区」；蔚小理铁三角瓦解
+- concepts/eu-ev-market-2026.md - ACEA 8月纯电+62.7%、份额27.7%；中国品牌欧洲逼近12%
+- concepts/world-model.md - 世界模型平权（零跑10万级/乾崑9.99万/小鹏VLA2代）
+- concepts/l3-mandatory-standard.md - 全国仅2款L3准入；2027年7月强标是分水岭
+- concepts/ai-engineering-2026.md - 零跑提效90%、东风自动化90%、江汽迈思特
+- concepts/nev-penetration-60-percent.md - 9月渗透率65.7%；28款新车卡位国庆
+
+### 素材
+- raw/articles/2026-09-28-daily-digest.md - 今日8个cron日报+盖世晚报汇总
+
+### 导航更新
+- index.md - 产品/平台+1（shenxingzhe-8）、市场/趋势/政策+1（geely-nio-swap-alliance）、comparisons+1（battery-swap-vs-ultra-fast-charging）；Total pages 269→272（entities 101 / concepts 155 / comparisons 5）
+- 索引完整性校验：comm 输出为空（272页全部注册，缺失0）
+
+### 核心洞察
+- **换电进入「联盟 vs 联盟」时代**：吉利×蔚来资本互持+标准共建是今日最值得跟踪的结构性事件；对标宁德巧克力换电+超充联盟，补能竞争从企业级升级到生态级
+- **蔚小理铁三角正式瓦解**：8月小鹏、理想同时反超蔚来，3.5-4万/月成密集混战区；蔚来被超越本质是乐道未放量
+- **智驾平权进入10万级**：城区NOA渗透率18%、Momenta市占率超60%、MG07 245版11.89万——世界模型从旗舰炫技变标配
+- **技术平权快于法规平权**：全国仅2款L3准入 vs 算力下放15万级；2027年7月GB44721-2026强标才是真分水岭
+- **宁德「接盘式扩张」**：85亿接吉利涪陵30GWh在建产能，产能过剩期用收购替代新建；与车企「去宁化」两极分化并存
+- **渗透率65.7%含脉冲成分**：28款新车卡位国庆黄金周，Q4补贴退坡后分化才见真章

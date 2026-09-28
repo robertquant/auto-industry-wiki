@@ -1,10 +1,10 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-09-27
+updated: 2026-09-28
 type: entity
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
-sources: [memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 ## 概述
@@ -90,3 +90,9 @@ sources: [memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-da
 - 新款M9的市场表现
 - 与理想L9 Livis的竞争格局
 - 华为智选车模式的长期可持续性
+
+## 2026-09-28 更新：营销模式调整
+
+- 鸿蒙智行首场「车企主导、华为赋能」发布会（智界RX上市同场），**改为录播**——问界运营主导权回归[[seres]]后的信号
+- 鸿蒙智行累计交付超 155万辆（见 [[zhijie]]）
+

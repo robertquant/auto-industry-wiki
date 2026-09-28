@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-09-26
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -124,3 +124,24 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 - 三品牌共网后的运营效率
 - 海外换电站建设进展
 - 与CATL换电标准竞争格局
+
+## 2026-09-28 更新：8月被双超 + 吉利换电联盟
+
+| 维度 | 数据 |
+|------|------|
+| 8月销量 | 35,800辆（+14.5%） |
+| 排名变化 | **首次同时被小鹏（39,100）、理想（37,700）超越** |
+| 股价 | 港股午后跌超5% |
+| H1营收 | 576.7亿元（新势力第一，但盈利未解） |
+| 充换电站 | 9,410座（换电站 4,109座）行业第一 |
+
+### 吉利×蔚来充换电战略合作（9/28，重磅）
+- 吉利以易易互联100%股权 + 6.4亿元现金入股蔚来能源，持股 **30%**
+- 蔚来反向入股吉利浩瀚能源，持股 **10%**
+- 共建统一 C 端换电标准 → 详见 [[geely-nio-swap-alliance]]
+- 意义：换电从「蔚来独扛」转向「双巨头平台化」，重资产压力显著缓解
+
+### 其他动态
+- 全球首座零碳离网光储换电站落地（新疆星星峡）——极端场景补能+ESG叙事
+- 大盘见 [[2026-08-china-sales-battle]]、[[new-forces-landscape-2026]]
+

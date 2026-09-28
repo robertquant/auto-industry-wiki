@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-09-24
+updated: 2026-09-28
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -106,3 +106,12 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-
 - 海外市场（欧洲/美国）本地化生产进展
 - 换电标准竞争结果
 - 股价回调深度与反弹催化剂
+
+## 2026-09-28 更新：接盘吉利涪陵工厂细节确认
+
+- **收购**：吉利系重庆涪陵耀宁新能源电池工厂，**85亿元、30GWh**；国家市场监管总局 **9/3 无条件批准**（早期信息为「18GWh规划未建成即易手」，以今日口径为准：30GWh）
+- **宁德产能**：上半年产能利用率 **94.86%**，近满负荷运转
+- **行业背景**：全行业产能利用率不足60%，电芯产能向头部集中
+- **判断**：这是头部电池厂在产能过剩期的「接盘式扩张」——收购在建产能替代新建，重资产集中化与车企「去宁化」两极分化并存（对照：理想投资欣旺达、小米选中创新航/欣旺达）
+- 相关：[[geely]]（资产让渡方）、[[nev-battery-swap]]（巧克力换电）
+

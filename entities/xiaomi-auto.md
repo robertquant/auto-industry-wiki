@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-09-09
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -70,3 +70,11 @@ sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily
 - 澎程系列产能爬坡
 - 小米汽车独立估值可能性
 - SU7后续盈利拐点
+
+## 2026-09-28 更新：电池战略定调（9/4）
+
+- **宣布不自造电芯**：联手中创新航、欣旺达（「龙甲电池」），延续手机供应链模式——电芯外采、Pack/集成自研
+- **累计芯片投入 210亿元**：自研芯片（含澎程系列配套）与电芯外采形成「重智驾轻电芯」组合
+- 判断：与[[byd]]（电芯自造）、[[catl]]（电芯外供）形成三种纵深模式对照
+- 相关：[[xiaomi-pengcheng]]
+

@@ -1,10 +1,10 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-09-24
+updated: 2026-09-28
 type: concept
 tags: [sales, trend, policy, prediction]
-sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 欧洲EV市场2026
@@ -78,3 +78,21 @@ sources: [daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmak
 ## 来源
 
 - 2026-07-02 欧洲五大车企动态 Cron 报告
+
+## 2026-09-28 更新：ACEA 8月数据 + 中国品牌逼近12%
+
+### ACEA 8月（欧盟）
+| 指标 | 数据 |
+|------|------|
+| 纯电注册量 | +62.7% YoY |
+| BEV份额 | 17.8% → **27.7%** |
+| 新车总量 | +4.5% |
+
+### 中国品牌欧洲渗透（Dataforce）
+- 中国品牌欧洲份额**逼近12%**（欧洲汽车新闻口径 5.5%，超雷诺/奥迪）
+- 插混销量暴增约 **14倍**，占欧洲插混市场 1/3、混动 1/4——「纯电+插混」双轮驱动成型（见 [[eu-phev-strategy]]）
+- 德国 8月中国品牌份额 6.4%；英国每 5 台新车 1 台中国品牌
+- 驱动：地缘政治推高油价（德国汽油创纪录 2.31欧元/升）+ 补贴
+- **安永警告**：增长靠补贴驱动，退坡后或大幅下滑
+- 利润侧：大众10万岗位、JLR 4000裁员；技术侧：奔驰/宝马用[[momenta]]、大众用酷睿程+小鹏CEA+地平线
+

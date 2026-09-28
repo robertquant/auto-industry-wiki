@@ -1,10 +1,10 @@
 ---
 title: 元戎启行 (DeepRoute.ai)
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-28
 type: entity
 tags: [tier1, adas, ai, chip]
-sources: [memory/2026-08-18.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-18.md]
 ---
 
 # 元戎启行 (DeepRoute.ai)
@@ -62,3 +62,11 @@ sources: [memory/2026-08-18.md]
 - SA8797舱驾一体方案量产进度
 - 技术方案能否从中端向高端延伸
 - 与其他Tier1（大疆、华为、Momenta）的竞争态势
+
+## 2026-09-28 更新：C1轮融资
+
+- **获 1亿美元 C1 轮融资**（2026年9月）
+- 年底三款车型上市（高通双平台 VLA 方案规模化落地）
+- 探索「端到端量产车跑 Robotaxi」——把智驾量产能力与 L4 运营场景打通
+- 相关：[[qualcomm-auto]]、[[weRide]]、[[pony-ai]]
+

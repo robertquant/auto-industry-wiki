@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-07-06
+updated: 2026-09-28
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
 ---
 
 # 小鹏汽车
@@ -156,3 +156,16 @@ sources: [memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memo
 - **XNGP全国全量开放**:覆盖大众中国所有电动车型
 - **智驾落地进展**:一段式端到端从乘用车延伸至商用车
 - **判断**:小鹏智驾技术输出大众,是"中国技术+欧洲品牌"模式的标杆案例
+
+## 2026-09-28 更新：8月首超蔚来 + VLA进化
+
+| 维度 | 数据 |
+|------|------|
+| 8月销量 | 3.91万辆，**史上首次超越蔚来** |
+| 第二代VLA | 30秒历史记忆 + 6秒未来推演，响应提速 300% |
+| 算力下放 | MONA M03 图灵芯片 750TOPS 下放至 15万级 |
+
+- 销量结构从GX单点转向多车型（MONA系列放量），「智驾平权」打法兑现
+- VLA第二代把「世界模型推演」装进车端，是 [[vla-world-model]] 路线最激进的量产者之一
+- 相关：[[new-forces-landscape-2026]]、[[world-model]]
+

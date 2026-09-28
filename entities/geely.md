@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-09-26
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -127,3 +127,17 @@ sources: [raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily
 - 出口92万辆目标完成度
 - 几何→银河品牌整合效果
 - 吉利AI研发投入与布局
+
+## 2026-09-28 更新：换电联盟 + 电池资产收缩
+
+### 吉利×蔚来充换电全面战略合作（9/28，重磅）
+- 吉利以易易互联100%股权 + 6.4亿元现金入股蔚来能源，持股 **30%**
+- 蔚来反向入股吉利浩瀚能源，持股 **10%**
+- 共建统一 C 端换电标准 → 详见 [[geely-nio-swap-alliance]]
+- 判断：吉利补能战略从「自建对抗」转向「平台化合并」，用子公司股权置换获取换电网络+标准话语权
+
+### 电芯重资产收缩：涪陵工厂让渡宁德时代
+- 宁德时代接盘吉利系重庆涪陵耀宁新能源电池工厂（85亿元、30GWh）
+- 吉利聚焦 Pack/BMS 与换电运营，不再押注电芯制造 → 详见 [[catl]]
+- 与 8月出口连续3月破10万辆（+205%）共同构成「轻资产+出海」主线
+

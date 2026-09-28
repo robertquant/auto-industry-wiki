@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-09-25
+updated: 2026-09-28
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -118,3 +118,11 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-
 - L4商业化落地进程
 - 车企智驾功能释放节奏变化
 - Safety Case制度的具体执行细则
+
+## 2026-09-28 更新：L2.9 时代现状
+
+- **全国仅 2 款车获 L3 准入**（截至2026年9月）：技术平权快于法规平权
+- 2026 消费者实际买到的高阶智驾仍是 **L2.9 营销话术**（功能达标、责任未转）
+- **2027年7月 GB 44721-2026 强标生效是真正分水岭**——责任主体从驾驶员向车企转移（见 [[l3-mass-production-2026]]）
+- 产业节奏：硬件（激光雷达/算力）已为 L3 备货，法规与保险体系是当前约束项
+

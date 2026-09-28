@@ -1,10 +1,10 @@
 ---
 title: 小马智行 (Pony.ai)
 created: 2026-05-04
-updated: 2026-06-16
+updated: 2026-09-28
 type: entity
 tags: [adas, l4, china]
-sources: [memory/2026-05-04.md, memory/2026-06-16.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/2026-06-16.md]
 ---
 
 # 小马智行 (Pony.ai)
@@ -32,3 +32,14 @@ sources: [memory/2026-05-04.md, memory/2026-06-16.md]
 - [[l3-autonomous-driving]] - L3自动驾驶商业化
 - [[momenta]] - 智驾方案商，不同赛道
 - [[huawei-ads]] - 华为智驾，主机厂赋能路线
+
+## 2026-09-28 更新：Q2 财报
+
+| 维度 | 数据 |
+|------|------|
+| Q2 收入 | 1,207万美元（+691% YoY） |
+| 车队规模 | 1,975辆；年底目标 3,500+辆 |
+
+- Robotaxi 商业化进入放量期：收入增速远超车队增速，单车运营效率改善
+- 相关：[[weRide]]（竞对）、[[city-noa-penetration]]
+

@@ -1,10 +1,10 @@
 ---
 title: 城市 NOA 渗透率突破 15%
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-28
 type: concept
 tags: [adas, city-noa, penetration-rate, data]
-sources: [raw/articles/2026-05-30-ai-panorama.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-panorama.md]
 ---
 
 # 城市 NOA 渗透率突破 15%
@@ -37,3 +37,16 @@ sources: [raw/articles/2026-05-30-ai-panorama.md]
 - [[vla-model]] - VLA 视觉-语言-动作模型
 - [[huawei-ads]] - 华为智驾方案累计破 100 亿公里
 - [[xiaopeng]] - 小鹏 VLA 2.0 端到端路线
+
+## 2026-09-28 更新：渗透率18% + 10万级下探
+
+| 指标 | 2026年5月 | 2026年9月 |
+|------|----------|----------|
+| 城区NOA渗透率 | 15% | **18%+** |
+| 价格下探 | 20万级 | **10万级**（名爵MG07 245激光雷达版 11.89万） |
+
+- Momenta R7 世界模型版本实现10万级城区NOA（[[momenta]] 市占率超60%领跑）
+- 华为激活量 32.3万辆居装机量首位
+- 政策面：9/11 九部门「十五五」规划定调 2030 自动驾驶规模应用；L2组合辅助搭载率超70%
+- 相关：[[lidar-penetration]]、[[l3-autonomous-driving]]
+

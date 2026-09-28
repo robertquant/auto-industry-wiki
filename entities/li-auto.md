@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-09-22
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -147,3 +147,16 @@ sources: [memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, dail
 - AI战略能否转化为实质销量增长
 - 纯电产品线调整方向
 - 12亿km数据优势的护城河深度
+
+## 2026-09-28 更新：H1 业绩 + 8月反超蔚来
+
+| 维度 | 数据 |
+|------|------|
+| H1 营收 | 486.5亿元 |
+| H1毛利率 | 仅 9.5%（新势力最低） |
+| 8月销量 | 3.77万辆，**反超蔚来**（3.58万） |
+
+- 9月纯电新品密集投放（MEGA/i 系列），纯电路线加速补位
+- 毛利率承压是增程向纯电切换期的典型代价；AI/智驾投入（见 [[ai-engineering-2026]]）继续加码
+- 相关：[[new-forces-landscape-2026]]
+

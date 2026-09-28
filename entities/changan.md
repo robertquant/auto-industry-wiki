@@ -1,10 +1,10 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-09-20
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
 ---
 
 # 长安汽车 (Changan)
@@ -116,3 +116,15 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/
 - 深蓝/阿维塔销量增长
 - 长安与华为合作深度演变
 - 腾讯FDE模式能否成为车企AI合作范式
+
+## 2026-09-28 更新：8月销量
+
+| 维度 | 数据 |
+|------|------|
+| 8月销量 | 21.88万辆 |
+| 8月出口 | 9.24万辆（+78.6%） |
+
+- **国内承压**：糯玉米、红旗H5（合作体系内）大幅下滑，出口高增对冲国内疲软
+- 旗下深蓝 9/28 达成第100万辆下线（见 [[deepal]]）
+- 相关：[[china-export-leaders-2026]]
+

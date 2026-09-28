@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-09-26
+updated: 2026-09-28
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -61,3 +61,10 @@ sources: [memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-da
 - 酷睿程L3方案2027交付兑现度
 - 舱驾融合能否帮地平线突破英伟达生态壁垒
 - 征程1500万片后的L2+下沉市场垄断度
+
+## 2026-09-28 更新：市占率新口径（9/15）
+
+- **征程系列累计量产 1,500万颗**（2026-09-15 确认，与既有「1500万片」口径一致）
+- **31.94% 市占率超英伟达**（2026年9月行业信源口径；与既有 13.6%〔2026 H1，国产第一〕存在**统计口径差异**——31.94% 或为征程系列在国产/特定市场的份额口径，两口径并存待核）
+- 官方强调「征程系出货增速」：国产替代在 2026 H2 显著加速（对照：英伟达 50.9% 主导地位被持续侵蚀，见 [[autonomous-driving-chips]]）
+

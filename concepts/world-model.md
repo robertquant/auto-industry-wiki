@@ -1,10 +1,10 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-09-26
+updated: 2026-09-28
 type: concept
 tags: [adas, l4, world-model]
-sources: [memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 世界模型
@@ -150,3 +150,13 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 ## 来源
 - 2026-05-01 汽车AI应用全景动态 Cron 报告
 - 2026-05-08 汽车AI应用每日动态定时任务
+
+## 2026-09-28 更新：世界模型平权（9月）
+
+- **零跑**：200 TOPS 门槛拉低到 10万级，35万老用户免费升级——算力/功能双平权
+- **小鹏**：第二代 VLA（30秒历史记忆+6秒未来推演，响应提速300%），MONA M03 图灵芯片 750TOPS 下放 15万级
+- **华为**：乾崑智驾下探至 9.99万；ADS 4.0 WEWA 实测 7公里 0.6次接管居首
+- **Momenta R7**：MG07 245版 11.89万实现城区NOA（见 [[city-noa-penetration]]）
+- 判断：世界模型从「头部旗舰炫技」变成「10万级标配」，2026下半年竞争焦点转向数据闭环效率与接管率
+- 相关：[[vla-world-model]]、[[li-auto]]、[[xiaopeng]]
+

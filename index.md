@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-09-27 | Total pages: 269
+> Last updated: 2026-09-28 | Total pages: 272
 
-统计：entities 100 · concepts 154 · comparisons 4 · auto-industry 10 · european-automakers 1
+统计：entities 101 · concepts 155 · comparisons 5 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -119,6 +119,7 @@
 - [[dicore]] - 比亚迪自建座舱OS中间件，迪迪虾的执行层，让 Agent 直接调用 CAN FD/V2X/AR-HUD/座椅ECU。判断：这才是比亚迪真正的座舱护城河（主机厂独占，需整车总线控制权）。
 - [[geely-super-eva]] - 吉利座舱AI Agent「超级Eva」，基座为阶跃星辰Step 3.5 Flash，首发极氪8X，与智驾G-ASD 4.0同台发布。
 - [[roewe-jiayue-07]] - 上汽荣威13.78万起车型，核心卖点「全额包揽用户座舱大模型Token成本」——判断为营销手段而非商业模式，可持续性存疑。
+- [[shenxingzhe-8]] - 奇瑞×捷豹路虎联合打造豪华SUV（神行者复活），2026-09-03上市30.99-45.99万，华为乾崑ADS5+896线激光雷达，中国主机厂×欧洲豪华品牌×华为智驾三方合作代表车型。
 
 ### 历史品牌与案例（3）
 
@@ -236,7 +237,7 @@
 - [[siemens-xcelerator-ai-agents]] - 西门子Xcelerator上线100+ AI Agent，PLC编程一次生成代码+HMI+硬件配置，虚拟调试时间↓30%、图纸管理↑5倍。工业软件侧AI工程化代表。
 - [[vehicle-computing-agent]] - 计算智能体（汽车）：吉利在WNEVC 2026提出「汽车→计算智能体」，核心是「主动性」。座舱/整车AI从「聊天助手」向「能动主体」的范式迁移。
 
-### 市场/趋势/政策（35）
+### 市场/趋势/政策（36）
 
 - [[ai-manufacturing]] - AI技术嵌入汽车制造全流程，包括MES系统、柔性产线、气动仿真、研发大模型等。
 - [[ai-talent-auto-sector]] - 吉利公开坦承:汽车行业难以招聘顶尖 AI 人才。大模型公司吸走核心算力与人才资源,汽车企业面临"自建 vs 合作"的战略抉择。
@@ -273,6 +274,7 @@
 - [[spain-china-gateway]] - 西班牙埃斯特雷马杜拉自治区正在成为中资电池供应链进入欧洲的门户，复制匈牙利路径。
 - [[synthetic-data-explosion]] - 2026年成为合成数据（Synthetic Data）爆发元年。AI训练中合成数据占比达58%，首次超过真实数据。这一转变标志着汽车AI研发从"数据饥渴"转向"数据生成"新时代
 - [[zeekr-lynk-co-merger]] - 2026年6月，吉利宣布极氪与领克合并为"高端豪华新能源汽车集团"，冲击2026年百万产销目标。这是《台州宣言》战略整合的核心落地动作。
+- [[geely-nio-swap-alliance]] - 2026-09-28吉利×蔚来充换电战略合作：吉利以易易互联100%股权+6.4亿现金入股蔚来能源持股30%，蔚来反向持股浩瀚能源10%，共建统一C端换电标准。换电从「蔚来独扛」走向「双巨头平台化」，对标超充联盟。
 
 ### 工具/工程（21）
 
@@ -311,12 +313,13 @@
 - [[rgev-platform]] - 雷诺下一代纯电平台，代号RGEV Medium 2.0，目标追平中国供应链效率。2026年5月披露技术规格。
 - [[sodium-ion-battery]] - 钠离子电池是以钠离子为载体的二次电池技术，2026年进入规模化量产元年。与锂离子电池相比，钠电池在低温性能、安全性、快充能力和资源自主性方面具有显著优势，能量密度略逊但对特定场
 
-## Comparisons（4）
+## Comparisons（5）
 
 - [[2026-08-china-sales-battle]] - | 维度 | 数据 |
 - [[9-series-suv-battle]] - 2026年，C级SUV市场成为车企竞争焦点，多款"9系"旗舰SUV扎堆上市。一季度C级SUV逆势增长143.5%，高端大空间需求旺盛，但价格战不可避免。
 - [[korea-japan-automaker-divergence]] - 为什么同为东亚文化，韩国企业拼命进取，日本企业却"躺平"？
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。
+- [[battery-swap-vs-ultra-fast-charging]] - 补能路线之争2026：吉利×蔚来换电联盟 vs 比亚迪/宁德超充阵营，维度对比（时间/重资产/标准化/场景）+ 两大破局点与观察指标。
 
 ## Auto-Industry 分析（10）
 

@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-09-16
+updated: 2026-09-28
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -96,3 +96,11 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-
 - 换电网络盈利拐点何时到来
 - 蔚来面对竞争的战略应对
 - 政策层面是否会有换电补贴或标准强制
+
+## 2026-09-28 更新：吉利×蔚来联盟（格局质变）
+
+- **吉利×蔚来充换电全面战略合作**：吉利以易易互联100%股权+6.4亿现金入股蔚来能源持股 **30%**；蔚来反向入股吉利浩瀚能源持股 **10%**；共建统一 C 端换电标准 → 详见 [[geely-nio-swap-alliance]]
+- 蔚来累计充换电站 **9,410座**（换电站4,109座）行业第一
+- 蔚来全球首座零碳离网光储换电站（新疆星星峡）
+- **判断**：换电从「蔚来一家独扛」走向「双巨头平台化」；若C端标准打通，将具备与超充阵营对等的网络效应 → 对比详见 [[battery-swap-vs-ultra-fast-charging]]
+

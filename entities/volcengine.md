@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-09-25
+updated: 2026-09-28
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # 火山引擎
@@ -77,3 +77,10 @@ sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/
 - [[cockpit-ai-evolution]] - 座舱AI演化路径
 - [[huawei-ads]] - 华为智驾方案对比
 - [[deepseek]] - DeepSeek开源大模型竞争对手
+
+## 2026-09-28 更新：豆包座舱正式入局方案商
+
+- 字节（豆包座舱）**正式入局车载AI技术方案商**角色——从「提供模型」升级为「提供方案」
+- **深蓝S07 AI激光版**与火山引擎豆包大模型共创（见 [[deepal]]）
+- 判断：字节以「模型+云+方案」三件套切入，与华为、百度构成座舱AI新三国
+

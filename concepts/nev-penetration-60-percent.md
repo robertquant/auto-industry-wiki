@@ -1,10 +1,10 @@
 ---
 title: 新能源渗透率60%里程碑 (2026年)
 created: 2026-05-13
-updated: 2026-09-16
+updated: 2026-09-28
 type: concept
 tags: [nev, penetration, milestone, 2026, china, sales]
-sources: [memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
 ---
 
 # 新能源渗透率60%里程碑 (2026年)
@@ -125,3 +125,13 @@ sources: [memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-n
 - 燃油车残存市场的结构性特征（地域、价格带、用户画像）
 - 中国电动车海外市场份额变化
 - 传统合资车企的战略应对效果
+
+## 2026-09-28 更新：9月渗透率 65.7%
+
+| 时间 | 渗透率 | 数据来源 |
+|------|--------|---------|
+| **2026年9月（零售）** | **65.7%** | 乘联分会（零售，8月为65.8%基本持平） |
+
+- **新车潮脉冲**：9/21-30 共 28 款新车上市，9/23 单日 9 款创年内纪录——集体卡位国庆黄金周
+- **判断**：渗透率新高不掩盖分化——四季度补贴/以旧换新退坡预期下「谁在裸泳」才见真章；比亚迪用固态+闪充锁定技术叙事、吉利靠技术平权抢主流价位、零跑用成本壁垒吃量（见 [[new-forces-landscape-2026]]）
+

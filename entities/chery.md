@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-09-26
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -47,3 +47,14 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md]
 - 新能源出口占比能否提升（当前仍以燃油/混动为主）
 - 欧洲市场准入策略（是否跟进本地化建厂）
 - 高端化（星途/捷途）在海外市场突破
+
+## 2026-09-28 更新：8月销量 + 神行者8
+
+| 维度 | 数据 |
+|------|------|
+| 8月销量 | 28.01万辆（+15.4%） |
+| 8月出口 | 19.7万辆（+52.1%），占比超七成 |
+
+- **神行者8（9/3上市，30.99-45.99万）**：与[[jaguar-land-rover]]联合打造，华为乾崑ADS5 + 896线激光雷达——奇瑞上探豪华市场 + 捷豹路虎借中国供应链补智能化短板 → 详见 [[shenxingzhe-8]]
+- 出口高占比延续「出口王」定位，但结构以燃油+混动为主（见 [[chery-export-dependency]]）
+

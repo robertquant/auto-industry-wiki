@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-28
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [memory/2026-09-09.md, memory/2026-08-18.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md]
 ---
 
 # Momenta (魔门塔)
@@ -44,3 +44,12 @@ sources: [memory/2026-09-09.md, memory/2026-08-18.md]
 - 纯视觉 vs 激光雷达路线的量产对比口碑
 - 是否进一步拿下其他欧洲品牌
 - 与华为在城市NOA装机量上的差距收窄速度
+
+## 2026-09-28 更新：市占率超60% + 10万级下探
+
+- **城区NOA方案市占率超 60%**，领跑智驾方案商（高速端点到端路线获规模验证）
+- **名爵MG07 245激光雷达版 11.89万元**，搭载 Momenta R7 世界模型——城区NOA首次下探至 10万级
+- 华为（激活量32.3万辆）居装机量首位，Momenta 以「份额+性价比」路线并跑
+- 结合 [[bmw]]、[[mercedes-benz]] 欧洲订单：中国方案商「国内走量+海外高端」双线成型
+- 相关：[[city-noa-penetration]]、[[mg]]
+

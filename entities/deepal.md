@@ -1,10 +1,10 @@
 ---
 title: 深蓝汽车 (Deepal)
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-09-28
 type: entity
 tags: [changan, china, ev, erev, adas]
-sources: [memory/2026-06-15.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md]
 ---
 
 # 深蓝汽车 (Deepal)
@@ -62,3 +62,11 @@ sources: [memory/2026-06-15.md]
 - 华为智驾在15万级市场的实际表现
 - 增程版续航与能耗数据
 - 销量表现与市场反响
+
+## 2026-09-28 更新：100万辆下线 + AI激光版
+
+- **深蓝第100万辆整车下线**（2026-09-28）——长安系新能源最快达成百万辆的品牌之一
+- **深蓝S07 AI激光版**：与火山引擎豆包大模型共创座舱（详见 [[volcengine]]），华为乾崑智驾路线延续
+- **泰国罗勇工厂**：一期产能10万台/年，东南亚本地化生产落地
+- 相关：[[changan]]（母公司）、[[huawei-ads]]
+

@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-26
+updated: 2026-09-28
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 雷诺 (Renault)
@@ -152,3 +152,11 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **三菱 Eclipse Cross EV**：首款「法国造」三菱（Ampere 杜埃工厂），首款欧洲纯电 SUV
 - **吉利-雷诺巴西**：首台本土制造 **EX5 EM-i**（银河星舰7）在库里蒂巴下线，首批 2026 Q4 交付；纯电 EX2（星愿）12 月投产；**研发周期 3 年压到约 20 个月**
 - **判断**：雷诺把「中国速度」用于拉美——用 [[geely]] 平台 + 本地制造换成本与节奏，是「用产能换技术」的又一注脚。
+
+## 2026-09-28 更新：巴黎车展双线作战
+
+- **8 Gordini 复古概念车**：纯电双门轿跑 270hp，10/12-18 巴黎首秀，非量产——品牌叙事预热，不承载销量
+- **巴西**：雷诺-吉利联合投资新增 **3.19亿欧元**，靠吉利技术打性价比；对比：比亚迪前8月巴西累计 14.69万辆 vs 雷诺约 1万辆/3.8%份额——南美市场已被中国品牌碾压
+- **Twingo E-Tech 定价**：10月巴黎车展公布，是平价电动路线的下一观察点
+- 相关：[[horse-powertrain]]、[[geely]]、[[twingo-e-tech]]
+

@@ -1,10 +1,10 @@
 ---
 title: 智界 (Luxeed)
 created: 2026-05-03
-updated: 2026-09-24
+updated: 2026-09-28
 type: entity
 tags: [oem-cn, adas, vehicle, policy]
-sources: [memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 ## 概述
@@ -63,3 +63,21 @@ sources: [memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
 - V9的实际交付和口碑
 - 与小米SU7的轿车市场竞争
 - 华为智选车品牌之间的区隔策略
+
+## 2026-09-28 更新：智界RX 上市
+
+| 维度 | 信息 |
+|------|------|
+| 上市时间 | 2026-09-28 |
+| 价格 | 25.98 - 38.98万元；L3架构版 31.98万起 |
+| 平台 | 华为途灵平台 + 智擎 800V SiC |
+| 性能 | Ultra 零百 3.6s / 制动 32.4m |
+| 续航 | CLTC 最高 852km |
+| 感知 | 896线激光雷达 |
+| 赛道纪录 | 浙赛 1:43.210，中国品牌量产SUV纪录 |
+
+- 鸿蒙智行累计交付超 155万辆。
+- 背景：问界改由[[seres]]主导、华为赋能后的首场发布会（改为录播），鸿蒙智行体系进入「车企主导、华为赋能」新阶段。
+- 智界产品线新增：S7（纯电轿车）/ V9（纯电SUV）/ RX（运动SUV，对标特斯拉Model Y高性能版）。
+- 相关：[[huawei-auto]]、[[huawei-ads]]、[[chery]]
+
