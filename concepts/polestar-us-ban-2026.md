@@ -1,13 +1,18 @@
 ---
 title: 极星美国禁售事件 (2026)
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-29
 type: concept
 tags: [geopolitics, polestar, us, policy, trade-war]
-sources: [daily-news/2026-07-03-eu-carmakers-weekly.md]
+sources: [daily-news/2026-07-03-eu-carmakers-weekly.md, memory/2026-09-29.md]
 ---
 
 # 极星美国禁售事件 (2026)
+
+## 2026-09-29 更新：放弃上诉，全面退出美国
+
+- **极星放弃上诉，全面退出美国市场**——被美商务部依网联汽车规则禁售后未做法律对抗，选择撤离（含停产/清仓计划）。
+- **“中资关联”成美国合规红线**：极星（吉利控股 66%）被禁售 vs 沃尔沃（吉利旗下但“瑞典身份”获豁免审批）获批——中国背景在美监管中按“品牌身份”差别对待，先例效应显著（对照 [[japanese-automaker-crisis-2026]] 中美国政策收割）。
 
 ## 事件概述
 

@@ -663,3 +663,27 @@
 - **技术平权快于法规平权**：全国仅2款L3准入 vs 算力下放15万级；2027年7月GB44721-2026强标才是真分水岭
 - **宁德「接盘式扩张」**：85亿接吉利涪陵30GWh在建产能，产能过剩期用收购替代新建；与车企「去宁化」两极分化并存
 - **渗透率65.7%含脉冲成分**：28款新车卡位国庆黄金周，Q4补贴退坡后分化才见真章
+
+## [2026-09-29] ingest | 每日Wiki整理（8个cron日报 + 盖世晚报）
+- **新建**：
+  - concepts/battery-fifteen-five-plan.md - 七部门《新型电池产业"十五五"规划》（2030全固态规模化/15000次循环/PPB缺陷率/支持兼并重组）
+  - raw/articles/2026-09-29-daily-digest.md - 今日cron汇总素材
+  - raw/articles/2026-09-29-battery-15five-plan-nbd.md - 每经原文抓取（电池规划+国轩大众32.22亿欧+宁德减持裕能）
+- **更新（13页）**：
+  - concepts/geely-nio-swap-alliance.md - 蔚来能源估值160亿；吉利换电车型2027；2030万座目标
+  - concepts/solid-state-battery.md - 比亚迪2027全固态定档（硫化物+硅基负极400Wh/kg/1218km原型/仰望首搭）
+  - concepts/gen-2-blade-battery.md - 腾势Z9S 1100km纪录；汉EV 2026款1008km+5分钟闪充10-70%
+  - concepts/lithium-price-surge-2026.md - 锂价跌破13.5万；SMM库存口径8.7→17.5万吨修正（结构性过剩属实）
+  - concepts/ai-engineering-2026.md - WorkBuddy零跑90%提效；蔚来×TRAE组织级（采纳率90%/入库率19.8%）；国产PLM 42.3亿；汽车云100.9亿
+  - concepts/world-model.md - 上汽大众ID.ERA 9X首搭Momenta R7（合资首次量产世界模型）
+  - concepts/cockpit-llm.md - 斑马AutoOmni 2.0量产；豆包座舱700万辆/50+品牌145款
+  - concepts/polestar-us-ban-2026.md - 放弃上诉全面退出美国；中资关联合规红线
+  - concepts/global-battery-competition.md - 国轩×大众32.22亿欧欧洲建厂；宁德减持湖南裕能
+  - entities/volkswagen.md - "2030未来计划"（裁员10万/车型砍半/产能1200→900万）；Cariad转外采；ID.ERA 9X；ID.AURA T6
+  - entities/horizon-robotics.md - H1营收20.55亿；31.94% vs 英伟达29.38%；征程6H装ID.AURA T6
+  - entities/momenta.md - 本田全球唯一高阶智驾供应商；城NOA市占65%；GLE长轴首搭
+  - entities/renault.md - 巴黎车展6首发+4概念/周期2年；Duster Hybrid印度1.4kWh大电池强混；Rafale限量1500台
+  - entities/jaguar-land-rover.md - 两年降本17亿英镑（补入9月裁4000人条目）
+- **导航更新**：index.md - Concepts/市场趋势政策+1（battery-fifteen-five-plan）；Total pages 272→273（entities 101 / concepts 156 / comparisons 5 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（273页全部注册，缺失0）
+- **核心洞察**：①固态电池2027装车倒计时但液态已卷到1100km，规划是"锦上添花"；②换电资本级整合（蔚来×吉利）重塑补能竞争格局；③合资品牌算法国产化（ID.ERA 9X/ID.AURA T6）标志欧洲电动化进度条由中国供应商说了算；④AI Coding进组织级平台阶段；⑤碳酸锂"方向对≠机制对"：库存口径修正揭示结构性过剩

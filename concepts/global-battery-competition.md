@@ -1,10 +1,10 @@
 ---
 title: 全球动力电池竞争格局
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-09-29
 type: concept
 tags: [battery, catl, byd-findreams, market-share, solid-state]
-sources: [raw/articles/2026-05-16-battery-competition.md]
+sources: [raw/articles/2026-05-16-battery-competition.md, raw/articles/2026-09-29-battery-15five-plan-nbd.md, memory/2026-09-29.md]
 ---
 
 # 全球动力电池竞争格局
@@ -49,6 +49,11 @@ sources: [raw/articles/2026-05-16-battery-competition.md]
 - 彻底放弃电池自研
 - Northvolt破产标志着欧洲电池战略失败
 - 完全依赖亚洲供应链，议价能力弱
+
+## 2026-09-29 更新：资本再平衡两信号
+
+- **国轩高科 × 大众**：西班牙瓦伦西亚、斯洛伐克苏拉尼、摩洛哥肯尼特拉三家合资公司，总投资 **32.22亿欧元**（国轩方15.98亿）——大众与国轩从「股东关系」深化为「全球产能共建」，中国电池产业链出海再下一城（见 [[china-tech-reverse-export]]）。
+- **宁德时代减持湖南裕能至 5% 以下**（1745.97万股，比例2.06%）：头部电池厂对正极材料环节持股策略调整，映射产业链资本关系再平衡；与《新型电池“十五五”规划》支持兼并重组（[[battery-fifteen-five-plan]]）同期发生，行业整合预期升温。
 
 ## 相关页面
 

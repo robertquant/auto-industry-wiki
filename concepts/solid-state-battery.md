@@ -1,11 +1,17 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-09-19
+updated: 2026-09-29
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
 ---
+
+## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
+
+- **比亚迪全固态量产车定档 2027**（李柯确认）：硫化物路线 + 硅基负极、400Wh/kg、CLTC 1218km 原型车，**仰望新旗舰轿车或首搭**，配天神之眼 DiPilot 600。比亚迪成为全球首个确认硫化物全固态上车时间的主流车企。
+- **政策定调**：七部门《新型电池产业"十五五"规划》（9/28）首次提出 2030 年全固态初步规模化应用（见 [[battery-fifteen-five-plan]]），政策端与比亚迪量产时间表首次对齐。
+- 次日（9/29）A股固态电池概念涨停潮，机构判断产业化拐点渐近。
 
 ## 概述
 

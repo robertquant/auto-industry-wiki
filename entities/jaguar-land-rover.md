@@ -1,10 +1,10 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-09-26
+updated: 2026-09-29
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
-sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 ## 概述
@@ -109,5 +109,6 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
 ### 2026年9月：裁员 + 网络攻击停摆
 
 - **裁员 4,000 人** + 网络攻击致产线停摆
+- **两年降本 17亿英镑**（与裁员同步推进）
 - **Range Rover Electric 再推迟**至 2026/2027
 - **判断**：JLR 是欧洲传统豪华中电动化最滞后的样本——销量崩塌 + 现金流压力下，纯电旗舰反复跳票，转型窗口持续收窄。

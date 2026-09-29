@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-09-28
+updated: 2026-09-29
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md]
 ---
 
 # Momenta (魔门塔)
@@ -52,4 +52,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - 华为（激活量32.3万辆）居装机量首位，Momenta 以「份额+性价比」路线并跑
 - 结合 [[bmw]]、[[mercedes-benz]] 欧洲订单：中国方案商「国内走量+海外高端」双线成型
 - 相关：[[city-noa-penetration]]、[[mg]]
+
+## 2026-09-29 更新：本田独家 + 市占 65% + 大众合资落地
+
+- **成为本田全球唯一高阶智驾供应商**（2027 年车型落地）——日系头部首次全线外采中国智驾方案，是 [[honda-china]] 电动化失败后「技术换血」的标志动作。
+- **第三方城市 NOA 市占率 65%**（较 09-28 的 60% 口径上调）。
+- **奔驰 GLE 长轴版 59.98万起首搭 Momenta 联合智驾**；**上汽大众 ID.ERA 9X 推送 Momenta R7 世界模型**——合资首次量产世界模型（见 [[mercedes-benz]]、[[volkswagen]]、[[world-model]]）。
 

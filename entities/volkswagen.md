@@ -1,13 +1,20 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-26
+updated: 2026-09-29
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 大众汽车 (Volkswagen)
+
+## 2026-09-29 更新："2030未来计划" + 智驾外采兑现
+
+- **"2030未来计划"**：裁员 10万人、车型数量砍半、产能 1200万 → 900万辆——大众 89 年历史上最大规模自救；Cariad 失败后智驾转向外采（Rivian 58亿美元 + [[xiaopeng]]），SSP 平台 5 年难产、奥迪纯电推迟至 2029。
+- **ID.ERA 9X 推送 Momenta R7 世界模型**：合资品牌首次量产搭载世界模型（9/26 上汽大众）——中国智驾方案首次进入大众在华合资产品线（见 [[world-model]]、[[momenta]]）。
+- **ID.AURA T6 首发地平线征程6H**：合资品牌首次采用国产旗舰智驾芯片，实现车位到车位（见 [[horizon-robotics]]）。
+- 背景：8月欧盟 BEV 注册量 +62.7%（份额27.7%）中，大众是补贴驱动增长的最大受益方之一，安永警告退坡回落风险（见 [[eu-ev-market-2026]]）。
 
 ## 概述
 德国汽车巨头，在华深度布局新能源转型。2026年8月ID.ERA5X纯电SUV完成工信部申报，成为大众全球首款基于CMP平台、搭载CEA电子电气架构的量产车型，配备激光雷达实现城市NOA。一汽-大众推出全系燃油车"双终身质保"以应对新能源挤压。

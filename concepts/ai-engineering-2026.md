@@ -1,10 +1,10 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-09-28
+updated: 2026-09-29
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
-sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 2026年汽车行业AI工程化
@@ -37,6 +37,13 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - [[cockpit-llm]] - 座舱大模型产品化
 - [[vla-world-model]] - AI驱动的智驾工程化
 - [[automotive-dev-tools]] - 开发工具链AI化
+
+## 2026-09-29 更新：AI Coding 从「试点」变「基础设施」
+
+- **腾讯 WorkBuddy 落地零跑**（9/23）：40+ 业务场景，1700+ 人天 → 177 人天（**提效约 90%**）；冲压模具系统 100 人天 → 10 人天。
+- **蔚来 × 火山 TRAE**：日活率 70%+、代码采纳率 90%、入库率 19.8%，封装 Skill 包——**AI Coding 从个人工具走向组织级平台**。
+- **国产 PLM 市场 42.3亿**（+21.6%），国产份额首破 68%；**汽车云市场 100.9亿**（+55%），百度以 33.7% 份额居首。
+- 判断：车企内部 AI 研发已进入量产级，下一步看能否沉淀为可复制行业方案（广汽-彩讯 141万 首单是信号）。
 
 ## 待观察
 - 工程化落地是否同步带来ROI验证（AI投入→成本下降/效率提升的可量化证明）

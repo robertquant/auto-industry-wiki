@@ -1,13 +1,20 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-28
+updated: 2026-09-29
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 雷诺 (Renault)
+
+## 2026-09-29 更新：巴黎车展 + 印度混动攻势
+
+- **巴黎车展（10/12-18）**：6款全球首发 + 4款概念车，CEO 福兰出席；平均开发周期已压缩至 **两年**（对标中国速度，见 [[automotive-rd-speed]]）。
+- **Duster Hybrid 10/17 印度上市**：E-Tech 强混 1.8L + 双电机，**1.4kWh 电池（大于丰田强混 0.6kWh）**，城市工况纯电占比最高 **80%**——大电池强混路线在印度对 [[toyota]] 的正面进攻。
+- **Rafale Hypnotic** 限量 1,500台，6.36万欧。
+- 节奏：欧洲「本土防守 + 平价电动进攻」（[[twingo-e-tech]]）+ 印度/巴西混动性价比双线推进。
 
 ## 概述
 法国汽车巨头，欧洲"本土防守 + 平价电动进攻"路线的代表。2026年H1扭亏为盈，欧洲电气化占比突破52%。与[[geely]]存在合作网络，主打混动长期技术生态而非过渡定位。

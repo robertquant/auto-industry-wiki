@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-09-28
+updated: 2026-09-29
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -55,6 +55,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - [[autonomous-driving-chips]] - 智驾芯片整体格局
 - [[cabin-drive-integration]] - 舱驾融合赛道（星空6主力竞争）
 - [[momenta]] - 方案商生态伙伴（智驾软件层）
+
+## 2026-09-29 更新：H1 营收 + 合资首装征程6H
+
+- **H1 营收 20.55亿元**（+32.9%）；累计出货 **1,500万套**。
+- **全阶智驾芯片份额 31.94% 反超英伟达 29.38%**（2026年9月信源口径，与 09-28 记录一致；两口径并存待核，见上节）。
+- **征程6H 装上一汽-大众 ID.AURA T6**：合资品牌首次采用国产旗舰智驾芯片，实现车位到车位——国产芯片进入合资体系的标志性事件（见 [[volkswagen]]）。
 
 ## 待观察
 - 星空6量产节奏与首批客户

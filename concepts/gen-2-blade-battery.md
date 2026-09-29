@@ -1,13 +1,19 @@
 ---
 title: 第二代刀片电池
 created: 2026-06-01
-updated: 2026-07-01
+updated: 2026-09-29
 type: concept
 tags: [battery, byd, technology]
-sources: [raw/articles/2026-06-01-brand-dynamics.md]
+sources: [raw/articles/2026-06-01-brand-dynamics.md, memory/2026-09-29.md]
 ---
 
 # 第二代刀片电池
+
+## 2026-09-29 更新：续航纪录刷新
+
+- **腾势Z9S** 二代刀片 CLTC **1100km**，刷新量产车纯电续航纪录。
+- **汉EV 2026款**：102度刀片 CLTC **1008km**、**5分钟闪充 10-70%**，24.99万起。
+- 判断：液态路线已被卷到 1100km+“闪充几分钟”，**全固态（2027）反而成了“锦上添花”**——真正的护城河是二代刀片+超快充组合，而非固态本身（见 [[solid-state-battery]]、[[ultra-fast-charging]]）。
 
 ## 概述
 比亚迪2026年发布的全新一代磷酸铁锂电池技术，在能量密度和充电速度上实现重大突破。

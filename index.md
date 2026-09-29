@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-09-28 | Total pages: 272
+> Last updated: 2026-09-29 | Total pages: 273
 
-统计：entities 101 · concepts 155 · comparisons 5 · auto-industry 10 · european-automakers 1
+统计：entities 101 · concepts 156 · comparisons 5 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -244,6 +244,7 @@
 - [[ai-token-economics]] - AI Token经济学，指AI模型调用的成本结构和商业模式。2026年Codex订阅模式的经济学分析揭示了"健身房模式"的本质。
 - [[auto-ai-cloud-market]] - 沙利文口径：中国汽车AI云市场2025年122亿元→2029年753亿元，CAGR ~57.5%。数据飞轮（Waymo/英伟达物理AI数据工厂/华为八爪鱼）驱动，是卖方确定性受益赛道。
 - [[auto-price-hike-2026]] - 2026年4-5月，新能源汽车行业从价格战转向涨价潮，标志着行业利润修复周期的开始。
+- [[battery-fifteen-five-plan]] - 2026-09-28七部门《新型电池产业“十五五”规划》：电池领域首个国家级专项规划，2030年全固态初步规模化、长寿命锂电池循环15000次、头部缺陷率PPB级，明确支持兼并重组。
 - [[bba-ev-ranking-2026]] - 宝马 > 奔驰 > 大众
 - [[brand-sales-may-june-2026]] - | 品牌 | 月销量 | 同比/环比 | 关键动态 |
 - [[central-soe-restructuring-2026]] - 2026年，一汽、东风、长安三大汽车央企启动重组整合，引发行业热议。整合目标是"竞速赛模式"——三家央企各自跑出新速度，而非简单合并。
