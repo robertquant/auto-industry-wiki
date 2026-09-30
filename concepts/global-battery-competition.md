@@ -1,7 +1,7 @@
 ---
 title: 全球动力电池竞争格局
 created: 2026-05-16
-updated: 2026-09-29
+updated: 2026-09-30
 type: concept
 tags: [battery, catl, byd-findreams, market-share, solid-state]
 sources: [raw/articles/2026-05-16-battery-competition.md, raw/articles/2026-09-29-battery-15five-plan-nbd.md, memory/2026-09-29.md]
@@ -54,6 +54,12 @@ sources: [raw/articles/2026-05-16-battery-competition.md, raw/articles/2026-09-2
 
 - **国轩高科 × 大众**：西班牙瓦伦西亚、斯洛伐克苏拉尼、摩洛哥肯尼特拉三家合资公司，总投资 **32.22亿欧元**（国轩方15.98亿）——大众与国轩从「股东关系」深化为「全球产能共建」，中国电池产业链出海再下一城（见 [[china-tech-reverse-export]]）。
 - **宁德时代减持湖南裕能至 5% 以下**（1745.97万股，比例2.06%）：头部电池厂对正极材料环节持股策略调整，映射产业链资本关系再平衡；与《新型电池“十五五”规划》支持兼并重组（[[battery-fifteen-five-plan]]）同期发生，行业整合预期升温。
+
+## 2026-09-30 更新：出海专利布局警报
+
+- 泰达论坛《新一代动力电池演进下的知识产权研究战略》：中国**钠离子电池专利占全球75%**（领先），但**海外专利布局占比仅约20%**，远低于日美韩德
+- 2024-2025 海外电池诉讼明显增多：出海从「产能战」进入「专利战」，专利储备成必修课（见 [[sodium-ion-battery]]）
+- **判断**：产能出海速度远快于知识产权出海——「有产能、无专利」是中国电池出海的隐性天花板，与国轩×大众产能共建（[[china-tech-reverse-export]]）形成对照
 
 ## 相关页面
 

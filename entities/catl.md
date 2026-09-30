@@ -1,7 +1,7 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-09-28
+updated: 2026-09-30
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
@@ -99,6 +99,20 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 | 路线分歧 | 与[[byd]]硫化物路线2027上车承诺形成直接对立 |
 
 **判断**：宁德权威唱空全固态，实质是技术路线站队——宁德氧化物路线vs比亚迪硫化物路线。宁德认为钠电和凝聚态在短期更具商业可行性。与[[solid-state-battery]]中比亚迪硫化物方案形成对比。
+
+## 2026-09-30 更新：天行II + 理想冲击
+
+### 天行II 模块化商用车电池平台（9/14 IAA汉诺威）
+| 维度 | 参数 |
+|------|------|
+| 重卡版续航 | **1000公里** |
+| 兆瓦快充 | 25分钟补能 80% |
+| 设计寿命 | 12年/150万公里 |
+
+### 资本市场冲击
+- **9月回购约31.03亿元**：研报指排产饱满、供不应求（9/28）
+- **理想全系切换自研电池 → 市值十天蒸发超7000亿**：头部客户「去宁化」升级为估值事件，与 [[li-auto]] 自研5C电池（欣旺达/中创新航双代工）直接相关；对照 [[battery-white-box]]
+- 相关：[[global-battery-competition]]、[[battery-fifteen-five-plan]]
 
 ## 待观察
 - 车企去宁德化趋势的演变斜率

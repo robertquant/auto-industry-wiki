@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-09-26
+updated: 2026-09-30
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -43,9 +43,10 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 | 里程碑 | 全球首家1,600万辆新能源下线 |
 
 **动态**：腾势Z9S/大汉开启预售；第二代刀片电池+闪充站布局1万座/332城。8月出海数据详见 [[chinese-oem-export]]，大盘对照见 [[2026-08-china-sales-battle]]。
+- **9/30 补充**：方程S/SGT 18.99万起；秦MAX首月仅 2,787台（走量成败看Q4）；**5个月建成 10,000座闪充站**（2026底目标2万座）；2026海外目标 180万 / 2027年 250万
 
 ### 9月动态
-- **马来西亚建厂搁置**：比亚迪取消在霹雳州的自建工厂计划，改为与当地企业合作谈判。此前分歧涉及本地组装车辆出口比例（最高80%）未与马方达成一致。马来西亚累计销售已超3.5万辆电动车。
+- **马来西亚建厂搁置（9月）→ 9/28签约反转**：取消霹雳州自建计划后，9/28与马方签约推进东南亚本地化整车生产——自建改合作路径落地；马来西亚累计销售已超3.5万辆电动车。
 - **首款人形机器人「小迪」首秀**：比亚迪发布首款人形机器人，正式入局机器人赛道。（15家主流车企已入局）
 - **第36周销量**：9月首周比亚迪54,550辆，持续领跑。
 

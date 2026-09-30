@@ -687,3 +687,27 @@
 - **导航更新**：index.md - Concepts/市场趋势政策+1（battery-fifteen-five-plan）；Total pages 272→273（entities 101 / concepts 156 / comparisons 5 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（273页全部注册，缺失0）
 - **核心洞察**：①固态电池2027装车倒计时但液态已卷到1100km，规划是"锦上添花"；②换电资本级整合（蔚来×吉利）重塑补能竞争格局；③合资品牌算法国产化（ID.ERA 9X/ID.AURA T6）标志欧洲电动化进度条由中国供应商说了算；④AI Coding进组织级平台阶段；⑤碳酸锂"方向对≠机制对"：库存口径修正揭示结构性过剩
+
+## [2026-09-30] ingest | 每日Wiki整理（10个cron日报 + 盖世晚报）
+- **新建**：
+  - comparisons/2026-09-china-sales-battle.md - 9月大盘：零售224.1万（+6.3%）创9月纪录、新能源129.6万/渗透率57.8%、燃油车企利润率1.5%近十年最低、新车60+款
+  - raw/articles/2026-09-30-daily-digest.md - 今日cron汇总素材（含研判周回顾要点）
+- **更新（15页）**：
+  - entities/byd.md - 9/28马来西亚签约（自建搁置→合作落地）；方程S/SGT 18.99万起；秦MAX首月2,787台；5个月1万座闪充站；2026海外180万/2027 250万目标
+  - entities/zeekr.md - 9X出海（SEP超级电混，阿联酋80万+/欧洲近100万「最贵中国车」，60+国家/近800门店）；8月36,981辆（+109.8%）；千里科技3,443.88万收购智驾研发资产
+  - entities/leapmotor.md - 上半年出口9.6万台（+372.6%）；意大利纯电市占率超25%；第二品牌2027 Q4定档（30万+）
+  - entities/li-auto.md - i9实际售价36.98万（低于预期38.98-40.98万）；自研电池切换致宁德市值十天蒸发超7000亿
+  - entities/xiaopeng.md - G9L 9/17-18上市23.18万起（纯电+超级增程）
+  - entities/mercedes-benz.md - Momenta智驾扩至迈巴赫S级（首进百万级豪华燃油）；纯电CLA 24.9万起/866km；庄睦德9/29「高质量共创」
+  - entities/bmw.md - iX3长轴26.99-33.99万一口价、CLTC最高919km（豪华首款破900km）、400kW快充10分钟427km
+  - entities/stellantis.md - 神龙×Momenta全球战略（R7世界模型，Jeep/标致首搭）；博泰车联进Jeep全球供应；零跑意大利25%市占
+  - entities/volvo.md - 史上最大产品计划：2030前13款新车/6款中国专供，放弃全面纯电化
+  - entities/catl.md - 天行II商用车平台（重卡1000km/兆瓦快充25分钟80%/12年150万公里）；9月回购31.03亿；理想冲击市值蒸发7000亿
+  - entities/changan.md - 8月集团14.09万（-22.6%）；糯玉米1.79万→31台（结构崩塌信号）
+  - concepts/solid-state-battery.md - 丰田福冈良品率仅65%（vs液态95%）、成本2.3元/Wh「专利最多、产品最慢」
+  - concepts/global-battery-competition.md - 出海专利警报：钠离子专利占全球75%但海外布局仅20%
+  - concepts/new-forces-landscape-2026.md - 恒大汽车正式退出制造（洗牌信号增强）
+  - auto-industry/suzuki-india-analysis.md - 补frontmatter；8月市占40.1%仍稳但2025财年年度首度跌破40%
+- **导航更新**：index.md - Comparisons 5→6（+2026-09-china-sales-battle）；Total pages 273→274
+- **索引完整性校验**：comm 输出为空（274页全部注册，缺失0）
+- **核心洞察**：①结构换挡是9月主线——比亚迪增长引擎切海外（占比43%）、零跑超特斯拉中国、极氪9X立价80万+，自主攻防从国内卷到全球定价权；②外资反攻逻辑清晰——大众ID.AURA中方主导+奔驰中国智驾进迈巴赫+宝马iX3一口价919km，Stellantis三层中国供应链入局（零跑/Momenta/博泰）——「技术换市场」角色首次反转；③理想自研电池→宁德市值蒸发7000亿，「去宁化」从叙事变市值事件；④渗透率口径57.8% vs 8月65.8%差异大，需校准

@@ -1,7 +1,7 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-09-28
+updated: 2026-09-30
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
@@ -36,7 +36,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 
 **26.5亿入股欣旺达动力**：理想以26.5亿元增资欣旺达动力，获11.7%股份成第二大股东。自研5C电芯委托欣旺达和中创新航代工，Pack由理想自产。同时引入中创新航为第三家电池供应商。
 
-**i9发布（9月16日）**：定位40万级纯电旗舰「城市顶级大平层」，5225×1970×1752mm/轴距3168mm，风阻0.215Cd（全球量产SUV最低）。101kWh电池/CLTC 705km/5C超充10分钟400-500km。首发自研马赫M100芯片（2560TOPS）+四激光雷达。单Home版本，预期起售价38.98-40.98万元。
+**i9发布（9月16日）**：定位40万级纯电旗舰「城市顶级大平层」，5225×1970×1752mm/轴距3168mm，风阻0.215Cd（全球量产SUV最低）。101kWh电池/CLTC 705km/5C超充10分钟400-500km。首发自研马赫M100芯片（2560TOPS）+四激光雷达。单Home版本，**9/16上市实际售价 36.98万元**（低于预期38.98-40.98万，一口价打法）。
 
 **自研电池覆盖全系**：自2026下半年起自研电池逐步覆盖全系——L8、L6、i8已搭载；新一代MEGA首批用宁德时代，后续切换自研5C三元锂；i9初期用宁德时代后切换。
 
@@ -49,6 +49,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **战略意图**：复制苹果、华为的芯片/电池自研模式
 
 **判断**：理想复制苹果式「设计+代工」轻资产自研，与[[byd]]全自建、供应商品质风险划清界限——差异化在于电芯标准定义权而非产能。对比见 [[battery-white-box]]。
+- **市场冲击（9月）**：全系切换自研电池预期发酵，[[catl]] 市值十天蒸发超 **7000亿元**——头部客户「去宁化」从叙事变为市值级事件（详见 [[catl]]）
 
 ## 2026年关键动态
 

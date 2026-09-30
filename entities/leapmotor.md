@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-09-27
+updated: 2026-09-30
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -103,6 +103,21 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 
 ### 关键判断
 朱江明在发布会上强调「能赚钱才拿得出手」——零跑做任何事情都有盈利底线，与部分车企不计成本押注机器人形成对照。
+
+## 2026-09-30 更新：出海爆发 + 第二品牌定档
+
+### 出海数据（上半年）
+| 维度 | 数据 |
+|------|------|
+| 上半年出口 | **9.6万台（+372.6%）** |
+| 意大利纯电市占率 | **超25%** |
+
+- 出口结构由 [[stellantis]] 渠道（Leapmotor International）主导，意大利是首个突破性市场，详见 [[italy-market-2026]]、[[leapmotor-stellantis]]
+
+### 第二品牌定档（较预期推迟）
+- 明确 **2027 Q4 推出**：30万+、独立渠道、搭载LEAP 5.0架构、「移动生活空间」概念
+- 主品牌 D 系列 D19（21.98-26.98万）已先行上探 30万级市场
+- 技术底座：LEAP 5.0 + CTC 3.0（取消低压蓄电池）——见研判跟踪 [[forecast-tracker]] 研判8
 
 ## 竞争判断
 

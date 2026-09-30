@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-26
+updated: 2026-09-30
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -63,6 +63,13 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **氢能**：iX5 Hydrogen **2028** 首发
 
 **判断**：宝马在纯电（Neue Klasse）、智驾（Momenta）、氢能（iX5）三线并行，是德系中技术路线最分散的一家。
+
+## 2026-09-30 更新：iX3 长轴一口价确认
+
+- **新世代 iX3 长轴 26.99-33.99万一口价**（近乎腰斩传统豪华定价），CLTC 最高 **919km**——**豪华品牌首款破900km纯电SUV**
+- **400kW 快充 10分钟补 427km**：补能体验对标新势力旗舰
+- **判断**：iX3用「一口价+超长续航」重定义豪华纯电SUV价值锚，比 [[mercedes-benz]] 纯电GLC（703km）续航高出一档；「技术换市场」在华落地最激进的德系品牌
+- 相关：[[china-tech-reverse-export]]、[[momenta]]
 
 ## 关系网络
 - [[mercedes-benz]] - 德国豪华品牌直接竞品，同用Momenta- [[volkswagen]] - 德国巨头转型对照（大众多能源 vs 宝马纯电+插混）

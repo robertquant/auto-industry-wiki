@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-09-30
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
@@ -156,6 +156,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/
 - **XNGP全国全量开放**:覆盖大众中国所有电动车型
 - **智驾落地进展**:一段式端到端从乘用车延伸至商用车
 - **判断**:小鹏智驾技术输出大众,是"中国技术+欧洲品牌"模式的标杆案例
+
+- G9L 9/17-18 上市定价 **23.18万起**（纯电+超级增程双动力）：产品矩阵达5款车，GX单点押注风险解除（见 [[forecast-tracker]] 研判7）
+- 相关：[[xpeng]]（产品矩阵）、[[new-forces-landscape-2026]]
 
 ## 2026-09-28 更新：8月首超蔚来 + VLA进化
 

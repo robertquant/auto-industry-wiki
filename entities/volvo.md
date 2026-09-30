@@ -1,7 +1,7 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-09-27
+updated: 2026-09-30
 type: entity
 tags: [oem-eu, strategy, sales, export]
 sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
@@ -59,6 +59,13 @@ sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-
 | 战略意义 | 吉利"轻资产借道"出海的又一落子：与雷诺借道、Stellantis 借道同构，[[chinese-oem-export]] 渠道复用样本 |
 
 **判断**：沃尔沃的欧洲渠道资产被母公司盘活，既缓解领克自建渠道的资本压力，也为沃尔沃自身在华疲软（Q2在华-35%）提供了"渠道变现"的补偿收入来源。对欧洲市场而言，这是中国品牌借道欧洲本土网络的典型路径——**关键变量是渠道利润分配与品牌调性冲突**（领克与沃尔沃价格带部分重叠）。
+
+## 2026-09-30 更新：史上最大产品计划 + 放弃全面纯电
+
+- **2030年前 13款新车，其中 6款中国专供**——史上最大产品计划
+- **放弃全面纯电化**：重新拥抱插混，与 [[volkswagen]]（多能源）路线趋同，彻底告别 Polestar 时代的纯电承诺
+- **判断**：沃尔沃「纯电宣言」退潮是欧洲豪华品牌集体回调的标志性事件；6款中国专供意味着沃尔沃把增量押在主场——与在华销量暴跌（Q2 -35%）形成自救闭环；对照 [[japan-auto-future]] 可看到日欧两种退缩路径
+- 相关：[[geely]]（母公司）、[[china-tech-reverse-export]]
 
 ## 关系网络
 - [[geely]] - 母公司（收购方）

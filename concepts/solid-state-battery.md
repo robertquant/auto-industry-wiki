@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-09-29
+updated: 2026-09-30
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -56,7 +56,7 @@ sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasg
 ### 其他玩家
 - **清陶能源**：2024年宣称半固态量产
 - **卫蓝新能源**：蔚来ET7搭载半固态包
-- **丰田**：2027-2028年目标量产全固态
+- **丰田**：2027-2028年目标量产全固态；但福冈工厂**良品率仅65%**（行业液态约95%）、成本 2.3元/Wh——「专利最多（1300+）、产品最慢」反差拉大，见 [[forecast-tracker]] 研判1
 
 ## 核心技术难题
 

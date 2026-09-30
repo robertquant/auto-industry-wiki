@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-09-26
+updated: 2026-09-30
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -125,6 +125,13 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 
 - **中国智驾用 [[momenta]]**：奔驰 2017 年最早押注 Momenta，是欧洲豪华品牌中绑定最早的。
 - **判断**：MMA（紧凑/入门）+ MB.EA（中型）双平台并行，覆盖 30-70 万纯电主力价位；与 [[bmw]] 的 Neue Klasse 路线正面竞争。
+
+## 2026-09-30 更新：Momenta 进迈巴赫 + CLA 定价
+
+- **Momenta 智驾扩至迈巴赫S级**：中国智驾方案首次进入**百万级豪华燃油车**——「中国智驾+欧洲豪华」从入门/中端车渗透到旗舰燃油车，[[momenta]] 天花板再上移
+- **国产纯电CLA 24.9万起、CLTC 866km**（9月底价格口径较此前25.9万进一步下探）
+- **9/29 庄睦德表态**：中德汽车合作从「市场换技术」转向「高质量共创」——与 [[china-tech-reverse-export]] 判断一致，奔驰官方口径正式承认反向技术输入
+- 相关：[[hesai]]（L3供应链）、[[momenta]]
 
 ## 关系网络
 - [[bmw]] - 德国豪华品牌直接竞争对手，同样押注中国智驾供应商

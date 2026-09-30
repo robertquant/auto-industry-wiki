@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-09-28
+updated: 2026-09-30
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
@@ -108,6 +108,15 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 | L4商业化 | 2028年 |
 
 **判断**：长安是央企中首个给出明确L3/L4时间表的车企，与[[l3-mandatory-standard]]（2027年7月实施）节奏一致。作为央企，长安的保守风格决定了这个时间表可信度较高——不会像新势力一样画饼后跳票。
+
+### 2026-09-30 补充：8月集团销量结构
+| 维度 | 数据 |
+|------|------|
+| 8月集团销量 | **14.09万辆（-22.6%）** |
+| 糯玉米月销 | **1.79万 → 31台**（结构崩塌信号） |
+
+- 糯玉米从万辆级崩到两位数：A0级小车/低端走量盘失守的极端样本，与出口高增形成冰火两重天
+- 相关：[[china-ev-warring-states]]（淘汰赛）
 
 ## 待观察
 - 启源品牌能否在10万级纯电市场持续领先

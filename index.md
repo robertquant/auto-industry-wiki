@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-09-29 | Total pages: 273
+> Last updated: 2026-09-30 | Total pages: 274
 
-统计：entities 101 · concepts 156 · comparisons 5 · auto-industry 10 · european-automakers 1
+统计：entities 101 · concepts 156 · comparisons 6 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -314,9 +314,10 @@
 - [[rgev-platform]] - 雷诺下一代纯电平台，代号RGEV Medium 2.0，目标追平中国供应链效率。2026年5月披露技术规格。
 - [[sodium-ion-battery]] - 钠离子电池是以钠离子为载体的二次电池技术，2026年进入规模化量产元年。与锂离子电池相比，钠电池在低温性能、安全性、快充能力和资源自主性方面具有显著优势，能量密度略逊但对特定场
 
-## Comparisons（5）
+## Comparisons（6）
 
 - [[2026-08-china-sales-battle]] - | 维度 | 数据 |
+- [[2026-09-china-sales-battle]] - 9月乘用车零售224.1万辆创历史纪录，新能源渗透率57.8%，燃油车企利润率1.5%近十年最低，新车投放超60款；比亚迪增量全由海外贡献，零跑超特斯拉中国
 - [[9-series-suv-battle]] - 2026年，C级SUV市场成为车企竞争焦点，多款"9系"旗舰SUV扎堆上市。一季度C级SUV逆势增长143.5%，高端大空间需求旺盛，但价格战不可避免。
 - [[korea-japan-automaker-divergence]] - 为什么同为东亚文化，韩国企业拼命进取，日本企业却"躺平"？
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。

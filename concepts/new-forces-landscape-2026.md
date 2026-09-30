@@ -1,7 +1,7 @@
 ---
 title: 新势力格局质变
 created: 2026-05-25
-updated: 2026-09-28
+updated: 2026-09-30
 type: concept
 tags: [sales, market-share, strategy, china, ev]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-25.md]
@@ -76,4 +76,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-25.md]
 - **判断**：「蔚小理」铁三角正式瓦解——3.5-4万辆/月成为密集混战区，「零跑一超」+「多强绞杀」格局固化
 - 蔚来被超越本质是子品牌（乐道8,810辆偏弱）未兑现放量，见 [[nio]]
 - 相关：[[2026-08-china-sales-battle]]、[[zeekr]]
+
+## 2026-09-30 更新：洗牌信号增强
+
+- **恒大汽车正式退出制造**：又一个「跨界造车」玩家出局——叠加哪吒/威马等先例，淘汰赛从新势力蔓延到跨界资本系（见 [[china-ev-warring-states]]）
+- 9月大盘：零跑连续两月破10万并超特斯拉中国，「一超多强」格局固化，详见 [[2026-09-china-sales-battle]]
 
