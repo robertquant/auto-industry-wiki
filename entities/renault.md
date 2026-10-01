@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-09-29
+updated: 2026-10-01
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 雷诺 (Renault)
@@ -167,3 +167,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **Twingo E-Tech 定价**：10月巴黎车展公布，是平价电动路线的下一观察点
 - 相关：[[horse-powertrain]]、[[geely]]、[[twingo-e-tech]]
 
+
+## 2026-10-01 更新：Alpine A110纯电定档 + 印度9月下滑
+
+- **Alpine A110 纯电**：800V平台 / 480Ps，**2027年上市对标保时捷718 EV**——欧洲性能品牌电动化反击的信号枪
+- **印度9月 20,180辆（-13.8%）**：连续下滑承压（对照 [[suzuki]] 印度市占40%+ 的统治力）
+- 巴黎车展（10/12）「平价（Twingo定价）+情怀（Gordini 8）」双线叙事，见 [[alpine-ev-transition]]、[[twingo-e-tech]]

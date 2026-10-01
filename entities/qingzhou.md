@@ -1,10 +1,10 @@
 ---
 title: 轻舟智航
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-01
 type: entity
 tags: [智驾, adas, 中国, noa]
-sources: [memory/2026-06-23.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-23.md]
 ---
 
 # 轻舟智航 (Qingzhou)
@@ -46,3 +46,8 @@ sources: [memory/2026-06-23.md]
 - [[huawei-ads]] - 华为智驾方案
 - [[city-noa]] - 城市NOA渗透率趋势
 - [[adas-self-develop]] - 智驾自研能力分层
+## 2026-10-01 更新：单征程6M端到端NOA上车理想L系，累计破100万台
+
+- 基于**地平线单征程6M**的端到端NOA方案落地理想L系列，累计量产破 **100万台**
+- 意义：低算力（~128TOPS级）端到端方案规模化验证——「轻舟已过万重山」性价比路线（对照 [[yuanrong-qixing]] 高通平台路线）
+- 供应商格局分化：[[momenta]]（豪华品牌）、[[huawei-ads]]（生态绑定）、轻舟（性价比走量）三档并行（见 [[city-noa-penetration]]）

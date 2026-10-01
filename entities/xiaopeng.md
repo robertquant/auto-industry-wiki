@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-09-30
+updated: 2026-10-01
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
 ---
 
 # 小鹏汽车
@@ -172,3 +172,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/
 - VLA第二代把「世界模型推演」装进车端，是 [[vla-world-model]] 路线最激进的量产者之一
 - 相关：[[new-forces-landscape-2026]]、[[world-model]]
 
+
+## 2026-10-01 更新：9月41,256台 + VLA 2.0新版推送
+
+- **9月交付 41,256台，Q3累计 118,390台**——多车型矩阵（MONA系列放量）兑现
+- 9/22 第二代VLA全新版推送：整车大脑 Master Agent、VLA与VLM融合、一句话导航/控车、分屏交互、CarPlay
+- 补能：自营超快充站 3,510+ 座；9/15 全球首座 **X-Energy 兆瓦闪充站**香港投运
+- 自研图灵芯片累计出货 20万片 + 获大众定点（见 [[auto-chip-self-develop]]）
+- P3智驾测评：XNGP 5.0 实测 4.33分居第二（落后华为ADS 4.1 的 4.46、领先特斯拉FSD V14 Lite 4.28）
+- 相关：[[vla-model]]、[[world-model]]

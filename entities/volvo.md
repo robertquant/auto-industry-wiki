@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-09-30
+updated: 2026-10-01
 type: entity
 tags: [oem-eu, strategy, sales, export]
-sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -80,3 +80,8 @@ sources: [daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-
 - 沃尔沃纯电产品何时补位
 - 领克欧洲渠道协同价值兑现
 - 管理层两次换帅后的战略连续性
+## 2026-10-01 更新：中国失血加剧 + 全球暂停招聘
+
+- **7月中国惨淡**：旗舰纯电 ES90 单月仅 294辆；大中华区销量 -27%——「保价策略」在价格战中的代价显性化
+- **全球暂停白领岗位招聘**：欧美需求走弱 + 电动化转型投入双重挤压下的收缩信号
+- 判断：豪华+安全溢价在与[[byd]]/[[zeekr]]的正面价格战中被稀释；领克欧洲渠道协同（见 [[zeekr-lynk-co-merger]]）是少数正向变量

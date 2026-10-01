@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-09-30
+updated: 2026-10-01
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -168,3 +168,11 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 - 智驾能力迭代速度
 - 能否突破20万以上价位段
 - 机器人业务商业化路径与节奏
+## 2026-10-01 更新：9月全球105,656台 + 欧洲网点破1020家
+
+- **9月交付 105,656台（+59%）**；海外出口超2.7万台、1-9月累计超15万台**提前完成全年目标**
+- 欧洲：网点破 **1020家/36国**；B10 西班牙制造 + 8月欧洲纯电榜前三；Q2全球24万辆**首超斯巴鲁、三菱**
+- H1 唯一盈利新势力（净利2.1亿）——成本控制与出海溢价双轮验证
+- 技术端（9/16 LEAP5.0架构）：LWM 世界模型辅助驾驶、MM-1 多模混动电驱、CTC3.0 高低压融合电池
+- **10/12 巴黎车展首秀**：D19 旗舰SUV（首发双高通8797）+ A05（10万内纯电带激光雷达）
+- 相关：[[stellantis]]、[[snapdragon-8797]]、[[new-forces-landscape-2026]]

@@ -1,10 +1,10 @@
 ---
 title: 车企自研芯片趋势
 created: 2026-06-16
-updated: 2026-07-01
+updated: 2026-10-01
 type: concept
 tags: [chip, ai, strategy, investment]
-sources: [memory/2026-06-16.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-16.md]
 ---
 
 # 车企自研芯片趋势
@@ -60,3 +60,9 @@ sources: [memory/2026-06-16.md]
 - [[horizon]] - 第三方芯片商视角
 - [[autonomous-chip-localization]] - 智驾芯片国产替代趋势
 - [[starry-sky-chip]] - 地平线舱驾融合芯片
+## 2026-10-01 更新：自研芯片出货规模实证（去英伟达化从口号到出货）
+
+- **小鹏图灵**：累计出货 20万片 + 获大众定点——国产自研芯片首次进入欧洲大厂供应链（沿 [[china-tech-reverse-export]] 逻辑）
+- **蔚来神玑**：累计 55万颗
+- **理想马赫M100**：超 5万颗（1280TOPS旗舰）
+- 三家累计出货已成规模，「自研芯片 + 10-15万级无图NOA普及」= 2026智驾平权主线（见 [[lidar-penetration]]、[[city-noa-penetration]]）

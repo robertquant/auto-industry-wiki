@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-09-28
+updated: 2026-10-01
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -126,3 +126,13 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-
 - **2027年7月 GB 44721-2026 强标生效是真正分水岭**——责任主体从驾驶员向车企转移（见 [[l3-mass-production-2026]]）
 - 产业节奏：硬件（激光雷达/算力）已为 L3 备货，法规与保险体系是当前约束项
 
+
+## 2026-10-01 更新：GB44721-2026 发布确认 + 试点牌照盘点
+
+- **GB44721-2026 已发布，2027年7月1日实施**——L3/L4责任主体从驾驶员向车企转移的强制时点确认
+- **真「试点牌」仅2款**，且限制严苛：
+  - 深蓝SL03：限重庆内环快速路、50km/h，开启时**不支持变道**
+  - 极狐阿尔法S：限北京京台高速等、80km/h，同样不支持变道
+  - 其余多为研发测试牌照（仅带安全员算法验证）
+- 提醒消费者区分「预埋硬件+OTA宣传」与真正持证产品——**L2.9营销话术仍是2026年消费级主力**（延伸 [[l3-autonomous-driving]]）
+- 试点限制条件=法规保守度的直接映射（见 [[safety-case]]）

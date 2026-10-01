@@ -1,10 +1,10 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-09-16
+updated: 2026-10-01
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
-sources: [memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
 ---
 
 # 华为汽车生态 (Huawei Auto)
@@ -68,3 +68,9 @@ sources: [memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-n
 - 舱内激光雷达在L3法规前的装车规模
 - 智选车（问界/尊界）与HI模式（阿维塔）的资源分配
 - 与车企自研路线（比亚迪/理想/小米）的长期攻防
+## 2026-10-01 更新：鸿蒙智行9月37,490台 + 问界博弈
+
+- 鸿蒙智行 9月交付 37,490台，累计破 **156万台**
+- 华为×[[seres]] 10/1 再谈判（问界「专属专营」），「车企主导、华为赋能」路线仅半月即再调整——多品牌利益平衡成最大内部变量（见 [[wenjie]]）
+- 8月智驾域控装机：华为 10.5% 份额居第三（比亚迪26%第一、德赛西威16.7%第二，见 [[autonomous-driving-chips]]）
+- P3智驾测评：华为 ADS 4.1 以 **4.46分居首**，力压特斯拉FSD V14 Lite（4.28）

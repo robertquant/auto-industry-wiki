@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-09-28
+updated: 2026-10-01
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -141,3 +141,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgo
 - 吉利聚焦 Pack/BMS 与换电运营，不再押注电芯制造 → 详见 [[catl]]
 - 与 8月出口连续3月破10万辆（+205%）共同构成「轻资产+出海」主线
 
+
+## 2026-10-01 更新：Q2财报 + 换电联盟落地
+
+- **Q2 财务**：营收 898亿（+14.1%）、净利 51.2亿（+63%）、出海占比 38%、单车收入 12.6万元——量价齐升
+- 9/28 与[[nio]]换电战略合作敲定（易易互联100%股权+6.4亿现金入股蔚来能源30%、反向持股，见 [[geely-nio-swap-alliance]]）
+- 高端整合：极氪/领克合并矩阵见 [[zeekr-lynk-co-merger]]

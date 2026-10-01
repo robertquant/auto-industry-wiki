@@ -1,10 +1,10 @@
 ---
 title: 训练闭环 (Training Loop)
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-10-01
 type: concept
 tags: [adas, technology, data-loop, strategy]
-sources: [memory/2026-05-11.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-05-11.md]
 ---
 
 # 训练闭环
@@ -71,3 +71,8 @@ sources: [memory/2026-05-11.md]
 
 ## 来源
 - 2026-05-11 汽车AI行业全景动态 Cron 报告
+## 2026-10-01 更新：理想训练闭环量化成果公开
+
+- 理想公开训练闭环数据：**训练成本降 75%**、合成数据占比 **40%**、极端场景覆盖 +300%、难点错误率 **-47%**
+- 意义：数据工程能力取代模型架构成为差异化来源的实证（延伸 [[synthetic-data-explosion]]、[[data-moat]]）
+- 2026年合成数据整体占比 58% 首超真实数据——训练闭环成为智驾竞争新分水岭

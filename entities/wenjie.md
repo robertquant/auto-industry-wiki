@@ -1,10 +1,10 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-09-28
+updated: 2026-10-01
 type: entity
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 ## 概述
@@ -96,3 +96,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/
 - 鸿蒙智行首场「车企主导、华为赋能」发布会（智界RX上市同场），**改为录播**——问界运营主导权回归[[seres]]后的信号
 - 鸿蒙智行累计交付超 155万辆（见 [[zhijie]]）
 
+
+## 2026-10-01 更新：华为×赛力斯再谈判，合作进入动态博弈
+
+- 10/1 赛力斯与华为启动新一轮谈判，重点或围绕问界**「专属专营」**问题
+- 距 9/15「产品定义/品牌营销改由赛力斯主导、华为赋能」宣布仅半月，从「分手」传闻到「复合」传闻急速反转
+- 折射：鸿蒙智行多品牌并行（问界/智界/享界/尊界/尚界）下**资源分配与利益平衡的结构性挑战**（见 [[huawei-auto]]、[[zhijie]]）
+- 判断：问界已从「华为孵化」进入「母公司夺权」阶段，模式博弈成鸿蒙智行最大内部变量

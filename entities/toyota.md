@@ -1,10 +1,10 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-06-26
+updated: 2026-10-01
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
-sources: [memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md]
 ---
 
 # 丰田 (Toyota)
@@ -126,3 +126,10 @@ sources: [memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md]
 - [[大众]] - 传统车企竞争对手
 - [[stellantis]] - 传统车企竞争对手
 - [[india-auto-market]] - 印度市场背景
+## 2026-10-01 更新：南北丰田合并落定（产销分离）
+
+- 广汽9/28发布预案：发行股份购买一汽股份所持一汽丰田50%股权
+- 交易后：**生产端**（一汽丰田整车基地）由广汽统筹；**销售端**由丰田/一汽/广汽按 50:25:25 组建新销售公司
+- 2025年南北丰田合计占合资乘用车销量 17.03%，整合后将成为**中国销量最大合资品牌**
+- 意义：日系在华从「双渠道竞争」转向「统一体收缩」（对照 [[honda-china]] 衰退路径）；生产权让渡广汽、丰田保留销售话语权——防守型整合
+- 相关：[[japanese-automaker-crisis-2026]]、[[central-soe-restructuring-2026]]（外资侧同步整合）

@@ -1,10 +1,10 @@
 ---
 title: GEO 生成式引擎优化
 created: 2026-05-30
-updated: 2026-09-25
+updated: 2026-10-01
 type: concept
 tags: [strategy, marketing, data]
-sources: [raw/articles/2026-05-30-ai-panorama.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-05-30-ai-panorama.md, raw/articles/2026-09-25-daily-digest.md]
 ---
 
 # GEO（Generative Engine Optimization）— 生成式引擎优化
@@ -46,3 +46,8 @@ GEO（Generative Engine Optimization）是 2026 年车企营销新变量，指�
 - [[ai-marketing-after-sales]] - AI 营销与后市场
 - [[new-forces-landscape-2026]] - 新势力格局
 - [[saic]]（未创建） - 上汽集团
+## 2026-10-01 更新：88.6%消费者AI搜索决策 + B2AI2C范式
+
+- **88.6% 消费者购车前使用AI搜索辅助决策**——购车信息入口从「搜索框」迁移到「对话式AI」
+- 营销范式：**GEO "B2AI2C"**（Brand → AI → Consumer）：车企营销对象从「人」扩展为「AI引擎」
+- 判断：座舱/智驾内卷之外，营销预算开始向「被AI引用」倾斜（见 [[ai-marketing-after-sales]]）

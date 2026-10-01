@@ -1,10 +1,10 @@
 ---
 title: 神行者8 (Shenxingzhe 8)
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
-sources: [memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md]
 ---
 
 # 神行者8
@@ -32,3 +32,8 @@ sources: [memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md]
 - [[jaguar-land-rover]] - 联合方（英国豪华品牌）
 - [[huawei-ads]] - 智驾方案（乾崑ADS5）
 - [[zhijie]] - 华为智选车生态其他品牌
+## 2026-10-01 更新：首发1000台售罄
+
+- 神行者8 首发版 **1000台全部售罄**——华为ADS 5 + 800V + 奇瑞制造的组合初战告捷
+- 验证「[[chery]]×[[jaguar-land-rover]]×[[huawei-ads]]」三方合作模式的市场接受度
+- 待观察：常规版本定价与产能爬坡；与问界M9/理想L9的正面竞争（见 [[2026-09-china-sales-battle]]）

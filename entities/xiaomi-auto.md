@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-09-28
+updated: 2026-10-01
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -78,3 +78,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgo
 - 判断：与[[byd]]（电芯自造）、[[catl]]（电芯外供）形成三种纵深模式对照
 - 相关：[[xiaomi-pengcheng]]
 
+
+## 2026-10-01 更新：9月单月交付首破4万台
+
+- **9月交付首破 40,000台**，标志产能爬坡期结束——SU7 + YU7 双车满产爬坡
+- 单月交付进入新台阶，与新势力头部（零跑/小鹏/蔚来）同处放量区间（见 [[2026-09-china-sales-battle]]）

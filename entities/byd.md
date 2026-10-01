@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-09-30
+updated: 2026-10-01
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -157,3 +157,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/
 - 固态电池2027量产能否按时兑现（硫化物路线工程化挑战）
 - 海外本地化生产推进速度
 - 智驾数据规模优势能否转化为体验优势
+## 2026-10-01 更新：8月海豚销冠+出口纪录；兆瓦闪充2.0升10C
+
+- 8月海豚 16,829辆居小型车销冠；海豚出口 14,947辆创单车型纪录——A0级全球车验证
+- **兆瓦闪充2.0 升至 10C**：充电倍率再上台阶（见 [[ultra-fast-charging]]）
+- 8月智驾域控装机 17.17万套、份额26% 居第一（见 [[autonomous-driving-chips]]）

@@ -711,3 +711,35 @@
 - **导航更新**：index.md - Comparisons 5→6（+2026-09-china-sales-battle）；Total pages 273→274
 - **索引完整性校验**：comm 输出为空（274页全部注册，缺失0）
 - **核心洞察**：①结构换挡是9月主线——比亚迪增长引擎切海外（占比43%）、零跑超特斯拉中国、极氪9X立价80万+，自主攻防从国内卷到全球定价权；②外资反攻逻辑清晰——大众ID.AURA中方主导+奔驰中国智驾进迈巴赫+宝马iX3一口价919km，Stellantis三层中国供应链入局（零跑/Momenta/博泰）——「技术换市场」角色首次反转；③理想自研电池→宁德市值蒸发7000亿，「去宁化」从叙事变市值事件；④渗透率口径57.8% vs 8月65.8%差异大，需校准
+
+## [2026-10-01] ingest | 每日Wiki整理（9个cron日报 + 盖世晚报）
+- **新建**：
+  - entities/gotion.md - 国轩高科：12.5亿美元入股大众PowerCo瓦伦西亚工厂49%（欧洲LFP中心）；PowerCo反入股国轩斯洛伐克/摩洛哥各49%；大众24%大股东背景——「绑定外资巨头换欧洲市场准入」路线
+  - raw/articles/2026-10-01-daily-digest.md - 今日cron素材汇总（9月交付榜/南北丰田/L3试点牌/智驾域控TOP10/自研芯片出货/AI工程化）
+- **更新（23页）**：
+  - entities/toyota.md - 南北丰田合并落定（生产归广汽、销售50:25:25，成中国最大合资品牌）
+  - entities/wenjie.md - 华为×赛力斯10/1再谈判（问界"专属专营"），模式博弈成鸿蒙智行最大内部变量
+  - entities/leapmotor.md - 9月全球105,656台（+59%）；欧洲网点破1020家/36国；Q2首超斯巴鲁/三菱；D19/A05巴黎车展
+  - entities/nio.md - 9月37,408台；第4,125座换电站+丝绸之路换电线贯通（西安—霍尔果斯）；与吉利换电联盟落地
+  - entities/xiaopeng.md - 9月41,256台（Q3 118,390）；VLA 2.0新版（Master Agent）；X-Energy兆瓦闪充香港投运；图灵芯片20万片
+  - entities/xiaomi-auto.md - 9月单月首破4万台，产能爬坡期结束
+  - entities/huawei-auto.md - 鸿蒙智行9月37,490台累计破156万；ADS 4.1 P3评分4.46居首
+  - entities/byd.md - 8月海豚销冠16,829+出口纪录14,947；兆瓦闪充2.0升10C；域控装机26%第一
+  - entities/geely.md - Q2营收898亿（+14.1%）、净利51.2亿（+63%）、出海38%、单车收入12.6万
+  - entities/bmw.md - 资本日：裁撤20%中国渠道+统一价；审查沈阳基地出口全球
+  - entities/volvo.md - 7月ES90仅294辆、大中华区-27%；全球暂停白领招聘
+  - entities/renault.md - Alpine A110纯电（800V/480Ps，2027对标718 EV）；印度9月20,180辆（-13.8%）
+  - entities/shenxingzhe-8.md - 首发1000台售罄
+  - entities/qingzhou.md - 单征程6M端到端NOA上理想L系，累计破100万台
+  - concepts/l3-mandatory-standard.md - GB44721-2026发布确认（2027.7.1实施）；试点牌仅深蓝SL03/极狐阿尔法S
+  - concepts/autonomous-driving-chips.md - 8月智驾域控装机TOP10占84%（比亚迪26%/德赛西威16.7%/华为10.5%）
+  - concepts/auto-chip-self-develop.md - 自研芯片出货实证：小鹏图灵20万+大众定点、蔚来神玑55万、理想马赫超5万
+  - concepts/eu-ev-market-2026.md - H1电+插混30.5%首超燃油；纯电份额25.7%；中国品牌纯电11.7%
+  - concepts/ai-engineering-2026.md - 研发周期18-24月、云原生PLM+46.2%、盘古CV江汽99.99%、蔚来AI编程30%一次通过率
+  - concepts/training-loop.md - 理想训练成本-75%、合成数据40%、极端场景+300%、难点错误率-47%
+  - concepts/generative-engine-optimization.md - 88.6%消费者AI搜索购车决策、GEO"B2AI2C"范式
+  - concepts/central-soe-restructuring-2026.md - 发改委9/26支持车企兼并重组（10→5淘汰赛政策背书）
+  - comparisons/2026-09-china-sales-battle.md - 新势力9月交付榜（零跑105,656领跑/小鹏/小米破4万/鸿蒙智行/蔚来）
+- **导航更新**：index.md - Entities/电池厂商1→2（+gotion）；Total pages 274→275（entities 102 / concepts 156 / comparisons 6 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（275页全部注册，缺失0）
+- **核心洞察**：①南北丰田合并+发改委支持兼并重组，中日两侧产业集中度同步加速，「10→5淘汰赛」进入政策兑现期；②去英伟达化从口号变出货——图灵20万片+大众定点标志国产自研芯片首次进欧洲大厂供应链；③L3国标2027.7.1实施前，试点牌仅2款且不支持变道，法规保守度是量产最大约束；④零跑9月10.5万台领跑且欧洲网点破千，出海从"渠道铺设"进入"盈利验证"；⑤问界专属专营再谈判暴露鸿蒙智行多品牌利益分配的结构性矛盾

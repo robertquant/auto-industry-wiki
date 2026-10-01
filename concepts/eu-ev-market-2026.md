@@ -1,10 +1,10 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-09-28
+updated: 2026-10-01
 type: concept
 tags: [sales, trend, policy, prediction]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 欧洲EV市场2026
@@ -96,3 +96,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carm
 - **安永警告**：增长靠补贴驱动，退坡后或大幅下滑
 - 利润侧：大众10万岗位、JLR 4000裁员；技术侧：奔驰/宝马用[[momenta]]、大众用酷睿程+小鹏CEA+地平线
 
+
+## 2026-10-01 更新：电气化首超燃油 + 中国品牌份额
+
+- **2026 H1 电+插混 30.5% 首超燃油**——欧洲电动化结构性转折点
+- 7月16国纯电份额 25.7%；中国品牌泛欧 10.7%、**欧洲纯电份额 11.7%**（5月口径）
+- IEA 预计 2026 全球电动车销量 2,300万辆、占新车近三成
+- 对照：[[leapmotor]] 欧洲网点破1020家/36国 + 泰国市场中国品牌进入收获期——「电气化过半」由中国品牌助推（见 [[china-brand-market-share-2026]]）

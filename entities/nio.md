@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-09-28
+updated: 2026-10-01
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -145,3 +145,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - 全球首座零碳离网光储换电站落地（新疆星星峡）——极端场景补能+ESG叙事
 - 大盘见 [[2026-08-china-sales-battle]]、[[new-forces-landscape-2026]]
 
+
+## 2026-10-01 更新：9月37,408台 + 丝绸之路换电线贯通
+
+- 9月交付 37,408台（+7.7%）：蔚来品牌 21,318 / 乐道 8,763 / 萤火虫 7,327；前三季度累计超30万台
+- 9/26 第4,125座换电站上线，**丝绸之路换电线路（西安—霍尔果斯，3,605公里、33座站）全线贯通**
+- 9/28 与[[geely]]充换电全面战略合作敲定（技术/运营/资本联合投资，见 [[geely-nio-swap-alliance]]）
+- 财务：连续三季经调整盈利、现金储备 567亿——「盈利+现金」双安全垫
+- 8月主品牌 +101% 翻番（见 [[new-forces-landscape-2026]]）

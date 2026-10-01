@@ -1,10 +1,10 @@
 ---
 title: 智驾芯片格局
 created: 2026-06-30
-updated: 2026-09-09
+updated: 2026-10-01
 type: concept
 tags: [chip, autonomous-driving, ai, chinese]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md]
 ---
 
 # 智驾芯片格局
@@ -154,3 +154,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-n
 - 璇玑A3实际上车表现
 - J6P测试完成时间与量产节奏
 - 华为麒麟芯片对外开放程度
+## 2026-10-01 更新：8月智驾域控装机TOP10（集中度84%）
+
+- **TOP10 合计占 84%**，格局高度集中：比亚迪 17.17万套（**26%**）＞德赛西威 16.7% ＞华为 10.5%
+- 芯片侧：英伟达仍居首、**地平线追近**（征程6系列放量）
+- 判断：域控装机集中反映「车企自研 + 头部方案商」双轨收敛，与 [[auto-chip-self-develop]]、[[autonomous-chip-localization]] 互相印证

@@ -1,10 +1,10 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-09-29
+updated: 2026-10-01
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
-sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 2026年汽车行业AI工程化
@@ -59,3 +59,10 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - 渗透率数据：智能座舱前装搭载率 **81.78%**（1-6月）；L2组合辅助渗透率 **69.15%**（1-2月，工信部口径）
 - 判断：AI 竞争从「有没有 AI」进入「AI 重构研发/测试/质检全流程」——国产工具链（光庭、伊必、飞书）卡位持续跟踪
 
+
+## 2026-10-01 更新：研发周期压缩 + 盘古CV + 组织级AI编程
+
+- **整车研发周期 36-48月 → 18-24月**成行业新常态；云原生PLM 增速 **46.2%**
+- **华为盘古CV**：江汽 1500+ 场景、拦截率 99.99%（对照9/28江汽自研「迈思特」——华为生态 vs 自研并存）
+- **蔚来AI编程 30% 一次通过率**——行业真实水位（远低于厂商宣传口径）
+- 消费者侧：**88.6% 购车前用AI搜索辅助决策**（见 [[generative-engine-optimization]]）

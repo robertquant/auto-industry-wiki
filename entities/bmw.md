@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-09-30
+updated: 2026-10-01
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -82,3 +82,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - iX3订单转化与交付节奏（10万订单→月销爬坡）
 - R7世界模型上车后的体验 vs 华为/小鹏竞品
 - i3长轴超1000km续航的市场号召力
+## 2026-10-01 更新：资本市场日——渠道裁撤20% + 沈阳出口审查
+
+- **裁撤 20% 中国渠道** + 推行统一价格体系——告别价格战内耗，渠道瘦身换毛利
+- **审查沈阳基地出口全球潜力**：华晨宝马从「中国内销」升级为「全球出口基地」候选——中国制造成本+地缘关税下的新选项
+- 背景：iX3长轴 26.99万一口价策略与本次渠道改革同频（见 [[2026-09-china-sales-battle]]）
