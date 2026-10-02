@@ -80,7 +80,7 @@ sources: [memory/2026-05-30.md, memory/2026-05-27.md]
 
 ## 相关页面
 
-- [[smart-driving-chips]] - 智驾芯片市场竞争格局
+- [[autonomous-driving-chips]] - 智驾芯片市场竞争格局
 - [[cabin-driving-fusion]] - 舱驾融合技术趋势
 - [[horizon-robotics]] - 地平线公司
 - [[qualcomm-auto]] - 高通汽车业务

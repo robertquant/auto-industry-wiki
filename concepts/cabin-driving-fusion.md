@@ -74,5 +74,11 @@ sources: [memory/2026-05-30.md, memory/2026-06-11.md]
 ## 相关页面
 
 - [[auto-chip-competitive-landscape]] - 汽车芯片竞争格局
-- [[smart-driving-chips]] - 智驾芯片市场
-- [[qualcomm]] - 高通汽车芯片战略
+- [[autonomous-driving-chips]] - 智驾芯片市场
+- [[qualcomm-auto]] - 高通汽车芯片战略
+## 2026-10-02 更新：量产元年确认（星空6P首发 + 征程1500万）
+
+- **地平线星空6P Q3量产、iCAR V27 首发**：5nm/650TOPS，单车降本 1,500-4,000元、交付周期 18→8个月（见 [[starry-sky-chip]]）
+- **第 1,500万颗征程芯片上车大众 ID.AURA T6**——国产智驾芯片最大规模量产节点（见 [[horizon-robotics]]）
+- **高通 8797（2000 TOPS级）零跑D系列双片首发**（见 [[snapdragon-8797]]）
+- 结论：舱驾融合从「方案发布」进入「规模量产」；降本而非炫技是核心驱动力，与 [[cabin-drive-integration]] 判断一致

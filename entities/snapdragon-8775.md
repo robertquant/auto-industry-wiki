@@ -62,5 +62,5 @@ sources: [memory/2026-06-11.md]
 ## 相关页面
 - [[cabin-driving-fusion]] - 舱驾融合技术趋势
 - [[auto-chip-competitive-landscape]] - 汽车芯片竞争格局
-- [[qualcomm]] - 高通汽车芯片整体战略
+- [[qualcomm-auto]] - 高通汽车芯片整体战略
 - [[horizon]] - 地平线，国内主要竞争对手

@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-01 | Total pages: 275
+> Last updated: 2026-10-02 | Total pages: 276
 
-统计：entities 102 · concepts 156 · comparisons 6 · auto-industry 10 · european-automakers 1
+统计：entities 102 · concepts 157 · comparisons 6 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -238,7 +238,7 @@
 - [[siemens-xcelerator-ai-agents]] - 西门子Xcelerator上线100+ AI Agent，PLC编程一次生成代码+HMI+硬件配置，虚拟调试时间↓30%、图纸管理↑5倍。工业软件侧AI工程化代表。
 - [[vehicle-computing-agent]] - 计算智能体（汽车）：吉利在WNEVC 2026提出「汽车→计算智能体」，核心是「主动性」。座舱/整车AI从「聊天助手」向「能动主体」的范式迁移。
 
-### 市场/趋势/政策（36）
+### 市场/趋势/政策（37）
 
 - [[ai-manufacturing]] - AI技术嵌入汽车制造全流程，包括MES系统、柔性产线、气动仿真、研发大模型等。
 - [[ai-talent-auto-sector]] - 吉利公开坦承:汽车行业难以招聘顶尖 AI 人才。大模型公司吸走核心算力与人才资源,汽车企业面临"自建 vs 合作"的战略抉择。
@@ -273,6 +273,7 @@
 - [[new-forces-landscape-2026]] - 2026年中国新势力车企格局发生质变，从"蔚小理"三足鼎立演变为"零跑一超+多强"的新格局。零跑连续14个月领跑，行业洗牌加速。
 - [[ota-lock-scandal-2026]] - 2026年5月，市场监管总局约谈8家新能源车企，指控其通过OTA升级"锁电"——即在不告知用户的情况下限制电池可用容量，以延长电池寿命、降低索赔风险。比亚迪、埃安、深蓝被立案调
 - [[polestar-us-ban-2026]] - 2026年，极星（Polestar）被美国政府禁止销售2026款之后的新车型，成为中美科技博弈在汽车行业的首个重大牺牲品。
+- [[power-module-market-2026]] - 盖世研究院1-7月功率模块装机榜：比亚迪半导体19.2%登顶、英飞凌/中车时代各10.3%；弗迪动力主驱35.4%一超多强——IGBT国产化从「能用」进入「份额领先」，SiC成下一个战场。
 - [[spain-china-gateway]] - 西班牙埃斯特雷马杜拉自治区正在成为中资电池供应链进入欧洲的门户，复制匈牙利路径。
 - [[synthetic-data-explosion]] - 2026年成为合成数据（Synthetic Data）爆发元年。AI训练中合成数据占比达58%，首次超过真实数据。这一转变标志着汽车AI研发从"数据饥渴"转向"数据生成"新时代
 - [[zeekr-lynk-co-merger]] - 2026年6月，吉利宣布极氪与领克合并为"高端豪华新能源汽车集团"，冲击2026年百万产销目标。这是《台州宣言》战略整合的核心落地动作。

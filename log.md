@@ -743,3 +743,31 @@
 - **导航更新**：index.md - Entities/电池厂商1→2（+gotion）；Total pages 274→275（entities 102 / concepts 156 / comparisons 6 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（275页全部注册，缺失0）
 - **核心洞察**：①南北丰田合并+发改委支持兼并重组，中日两侧产业集中度同步加速，「10→5淘汰赛」进入政策兑现期；②去英伟达化从口号变出货——图灵20万片+大众定点标志国产自研芯片首次进欧洲大厂供应链；③L3国标2027.7.1实施前，试点牌仅2款且不支持变道，法规保守度是量产最大约束；④零跑9月10.5万台领跑且欧洲网点破千，出海从"渠道铺设"进入"盈利验证"；⑤问界专属专营再谈判暴露鸿蒙智行多品牌利益分配的结构性矛盾
+
+## [2026-10-02] ingest | 每日Wiki整理（6个cron日报 + 盖世晚报 + 雷诺周报）
+- **新建**：
+  - concepts/power-module-market-2026.md - 1-7月功率模块装机榜：比亚迪半导体19.2%登顶、英飞凌/中车时代各10.3%、弗迪动力主驱35.4%——IGBT国产化登顶、SiC下一个战场
+  - raw/articles/2026-10-02-daily-digest.md - 今日cron素材汇总（9月战报/大汉定价/吉利智充/舱驾融合元年/乾崑国庆数据/欧洲车企）
+- **更新（18页）**：
+  - entities/byd.md - 9月463,561辆全球超大众升至第二；海外179,877（+153.9%）；大汉10/13上市预售24.99-29.99万（更正「百万级」口径）；2026海外目标上调190-200万
+  - entities/geely.md - 9月292,168辆（新能源65%/出口+162%）；吉利智充单枪2250kW全球最快
+  - entities/volkswagen.md - 2026重夺华销第一（靠对手下滑）；VCTC合肥35亿欧；Cariad收缩为管理外部合作
+  - entities/mercedes-benz.md - 长轴GLE首搭Momenta R7+豆包AI；纯电CLA L上半年仅627辆；中国目标下修50-60万/年
+  - entities/bmw.md - i3长轴1000km+全系800V；沈阳电池智控试生产；德国工厂24/7
+  - entities/stellantis.md - 零跑国际欧洲目标上调10万+；E-Car项目2028意大利1.5万欧小车
+  - entities/renault.md - 9月欧洲纯电13,565辆（+90%）第四；Rafale Hypnotic限量版；巴利亚多利德停产
+  - entities/huawei-auto.md - 乾崑国庆首日110.7万用户/累计搭载破200万/里程158亿公里；HarmonySpace 6；8月NOA份额16.0%（24.4%收窄）
+  - entities/xiaopeng.md - VLA 2.0荷兰实测胜FSD（2250 vs 500 TOPS）；WP.29 DCAS 2026底欧盟强制；图灵750TOPS本地跑30B
+  - entities/wenjie.md - 10/1正式签约「专属专营」；问界用户破120万；赛力斯主导/华为赋能职能重构
+  - entities/deepal.md - S07 AI激光版14.99万（27传感器含激光雷达）；49个月破百万
+  - entities/leapmotor.md - 下调2026利润目标40%
+  - entities/li-auto.md - 9月31,817掉队；技术外供全开放（增程/马赫M100/SiC/VLA，芯创智核独立运营）
+  - concepts/cabin-driving-fusion.md - 量产元年确认：星空6P Q3量产iCAR V27首发（降本1500-4000元/周期18→8月）；征程1500万颗；8797零跑双片
+  - concepts/ultra-fast-charging.md - 吉利智充2250kW；全国充电设施2,422万台
+  - concepts/vla-mass-production.md - 荷兰实测+欧盟DCAS法规窗口
+  - concepts/city-noa-penetration.md - 8月渗透率27.9%创新高；元戎6.21万反超Momenta 6.13万；10-20万市场4.7%→14.2%
+  - comparisons/2026-09-china-sales-battle.md - 补比亚迪全球第二+全品牌9月战报
+- **导航更新**：index.md - Concepts/市场37条（+power-module-market-2026）；Total pages 275→276（entities 102 / concepts 157 / comparisons 6 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（276页全部注册，缺失0）
+- **链接修复**：[[800v]]→[[800v-platform]]、[[qualcomm]]→[[qualcomm-auto]]、[[smart-driving-chips]]→[[autonomous-driving-chips]]、[[lynk-co]]→[[zeekr-lynk-co-merger]]（历史遗留断链）；ford/proton 为未建页实体（通过性提及，暂不建页）
+- **核心洞察**：①中国智驾拐点已过——国庆首日110万用户主动开启乾崑，华为壁垒从算法转向用户习惯数据；②端侧算力军备未到头——小鹏2250 vs 特斯拉500 TOPS，30B大模型端侧上车是跳级；③智驾平权压缩纯视觉窗口——激光雷达方案压到14.99万；④智驾/芯片资产从成本中心转利润中心——理想外供+Momenta×神龙出海，2027 L3放量前现金流补血；⑤规模换利润代价显现——零跑下调利润目标40%，大众重夺第一靠对手下滑；⑥雷诺双线矛盾——西班牙长投 vs 同周停产，需求侧疲软是欧洲最大风险

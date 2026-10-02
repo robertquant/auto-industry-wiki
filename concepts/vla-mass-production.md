@@ -40,3 +40,8 @@ Vision-Language-Action (VLA) 大模型是智驾技术从感知向认知演进的
 - [[xiaopeng]] - VLA 2.0量产代表
 - [[huawei-ads]] - 反VLA路线代表
 - [[xiaomi]] - 世界模型路线代表
+## 2026-10-02 更新：荷兰实测 + 欧盟法规窗口
+
+- **小鹏VLA 2.0 荷兰实测胜特斯拉FSD**：MONA L03（3×图灵 2250TOPS）vs HW4 Model 3（500TOPS）——「端到端+高算力冗余」欧洲路况验证
+- **WP.29 DCAS 新规 2026底欧盟强制**：欧盟对智驾数据采集/监管新要求，出海合规门槛抬升
+- 相关：[[xiaopeng]]、[[tesla-fsd-china]]
