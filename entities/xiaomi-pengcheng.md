@@ -1,8 +1,9 @@
 ---
 title: 小米澎程 (Xiaomi Pengcheng)
 created: 2026-07-31
-updated: 2026-09-16
+updated: 2026-10-03
 type: entity
+tags: [oem-cn, vehicle, ev-tech, sales]
 tags: [oem-cn, vehicle, platform, pricing]
 sources: [memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
 ---
@@ -119,3 +120,8 @@ sources: [memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-n
 - 昆仑架构用户体验反馈
 - 小米汽车产能爬坡速度
 - 成都车展后订单转化率
+
+## 2026-10-03 更新：首月交付破万
+
+- **澎程首月交付破万**：增程子品牌开局验证——「SU7/YU7 + 澎程 N7/N9」双线放量逻辑兑现（见 [[xiaomi-auto]]）
+- 意义：小米汽车单品牌矩阵在首月即破万的增程玩家中属最快梯队；产能协同（共线/共用供应链）是后续爬坡关键

@@ -1,7 +1,7 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [oem-cn, vehicle, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
@@ -83,3 +83,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **9月交付首破 40,000台**，标志产能爬坡期结束——SU7 + YU7 双车满产爬坡
 - 单月交付进入新台阶，与新势力头部（零跑/小鹏/蔚来）同处放量区间（见 [[2026-09-china-sales-battle]]）
+
+## 2026-10-03 更新：1-9月约30万 + Q4冲25万承压
+
+- **1-9月累计约 30万辆**（9月首破4万），Q4 目标冲 25万——意味着 Q4 月均需 8万+，产能 vs 订单的缺口是最大风险
+- **[[xiaomi-pengcheng]] 首月破万**：增程子品牌开局验证「SU7/YU7+澎程」双线放量逻辑
+- 判断：小米从「产能爬坡」切换到「产能冲刺」模式——Q4 25万目标若达成，年销量将达 55万级，直接威胁新势力头部排位（对照 [[leapmotor]] 10.5万/月）

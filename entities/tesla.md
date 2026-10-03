@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-09-22
+updated: 2026-10-03
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -75,3 +75,9 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - NHTSA调查结果对Cybercab交付节奏的影响
 - Cybercab是否进入中国及Robotaxi落地模式
 - FSD入华与特斯拉中国智驾本地化进展
+
+## 2026-10-03 更新：Cybercab 奥斯汀付费试乘开放（10/2）
+
+- **10月开放奥斯汀限定区域付费试乘**——Cybercab 从发布进入真实运营验证：无方向盘/踏板、成本<3万美元、运营约 **0.2美元/英里**
+- **意义**：下半年 L4 商业化最值得跟踪的单点变量——不是发布会参数，而是付费订单密度、接管率、限定区域运营边界（对比中国 Robotaxi 玩家 [[pony-ai]]、[[weRide]] 的运营模式）
+- 关联：线控底盘/无方向盘对域控新需求（[[cabin-drive-integration]]）；与 NHTSA 9月调查的节奏关系待观察

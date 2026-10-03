@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-09-29
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
@@ -172,3 +172,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - 奥迪电动 A4 推迟至 2029；裁员 10万 + 追加 5万
 - 第 1,500万颗征程芯片上车 ID.AURA T6（见 [[cabin-driving-fusion]]）
 - 判断：在华策略从「自研追赶」全面转向「外部采购+本地定义」，与[[mercedes-benz]]、[[bmw]]同频
+
+## 2026-10-03 更新：安徽基地月交付1,716台 + 中国新能源产品线定盘
+
+- **安徽工厂 9月仅交付 1,716台**——ID.与CMP平台在华电车的现实销量远低于产能规划；「重夺销冠」（10/2）靠的是燃油存量，新能源在华仍未破局（对比 [[byd]] 单月46万）
+- **齐泽凯定盘**：2026年在华 20+款新车，**2029年达 31款新能源**，大众安徽是新能源主阵地（CEA架构 + [[horizon-robotics]] 酷睿程）
+- **裁员 10万/关 4厂方案获监事会推进**：德国本土收缩与在华扩张并行——「中国供全球」战略的硬币两面（见 [[euro-stoxx-50-exit]]）
+- 判断：规划（2029年31款）与现实（月交付1,716台）之间隔着一个「产品力代差」；安徽基地产能利用率是Q4欧洲巨头在华最值得跟踪的指标

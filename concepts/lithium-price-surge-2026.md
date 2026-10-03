@@ -1,10 +1,10 @@
 ---
 title: 2026碳酸锂价格暴涨
 created: 2026-05-13
-updated: 2026-09-29
+updated: 2026-10-03
 type: concept
 tags: [battery, supply-chain, cost, policy]
-sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md]
 ---
 
 # 2026碳酸锂价格暴涨
@@ -71,3 +71,9 @@ sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md]
 - [[byd]] - 拥有锂矿资源的垂直整合玩家
 - [[auto-price-hike-2026]] - 2026车企涨价潮
 - [[solid-state-battery]] - 固态电池可能缓解锂资源依赖
+
+## 2026-10-03 更新：重返15万关口（9月末）
+
+- **碳酸锂吨价重返 15万元**，期货一周涨近万元——从 5月 17.19万高点回落后的二次上行
+- 驱动：旺季备货 + 供给端减产扰动 + 电池规划（[[battery-fifteen-five-plan]]）政策预期；对照 9/29 库存口径修正（[[lithium-price-surge-2026]] 原页）
+- **判断**：15万是产业心理关口——回到该价位上方，电池厂二季度成本红利被侵蚀，车企端「成本传导」压力重来（见 [[auto-price-hike-2026]]）；对二线电池厂是出清加速器，对[[byd]]（自有锂矿）是相对优势放大

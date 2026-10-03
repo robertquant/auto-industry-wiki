@@ -1,10 +1,10 @@
 ---
 title: 上汽集团 (SAIC)
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-10-03
 type: entity
 tags: [saic, china, soe, export, new-energy]
-sources: [memory/2026-07-04.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md]
 ---
 
 # 上汽集团 (SAIC)
@@ -65,7 +65,7 @@ sources: [memory/2026-07-04.md]
 
 ### 对比其他央企
 - [[changan]] - 三大央企重组整合中
-- [[dongfeng]] - 东风集团面临更大压力
+- 东风集团面临更大压力（无独立页面）
 - 上汽在三大央企中转型相对成功
 
 ## 子品牌/合作
@@ -90,6 +90,12 @@ sources: [memory/2026-07-04.md]
 - [[changan]] - 对比参照，三大央企之一
 - [[chery]] - 出海销冠对比
 - [[stellantis]] - 零跑技术输出对比
+
+## 2026-10-03 更新：9月销量 40.6万
+
+- **9月集团销量 40.6万辆**：与[[byd]]（46.36万）、[[chery]]（29.23万）、[[geely]]（29.22万）构成自主头部四强
+- 结构看点：自主（[[mg]]/荣威/智己）+ 出海 + 合资（[[saic-gm]] 续约至2047）三线并进，「换血」完成后的量能验证（见 [[saic-gm]]、[[chinese-oem-export]]）
+- 相关：[[shangjie]]（尚界=上汽×华为第五界）
 
 ## 来源
 - 2026-07-04 讨论上汽销量分析

@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-09-30
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -152,3 +152,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **中国中期目标下修至 50-60万辆/年**：仅迈巴赫/G级坚挺——「过渡年」自我定位被数据验证
 - 判断：中国主线靠燃油豪华输血，纯电产品空窗；对照 [[bmw]] iX3长轴（26.99万/919km）差距拉大
 - 相关：[[china-tech-reverse-export]]
+
+## 2026-10-03 更新：Momenta智驾率先搭载国产纯电CLA（今秋上市）
+
+- **[[momenta]] 智驾将率先搭载国产纯电 CLA，今秋上市**——中国智驾方案进入奔驰国产纯电车首车（与纯电GLC 703km 同属 MMA 平台矩阵）
+- 与 10/2「长轴GLE首搭Momenta R7+豆包AI」叠加：奔驰「由中国定义」从燃油旗舰（GLE）覆盖到纯电入门（CLA）全价格带
+- 判断：纯电 CLA L 上半年仅 627辆的教训下，奔驰把智驾作为国产纯电的「中国化卖点」重建——Momenta 的双车定点是 [[momenta]] 天花板再上移（燃油百万级 S级 + 国产纯电入门级）

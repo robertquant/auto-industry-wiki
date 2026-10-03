@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-09-28
+updated: 2026-10-03
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -88,8 +88,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - [[nio]] - 换电模式代表车企
 - [[catl]] - 巧克力换电标准推动者
 - [[huawei-auto]] - 新入局方（东风奕境预研换电）
-- [[ev-tech]] - 补能技术路线
-- [[battery-tech]] - 电池技术
+- 注：`ev-tech`/`battery-tech` 为标签（tag）非独立页面，详见本文档 tags
 
 ## 待观察
 - 华为+宁德换电合作的具体落地节奏
@@ -103,4 +102,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - 蔚来累计充换电站 **9,410座**（换电站4,109座）行业第一
 - 蔚来全球首座零碳离网光储换电站（新疆星星峡）
 - **判断**：换电从「蔚来一家独扛」走向「双巨头平台化」；若C端标准打通，将具备与超充阵营对等的网络效应 → 对比详见 [[battery-swap-vs-ultra-fast-charging]]
+
+## 2026-10-03 更新：国庆峰值压力测试——换电确定性 +1
+
+- **蔚来国庆首日（10/1）换电 183,469 单创历史新高**；全国充换电站 9,515座（换电 4,160座、高速 1,073座）
+- **充电侧压力测试**：高速服务区排队最长 5h+、1%电量趴窝、湖北高速充电量同比 +40%——纯充线路在峰值的确定性短板暴露
+- **判断**：峰值运营数据是补能路线最硬的证据——换电（3-5分钟）在峰值吞吐上确定性完胜超充（排队+占位）；但换电网络扩张受限（城市/高速密度），超充联盟在「广覆盖」维度仍占优（见 [[ultra-fast-charging]]）
+- 关注：[[geely-nio-swap-alliance]] 统一标准后，2027 吉利首款换电车型接入对峰值的分担效应
 

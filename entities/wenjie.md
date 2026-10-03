@@ -1,8 +1,9 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
+tags: [oem-cn, vehicle, adas, ecosystem]
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
 ---
@@ -110,3 +111,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - 职能重构确认：产品定义/设计/渠道/服务由赛力斯主导、华为终端赋能；渠道门店资源分配改为双方协商
 - 赛力斯作为[[huawei-auto]]引望股东，仍获技术供给优先级保障
 - 判断：华为首次完整交还成熟品牌主导权——鸿蒙智行多品牌治理（问界/智界/享界/尊界/尚界）进入「分权时代」，资源分配成核心课题
+
+## 2026-10-03 更新：华为×赛力斯新五年合作确认
+
+- 晚报口径确认 **华为×[[seres]] 新五年合作**（2026-2030 框架）——在 10/1「专属专营」签约基础上把合作周期制度化
+- 与「赛力斯主导、华为赋能」的职能重构（10/2）叠加：合作从「项目制」升格为「战略制」
+- 判断：新五年框架 + 专属专营 = 鸿蒙智行「分权时代」的治理模板；问界/智界/享界/尊界/尚界将各自复制「主导方+华为赋能」结构（见 [[huawei-auto]]）

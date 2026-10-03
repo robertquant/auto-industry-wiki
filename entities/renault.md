@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
@@ -180,3 +180,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Rafale Hypnotic 限量 1,500台（€63,550）**：小众限量维持品牌调性
 - **同周巴利亚多利德工厂因需求波动停产**：与西班牙 6亿欧元投资（2026-2030）形成「长投+短停」矛盾——欧洲需求侧疲软是最大风险
 - 相关：[[twingo-e-tech]]、[[entry-ev-profit-crisis]]
+
+## 2026-10-03 更新：巴黎车展 50款车型四品牌矩阵
+
+- **巴黎车展（10/12-18）携 50款车型（6款新车）参展**，四大品牌（雷诺/达契亚/Alpine/Mobilize）矩阵——欧洲「本土防守 + 平价电动进攻」路线的主场总攻（见 [[2026-paris-auto-show]]）
+- 配合 Twingo E-Tech 定价公布（10月）+ Gordini 8 概念车首秀：车展是2026年雷诺产品叙事的收官节点
+- 判断：50款 vs [[stellantis]] 9款概念车的参展策略差异，暴露两家欧洲巨头路线分歧——雷诺用规模压阵、Stellantis用愿景防守

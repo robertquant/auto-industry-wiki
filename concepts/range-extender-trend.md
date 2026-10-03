@@ -85,7 +85,7 @@ sources: [memory/2026-07-31.md, memory/2026-09-09.md, daily-news/2026-09-09-gasg
 - [[byd]] - DM-i技术竞争
 - [[leapmotor]] - 增程路线代表
 - [[xiaomi-pengcheng]] - 新入局者
-- [[battery-tech]] - 电池技术演进
+- [[solid-state-battery]] - 电池技术演进（`battery-tech` 为标签非独立页面）
 
 ## 趋势判断
 - 增程将在15-30万价位长期存在

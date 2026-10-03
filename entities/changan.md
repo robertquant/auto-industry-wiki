@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-09-30
+updated: 2026-10-03
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
@@ -136,4 +136,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **国内承压**：糯玉米、红旗H5（合作体系内）大幅下滑，出口高增对冲国内疲软
 - 旗下深蓝 9/28 达成第100万辆下线（见 [[deepal]]）
 - 相关：[[china-export-leaders-2026]]
+
+## 2026-10-03 更新：成立「AD协同发展部」+ 9月销量 -14%
+
+- **成立「AD协同发展部」**（一财 10/2）：[[avatr]] × [[deepal]] 智驾整合实质推进——9月 AD组合销量已超鸿蒙智行，智驾平权从口号变编制
+- **9月集团销量 22.9万（-14%）**：8月 -22.6% 后继续双位数下滑，但环比回升（8月 21.88万 → 9月 22.9万）；与长城同步回调，自主「内缩外爆」样本（见 [[great-wall]]、[[chinese-oem-export]]）
+- **阿维塔 9系将巴黎车展全球首发**（见 [[2026-paris-auto-show]]）——长安高端化的欧洲首秀
 

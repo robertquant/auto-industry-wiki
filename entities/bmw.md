@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -94,3 +94,9 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - iX3 长轴 11月交付、入门版LFP，26.99万一口价（见 9/30 更新）
 - **德国工厂三班倒 24/7 生产**；沈阳基地同步启动新一代电池智控系统试生产
 - 判断：「中国降本+德国满载」双基地模式成形，i3长轴把纯电豪华续航竞争带入 1000km 时代
+
+## 2026-10-03 更新：新世代 iX3 开启预订
+
+- **新世代 iX3 26.99万起开启预订**——Neue Klasse 首款车进入订单转化阶段（11月交付、入门版LFP）
+- 与 10/1 渠道改革（裁撤20%渠道+统一价）形成「产品+渠道」同步落地：一口价策略下订单质量 > 数量
+- 判断：iX3 26.99万一口价是德国豪华在中国纯电价格带的「锚」——[[mercedes-benz]] 纯电GLC 24.9万被迫下探至同区间，BBA 纯电自相残杀开始（见 [[bba-ev-ranking-2026]]）

@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-09-30
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md]
@@ -45,3 +45,9 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 - **「E-Car」项目**：2028 意大利投产 1.5万欧小型 EV——欧洲本土平价纯电反攻（对照 [[entry-ev-profit-crisis]]）
 - **零跑下调 2026 利润目标 40%**：规模换利润代价显性化
 - 判断：用零跑做欧洲量、用E-Car做本土政治正确，双轨并行
+
+## 2026-10-03 更新：电池供应中断停产 + 巴黎车展概念车攻势
+
+- **因电池供应问题暂停法国部分生产**——欧洲主机厂绑定中国电池厂成主流解法的反向验证：供应链断点已从「软件」延伸到「电芯」（对比 [[gotion]] 12.5亿美元入股大众西班牙厂、[[catl]] 欧洲布局）
+- **巴黎车展亮 9款概念车 + 新出行愿景**（10/12-18，见 [[2026-paris-auto-show]]）——概念车叙事对冲中国性价比攻势，与神龙×[[momenta]]、博泰座舱入局（9/30）形成「本土叙事 + 中国供应链」双线
+- 判断：电池供应断点暴露 Stellantis 电动化失速的结构性原因；巴黎车展概念车 vs 中国量产车同台，是「欧洲最后防线」的直观检验

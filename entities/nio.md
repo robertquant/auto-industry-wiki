@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -153,3 +153,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - 9/28 与[[geely]]充换电全面战略合作敲定（技术/运营/资本联合投资，见 [[geely-nio-swap-alliance]]）
 - 财务：连续三季经调整盈利、现金储备 567亿——「盈利+现金」双安全垫
 - 8月主品牌 +101% 翻番（见 [[new-forces-landscape-2026]]）
+
+## 2026-10-03 更新：国庆首日换电峰值 + 第100万辆交付
+
+- **国庆首日（10/1）换电 183,469 单创历史新高**；全国充换电站 9,515座（换电 4,160座、高速 1,073座）
+- **9/21 完成第100万辆交付**，成交均价 40万+——高端纯电首个百万（对照 [[li-auto]] 累计183万含增程、[[xiaomi-auto]] 50万）
+- **9月三品牌均创历史新高**（蔚来品牌 21,318台 +55.3%）；前三季度累计 300,301台（+49.2%），年目标 45.6-48.9万达成率仅 61-66%——全年目标大概率下修或阶段性放弃
+- 补能峰值压力测试（国庆服务区排队 5h+）：换电确定性 +1（见 [[nev-battery-swap]]、[[geely-nio-swap-alliance]]）

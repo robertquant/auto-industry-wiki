@@ -1,10 +1,10 @@
 ---
 title: 阿维塔 (Avatr)
 created: 2026-06-13
-updated: 2026-07-01
+updated: 2026-10-03
 type: entity
-tags: [avatr, changan, huawei, china, ev, adas]
-sources: [memory/2026-06-13.md]
+tags: [avatr, changan, huawei, china, ev, adas, export]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-06-13.md]
 ---
 
 # 阿维塔 (Avatr)
@@ -63,3 +63,9 @@ sources: [memory/2026-06-13.md]
 - 07L市场表现
 - 与长安天枢领航系统的差异化定位
 - 华为合作模式的演进
+
+## 2026-10-03 更新：9系巴黎车展全球首发
+
+- **阿维塔 9系将巴黎车展（10/12-18）全球首发**（见 [[2026-paris-auto-show]]、[[changan]]）——长安高端化的欧洲首秀
+- 背景：长安成立「AD协同发展部」（10/2），阿维塔×深蓝智驾整合推进，9月 AD组合销量已超鸿蒙智行
+- 判断：9系承载「长安×华为×宁德」三方品牌在欧洲的第一印象，全球首发即上市节奏值得关注

@@ -771,3 +771,37 @@
 - **索引完整性校验**：comm 输出为空（276页全部注册，缺失0）
 - **链接修复**：[[800v]]→[[800v-platform]]、[[qualcomm]]→[[qualcomm-auto]]、[[smart-driving-chips]]→[[autonomous-driving-chips]]、[[lynk-co]]→[[zeekr-lynk-co-merger]]（历史遗留断链）；ford/proton 为未建页实体（通过性提及，暂不建页）
 - **核心洞察**：①中国智驾拐点已过——国庆首日110万用户主动开启乾崑，华为壁垒从算法转向用户习惯数据；②端侧算力军备未到头——小鹏2250 vs 特斯拉500 TOPS，30B大模型端侧上车是跳级；③智驾平权压缩纯视觉窗口——激光雷达方案压到14.99万；④智驾/芯片资产从成本中心转利润中心——理想外供+Momenta×神龙出海，2027 L3放量前现金流补血；⑤规模换利润代价显现——零跑下调利润目标40%，大众重夺第一靠对手下滑；⑥雷诺双线矛盾——西班牙长投 vs 同周停产，需求侧疲软是欧洲最大风险
+
+## [2026-10-03] ingest | 每日Wiki整理（晨报 + 汽车AI日报 + 盖世晚报）
+- **新建（3）**：
+  - entities/great-wall.md - 长城汽车：9月11.5万（-14%）海外占比52.2%，出口占比过半的自主头部样本；长城炮Hi4-T混动越野路线
+  - concepts/2026-paris-auto-show.md - 2026巴黎车展（10/12-18）：零跑D19/A05、小鹏G9L海外上市、理想i6欧洲首秀、阿维塔9系全球首发 vs Stellantis 9款概念车、雷诺50款车型——中外短兵相接观测窗口
+  - raw/articles/2026-10-03-daily-digest.md - 今日cron素材汇总（9月销量收官/巴黎车展预热/Cybercab试乘/长安AD部/国庆补能压力测试）
+- **更新（21页）**：
+  - entities/volvo.md - Q3全球14.16万（-10.7%）、大中华区-40.6%「未见缓解」、纯电占比32%
+  - entities/volkswagen.md - 安徽9月仅交付1,716台；齐泽凯2026在华20+款/2029年31款新能源；裁员10万/关4厂获监事会推进
+  - entities/tesla.md - Cybercab 10月奥斯汀限定区域付费试乘（成本<3万美元、约0.2美元/英里）
+  - entities/nio.md - 国庆首日换电183,469单新高；9,515座站（换电4,160/高速1,073）；9/21第100万辆交付、均价40万+；年目标达成率61-66%
+  - entities/changan.md - 成立「AD协同发展部」（阿维塔×深蓝整合，9月AD组合超鸿蒙智行）；9月22.9万（-14%）
+  - entities/chery.md - 9月29.23万（+14.4%），与吉利仅差140辆
+  - entities/xiaopeng.md - G9L巴黎海外上市+第二代VLA首发；何小鹏：除大众外洽谈更多技术/芯片输出
+  - entities/li-auto.md - i6巴黎车展欧洲首秀
+  - entities/mercedes-benz.md - Momenta智驾率先搭载国产纯电CLA（今秋上市）
+  - entities/bmw.md - 新世代iX3 26.99万起开启预订
+  - entities/stellantis.md - 因电池供应暂停法国部分生产；巴黎车展9款概念车
+  - entities/renault.md - 巴黎车展50款车型（6款新车）四品牌矩阵
+  - entities/xiaomi-auto.md - 1-9月约30万、Q4冲25万承压；澎程首月破万
+  - entities/xiaomi-pengcheng.md - 首月交付破万
+  - entities/wenjie.md - 华为×赛力斯新五年合作确认（2026-2030框架）
+  - entities/avatr.md - 9系巴黎车展全球首发；tags 补 export
+  - entities/saic.md - 9月40.6万辆（自主头部四强）
+  - concepts/nev-battery-swap.md - 国庆峰值压力测试：换电确定性+1 vs 充电排队5h+
+  - concepts/lithium-price-surge-2026.md - 碳酸锂重返15万、期货一周涨近万
+  - concepts/solid-state-battery.md - 政策定调2026=固液混合量产元年（先混固液、后全固态）
+  - concepts/china-export-leaders-2026.md - 崔东树：9月自主海外33.6万台（+25%）创新高
+  - concepts/range-extender-trend.md - 断链修复
+  - comparisons/2026-09-china-sales-battle.md - 10/3补充：自主头部完整战报（奇瑞vs吉利140辆、长安/长城-14%）、存量博弈定调、Q4补贴变量
+- **导航更新**：index.md - 车企（中国）27→28（+great-wall）、Concepts其他 10→11（+2026-paris-auto-show）；Total pages 276→278（entities 103 / concepts 158 / comparisons 6 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（278页全部注册，缺失 0）
+- **断链修复**：本次25个触及文件断链体检干净；顺手修复历史遗留 [[dongfeng]]（saic）、[[ev-tech]]/[[battery-tech]] 标签误用（nev-battery-swap/range-extender-trend）
+- **核心洞察**：①9月最大结构性信号=国内在缩、出口在爆——自主海外33.6万创新高，奇瑞71%/长城52%占比，增量已从内需切海外，「金九」无普涨=存量博弈；②沃尔沃大中华区-40.6%证实二线豪华无护城河，BBA下探挤压下纯电占比32%救不了量；③大众安徽月交付1,716台 vs 2029年31款规划，「产品力代差」是欧洲巨头在华统一困境；④巴黎车展（10/12）是中外短兵相接窗口——小鹏卖技术（或签新合作）、理想闯欧洲、Stellantis概念车防守；⑤换电确定性在国庆峰值压力测试+1，长安AD协同发展部=智驾平权变编制；⑥固态电池政策定调「先混固液、后全固态」，2026=量产元年从讲故事切到排产期

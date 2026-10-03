@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md]
@@ -188,3 +188,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **WP.29 DCAS 新规 2026底欧盟强制**：智驾出海合规成本上升
 - **小鹏×斑马**：750 TOPS 图灵芯片本地运行 30B 大模型——端侧算力上限跳级；斑马获超60%车企端模型合作
 - 判断：VLA 路线获欧洲实测背书；30B端侧上车是座舱-智驾一体化的跳级动作
+
+## 2026-10-03 更新：巴黎车展G9L海外上市 + 技术输出扩围预期
+
+- **G9L 巴黎车展海外上市**（10/12-18，见 [[2026-paris-auto-show]]）：23.18万起 + **第二代VLA首发**——「国内定价、欧洲首发」同步打法兑现
+- **何小鹏**：除大众外正与**更多车企谈技术/芯片输出**，巴黎车展可能宣布新合作——技术输出从个案（大众）走向模式化，[[china-tech-reverse-export]] 进入新阶段
+- 9月 41,256台（前三季新势力第二梯队）；判断：小鹏的「卖技术」叙事若能再落一子，市场将重估其估值逻辑（智驾资产从成本中心转利润中心）

@@ -1,10 +1,10 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-05-31
+updated: 2026-10-03
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
-sources: [memory/2026-05-14.md, memory/2026-05-31.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md]
 ---
 
 # 中国出海5强格局（2026）
@@ -134,3 +134,9 @@ sources: [memory/2026-05-14.md, memory/2026-05-31.md]
 - [[leapmotor]] - 零跑（技术授权模式代表）
 - [[stellantis]] - 零跑欧洲合作方
 - [[renault]] - 吉利合作方
+
+## 2026-10-03 更新：9月自主海外33.6万台创新高（崔东树）
+
+- **9月自主品牌海外销量 33.6万台（+25%），创历史新高**——单月口径新高，出口全面转向「经销模式 + 本地化」
+- **出口占比分水岭**：奇瑞 71%、长城 52.2%、比亚迪 43%、吉利 41%（9月）——自主头部过半依赖海外已是常态（新增 [[great-wall]] 页）
+- **判断**：国内 9月「金九」无普涨（存量博弈）与海外 +25% 对照，增量已持续从内需切换到海外；Q4 变量是「按车价比例补贴」新政（见 [[nev-penetration-60-percent]]）能否把内需拉回来

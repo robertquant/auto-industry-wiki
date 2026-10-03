@@ -1,10 +1,10 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-09-30
+updated: 2026-10-03
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
 ---
 
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
@@ -176,3 +176,9 @@ sources: [memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasg
 - 宁德凝聚态电池是半固态路线的量产冲锋号
 - 1500km续航解决里程焦虑，但成本是关键挑战
 - 钠新电池量产将进一步冲击三元电池市场
+
+## 2026-10-03 更新：政策定调「先混固液、后全固态」
+
+- **七部门《新型电池产业十五五规划》（9/28）明确 2026 = 固液混合量产元年**，「先混固液、后全固态」渐进路线获国家级定调（见 [[battery-fifteen-five-plan]]）
+- 2030 全固态初步规模化目标与 [[byd]] 2027 装车、[[chery]] 2026 Q4 犀牛固液混合装车的时间表对齐——行业从「讲故事」切到「排产期」
+- **判断**：政策确认的最大受益者是固液混合（半固态）产业链——2026-2027 量产爬坡先于全固态兑现；全固态仍是 2029-2030 的终局叙事

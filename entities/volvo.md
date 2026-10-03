@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-01
+updated: 2026-10-03
 type: entity
 tags: [oem-eu, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -85,3 +85,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-
 - **7月中国惨淡**：旗舰纯电 ES90 单月仅 294辆；大中华区销量 -27%——「保价策略」在价格战中的代价显性化
 - **全球暂停白领岗位招聘**：欧美需求走弱 + 电动化转型投入双重挤压下的收缩信号
 - 判断：豪华+安全溢价在与[[byd]]/[[zeekr]]的正面价格战中被稀释；领克欧洲渠道协同（见 [[zeekr-lynk-co-merger]]）是少数正向变量
+
+## 2026-10-03 更新：Q3大中华区 -40.6%，「未见缓解」
+
+- **Q3 全球 14.16万辆（-10.7%）**；**大中华区暴跌 -40.6%**——官方口径「未见缓解」，从7月单月 -27% 恶化为季度 -40.6%
+- **纯电占比 32%（+29%）**：电动化结构持续改善，但增量在欧洲；中国纯电输入被价格战抵消
+- **判断**：二线豪华没有护城河——BBA 价格下探（[[bmw]] iX3长轴 26.99万、[[mercedes-benz]] 纯电GLC 24.9万）挤压下，保价策略在华失速；对比大众有本土化技术缓冲（[[volkswagen]]）、吉利有渠道协同（[[zeekr-lynk-co-merger]]），沃尔沃两条都没有，电动化拐点前只能以价换量或继续收缩
