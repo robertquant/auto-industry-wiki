@@ -1,7 +1,7 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-09-29
+updated: 2026-10-04
 type: entity
 tags: [tier1, adas, ai, system]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md]
@@ -58,4 +58,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **成为本田全球唯一高阶智驾供应商**（2027 年车型落地）——日系头部首次全线外采中国智驾方案，是 [[honda-china]] 电动化失败后「技术换血」的标志动作。
 - **第三方城市 NOA 市占率 65%**（较 09-28 的 60% 口径上调）。
 - **奔驰 GLE 长轴版 59.98万起首搭 Momenta 联合智驾**；**上汽大众 ID.ERA 9X 推送 Momenta R7 世界模型**——合资首次量产世界模型（见 [[mercedes-benz]]、[[volkswagen]]、[[world-model]]）。
+
+## 2026-10-04 更新：神龙×标致/Jeep 全球合作
+
+- **神龙科技×Momenta 合作**：依托 R7 世界模型联合开发高阶智驾，覆盖**标致、Jeep 全新量产车型**（中国/欧洲/全球市场）——标致、Jeep 高阶智驾首次落地（见 [[stellantis]]）
+- Momenta 深度参与产品定义与整车开发——从「方案供应」升级为「联合开发」，是 [[chinese-oem-export]]「在中国、为全球」开发模式的又一案例（继大众 ID.ERA、本田2027车型后第三条海外量产线）
+- 判断：欧洲传统品牌（德系→日系→法系/美系）高阶智驾全部转向中国方案商，[[foreign-automakers-chinese-ad]] 趋势从个案变常规
 

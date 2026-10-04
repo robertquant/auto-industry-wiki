@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-01
+updated: 2026-10-04
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -185,3 +185,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - 匈牙利工厂 2026底投产；西安基地扩招 8,000人（Q4爬坡+新品导入）
 - 1-7月功率模块装机：比亚迪半导体 19.2% 登顶（见 [[power-module-market-2026]]）
 - 相关：[[chinese-oem-export]]、[[2026-09-china-sales-battle]]
+
+## 2026-10-04 更新：方程豹钛7EV + 5分钟闪充军备竞赛
+
+- **方程豹钛7EV 上市 19.98万起，5分钟闪充 755km**——闪充进入「5分钟级」军备竞赛（对照 [[ultra-fast-charging]]：宁德6分27秒/比亚迪兆瓦闪充2.0的10C再上台阶）
+- **上半年海外销量超78万辆**；**五年研发投入超2000亿**——出海+研发双投入印证「技术换市场」路径
+- 西安基地扩招 8,000人（Q4爬坡+新品导入，见 [[chinese-oem-export]]）
+- 弗迪电池×四川国软战略合作：钻井油改电/储能/动力电池/智能机器人多领域
+- 判断：闪充从「分钟级」压缩到「5分钟级」，本质是补能体验对标加油站的最后一公里——快充军备与换电联盟（吉利×蔚来 [[geely-nio-swap-alliance]]）正面争夺补能标准

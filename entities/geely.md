@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-01
+updated: 2026-10-04
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -160,3 +160,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **9/23 发布「吉利智充」**：单枪峰值 2250kW，宣称全球量产最快补能纪录（见 [[ultra-fast-charging]]）
 - 银河 8月 76,028辆、占集团 42.7%；2026产品线 A8/A9（直怼[[byd]]汉级）、V900 MPV
 - 相关：[[zeekr]]、[[new-forces-landscape-2026]]
+
+## 2026-10-04 更新：2026目标345万辆 + 英伟达共研L4
+
+- **2026年目标：345万辆（+14%）、出口 64万辆（+52%）**——出口增速近3倍于总量增速，出海是最大增量引擎（对照 [[chery]]、[[byd]] 出海三极格局，见 [[chinese-oem-export]]）
+- **超级Eva + 千里浩瀚 G-ASD 4.0 量产上车**（见 [[geely-super-eva]]）；**与英伟达 DRIVE Hyperion 共研 L4**——智驾双轨：自研G-ASD走量、英伟达平台攻L4
+- 领克 9月 18,493台、新能源占比创新高（合并后 [[zeekr-lynk-co-merger]] 高端矩阵放量）
+- 判断：345万目标 = 基盘（吉利+银河+领克极氪）+ 出海（64万）双轮；与英伟达共研说明L4级智驾仍需要外部算力底座，自研芯片+外购平台并行是头部车企的务实路线

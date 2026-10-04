@@ -1,7 +1,7 @@
 ---
 title: 意大利汽车市场2026
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-10-04
 type: entity
 tags: [europe, market, sales, penetration-rate]
 sources: [raw/articles/2026-06-05-daily-summary.md]
@@ -45,3 +45,8 @@ sources: [raw/articles/2026-06-05-daily-summary.md]
 - [[renault]] - 雷诺意大利-10.9%下滑
 - [[stellantis]] - 零跑合作模式在欧洲复制
 - [[nev-penetration-60-percent]] - 新能源渗透率趋势
+
+## 2026-10-04 更新：对华80%关税提案
+
+- **意大利政界喊出对华 80% 关税**（10月初）——比欧盟现行最高38.1%再翻倍，若落地将直接冲击中国品牌意大利攻势（[[leapmotor]] 意大利纯电市占率超25%、[[byd]] 年度7万+规模）
+- 判断：意大利是中国品牌+[[stellantis]] 合作出海（E-Car 2028投产）的双重桥头堡（见 [[leapmotor-stellantis]]）；80%关税提案若推进，会同时打击「中国整车出口」和「意大利本地合作生产」叙事，是 Q4 欧洲政策端最大风险变量
