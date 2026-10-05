@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-05
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
@@ -13,6 +13,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 华为以「零部件+HI+智选」三种模式渗透汽车产业，2026年乾崑ADS 5成为高阶智驾事实标准之一：H1城市NOA装机32.3万辆居首，鸿蒙智行舱内激光雷达大批装车开启L3硬件预埋。生态覆盖[[seres]]（问界）、[[zunjie]]（尊界）、[[changan]]（阿维塔/启境）、东风奕境等。
 
 ## 智驾产品线
+
+### 乾崑国庆使用数据（10/1 靳玉志）
+- **9/30 零点至 10/1 早 9 点：110.7 万用户使用乾崑智驾，累计 7,116 万公里**，人均里程达 9 月日均 3 倍
+- **判断**：智驾竞争从「参数发布」转向「节假日实际使用率」——长假峰值是系统稳定性 + 用户信任度的真实压力测试，也是 [[data-moat]] 的增量来源
 
 ### 乾崑 ADS 5
 - 新一代四激光硬件架构（阿维塔T09搭载）

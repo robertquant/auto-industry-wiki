@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-04
+updated: 2026-10-05
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md]
@@ -22,6 +22,10 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 | 马德里工厂 | 2028 年（新增） |
 | 品牌策略 | B10 将挂 **欧宝（Opel）标** |
 | 战略意义 | 绕过关税壁垒，中国车在欧洲本土制造 |
+
+## 10/5 补充：摩根士丹利下调评级
+- **摩通（摩根士丹利）下调评级**，指向产品线老化——14 品牌矩阵中欧洲平价电动仅靠 e-C3 撑场（对标 [[renault]] Twingo/Spring 双车、[[entry-ev-profit-crisis]]）
+- 无重大新动态：近期重心仍是「关税保本土 + 中国供应链保成本 + 卖厂收缩」（见 [[italy-market-2026]] 意大利 80% 关税风险）
 
 ## 2026-09-30 更新：神龙×Momenta 全球合作 + 中国供应链批量进入
 

@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-01
+updated: 2026-10-05
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -18,6 +18,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 |------|------|
 | 7月交付 | 101,267辆（新势力首破10万，同比+102%） |
 | 8月交付（全球） | 103,129辆（+80.7%），连续两月破10万 |
+| 9月交付（全球） | 105,656辆（+59%），连续3月破10万；**出口超2.7万台**、**欧洲网点破1,000家（36国）** |
 | 8月单车净利 | **583元**——盈利但极薄 |
 | 盈利状态 | 新势力中唯一盈利 |
 | 5月销量 | 8.1万辆 |

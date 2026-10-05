@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md]
@@ -12,6 +12,12 @@ sources: [raw/articles/2026-10-03-daily-digest.md]
 ## 概述
 
 2026年10月12-18日举办，是**中外品牌短兵相接的核心观测窗口**：中国新势力首次大规模正面进攻欧洲主场，欧洲传统巨头则用概念车与本土化叙事防守。与 [[2026-beijing-auto-show]]（4月，中国主场）形成全年两大车展对照节点。
+
+## 10/5 补充
+- **[[xiaopeng]] G9L 右舵版已下线、发运澳洲**：海外上市从欧洲扩至右舵市场，量产节奏快于预期
+- **[[leapmotor]] 欧洲网点破 1,000 家（36国）** 后首个车展攻势（D19/A05）；9月出口超 2.7 万台
+- **[[avatr]] T09 确认参展**（乾崑 ADS 5 + XMC 数字底盘，见 [[huawei-auto]]）
+- **战略定性**：关税阴影下（[[eu-phev-strategy]]、[[italy-market-2026]] 80% 关税提案），中国军团从「卖车」转向「车展造势 + 本地化」——展台是叙事战场，真正的销量靠匈牙利/西班牙工厂
 
 ## 中国车企参展阵容（10/12 预热）
 

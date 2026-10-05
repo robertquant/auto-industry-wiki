@@ -1,13 +1,19 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-04
+updated: 2026-10-05
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
 
 # 雷诺 (Renault)
+
+## 10/5 补充：英国电动车登顶 + 财报静默期
+- **R5 为英国 7 月最畅销电动车**，英国订单中电动占比超 50%——「平价电动进攻」在右舵市场验证（巴黎车展前欧洲市场信号，见 [[2026-paris-auto-show]]）
+- **电动 Twingo 年内上市**（<2万欧元，斯洛文尼亚产）：与 [[twingo-e-tech]] 构成入门双车组合，正面打中国 A 级（[[entry-ev-profit-crisis]] 背景下的欧洲平价价格战）
+- **Q3 财报约 10 月中旬发布**：处于财报前静默期，无重大发布
+- **与 [[geely]] 巴西合作推进中**：南美市场混动/电动双线布局（配合 [[horse-powertrain]] 全球动力总成网络）
 
 ## 2026-09-29 更新：巴黎车展 + 印度混动攻势
 

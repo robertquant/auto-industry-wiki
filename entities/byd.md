@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-04
+updated: 2026-10-05
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -48,6 +48,12 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ### 9月动态
 - **马来西亚建厂搁置（9月）→ 9/28签约反转**：取消霹雳州自建计划后，9/28与马方签约推进东南亚本地化整车生产——自建改合作路径落地；马来西亚累计销售已超3.5万辆电动车。
 - **首款人形机器人「小迪」首秀**：比亚迪发布首款人形机器人，正式入局机器人赛道。（15家主流车企已入局）
+
+### 9月销量定稿 + 10月新车节奏（10/5 补充）
+- **9月集团销量 463,561辆（+16.99%）**，1-9月累计超313万辆；单月海外近18万辆（179,877，+153.9%）
+- **大汉 10/13 上市**：王朝网旗舰轿车换代节点，卡位Q4冲量
+- **王朝网第1,000万辆整车下线**：单销售网络千万辆里程碑
+- **闪充站目标上调确认**：2026底 2万座 → **2028年底建成 9万座**——闪充网络从「一二线覆盖」进入「全量下沉」阶段（见 [[ultra-fast-charging]]、[[battery-swap-vs-ultra-fast-charging]]）
 - **第36周销量**：9月首周比亚迪54,550辆，持续领跑。
 
 ### 9月动态（中旬）

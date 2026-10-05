@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-03
+updated: 2026-10-05
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
@@ -43,6 +43,12 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 
 ### 9月更新：裁员扩大至10万 + 4座EV工厂停产（2026年9月20日）
 - **裁员规模扩大**：从此前计划的5万增至约10万（全球），占集团全球总员工约9%
+
+## 10/5 补充：CARIAD 再裁千人 + 软件投资削减（软件收缩期定调）
+- **CARIAD 拟再裁 1,000 人（约 23%）**，12 月公布方案；2027-2031 年削减 **61 亿欧元**投资
+- **与 [[bosch]] 提前终止合作项目**：约 500 名员工最受影响——双方自动驾驶联合开发提前终止
+- **判断**：大众软件策略从「烧钱建平台」转向「收缩保盈利」；在华软件翻身牌只剩 CMP/CEA 平台（ID.ERA 系列，见 [[volkswagen]] 中国智能化）+ 外采（[[xiaopeng]]、[[momenta]]、[[horizon-robotics]]）
+- **对照**：CARIAD 累计裁员 1,600 → 再裁 1,000，与集团 10 万人大裁员同向收缩，欧洲巨头「软件自研」叙事基本落幕（见 [[traditional-automaker-ai-transition]]）
 - **4座德国EV工厂面临停产**：核心原因——欧洲BEV渗透率仅22%，远低于支撑过剩产能所需的水平
 - **Future Plan 2030**：战略重心从「全面电动」转向「生存重组」
 - **结构性矛盾**：欧洲电车需求集中在入门级（ID.Polo售罄），不足以支撑德国4座EV工厂产能

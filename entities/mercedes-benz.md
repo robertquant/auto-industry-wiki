@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-03
+updated: 2026-10-05
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -42,6 +42,25 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 
 ### 电动C-Class匈牙利投产
 电动版C-Class在匈牙利凯奇凯梅特工厂投产，标志着奔驰在欧洲的电动化产能布局进一步深入。匈牙利工厂也是宝马iX3长轴的主要海外产能基地，形成直接竞争。
+
+## 10/5 补充：MMA 走量 + AMG.EA 高端化 + L4 Robotaxi 落地
+
+### 纯电 CLA（MMA）承担走量角色
+- MMA 平台 + [[momenta]] 无图领航——与 GLA EV 同平台复制「入门电动化」打法，2026 年内上市
+
+### AMG.EA 四门跑车（2027 投产）
+| 维度 | 参数 |
+|------|------|
+| 平台 | AMG.EA（纯电性能平台） |
+| 高压架构 | 800V |
+| 平均充电功率 | 超 850kW（量产车最高之一） |
+| 节奏 | 明年投产 |
+
+**判断**：AMG.EA 是奔驰对「电动化丢性能豪华话语权」的反击——用充电功率硬数据重新定义电动性能标准。
+
+### 基于 S 级的 L4 Robotaxi（年内阿布扎比商业运营）
+- 豪华品牌首个 L4 Robotaxi 商业运营案例：奔驰把旗舰轿车直接改造成无人出租车
+- **判断**：高端品牌做 Robotaxi = 用「真无人驾驶」反哺智驾品牌叙事 + 采集高端场景数据，是豪华品牌 L4 落地的标志性案例（对照 [[tesla]] Cybercab 路线、[[l3-mandatory-standard]] 2027/7/1 国标窗口）
 
 **判断**：GLA EV（紧凑级）+ 电动C-Class（中级）组成奔驰2026下半年电动产品攻势的核心——MMA平台让入门级有了技术竞争力，但关键看定价能否对标宝马iX3的策略（26.99万起）。
 

@@ -1,7 +1,7 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-10-01
+updated: 2026-10-05
 type: concept
 tags: [adas, policy, regulation, oem-cn]
 sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
@@ -11,6 +11,14 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 
 ## 概述
 中国首部针对L3/L4级自动驾驶的强制性国家标准 GB 44721—2026 于2026年8月正式发布，从推荐性标准升级为强制性标准。责任主体从驾驶员向车企转移，高阶智驶商业逻辑从"概念营销"转向"刚性安全监管"。拟于2027年7月1日起实施。
+
+## 2026年10月关键更新
+
+### 国庆高速「智驾睡着」事件（10/3）
+- 事件：国庆假期高速上驾驶员开启智驾后睡着被曝光，引发舆论热议
+- **法治日报重申：司机仍是最终责任主体**——L2 辅助驾驶阶段责任未转移，与 GB 44721 (L3/L4) 的车企责任转移形成鲜明分层
+- **叠加效应**：强制国标 2027/7/1 实施 + 责任分层明确 → L3/L4 安全认证成为硬门槛，车企不能再用「辅助驾驶」话术模糊责任边界
+- **判断**：L2「司机兜底」与 L3「车企兜底」之间的责任鸿沟，将倒逼车企在宣传话术、用户教育、脱手策略上全面收紧（见 [[adas-liability-guarantee]]）
 
 ## 2026年9月关键更新
 
