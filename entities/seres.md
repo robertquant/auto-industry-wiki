@@ -1,7 +1,7 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-09-19
+updated: 2026-10-06
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
 sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
@@ -72,3 +72,6 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - 问界年度销量能否追赶100万目标
 - 具身智能赛道布局进展
 - "厂中厂"模式能否复制推广
+## 2026-10-06 更新：华为×赛力斯新五年合作（10/1）
+- **联合组建「问界专属团队」**，新五年合作落定——此前「分手」担忧解除（[[wenjie]]、[[huawei-auto]]）
+- 判断：华为从「包办」退至「赋能」，资源转向尊界/享界/智界/尚界——赌赛力斯独立造血（[[zunjie]]、[[xiangjie]]、[[zhijie]]、[[shangjie]]）

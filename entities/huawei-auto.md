@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-05
+updated: 2026-10-06
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
@@ -86,3 +86,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 - **HarmonySpace 6**：MoLA 2.0 分层架构 + LCoS 双焦面 AR-HUD（见 [[cockpit-model-tiering]]）
 - 8月城市NOA装机 6.86万台居首，但份额从1月 24.4% 收窄至 16.0%——被[[yuanrong-qixing]]、[[momenta]]稀释（见 [[city-noa-penetration]]）
 - 判断：竞争从「抢首装」进入「存量运营」阶段
+
+## 2026-10-06 更新：赛力斯新五年 + 巴黎车展 ADS5.0 新装车
+- **问界专属团队成立（10/1）**：华为×赛力斯新五年合作落定（[[seres]]）——智选车模式从「包办」转向「赋能」
+- **巴黎车展（10/12-18）ADS5.0 新落地**：东风奕境/观致——乾崑智驾车展亮相 + 新品牌装车（[[2026-paris-auto-show]]）
+- 判断：华为智驾装机面外扩，巴黎车展是中国智驾方案「反向输出」的展示窗（[[china-tech-reverse-export]]）

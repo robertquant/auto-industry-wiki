@@ -1,7 +1,7 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-10-01
+updated: 2026-10-06
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
 sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md]
@@ -133,3 +133,8 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 - 2025年南北丰田合计占合资乘用车销量 17.03%，整合后将成为**中国销量最大合资品牌**
 - 意义：日系在华从「双渠道竞争」转向「统一体收缩」（对照 [[honda-china]] 衰退路径）；生产权让渡广汽、丰田保留销售话语权——防守型整合
 - 相关：[[japanese-automaker-crisis-2026]]、[[central-soe-restructuring-2026]]（外资侧同步整合）
+
+## 2026-10-06 更新：机器人组织 + 中国增程专供
+- 官宣 **「丰田机器人」组织**：目标量产 **40万台物理 AI 机器人**——丰田把多路径战略延展到具身智能（对照 [[humanoid-robot-industry]]、[[humanoid-talent-flow]]）
+- **2027 年 4 月增程投产、专供中国**（2028 年目标 40万辆）——丰田首次正面入场中国增程赛道（[[range-extender-trend]]），对标 [[li-auto]]、[[wenjie]] 等增程头部
+- 判断：丰田「多路径」再扩容——氢能/混动/纯电之外加增程+机器人；增程专供中国 = 承认中国插混市场不可绕过（[[china-brand-market-share-2026]]、[[japanese-automaker-crisis-2026]]）

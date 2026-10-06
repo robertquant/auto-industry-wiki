@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md]
@@ -54,3 +54,11 @@ sources: [raw/articles/2026-10-03-daily-digest.md]
 - [[li-auto]] - 增程闯欧洲
 - [[chinese-oem-export]] - 出海总趋势
 - [[stellantis]] - 欧洲防守方代表
+## 10/6 补充：参展阵容扩容 + 雷诺主场承诺
+- **[[renault]]**：CEO 承诺 2026 法国产量 +25%（50 万基础上）+ 杜艾第三班次；5000㎡ 展台、futuREady 七个月成果、研发周期缩至 2 年
+- **[[mercedes-benz]]**：MMA 首款 GLA 巴黎首发 + Smart #2
+- **[[volkswagen]]**：ID.Polo / ID.Cross / ID.Every1 量产版首发
+- **[[bmw]] 缺席**：与全阵容参展者分化——车展投入收缩、资源押 Neue Klasse（电池工厂投产）
+- **华为 ADS5.0**：东风奕境/观致装车亮相；**特斯拉 Cybercab** 参展（对比见 [[waymo-vs-tesla-robotaxi-2026]]）
+- **[[stellantis]]**：零跑 B10 萨拉戈萨 2026H2 投产、欧洲网点破千（[[leapmotor]]）
+- 判断：中国军团（[[leapmotor]]/[[xiaopeng]]/[[li-auto]]/[[zeekr]]/领克/[[avatr]]）压境 vs 欧洲巨头「规模参展」，巴黎车展成中外攻防的最大观测窗口

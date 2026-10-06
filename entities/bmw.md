@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-05
+updated: 2026-10-06
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -106,3 +106,9 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **新世代 iX3 26.99万起开启预订**——Neue Klasse 首款车进入订单转化阶段（11月交付、入门版LFP）
 - 与 10/1 渠道改革（裁撤20%渠道+统一价）形成「产品+渠道」同步落地：一口价策略下订单质量 > 数量
 - 判断：iX3 26.99万一口价是德国豪华在中国纯电价格带的「锚」——[[mercedes-benz]] 纯电GLC 24.9万被迫下探至同区间，BBA 纯电自相残杀开始（见 [[bba-ev-ranking-2026]]）
+
+## 2026-10-06 更新：Neue Klasse 电池工厂投产 + 缺席巴黎车展
+- **Irlbach-Straßkirchen 电池工厂投产**（约 10亿欧元），专供慕尼黑 i3——Neue Klasse 本土电池闭环
+- **慕尼黑第 100 万辆 M3 下线**——燃油性能图腾收官叙事
+- **缺席巴黎车展**：与 [[volkswagen]]、[[renault]]、[[mercedes-benz]] 全阵容参展形成反差——资源押 Neue Klasse 量产爬坡而非车展叙事（对照 [[2026-paris-auto-show]]）
+- 判断：电池本土化+缺席车展 = 「中国+新世代」优先，欧洲投入收缩

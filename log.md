@@ -841,3 +841,30 @@
 - **导航更新**：index.md - 无新增页面（仅更新+素材入库）；Last updated 2026-10-05；Total pages 279 不变
 - **索引完整性校验**：comm 输出为空（需复核，见下）
 - **核心洞察**：①9月最大结构性信号再确认=国内存量博弈、增量全在海外（自主海外33.6万创新高），欧洲网络（零跑千店/宝马沈阳/奔驰L4阿布扎比）成为中国车企与欧洲巨头共同的下半场；②欧洲巨头软件收缩定调——CARIAD再裁1,000人+61亿欧元削减，唯一翻身牌是CMP/CEA中国平台；③智驾竞争双转向：华为用节假日实际使用率、地平线用31.94%份额+千亿公里证明「规模即壁垒」；④GB 44721+「智驾睡着」事件=L2/L3责任分层赤裸裸曝光，宣传话术全面收紧；⑤奔驰S级L4 Robotaxi年内商业运营=豪华品牌L4落地标志案例
+
+## [2026-10-06] ingest | 每日Wiki整理（雷诺速递 + 行业晨报 + 汽车AI日报 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-06-daily-digest.md（今日四路素材汇总：雷诺速递7条/晨报/汽车AI日报5条/晚报要点；晚报全文见 daily-news/2026-10-06-gasgoo-evening.md）
+- **新建（2页）**：
+  - concepts/chassis-domain-control.md - 底盘域控：智驾战外溢到底盘，华为/蔚来/岚图三强布局；Cybercab无方向盘点燃线控需求
+  - comparisons/waymo-vs-tesla-robotaxi-2026.md - Waymo（~4000台/周50万单/15城）vs Tesla（奥斯汀44台+内华达5000台批文）L4硬数据对照
+- **更新（17页）**：
+  - entities/renault.md - 法国100亿欧元承诺（较上轮130亿缩水、「政治保险单」）；R5 LFP入门版"Five"（36.5kWh/305km）+德国降价1710欧；产能棋盘（杜艾第三班次/斯洛文尼亚Novo Mesto共线/西班牙Rafale）；法国9月电车份额42%；泰雷兹无人机月产1000架（制造能力二次定价）
+  - entities/volkswagen.md - CARIAD转型AI公司（SSP延后后的叙事转向）；巴黎车展ID.Polo/Cross/Every1量产版
+  - entities/bmw.md - Neue Klasse电池工厂投产（Irlbach约10亿欧）；缺席巴黎车展与全阵容参展者分化
+  - entities/mercedes-benz.md - MMA首款GLA巴黎首发+Smart #2
+  - entities/stellantis.md - 零跑B10萨拉戈萨2026H2投产、欧洲网点破千
+  - entities/toyota.md - 「丰田机器人」组织40万台物理AI机器人；2027年4月增程专供中国（2028目标40万）
+  - entities/saic.md - 1-9月314.7万辆居首（自主+45.6%/智己+40.1%/新能源138.8万/海外116.6万）
+  - entities/seres.md - 华为×赛力斯新五年合作（问界专属团队）；华为从「包办」退至「赋能」
+  - entities/huawei-auto.md - 新五年落定+巴黎车展ADS5.0新装车（东风奕境/观致）
+  - entities/byd.md - 9月463,561辆（+16.98%）Q3终结四连降；BEV+33.2% vs 插混-2.4%；出口占比38.98%
+  - entities/zeekr.md - 9月37,216（+103.85%）；9X百万级登德国
+  - entities/tesla.md - Chargeport L4硬数据（奥斯汀仅44台 vs Waymo 4000台）；内华达5000台批文、Vegas 10/2启动
+  - comparisons/2026-09-china-sales-battle.md - BYD结构反转/小鹏41,256/鸿蒙智行3.75万/零跑出口达标/领克新能源占比92.1%
+  - concepts/2026-paris-auto-show.md - 参展阵容扩容（雷诺承诺/奔驰GLA/大众ID三连/宝马缺席/华为ADS5.0/特斯拉Cybercab）
+  - concepts/ai-engineering-2026.md - 英伟达Alpamayo 1.5（10万+下载）+Omniverse NuRec生态
+  - concepts/city-noa-penetration.md - 8月装机42.7万台/渗透率27.9%创新高但增速放缓
+  - concepts/fifteen-five-plan.md - 世界智能网联汽车大会10/21-23亦庄
+- **导航更新**：index.md - Concepts 158→159（+chassis-domain-control）、Comparisons 6→7（+waymo-vs-tesla-robotaxi-2026）；Total pages 279→281（entities 104 / concepts 159 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（281页全部注册，缺失 0）
+- **核心洞察**：①雷诺「法国100亿」=选前政治保险单（<上轮130亿），战略核心已从「有无电动车」转向「价格可负担性」——T&E平价数据（<2.5万欧电车7倍增长）显示窗口正打开；②雷诺×泰雷兹无人机=产能过剩时代OEM把「大规模制造能力」二次定价出售的信号；③比亚迪Q3反转由海外驱动（出口38.98%），「国内弱盘+海外强增」成2026主旋律；④Waymo运营实绩（4000台/周50万单）vs Tesla规模叙事（5000台批文、车队44台）——L4商业化两条路径硬数据对照；⑤宝马缺席巴黎车展 vs 大众/奔驰/雷诺全阵容=欧洲巨头车展投入分化的新信号

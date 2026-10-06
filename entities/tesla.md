@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-03
+updated: 2026-10-06
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
@@ -81,3 +81,7 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **10月开放奥斯汀限定区域付费试乘**——Cybercab 从发布进入真实运营验证：无方向盘/踏板、成本<3万美元、运营约 **0.2美元/英里**
 - **意义**：下半年 L4 商业化最值得跟踪的单点变量——不是发布会参数，而是付费订单密度、接管率、限定区域运营边界（对比中国 Robotaxi 玩家 [[pony-ai]]、[[weRide]] 的运营模式）
 - 关联：线控底盘/无方向盘对域控新需求（[[cabin-drive-integration]]）；与 NHTSA 9月调查的节奏关系待观察
+## 2026-10-06 更新：L4 硬数据 vs Waymo + 内华达批文
+- **Chargeport 9 月数据**：Waymo ~4,000 台车队 / 周 50 万付费订单 / 15 城 vs 特斯拉奥斯汀仅 **44 台**（详见 [[waymo-vs-tesla-robotaxi-2026]]）
+- **内华达批文**：7 月 10 台 → 8 月 20 台规模，获批 **5,000 台车队**许可；**拉斯维加斯 10/2 确认启动**
+- 判断：特斯拉 L4 商业化「批文先行、车队爬坡滞后」——规模叙事 vs Waymo 运营实绩的差距是 2026 最值得跟踪的对照

@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-05
+updated: 2026-10-06
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -199,3 +199,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - 西安基地扩招 8,000人（Q4爬坡+新品导入，见 [[chinese-oem-export]]）
 - 弗迪电池×四川国软战略合作：钻井油改电/储能/动力电池/智能机器人多领域
 - 判断：闪充从「分钟级」压缩到「5分钟级」，本质是补能体验对标加油站的最后一公里——快充军备与换电联盟（吉利×蔚来 [[geely-nio-swap-alliance]]）正面争夺补能标准
+
+## 2026-10-06 更新：9月 463,561 辆，Q3 终结四连降
+- **9月 463,561 辆（同比 +16.98%）**，Q3 结束连续四个月同比下滑
+- **结构反转**：BEV **+33.2%** vs 插混 **-2.4%**——增长引擎切回纯电；**出口 18.07万、占比 38.98%**——增量主要由海外贡献（[[china-export-leaders-2026]]、[[2026-09-china-sales-battle]]）
+- 判断：「国内弱盘+海外强增」成 2026 主旋律第二个月验证——国内价格战未止，利润修复靠海外（[[chinese-oem-export]]）

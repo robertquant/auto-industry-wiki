@@ -1,7 +1,7 @@
 ---
 title: 城市 NOA 渗透率突破 15%
 created: 2026-05-30
-updated: 2026-09-28
+updated: 2026-10-06
 type: concept
 tags: [adas, city-noa, penetration-rate, data]
 sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-panorama.md]
@@ -61,3 +61,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-pa
 
 - **结构迁移**：20万+市场渗透率 1月40.2%→8月60.8%；10-20万市场 4.7%→14.2%，第三方方案商贡献近九成增量
 - 相关：[[lidar-penetration]]、[[l3-autonomous-driving]]
+
+## 10/6 更新：8月装机 42.7 万台、渗透率 27.9%
+- **8月城市 NOA 装机 42.7 万台、渗透率 27.9% 创年内新高，但增速放缓**——渗透率曲线进入平台期（对照华为份额 1月 24.4%→8月 16.0%，见 [[huawei-auto]]）
+- 判断：增量逻辑从「功能有无」转向「体验+价格带下沉」，第三方方案商（[[momenta]]、[[yuanrong-qixing]]）贡献近九成增量

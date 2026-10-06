@@ -1,7 +1,7 @@
 ---
 title: 2026年9月中国乘用车销量战报
 created: 2026-09-30
-updated: 2026-10-05
+updated: 2026-10-06
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-30-daily-digest.md, memory/2026-09-30.md]
@@ -93,3 +93,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 - **[[li-auto]] 同比 -6.3% / 环比 -15.6%**：L6 换代 + MEGA/i6 投放期阵痛，属预期内（对照 [[new-forces-landscape-2026]]）
 - **[[changan]] 22.89 万**：启源、深蓝双破累计 100 万辆里程碑；启源Q06 上市 24h 订单 3.5 万
 - **[[zeekr]] 9月 37,200 辆（同比 +103.85%）**，9X 百万级售价登陆德国，被称「最贵中国车」
+
+## 10/6 补充：结构性细节
+- **[[byd]] 结构反转**：9月 BEV +33.2% vs 插混 -2.4%，出口 18.07万/占比 38.98%——增长引擎切换为纯电+海外，9月 463,561 辆终结四连降
+- **[[xiaopeng]] 41,256**；**鸿蒙智行 3.75万（累计破 156万）**；**[[li-auto]] 31,817（-6.3%，新势力垫底）**
+- **[[leapmotor]] 海外出口提前完成全年目标**（连续3月破10万叠加欧洲千店）；[[zeekr]] 37,216（+103.85%）9X 登德国
+- **领克 1.85万、新能源占比 92.1% 创新高**——燃油基盘换血样本（[[zeekr-lynk-co-merger]]）
+- 判断：9月最大结构性信号再确认——国内存量博弈、增量全在海外

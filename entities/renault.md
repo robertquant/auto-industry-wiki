@@ -1,11 +1,67 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-05
+updated: 2026-10-06
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
 ---
+
+## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
+
+### 法国本土 100 亿欧元承诺（CEO 普罗沃）
+- 未来5年法国本土再投 **超100亿欧元**（上一轮 2021-25 已投 130亿）——名义承诺较上轮**缩水**且捆绑产量条件
+- **2026年法国产量**：在 50万辆基础上再增 **25%**；杜艾厂开 **第三班次**
+- 判断：「政治保险单」——选前安抚法国本土/工会的叙事；数字含金量低于上轮，是欧盟关税+本土化压力下的防守动作（见 [[eu-70x70-rule]]）
+
+### R5 改款：LFP 入门版 "Five"
+- 入门版 **"Five"：36.5kWh LFP / WLTP 305km**；全系续航上限 **430km**
+- **德国降价 1,710欧元**——平价电动价格战持续（见 [[entry-ev-profit-crisis]]）
+- 判断：LFP 下探入门 + 全系续航提升 = 「成本+续航」双线补强，正面打 A 级纯电（对照 [[byd]] 海豚/Dolphin Surf）
+
+### 产能布局（欧洲制造棋盘）
+- **R5 留守法国杜艾**（Ampere 主厂，配合第三班次）
+- **Twingo** 与 Dacia/Nissan 姊妹车 **共线斯洛文尼亚 Novo Mesto**——一平台三品牌摊薄成本（见 [[twingo-e-tech]]）
+- **Rafale 纯电版在西班牙投产**（呼应 Palencia/Valladolid 6亿欧元产线）
+- 判断：法国保政治与品牌、东欧/南欧控成本的「双轨制造」，与 [[chinese-oem-export]] 的欧洲本地化形成同构竞争
+
+### 法国 9 月电车份额 42% 创纪录（T&E）
+- **2026年欧洲 <2.5万欧元纯电销量预计为 2024年的 7 倍**——平价窗口打开（[[eu-ev-market-2026]]）
+- 悬顶之剑：欧盟排放目标若放宽，平价电车需求逻辑将被削弱
+
+### 跨界：与泰雷兹合作无人机（月产 1000 架）
+- 产量提升 **100 倍**；零件数 **-20%**、紧固件 **-40%**——汽车大规模制造能力外溢军工/无人机
+- 判断：产能过剩时代 OEM 把「制造能力」二次定价出售（通用/大众/大陆/佛瑞亚/法雷奥同路，对照 [[ice-supplier-divergence]]）
+
+相关：[[2026-paris-auto-show]]（巴黎车展 6 款首发+5000㎡）、[[entry-ev-profit-crisis]]
+
+## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
+
+### 法国本土 100 亿欧元承诺（CEO 普罗沃）
+- 未来5年法国本土再投 **超100亿欧元**（上一轮 2021-25 已投 130亿）——名义承诺较上轮**缩水**且捆绑产量条件
+- **2026年法国产量**：在 50万辆基础上再增 **25%**；杜艾厂开 **第三班次**
+- 判断：「政治保险单」——选前安抚法国本土/工会的叙事；数字含金量低于上轮，是欧盟关税+本土化压力下的防守动作（见 [[eu-70x70-rule]]）
+
+### R5 改款：LFP 入门版 "Five"
+- 入门版 **"Five"：36.5kWh LFP / WLTP 305km**；全系续航上限 **430km**
+- **德国降价 1,710欧元**——平价电动价格战持续（见 [[entry-ev-profit-crisis]]）
+- 判断：LFP 下探入门 + 全系续航提升 = 「成本+续航」双线补强，正面打 A 级纯电（对照 [[byd]] 海豚/Dolphin Surf）
+
+### 产能布局（欧洲制造棋盘）
+- **R5 留守法国杜艾**（Ampere 主厂，配合第三班次）
+- **Twingo** 与 Dacia/Nissan 姊妹车 **共线斯洛文尼亚 Novo Mesto**——一平台三品牌摊薄成本（见 [[twingo-e-tech]]）
+- **Rafale 纯电版在西班牙投产**（呼应 Palencia/Valladolid 6亿欧元产线）
+- 判断：法国保政治与品牌、东欧/南欧控成本的「双轨制造」，与 [[chinese-oem-export]] 的欧洲本地化形成同构竞争
+
+### 法国 9 月电车份额 42% 创纪录（T&E）
+- **2026年欧洲 <2.5万欧元纯电销量预计为 2024年的 7 倍**——平价窗口打开（[[eu-ev-market-2026]]）
+- 悬顶之剑：欧盟排放目标若放宽，平价电车需求逻辑将被削弱
+
+### 跨界：与泰雷兹合作无人机（月产 1000 架）
+- 产量提升 **100 倍**；零件数 **-20%**、紧固件 **-40%**——汽车大规模制造能力外溢军工/无人机
+- 判断：产能过剩时代 OEM 把「制造能力」二次定价出售（通用/大众/大陆/佛瑞亚/法雷奥同路，对照 [[ice-supplier-divergence]]）
+
+相关：[[2026-paris-auto-show]]（巴黎车展 6 款首发+5000㎡）、[[entry-ev-profit-crisis]]
 
 # 雷诺 (Renault)
 

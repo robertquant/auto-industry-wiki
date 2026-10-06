@@ -1,7 +1,7 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-10-01
+updated: 2026-10-06
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
@@ -66,3 +66,8 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - **华为盘古CV**：江汽 1500+ 场景、拦截率 99.99%（对照9/28江汽自研「迈思特」——华为生态 vs 自研并存）
 - **蔚来AI编程 30% 一次通过率**——行业真实水位（远低于厂商宣传口径）
 - 消费者侧：**88.6% 购车前用AI搜索辅助决策**（见 [[generative-engine-optimization]]）
+
+## 10/6 补充：英伟达工程化工具链
+- **Alpamayo 1.5**（AI 工程化套件）：10万+ 下载——英伟达把 AI 研发工具链「产品化」铺向车企（[[auto-ai-toolchain]]）
+- **Omniverse NuRec**：与 51WORLD / dSPACE / Foretellix / Mcity 联合——物理 AI 数据工厂生态（[[data-loop]]、[[training-loop]] 基础设施化）
+- 判断：AI 工程化竞争从「单点工具」转向「平台生态」——英伟达用 Omniverse 卡位仿真与合成数据入口（[[synthetic-data-explosion]]）

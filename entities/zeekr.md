@@ -1,7 +1,7 @@
 ---
 title: 极氪 (Zeekr)
 created: 2026-05-10
-updated: 2026-09-30
+updated: 2026-10-06
 type: entity
 tags: [zeekr, geely, premium, ev, china]
 sources: [官方公告, 汽车之家, 懂车帝, 太平洋汽车, memory/2026-06-24.md, raw/articles/2026-09-27-daily-digest.md]
@@ -109,3 +109,6 @@ sources: [官方公告, 汽车之家, 懂车帝, 太平洋汽车, memory/2026-06
 ## 关系网络
 - [[geely]] - 母公司
 - [[volvo]] - 同集团兄弟品牌
+## 2026-10-06 更新：9月 37,216 辆（+103.85%）+ 9X 登德国
+- **9月 37,216 辆（+103.85%）**，Q3 高歌猛进；**9X 以百万级售价登陆德国**——「最贵中国车」冲击欧洲豪华窗口（[[2026-paris-auto-show]]）
+- 判断：极氪高端化「国内守、欧洲攻」双线并行；9X 德国表现是 [[zeekr-lynk-co-merger]] 合并后高端矩阵的试金石

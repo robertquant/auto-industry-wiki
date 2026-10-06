@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-05 | Total pages: 279
+> Last updated: 2026-10-06 | Total pages: 281
 
-统计：entities 104 · concepts 158 · comparisons 6 · auto-industry 10 · european-automakers 1
+统计：entities 104 · concepts 159 · comparisons 7 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -177,6 +177,7 @@
 - [[cabin-driving-fusion]] - 单芯片同时承载座舱（IVI/仪表/HUD）与智能驾驶（感知/规划/控制）的计算任务，替代传统的"座舱域控+智驾域控"双芯片方案。
 - [[ces-2026-sdv]] - 2026年CES展会上，软件定义汽车(SDV)从概念正式进入量产阶段，标志着汽车软件化转型的成熟。
 - [[changan-tianshu]] - 长安汽车2026年发布的智能驾驶系统，分为Pro/Max/Ultra三个版本，Ultra版首次量产搭载VLM视觉语言大模型。
+- [[chassis-domain-control]] - 底盘域控：智驾战外溢到底盘，华为/蔚来/岚图三强布局；线控底盘+域控融合是L3/L4刚需，特斯拉Cybercab无方向盘点燃需求
 - [[chinese-oem-ai-methodology]] - 中国车企在AI落地中形成了一套独特的方法论：先定义体验→基于体验设计Agent功能→全栈自研（芯片+OS+模型）→快速迭代（按周更新）。这套方法论是国外车企在AI竞赛中落后的根
 - [[chip-cpu-bottleneck]] - 智驾芯片的CPU算力直接影响规划控制模块性能，是除NPU/GPU之外的另一个关键短板。
 - [[chongqing-auto-forum-2026]] - 2026年6月12-13日在重庆举办的中国汽车行业年度盛会，主题聚焦"AI+汽车"变革。
@@ -326,6 +327,7 @@
 - [[9-series-suv-battle]] - 2026年，C级SUV市场成为车企竞争焦点，多款"9系"旗舰SUV扎堆上市。一季度C级SUV逆势增长143.5%，高端大空间需求旺盛，但价格战不可避免。
 - [[korea-japan-automaker-divergence]] - 为什么同为东亚文化，韩国企业拼命进取，日本企业却"躺平"？
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。
+- [[waymo-vs-tesla-robotaxi-2026]] - Waymo（~4000台/周50万单/15城）vs Tesla（奥斯汀44台+内华达5000台批文）——L4商业化「运营实绩 vs 规模叙事」的硬数据对照
 - [[battery-swap-vs-ultra-fast-charging]] - 补能路线之争2026：吉利×蔚来换电联盟 vs 比亚迪/宁德超充阵营，维度对比（时间/重资产/标准化/场景）+ 两大破局点与观察指标。
 
 ## Auto-Industry 分析（10）

@@ -1,7 +1,7 @@
 ---
 title: 上汽集团 (SAIC)
 created: 2026-07-04
-updated: 2026-10-03
+updated: 2026-10-06
 type: entity
 tags: [saic, china, soe, export, new-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md]
@@ -99,3 +99,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md]
 
 ## 来源
 - 2026-07-04 讨论上汽销量分析
+## 2026-10-06 更新：1-9 月集团销量居首
+- **1-9月 314.7万辆，全国居首**；其中自主乘用车 **+45.6%**、智己 **+40.1%**
+- 新能源 **138.8万（+28.2%）**、海外 **116.6万（+52.4%）**——出口+自主双引擎（[[chinese-oem-export]]）
+- 判断：上汽自主/出口补位合资的「换血」逻辑继续验证（对照 [[saic-gm]] 续约 20 年）

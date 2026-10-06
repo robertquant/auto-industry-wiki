@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-05
+updated: 2026-10-06
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md]
@@ -63,3 +63,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 - **意大利喊出对华 80% 关税**——板块级风险点（见 [[italy-market-2026]]）；若落地将直接冲击零跑/比亚迪意大利扩张叙事
 - **神龙×[[momenta]]：标致、Jeep 高阶智驾首次落地**——R7世界模型联合开发、覆盖中国/欧洲/全球，[[chinese-oem-export]]「智驾出海」第二案例（继大众ID.ERA）
 - 判断：Stellantis 呈现「欧洲防守（关税、概念车）+ 全球收缩（卖厂）+ 中国采购（智驾/座舱/电池）」三重奏——用关税保本土、用中国供应链保成本，双线对冲
+
+## 2026-10-06 更新：零跑 B10 萨拉戈萨投产定档 + 欧洲千店
+- **零跑 B10 西班牙萨拉戈萨工厂 2026 下半年投产**——中国技术+欧洲制造再落地一城（[[leapmotor-stellantis]]、[[leapmotor]]）
+- **欧洲网点破千家**——平价电动欧洲网络成型，配合 B10 本地化
+- 判断：「技术输出+本地化生产」模式欧洲复利兑现中（对照 [[eu-70x70-rule]] 本土价值要求，见 [[china-tech-reverse-export]]）
