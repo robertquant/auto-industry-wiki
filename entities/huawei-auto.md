@@ -1,10 +1,10 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 华为汽车生态 (Huawei Auto)
@@ -91,3 +91,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 - **问界专属团队成立（10/1）**：华为×赛力斯新五年合作落定（[[seres]]）——智选车模式从「包办」转向「赋能」
 - **巴黎车展（10/12-18）ADS5.0 新落地**：东风奕境/观致——乾崑智驾车展亮相 + 新品牌装车（[[2026-paris-auto-show]]）
 - 判断：华为智驾装机面外扩，巴黎车展是中国智驾方案「反向输出」的展示窗（[[china-tech-reverse-export]]）
+
+## 2026-10-07 更新：华为×高通专利大和解
+- **10/5 与 [[qualcomm-auto]] 官宣多年期专利大和解**：交叉许可覆盖 5G/计算/AI/网络，高通收购华为部分美国专利，高通为净支出方（详见 [[huawei-qualcomm-settlement-2026]]）
+- 华为 2024 专利许可收入 6.3 亿美元、27 亿台 5G 设备获许可——标准必要专利组合获西方主流玩家价值背书
+- 判断：IP 战清场、产品战升温——华为车端竞争（乾崑 vs 高通舱驾）回归产品力；专利收入模式为华为生态提供现金流第二曲线（[[auto-chip-competitive-landscape]]）

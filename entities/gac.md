@@ -1,10 +1,10 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 type: entity
 tags: [oem-cn, sales, export, policy]
-sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md]
+sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 广汽集团 (GAC)
@@ -42,3 +42,8 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 - 一汽丰田股权收购落地进度与定价
 - 南北丰田整合后渠道/产能协同效果
 - 广汽自主（埃安/传祺）能否摆脱合资依赖
+
+## 2026-10-07 更新：一汽丰田辟谣 + 整合筹码博弈
+- **一汽丰田 10/5 辟谣**「退出中国/大降价」——广汽收购预案（9/28）后的传闻管理动作；整合方案未定，处筹码博弈期（[[toyota]]）
+- 南北丰田「产销分离」执行路径明确：生产归广汽统筹、销售 50:25:25 三方新公司——交易落地前核心变量是定价与审批
+- 判断：辟谣不改变整合方向，但渠道/员工情绪是执行风险；广汽需在「接盘产能」与「自主聚焦」间找平衡（[[central-soe-restructuring-2026]]）

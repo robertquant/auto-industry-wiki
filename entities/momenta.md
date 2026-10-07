@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-04
+updated: 2026-10-07
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # Momenta (魔门塔)
@@ -38,6 +38,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - [[mercedes-benz]] - 纯电GLC纯视觉方案
 - [[huawei-auto]] - 城市NOA装机量直接竞争对手（华为第一）
 - [[autonomous-driving-chips]] - 智驾芯片供应链（高通/地平线平台）
+
+## 2026-10-07 更新：奔驰CLA端到端 + 标致/Jeep全球车型开发
+- **国产纯电 CLA**：一段式端到端「车位到车位」——Momenta 在奔驰产品线的覆盖扩至纯电入门（[[mercedes-benz]]）
+- **神龙×Momenta → 标致/Jeep 全球车型开发流程**：R7 世界模型进入 Stellantis 全球产品定义层（不止中国特供）（[[stellantis]]）
+- 判断：Momenta 通吃奔驰/宝马/标致/Jeep——欧洲巨头智驾外包中国的「全满贯」玩家；中国智驾定义全球主流/豪华品牌从个案变模式（[[china-tech-reverse-export]]）
 - [[vla-world-model]] - 端到端世界模型技术路线
 
 ## 待观察

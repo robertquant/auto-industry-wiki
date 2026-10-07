@@ -1,10 +1,10 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-10-03
+updated: 2026-10-07
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 中国出海5强格局（2026）
@@ -140,3 +140,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 - **9月自主品牌海外销量 33.6万台（+25%），创历史新高**——单月口径新高，出口全面转向「经销模式 + 本地化」
 - **出口占比分水岭**：奇瑞 71%、长城 52.2%、比亚迪 43%、吉利 41%（9月）——自主头部过半依赖海外已是常态（新增 [[great-wall]] 页）
 - **判断**：国内 9月「金九」无普涨（存量博弈）与海外 +25% 对照，增量已持续从内需切换到海外；Q4 变量是「按车价比例补贴」新政（见 [[nev-penetration-60-percent]]）能否把内需拉回来
+
+## 2026-10-07 更新：奇瑞单月出口纪录 + 新能源出口占比过半
+- **[[chery]] 9 月出口 20.78 万辆，创中国车企单月出口历史纪录**；前三季累计 155.1 万辆（+65.6%）超 2025 全年
+- **中国新能源出口占比连续三个月过半**——出口结构从燃油主导转向新能源主导，与比亚迪海外 +153.9% 呼应（[[byd]]、[[2026-09-china-sales-battle]]）
+- 判断：出口从「总量新高」进入「结构升级」阶段——新能源出口占比过半是 2026 年出口第二曲线的核心信号（与 [[eu-ev-market-2026]] 欧洲 8 月电气化份额首过半互证）

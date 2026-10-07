@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -204,3 +204,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **9月 463,561 辆（同比 +16.98%）**，Q3 结束连续四个月同比下滑
 - **结构反转**：BEV **+33.2%** vs 插混 **-2.4%**——增长引擎切回纯电；**出口 18.07万、占比 38.98%**——增量主要由海外贡献（[[china-export-leaders-2026]]、[[2026-09-china-sales-battle]]）
 - 判断：「国内弱盘+海外强增」成 2026 主旋律第二个月验证——国内价格战未止，利润修复靠海外（[[chinese-oem-export]]）
+
+## 2026-10-07 更新：方程豹钛7 3.2万辆 + 王朝网千万辆 + 闪充站目标
+- **方程豹钛7 单月 3.2 万辆**——20 万级最猛车型，「豹系列」平价放量（对照 10/4 钛7EV 5 分钟闪充）
+- **大汉 10/13 上市**；**王朝网第 1000 万辆下线**——王朝基盘里程碑，汉家族换代衔接
+- **2028 年底 9 万座闪充站目标确认**——兆瓦闪充网络从千座级跳变万座级（[[ultra-fast-charging]]），补能标准战再加码（对照 [[geely-nio-swap-alliance]] 换电阵营）
+- 判断：9 月海外驱动反转（10/6）之后，国内靠王朝/方程豹新品稳基盘——「海外做增量、国内做结构」双线定调

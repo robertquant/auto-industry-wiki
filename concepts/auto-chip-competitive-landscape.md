@@ -1,10 +1,10 @@
 ---
 title: 汽车芯片竞争格局——高通战略重心转移的机会窗口
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-10-07
 type: concept
 tags: [strategy, chips, qualcomm, horizon-robotics, competitive-analysis]
-sources: [memory/2026-05-30.md, memory/2026-05-27.md]
+sources: [memory/2026-05-30.md, memory/2026-05-27.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 汽车芯片竞争格局
@@ -84,3 +84,8 @@ sources: [memory/2026-05-30.md, memory/2026-05-27.md]
 - [[cabin-driving-fusion]] - 舱驾融合技术趋势
 - [[horizon-robotics]] - 地平线公司
 - [[qualcomm-auto]] - 高通汽车业务
+
+## 2026-10-07 更新：华为×高通和解后的竞争面
+- **10/5 华为×高通专利大和解**（[[huawei-qualcomm-settlement-2026]]）：交叉许可 5G/计算/AI/网络，高通为净支出方——专利战清场，竞争主轴回归产品量产
+- 含义①：高通车规芯片（SA8797 等）北美/欧洲合规障碍清除，出海通路打开；含义②：华为专利收入模式获西方玩家背书，但车端竞争（乾崑 vs 高通舱驾）不会降温
+- 结论：汽车芯片竞争从「诉讼/合规博弈」全面转入「产品力+生态」——[[qualcomm-auto]]、[[horizon-robotics]]、英伟达三角格局不变，变量在量产速度与装车规模

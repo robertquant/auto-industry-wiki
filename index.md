@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-06 | Total pages: 281
+> Last updated: 2026-10-07 | Total pages: 283
 
-统计：entities 104 · concepts 159 · comparisons 7 · auto-industry 10 · european-automakers 1
+统计：entities 104 · concepts 161 · comparisons 7 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -241,7 +241,7 @@
 - [[siemens-xcelerator-ai-agents]] - 西门子Xcelerator上线100+ AI Agent，PLC编程一次生成代码+HMI+硬件配置，虚拟调试时间↓30%、图纸管理↑5倍。工业软件侧AI工程化代表。
 - [[vehicle-computing-agent]] - 计算智能体（汽车）：吉利在WNEVC 2026提出「汽车→计算智能体」，核心是「主动性」。座舱/整车AI从「聊天助手」向「能动主体」的范式迁移。
 
-### 市场/趋势/政策（37）
+### 市场/趋势/政策（39）
 
 - [[ai-manufacturing]] - AI技术嵌入汽车制造全流程，包括MES系统、柔性产线、气动仿真、研发大模型等。
 - [[ai-talent-auto-sector]] - 吉利公开坦承:汽车行业难以招聘顶尖 AI 人才。大模型公司吸走核心算力与人才资源,汽车企业面临"自建 vs 合作"的战略抉择。
@@ -253,6 +253,7 @@
 - [[brand-sales-may-june-2026]] - | 品牌 | 月销量 | 同比/环比 | 关键动态 |
 - [[central-soe-restructuring-2026]] - 2026年，一汽、东风、长安三大汽车央企启动重组整合，引发行业热议。整合目标是"竞速赛模式"——三家央企各自跑出新速度，而非简单合并。
 - [[china-brand-market-share-2026]] - | 指标 | 数据 | 时间 |
+- [[china-carbon-credit-export]] - 中国车企向欧洲车企出售碳积分的「第三类出口」模式：小鹏向保时捷等欧洲巨头卖碳累计超10亿元（2026-10），特斯拉 ZEV 积分模式先例，电动化盈余合规资产的二次变现。
 - [[china-export-leaders-2026]] - | 排名 | 车企 | 出口量 | 同比增速 | 特点 |
 - [[china-india-tech-blockade]] - 中国商务部将磷酸铁锂技术列入限制出口目录，切断印度从"买电池"到"造电池"的升级路径。
 - [[china-tech-reverse-export]] - 中国汽车技术通过合资、平台共享、研发合作等方式进入欧洲车企产品线的现象，区别于传统的"市场换技术"，是"技术换市场"的新模式。
@@ -265,6 +266,7 @@
 - [[eu-phev-strategy]] - 2024-2026年欧盟对中国BEV加征最高38.1%关税，但PHEV不在关税范围。中国车企利用这一政策空档，通过PHEV产品突破欧洲市场。
 - [[euro-stoxx-50-exit]] - 2026年9月大众被剔除Euro Stoxx 50（15年首次），对照Stellantis 2025.9——欧洲车企连续两年被踢出蓝筹指数，是结构性定价而非周期性。
 - [[global-battery-market-2026]] - 全球动力电池竞争进入"中国平台化扩张"时代。2026年上半年全球电动汽车动力电池装机量达608.5GWh，同比增长20%。中国前十企业合计份额达72.4%。竞争焦点从产能规模转
+- [[huawei-qualcomm-settlement-2026]] - 2026-10-05华为×高通多年期专利大和解：交叉许可覆盖5G/计算/AI/网络，高通为净支出方。判断：「清场不是结盟」——专利战清场、产品战升温，高通车规芯片北美/欧洲合规铺路。
 - [[humanoid-robot]] - 具备人类形态的智能机器人，双足行走、双臂操作、头部感知。车企布局人形机器人作为第二增长曲线，利用造车积累的供应链和技术能力。
 - [[india-auto-market]] - 规模：全球第三大汽车市场，年销400万+
 - [[japanese-automaker-crisis-2026]] - 2026年日本汽车产业面临的三重结构性打击：美国政策收割、中东地缘冲突、中国市场失守。这三座大山不是短期冲击，而是不可逆的结构性危机，终结了日系自2000年以来连续25年的全球

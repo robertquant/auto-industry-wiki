@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -255,3 +255,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **第六代 Clio 2026年发布，混动+纯电双动力**——欧洲B级轿车基盘（Clio常年欧洲销冠级车型）电动化平滑过渡
 - **雷诺日产重建「高价值合作」、拟购印度合资剩余股权**——联盟从销量协同转向技术/区域分工；购入印度股权后雷诺将独掌印度业务（对照 [[suzuki]] 印度霸权，见 [[india-auto-market]]）
 - 判断：<2万欧元 Twingo 若兑现，将定义欧洲平价电动新基准；雷诺日产重启+印度收权，显示雷诺战略收缩至「欧洲+印度」双核心——与 [[stellantis]] 的全球联盟平台路线分道扬镳
+
+## 2026-10-07 更新：油价推高法国纯电份额
+- **9 月法国纯电份额 42% 创纪录**——美伊冲突推高油价是关键外因（对照 [[eu-ev-market-2026]] 欧洲电气化份额上行的地缘驱动）
+- 判断：雷诺 100 亿欧元法国豪赌踩在地缘时点上——油价高企期正是平价电动（Twingo <2万欧、R5）抢份额的窗口（[[entry-ev-profit-crisis]]）

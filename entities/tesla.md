@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -85,3 +85,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **Chargeport 9 月数据**：Waymo ~4,000 台车队 / 周 50 万付费订单 / 15 城 vs 特斯拉奥斯汀仅 **44 台**（详见 [[waymo-vs-tesla-robotaxi-2026]]）
 - **内华达批文**：7 月 10 台 → 8 月 20 台规模，获批 **5,000 台车队**许可；**拉斯维加斯 10/2 确认启动**
 - 判断：特斯拉 L4 商业化「批文先行、车队爬坡滞后」——规模叙事 vs Waymo 运营实绩的差距是 2026 最值得跟踪的对照
+
+## 2026-10-07 更新：Robotaxi 10月转全天运营（待官方确认）
+- **36氪/艾媒（10/5）**：特斯拉 Robotaxi 10月起转 **24 小时全天运营**——承接 Vegas 10/2 上线，从「白天试点」升级为「夜间+极端天气」全工况运营
+- 全天候 = 夜间低光/恶劣天气感知 + 远程监控冗余的双重考验；与 Waymo（周 50 万单/15 城）的差距仍在数量级（[[waymo-vs-tesla-robotaxi-2026]]）
+- 判断：Q4 观察指标从「是否上线」变为「运营时长 × 事故率」——Robotaxi 竞争进入运营质量维度（对照 [[pony-ai]]/[[weRide]]）

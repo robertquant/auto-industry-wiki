@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -112,3 +112,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **慕尼黑第 100 万辆 M3 下线**——燃油性能图腾收官叙事
 - **缺席巴黎车展**：与 [[volkswagen]]、[[renault]]、[[mercedes-benz]] 全阵容参展形成反差——资源押 Neue Klasse 量产爬坡而非车展叙事（对照 [[2026-paris-auto-show]]）
 - 判断：电池本土化+缺席车展 = 「中国+新世代」优先，欧洲投入收缩
+
+## 2026-10-07 更新：砍 20% 部门与岗位 + 利润率目标
+- **裁撤约 20% 部门与岗位**（德国约 8,000 岗位）——Neue Klasse 转型期组织收缩，与「缺席巴黎车展、资源押量产爬坡」（10/6）同向
+- **2028 年利润率目标 3%-5%**——显著低于豪华品牌历史水平，反映电动化转型期利润率中枢下移的现实定价
+- 判断：宝马「收缩+聚焦」组合拳（渠道裁 20%/部门裁 20%/缺席车展）= 德系豪华转型期标准动作；风险是收缩过头伤及品牌与研发（对照 [[mercedes-benz]] 多线并行、[[bba-ev-ranking-2026]]）

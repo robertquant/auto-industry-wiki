@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -190,3 +190,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **CARIAD 官宣转型 AI 公司**（"更瘦更快"）——SSP 一再延迟后的叙事转向：从「软件平台救世主」收缩为「AI 工程赋能」；叠加 10/5 裁员 1,000 人+61亿欧元削减，「收缩保盈利」定调再确认
 - **巴黎车展首发 ID.Polo / ID.Cross / ID.Every1 量产版**——ID 系列以经典名回归（[[2026-06-movement]]），A 级/跨界/入门三线齐发
 - 判断：CARIAD 转型 = 承认自研全域软件不可行，聚焦 AI + 外购；巴黎车展产品是欧洲防守的正面弹药（见 [[2026-paris-auto-show]]、[[euro-stoxx-50-exit]]）
+
+## 2026-10-07 更新：ID. AURA T6 12.99万起——合资反攻试金石
+- **ID. AURA T6 上市 12.99 万起，标配激光雷达 + 城市 NOA**（[[horizon-robotics]] 酷睿程智驾 + CEA 架构）——大众用中国供应链打中国价格战
+- 「12.99 万带激光雷达」直接对标自主 15 万级智驾平权价位（对照 [[deepal]] S07 AI 激光版 14.99 万）——合资首次在智驾性价比上压到自主同价位
+- 判断：合资反攻「试金石」——若 AURA T6 走量，证明「中国供应链+大众品牌」组合可行，CMP/CEA 后续车型将全面复制（[[foreign-automakers-chinese-ad]]）；安徽工厂月交付 1,716 台的窘境是它要打破的第一道墙

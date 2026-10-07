@@ -1,10 +1,10 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-10-01
+updated: 2026-10-07
 type: concept
 tags: [sales, trend, policy, prediction]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 欧洲EV市场2026
@@ -103,3 +103,8 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 - 7月16国纯电份额 25.7%；中国品牌泛欧 10.7%、**欧洲纯电份额 11.7%**（5月口径）
 - IEA 预计 2026 全球电动车销量 2,300万辆、占新车近三成
 - 对照：[[leapmotor]] 欧洲网点破1020家/36国 + 泰国市场中国品牌进入收获期——「电气化过半」由中国品牌助推（见 [[china-brand-market-share-2026]]）
+
+## 2026-10-07 更新：8月欧洲电气化份额首过半
+- **8 月欧洲电气化份额首过半**；中国品牌份额 11.7%（与 10/1 记录的 5 月纯电口径 11.7% 双重印证）
+- 地缘驱动：美伊冲突推高油价 → 法国 9 月纯电份额 42% 创纪录（[[renault]]）；与中国「新能源出口占比连续三月过半」（[[china-export-leaders-2026]]）互为因果
+- 判断：欧洲电气化过半 + 中国品牌 11.7%——「欧洲电动化由中国品牌助推」的结构性判断再获月度数据支撑（[[china-brand-market-share-2026]]、[[chinese-oem-export]]）

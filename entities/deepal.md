@@ -1,10 +1,10 @@
 ---
 title: 深蓝汽车 (Deepal)
 created: 2026-06-15
-updated: 2026-09-28
+updated: 2026-10-07
 type: entity
 tags: [changan, china, ev, erev, adas]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 深蓝汽车 (Deepal)
@@ -76,3 +76,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md]
 - **深蓝S07 AI激光版 14.99万起**：27个传感器含激光雷达、华为乾崑同源方案——带激光雷达的智驾平权压到15万内（见 [[lidar-penetration]]）
 - **深蓝49个月破百万辆**（2026-09-28 第100万辆下线）；9月全球销量超3万辆、前三季累计 +8.59%
 - 判断：长安系「天枢20万级 + 深蓝15万级」分层打法成型，激光雷达不再是高端专属
+
+## 2026-10-07 更新：S07/S05 确认参展巴黎车展
+- **深蓝 S07 / S05 确认参展巴黎车展**（10/12-18，7.1 馆长安展台）——长安系欧洲攻势落地，S07 AI 激光版（华为乾崑同源）代表中国智驾平权方案首次在巴黎展示（[[2026-paris-auto-show]]）
+- 判断：15 万级智驾平权产品出海欧洲 = 「性价比+智驾」组合拳；与 [[changan]] 启源双品牌欧洲布局协同

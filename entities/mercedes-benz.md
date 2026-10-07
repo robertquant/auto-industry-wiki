@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -181,3 +181,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-10-06 更新：巴黎车展 MMA 首款 GLA 首发
 - **MMA 平台首款 GLA 巴黎首发**（10/12-18），**Smart #2 同步**——紧凑级纯电走量矩阵：GLA 是奔驰欧洲紧凑 SUV 基盘
 - 判断：奔驰把巴黎车展当「MMA 放量」主场（[[2026-paris-auto-show]]）；缺席者宝马 vs 参展者奔驰的策略分化，BBA 纯电竞争再添车展维度（[[bba-ev-ranking-2026]]）
+
+## 2026-10-07 更新：纯电CLA搭载Momenta「车位到车位」
+- **国产纯电 CLA 搭 [[momenta]] 一段式端到端「车位到车位」**——园区/城市道路到泊车全场景贯通；Momenta 覆盖奔驰纯电入门（CLA）+ 燃油旗舰（GLE）+ MB.EA 首款（纯电 GLC）
+- 判断：BBA 智驾全面外包中国方案商闭环——奔驰（Momenta 全域）、宝马（Momenta）、大众（地平线+小鹏）无一家自研（[[foreign-automakers-chinese-ad]]）；「由中国定义、为全球输出」从口号进入产品线执行

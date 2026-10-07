@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-03
+updated: 2026-10-07
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -174,3 +174,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **理想 i6 将巴黎车展（10/12-18）欧洲首秀**（见 [[2026-paris-auto-show]]）——增程头部首次正面闯欧洲，i6 是欧洲战略首款车型
 - 背景：9月 31,817辆国内掉队（增程红利消退），欧洲增量是 Q4 新故事；与「技术外供」（10/2）构成出海双轨：卖车 + 卖技术
 - 判断：i6 欧洲定价/渠道模式（经销 vs 直营）是关键观测点——理想首次直面欧洲本土混动与[[byd]] DM-i 的双重价格竞争
+
+## 2026-10-07 更新：10月i6国内上市 + 巴黎车展欧洲首秀
+- **理想 i6 10 月国内上市**，欧洲首秀同步定档巴黎车展（10/12-18，见 [[2026-paris-auto-show]]）——i 系列纯电补位 9 月增程红利消退的销量空窗（9 月 31,817 辆、同比 -6.3% 新势力垫底）
+- 判断：i6 双线（国内走量+欧洲立旗）是 Q4 理想「止跌」的关键一子；纯电 i 系列能否在 3-4 万档重新放量待验证（[[new-forces-landscape-2026]]）

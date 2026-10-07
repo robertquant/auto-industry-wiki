@@ -1,10 +1,10 @@
 ---
 title: Waymo vs Tesla Robotaxi（2026年L4硬数据）
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 type: comparison
 tags: [comparison, adas, oem-us, trend]
-sources: [raw/articles/2026-10-06-daily-digest.md]
+sources: [raw/articles/2026-10-06-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # Waymo vs Tesla Robotaxi（2026年L4硬数据）
@@ -33,3 +33,8 @@ sources: [raw/articles/2026-10-06-daily-digest.md]
 - [[pony-ai]] - 中国 Robotaxi 玩家对照
 - [[weRide]] - 中国 L4 运营公司
 - [[l3-autonomous-driving]] - L3/L4 商业化背景
+
+## 2026-10-07 更新：特斯拉转全天运营（待官方确认）
+- 36氪/艾媒（10/5）：特斯拉 Robotaxi **10 月起转 24 小时全天运营**（承接 Vegas 10/2 上线）——运营维度从「白天试点」扩展到夜间低光/极端天气（[[tesla]]）
+- 含义：观察指标从「是否上线」变为「**运营时长 × 事故率**」；全天候对感知冗余/远程监控提出更高要求，与 Waymo（周 50 万单）的差距仍需用运营质量追赶
+- 判断：若全天运营落地，Cybercab 车队爬坡（内华达 5,000 台批文）与运营时长同步进入验证期——「运营实绩 vs 规模叙事」两条路径的对照进入 Q4 关键窗口

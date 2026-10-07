@@ -1,10 +1,10 @@
 ---
 title: 外资车企拥抱中国智驾
 created: 2026-05-15
-updated: 2026-06-07
+updated: 2026-10-07
 type: concept
 tags: [strategy, partnership, technology, china]
-sources: [memory/2026-05-15.md, memory/2026-06-07.md]
+sources: [memory/2026-05-15.md, memory/2026-06-07.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 外资车企拥抱中国智驾
@@ -64,3 +64,9 @@ sources: [memory/2026-05-15.md, memory/2026-06-07.md]
 - 话语权分配：外资车企与中国方案商的博弈权重
 - 法规影响：欧洲/美国对中国智驾技术的监管态度
 - 超豪华品牌接受度：玛莎拉蒂客户对华为智驾的品牌认知
+
+## 2026-10-07 更新：合资反攻模式成型
+- **[[volkswagen]] ID. AURA T6：12.99 万起标配激光雷达+城市 NOA**（酷睿程智驾 + CEA 架构）——合资首次把智驾性价比压到自主同价位，「用中国供应链打中国价格战」落地为产品
+- **BBA 智驾全部外包中国**：奔驰纯电 CLA（[[momenta]] 端到端车位到车位）、宝马（Momenta）、大众（地平线+[[xiaopeng]]）——无一家自研
+- **[[momenta]] 进入标致/Jeep 全球车型开发流程**（R7 世界模型）——中国智驾从「中国特供」进入欧洲巨头全球产品定义层（[[china-tech-reverse-export]]）
+- 判断：合资反攻的胜负手不再是「欧洲技术」，而是「中国供应链 × 品牌溢价」的组合效率——模式已被 AURA T6 验证可行，能否放量是 Q4 核心观察点

@@ -868,3 +868,35 @@
 - **导航更新**：index.md - Concepts 158→159（+chassis-domain-control）、Comparisons 6→7（+waymo-vs-tesla-robotaxi-2026）；Total pages 279→281（entities 104 / concepts 159 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（281页全部注册，缺失 0）
 - **核心洞察**：①雷诺「法国100亿」=选前政治保险单（<上轮130亿），战略核心已从「有无电动车」转向「价格可负担性」——T&E平价数据（<2.5万欧电车7倍增长）显示窗口正打开；②雷诺×泰雷兹无人机=产能过剩时代OEM把「大规模制造能力」二次定价出售的信号；③比亚迪Q3反转由海外驱动（出口38.98%），「国内弱盘+海外强增」成2026主旋律；④Waymo运营实绩（4000台/周50万单）vs Tesla规模叙事（5000台批文、车队44台）——L4商业化两条路径硬数据对照；⑤宝马缺席巴黎车展 vs 大众/奔驰/雷诺全阵容=欧洲巨头车展投入分化的新信号
+
+## [2026-10-07] ingest | 每日Wiki整理（行业晨报 + 汽车AI日报 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-07-daily-digest.md（今日三路素材汇总：晨报9月销量战报/AI日报4条/晚报要点；晚报全文见 daily-news/2026-10-07-gasgoo-evening.md）
+- **新建（2页）**：
+  - concepts/huawei-qualcomm-settlement-2026.md - 华为×高通专利大和解（10/5）：交叉许可5G/计算/AI/网络、高通为净支出方；「清场不是结盟」——车规芯片合规铺路
+  - concepts/china-carbon-credit-export.md - 中国车企碳积分出口：小鹏向保时捷等欧洲巨头卖碳超10亿元、「第三类出口」（车/技术/合规资产）
+- **更新（22页）**：
+  - entities/qualcomm-auto.md - 华为×高通和解：专利战清场、SA8797等车规芯片北美/欧洲合规障碍清除
+  - entities/huawei-auto.md - 和解当事方视角：2024专利许可收入6.3亿美元/27亿台5G设备许可证背书
+  - concepts/auto-chip-competitive-landscape.md - 和解后竞争面：从「诉讼/合规博弈」全面转入「产品力+生态」
+  - entities/tesla.md - Robotaxi 10月转24小时全天运营（36氪/艾媒，待官方确认）；观察指标变为运营时长×事故率
+  - comparisons/waymo-vs-tesla-robotaxi-2026.md - 全天运营补充：「运营实绩 vs 规模叙事」进入Q4关键窗口
+  - entities/toyota.md - 一汽丰田10/5辟谣「退出中国/大降价」+ 南北丰田产销分离路径明确
+  - entities/gac.md - 一汽丰田辟谣 + 整合筹码博弈期
+  - entities/chery.md - 9月出口20.78万创中国车企单月纪录、前三季155.1万(+65.6%)超去年全年；全球化3.0主品牌纳入全球体系
+  - concepts/china-export-leaders-2026.md - 奇瑞单月出口纪录；新能源出口占比连续三月过半（结构升级）
+  - entities/volkswagen.md - ID. AURA T6 12.99万起标配激光雷达+城市NOA（酷睿程+CEA）——合资反攻试金石
+  - concepts/foreign-automakers-chinese-ad.md - 合资反攻模式成型：AURA T6定价+奔驰CLA Momenta端到端+标致/Jeep R7进入全球开发流程
+  - entities/bmw.md - 裁撤约20%部门与岗位（德国约8000岗）+ 2028利润率目标3%-5%
+  - entities/mercedes-benz.md - 纯电CLA搭Momenta一段式端到端「车位到车位」；BBA智驾外包闭环
+  - entities/momenta.md - 奔驰CLA端到端 + 标致/Jeep全球车型开发流程——欧洲巨头智驾外包「全满贯」
+  - entities/stellantis.md - Momenta R7世界模型进入标致/Jeep全球车型开发流程
+  - entities/xiaopeng.md - 向保时捷等欧洲巨头卖碳超10亿元 + 技术输出扩围双线
+  - entities/byd.md - 方程豹钛7单月3.2万辆/大汉10/13上市/王朝网第1000万辆下线/2028年底9万座闪充站
+  - entities/li-auto.md - i6 10月国内上市+巴黎车展欧洲首秀双线
+  - entities/deepal.md - S07/S05确认参展巴黎车展（7.1馆长发展台）
+  - entities/renault.md - 美伊冲突推高油价→法国9月纯电份额42%创纪录的地缘因果
+  - concepts/2026-paris-auto-show.md - 深蓝S07/S05参展+smart#2全球首发+小鹏或官宣新技术输出
+  - concepts/eu-ev-market-2026.md - 8月欧洲电气化份额首过半、中国品牌11.7%双重印证
+- **导航更新**：index.md - Concepts 市场/趋势/政策 37→39（+china-carbon-credit-export / +huawei-qualcomm-settlement-2026）；Last updated 2026-10-07；Total pages 281→283（entities 104 / concepts 161 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（283页全部注册，缺失 0）
+- **核心洞察**：①出口是2026中国车企第一增长曲线——比亚迪海外+153.9%、奇瑞单月出口20.78万创纪录、零跑连续3月破10万，新能源出口占比连续三月过半标志结构升级；②华为×高通和解是地缘IP缓和信号——战场从专利诉讼转向产品量产，但车端芯片竞争不降温；③合资反攻模式成型——大众用中国供应链打中国价格战（AURA T6 12.99万带激光雷达），BBA智驾全面外包中国方案商（Momenta通吃奔驰/宝马/标致/Jeep）；④小鹏卖碳超10亿=「第三类出口」成型，电动化先发优势从卖车/卖技术扩到卖合规资产；⑤Robotaxi竞赛进入新维度——从「是否上线」变为「运营时长×事故率」；⑥欧洲电动化叙事被油价改写——法国9月纯电份额42%创纪录，雷诺100亿欧元豪赌踩在地缘时点上

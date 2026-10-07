@@ -1,10 +1,10 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
-sources: [raw/articles/2026-10-03-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 2026巴黎车展 (Paris Motor Show)
@@ -62,3 +62,9 @@ sources: [raw/articles/2026-10-03-daily-digest.md]
 - **华为 ADS5.0**：东风奕境/观致装车亮相；**特斯拉 Cybercab** 参展（对比见 [[waymo-vs-tesla-robotaxi-2026]]）
 - **[[stellantis]]**：零跑 B10 萨拉戈萨 2026H2 投产、欧洲网点破千（[[leapmotor]]）
 - 判断：中国军团（[[leapmotor]]/[[xiaopeng]]/[[li-auto]]/[[zeekr]]/领克/[[avatr]]）压境 vs 欧洲巨头「规模参展」，巴黎车展成中外攻防的最大观测窗口
+
+## 10/7 补充：深蓝确认参展 + smart#2 + 小鹏或官宣
+- **[[deepal]] S07/S05 确认参展**（7.1 馆长安展台）——长安系欧洲攻势细节落地（[[changan]]）
+- **smart 精灵#2 全球首发**——吉利系欧洲小型电动车线补位（[[geely]]）
+- **[[xiaopeng]] 或官宣大众之外新技术输出对象**（何小鹏 10/7 口径）——技术出口从个案变模式的又一验证点（[[china-tech-reverse-export]]）
+- **华为 ADS5.0 随东风奕境亮相**仍是最具技术看点的装车演示（[[huawei-auto]]）

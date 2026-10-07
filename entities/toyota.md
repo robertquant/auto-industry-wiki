@@ -1,10 +1,10 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-10-06
+updated: 2026-10-07
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md]
 ---
 
 # 丰田 (Toyota)
@@ -138,3 +138,8 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 - 官宣 **「丰田机器人」组织**：目标量产 **40万台物理 AI 机器人**——丰田把多路径战略延展到具身智能（对照 [[humanoid-robot-industry]]、[[humanoid-talent-flow]]）
 - **2027 年 4 月增程投产、专供中国**（2028 年目标 40万辆）——丰田首次正面入场中国增程赛道（[[range-extender-trend]]），对标 [[li-auto]]、[[wenjie]] 等增程头部
 - 判断：丰田「多路径」再扩容——氢能/混动/纯电之外加增程+机器人；增程专供中国 = 承认中国插混市场不可绕过（[[china-brand-market-share-2026]]、[[japanese-automaker-crisis-2026]]）
+
+## 2026-10-07 更新：一汽丰田辟谣 + 南北丰田整合路径明确
+- **一汽丰田 10/5 声明辟谣**「退出中国/大降价」——广汽收购一汽丰田 50% 股权预案（9/28）后的传闻扰动；整合方案未定，处筹码博弈期（[[gac]]）
+- **南北丰田「产销分离」路径明确**：生产端广汽统筹、销售端丰田/一汽/广汽 50:25:25 新销售公司（与 10/1 记录一致）——整合从纸面预案进入执行层讨论
+- 判断：辟谣 ≠ 反转，日系在华统一体收缩方向不变（[[japanese-automaker-crisis-2026]]）；传闻期的渠道/经销商信心管理是关键执行变量
