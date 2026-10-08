@@ -113,3 +113,7 @@ robert 判断「座舱 AI 的编排/主动服务层壁垒很低、容易被抄�
 - DeepSeek份额是否见顶（传统品牌自研起步）
 - Agent「可信执行」标准与安全责任划分
 - 端云协同本地模型规格（7B成为标配？）
+## 2026-10-08 更新：模型底座成本拐点——Claude Haiku 5.5 成本降 75%
+- **OpenAI GPT-6 + Intelligent UI 发布；Anthropic 同日发 Claude Haiku 5.5（成本较 4.5 降 75%）**——座舱 Agent 模型底座路线分化：自研全栈派 vs 合作选型派（[[chinese-oem-ai-methodology]]）
+- 低成本小模型让座舱 Agent 边际成本下探——「全系标配」成本条件成熟，可延伸至 15 万以下价位带（对照 [[deepal]] 智驾平权）
+- 判断：模型价格战与 [[deepseek]] 开源低价共振，端侧/云端双降——座舱 AI 竞争焦点进一步从「模型能力」移向「执行与中间件」（[[cockpit-ai-barrier-layering]]、[[dicore]]）

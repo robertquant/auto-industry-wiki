@@ -900,3 +900,31 @@
 - **导航更新**：index.md - Concepts 市场/趋势/政策 37→39（+china-carbon-credit-export / +huawei-qualcomm-settlement-2026）；Last updated 2026-10-07；Total pages 281→283（entities 104 / concepts 161 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（283页全部注册，缺失 0）
 - **核心洞察**：①出口是2026中国车企第一增长曲线——比亚迪海外+153.9%、奇瑞单月出口20.78万创纪录、零跑连续3月破10万，新能源出口占比连续三月过半标志结构升级；②华为×高通和解是地缘IP缓和信号——战场从专利诉讼转向产品量产，但车端芯片竞争不降温；③合资反攻模式成型——大众用中国供应链打中国价格战（AURA T6 12.99万带激光雷达），BBA智驾全面外包中国方案商（Momenta通吃奔驰/宝马/标致/Jeep）；④小鹏卖碳超10亿=「第三类出口」成型，电动化先发优势从卖车/卖技术扩到卖合规资产；⑤Robotaxi竞赛进入新维度——从「是否上线」变为「运营时长×事故率」；⑥欧洲电动化叙事被油价改写——法国9月纯电份额42%创纪录，雷诺100亿欧元豪赌踩在地缘时点上
+
+## 2026-10-08（每日整理 cron）
+- **素材入库**：raw/articles/2026-10-08-daily-digest.md（三路素材汇总：晨报/汽车AI日报/盖世晚报；晚报全文见 daily-news/2026-10-08-gasgoo-evening.md）
+- **新建（5页）**：
+  - entities/sealion-06-dmi.md - 海狮06 DM-i上市（12.99-15.99万、第五代DM、可选天神之眼B+DiPilot 300）——海洋网走量补位
+  - entities/fangchengbao-ti9.md - 方程豹钛9官图预热（全尺寸承载式插混、轴距3130mm、DMS平台）——硬派→家用扩张试水
+  - entities/xiaopeng-yoyo.md - 小鹏悠游Robotaxi定名（4×图灵3000TOPS+二代VLA无激光雷达L4、100ms冗余切换、2027广州无安全员）——前装量产+软硬一体路线
+  - entities/nvidia.md - 英伟达战略角色转变（拟追投Figure 10亿美元@380亿估值、1400亿美元交易/千亿股权组合）——卖铲人→买公司的人
+  - concepts/risc-v-automotive.md - RISC-V车规化提速（英飞凌下一代汽车MCU采用RISC-V、国产车规生态补链）
+- **更新（15页）**：
+  - entities/byd.md - 海狮06+钛9双线新车、9月出口18.07万(+153%)、大唐EV累计破4万、全年出口冲击200万
+  - entities/xiaomi-pengcheng.md - 澎程满月：19天破万、9月小米总交付超4万
+  - entities/xiaopeng.md - 悠游定名+技术底座；卖碳2026确认超5亿
+  - entities/tesla.md - Q3交付48.65万超预期（vs分析师均值46.38万）、股价+5%
+  - entities/seres.md - 新五年合作细节（9/30深圳签约、专属专营、问界用户破120万）
+  - entities/toyota.md - 南北丰田合并传闻再发酵
+  - entities/mercedes-benz.md - Q3在华超9万辆、纯电GLC超预期、EQS线控转向选装、EQE停产——聚焦高端见效
+  - entities/bmw.md - 新3系G50燃油（直六443马力）+iX4年底定档
+  - entities/volkswagen.md - 与众09预售19.99万起（750TOPS+城市NOA）——本土化终局之战
+  - entities/renault.md - E-Space MPV概念车、CFO换将（卡琳·达穆瓦）、百亿欧元自我输血
+  - concepts/2026-paris-auto-show.md - 中国军团量化盘点（65展台占20、法国市占率3.4%→4.8%→8%、比亚迪法+136%、腾势D9对标Taycan、名爵缺席）
+  - concepts/eu-ev-market-2026.md - 9月BEV占欧洲33%、法国41.7%、每3辆BEV 1辆中国品牌
+  - concepts/china-carbon-credit-export.md - 零跑2025卖碳11.1亿先例
+  - concepts/cockpit-llm.md - GPT-6+Claude Haiku 5.5（成本降75%）→座舱Agent成本拐点
+  - concepts/humanoid-robot-industry.md - 英伟达追投Figure
+- **导航更新**：index.md - 车企中国28→30（+sealion-06-dmi/+fangchengbao-ti9）、芯片厂商14→15（+nvidia）、产品/平台8→9（+xiaopeng-yoyo）、技术88→89（+risc-v-automotive）；Last updated 2026-10-08；Total pages 283→288（entities 108 / concepts 162 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（288 页全部注册，缺失 0）
+- **核心洞察**：①英伟达从卖铲人变资本买家（1400亿交易/千亿组合），与达利欧AI泡沫警告同框——产业资本与宏观资金对AI定价分歧；②巴黎车展（10/12）是中国军团终极观察窗：65展台占20、法国市占率三级跳，欧洲从「接纳者」变「被定义者」；③座舱Agent成本拐点（Haiku 5.5降75%）——「全系标配」成本条件成熟，竞争焦点移向中间件层；④大众与众09 vs 奔驰砍EQE：合资反攻与德系防守同台，验证「用中国供应链打中国价格战」；⑤特斯拉Q3交付回稳+Robotaxi全天运营——Q4观察点转「运营时长×事故率」；⑥出口仍是第一增长曲线（比亚迪海外+153%、奇瑞前三季155万超去年全年）
