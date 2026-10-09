@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-09
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
@@ -264,3 +264,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **E-Space 纯电 MPV 概念车官图**：复古 1984 初代单厢轮廓、量产 2028-2030——巴黎车展「复古电动」叙事（[[2026-paris-auto-show]]）
 - **任命卡琳·达穆瓦为 CFO**；CEO 承诺未来 5 年再投百亿欧元、2026 法国本土产量 +25%——联盟动荡后的「自我输血」阶段（[[renault-nissan-development-process]]）
 - 判断：情怀叙事救不了当下销量；百亿豪赌踩在地缘油价窗口（10/7）上，CFO 换将暗示资本开支纪律将强化
+
+## 2026-10-09 更新：雷诺周报——E-Space 细节 + Ampere 回归 + 巴西攻势
+
+- **E-Space 概念车巴黎车展全球首秀**（10.12-18，约 50 款车型/6 款新车/4 款概念车）：**4.7 米家庭电动 MPV**，官方强调平均开发周期已压缩至**两年**（欧洲传统巨头最快节奏之一）
+- **Ampere 并入集团工程体系**（2026 年中）：电池/电驱/软件收归集团，ElectriCity 与 Cléon 工厂回归集团制造——**独立 IPO 路径终结**（[[ampere]]）
+- 电动化数据：H1 欧洲 BEV 占比 18.8%、R5 稳居欧洲 B 级纯电销冠；Twingo E-Tech 维持 2026 年内上市（<2 万欧元）；**Megane 改款首次引入 LFP 电池压价**（[[fifth-gen-lfp-battery]]）
+- **巴西/吉利攻势**：吉利 EX5 EM-i 已量产、EX2 纯电轿车 12 月巴西投产；**2027 年雷诺标车型基于吉利 GEA 架构**（[[geely]]）——雷诺用吉利的周期与成本打比亚迪
+- 市场：H1 全球销量 116.5 万辆（-0.4%），印度 +61%、巴西 +5.3%；**巴西 8 月比亚迪份额 9.3%，雷诺跌至第七**——南美承压是巴西合资追加投资（累计 8.99 亿欧元）的注脚
+- 联盟：FlexEVan SDV 2026 年发布并与日产共享；日产欧洲 C 级纯电/800V 共享仍在框架内
+- 判断：从「de Meo 独立 Ampere 叙事」到「Provost 务实控本」——电驱软件收归集团 + 100 亿砸本土 + 吉利架构抢巴西，三线同一逻辑：**最短周期最低成本打中国竞品**；巴黎车展是首个验证窗口（[[2026-paris-auto-show]]）

@@ -1,7 +1,7 @@
 ---
 title: Waymo vs Tesla Robotaxi（2026年L4硬数据）
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-09
 type: comparison
 tags: [comparison, adas, oem-us, trend]
 sources: [raw/articles/2026-10-06-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -38,3 +38,10 @@ sources: [raw/articles/2026-10-06-daily-digest.md, raw/articles/2026-10-07-daily
 - 36氪/艾媒（10/5）：特斯拉 Robotaxi **10 月起转 24 小时全天运营**（承接 Vegas 10/2 上线）——运营维度从「白天试点」扩展到夜间低光/极端天气（[[tesla]]）
 - 含义：观察指标从「是否上线」变为「**运营时长 × 事故率**」；全天候对感知冗余/远程监控提出更高要求，与 Waymo（周 50 万单）的差距仍需用运营质量追赶
 - 判断：若全天运营落地，Cybercab 车队爬坡（内华达 5,000 台批文）与运营时长同步进入验证期——「运营实绩 vs 规模叙事」两条路径的对照进入 Q4 关键窗口
+
+## 2026-10-09 更新：Waymo 50 亿美元首笔债务融资
+
+- **10/8 Waymo 获 50 亿美元贷款**（首次债务融资），用于 Robotaxi 扩张 + 入局欧洲、日本（[[waymo]]）——叠加 2 月 160 亿股权融资（估值 1260 亿美元）
+- 含义 1：**Alphabet 从股权输血转向债务融资**——Waymo 需用运营实绩自证单位经济
+- 含义 2：欧洲+日本 = 中美之外第二战场——中国 Robotaxi（[[xiaopeng-yoyo]]、[[pony-ai]]）出海窗口期被压缩
+- 判断：Robotaxi 资本战从「融资竞赛」进入「市场扩张竞赛」，全球三方格局（Waymo 实绩 / Tesla 叙事 / 中国前装量产）定型

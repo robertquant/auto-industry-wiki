@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-09
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
@@ -17,6 +17,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 ### 乾崑国庆使用数据（10/1 靳玉志）
 - **9/30 零点至 10/1 早 9 点：110.7 万用户使用乾崑智驾，累计 7,116 万公里**，人均里程达 9 月日均 3 倍
 - **判断**：智驾竞争从「参数发布」转向「节假日实际使用率」——长假峰值是系统稳定性 + 用户信任度的真实压力测试，也是 [[data-moat]] 的增量来源
+
+### 乾崑 9 月安全报告（10/8-9）
+- **月活用户占比 94.6%**；累计辅助驾驶里程 **157.85 亿公里**（官网口径破 164 亿）
+- 搭载乾崑车辆总里程 **461 亿公里**——运营数据进入「亿公里级」常态披露
+- **国庆 7 天辅助驾驶 5.53 亿公里 = 去年同期 1.88 倍**——智驾平权放量真实兑现
+- 判断：亿公里级安全数据是监管（[[l3-mandatory-standard]]）/保险侧话语权的积累；增速 1.88 倍验证「智驾从选配变标配」
+- ⚠️ 同期负面：[[zunjie-brake-pedal-controversy]]（尊界刹车踏板事件）冲击华为智驾「安全溢价」叙事
 
 ### 乾崑 ADS 5
 - 新一代四激光硬件架构（阿维塔T09搭载）

@@ -1,7 +1,7 @@
 ---
 title: RISC-V 车规化
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 type: concept
 tags: [chip, trend, supply-chain]
 sources: [raw/articles/2026-10-08-daily-digest.md]
@@ -16,6 +16,10 @@ RISC-V 开放指令集架构在汽车芯片领域的规模化应用进程。2026
 - RISC-V：开源指令集架构（ISA），免授权费、可自由扩展——区别于 ARM（授权模式）与 x86（封闭）
 - 车规级切入点首先是 **MCU**（英飞凌/瑞萨/恩智浦传统地盘），再向 SoC 延伸
 - 中国推动力：规避 ARM/US 授权风险 + 自主可控政策导向（[[auto-chip-self-develop]]）
+
+## 2026-10-09 更新：紫荆半导体车规 RISC-V 破千万颗
+- **紫荆半导体 RISC-V 车规芯片累计出货破 1,000 万颗**（盖世）——国产车规 RISC-V 首次进入千万级规模，从「补链叙事」进入「出货验证」
+- 结合英飞凌下一代 MCU 采用 RISC-V：国外巨头跟进 + 国产规模化，双线验证 RISC-V 车规化从边缘切入走向主流（对照 [[storage-chip-surge-2026]] 供应链背景）
 
 ## 开放问题
 

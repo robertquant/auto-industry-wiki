@@ -1,7 +1,7 @@
 ---
 title: 外资车企拥抱中国智驾
 created: 2026-05-15
-updated: 2026-10-07
+updated: 2026-10-09
 type: concept
 tags: [strategy, partnership, technology, china]
 sources: [memory/2026-05-15.md, memory/2026-06-07.md, raw/articles/2026-10-07-daily-digest.md]
@@ -70,3 +70,8 @@ sources: [memory/2026-05-15.md, memory/2026-06-07.md, raw/articles/2026-10-07-da
 - **BBA 智驾全部外包中国**：奔驰纯电 CLA（[[momenta]] 端到端车位到车位）、宝马（Momenta）、大众（地平线+[[xiaopeng]]）——无一家自研
 - **[[momenta]] 进入标致/Jeep 全球车型开发流程**（R7 世界模型）——中国智驾从「中国特供」进入欧洲巨头全球产品定义层（[[china-tech-reverse-export]]）
 - 判断：合资反攻的胜负手不再是「欧洲技术」，而是「中国供应链 × 品牌溢价」的组合效率——模式已被 AURA T6 验证可行，能否放量是 Q4 核心观察点
+
+## 2026-10-09 更新：本土供应商反向进入德系供应链（承泰科技）
+- **承泰科技获德系豪华品牌毫米波雷达定点——本土首家**（盖世）：中国毫米波雷达供应商首次拿到德系豪车项目
+- 意义：中国智驾供应链从「方案层面被外资采购」（Momenta/华为）延伸到**传感器单品层面**——「外资拥抱中国智驾」走向零部件层（对照 [[liDAR-cost]] 降本逻辑）
+- 判断：与 [[momenta]] 进入标致/Jeep 全球流程同向，中国供应链渗透外资体系正从「智驾大脑」向下沉到「感知器官」

@@ -1,10 +1,10 @@
 ---
 title: 卓驭科技
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-10-09
 type: entity
-tags: [strategy, partnership, europe]
-sources: [memory/2026-06-06.md]
+tags: [adas, strategy, export]
+sources: [memory/2026-06-06.md, raw/articles/2026-10-09-daily-digest.md]
 ---
 
 # 卓驭科技
@@ -30,7 +30,14 @@ sources: [memory/2026-06-06.md]
 - 欧洲本土化是正确选择
 - 成本优势对欧洲市场有吸引力
 
+## 2026-10-09 更新：进军商用车（福田 × 卓驭战略签约）
+
+- **10/8-9 与 [[foton]]（福田汽车）签署战略合作**：商用车高阶智驾——卓驭从乘用车方案商切入商用车赛道
+- 逻辑：商用车是智驾渗透率洼地（干线/港口/矿区场景相对封闭）+ 卓驭低成本方案 = 「降维切入」
+- 判断：乘用车城市 NOA（[[city-noa]]）价格战外溢，商用车成为下一个智驾放量场景；与欧洲总部（布伦瑞克）出海布局并线构成第二增长曲线
+
 ## 关联页面
+- [[foton]] - 商用车智驾合作方
 - [[momenta]] - 智驾方案商市占率第一
 - [[huawei-ads]] - 华为智驾方案，技术路线对比
 - [[volkswagen]] - 大众汽车，卓驭核心合作方

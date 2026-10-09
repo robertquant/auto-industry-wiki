@@ -928,3 +928,26 @@
 - **导航更新**：index.md - 车企中国28→30（+sealion-06-dmi/+fangchengbao-ti9）、芯片厂商14→15（+nvidia）、产品/平台8→9（+xiaopeng-yoyo）、技术88→89（+risc-v-automotive）；Last updated 2026-10-08；Total pages 283→288（entities 108 / concepts 162 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（288 页全部注册，缺失 0）
 - **核心洞察**：①英伟达从卖铲人变资本买家（1400亿交易/千亿组合），与达利欧AI泡沫警告同框——产业资本与宏观资金对AI定价分歧；②巴黎车展（10/12）是中国军团终极观察窗：65展台占20、法国市占率三级跳，欧洲从「接纳者」变「被定义者」；③座舱Agent成本拐点（Haiku 5.5降75%）——「全系标配」成本条件成熟，竞争焦点移向中间件层；④大众与众09 vs 奔驰砍EQE：合资反攻与德系防守同台，验证「用中国供应链打中国价格战」；⑤特斯拉Q3交付回稳+Robotaxi全天运营——Q4观察点转「运营时长×事故率」；⑥出口仍是第一增长曲线（比亚迪海外+153%、奇瑞前三季155万超去年全年）
+
+## [2026-10-09] ingest | 每日整理（晨报+AI日报+雷诺周报+盖世晚报）
+- **素材入库**：raw/articles/2026-10-09-daily-digest.md（三路素材汇总；晚报全文见 daily-news/2026-10-09-gasgoo-evening.md）
+- **新建（3页）**：
+  - entities/waymo.md - 首次债务融资50亿美元（扩张+入局欧洲日本）；2月160亿股权融资估值1260亿美元——Robotaxi资本战进入「市场扩张竞赛」
+  - entities/foton.md - 福田×卓驭战略签约：商用车高阶智驾，智驾下一个价格洼地、「降维切入」样本
+  - concepts/zunjie-brake-pedal-controversy.md - 尊界V800刹车踏板断裂事件：懂车帝实测→官方「免费升级」→江淮两连跌停——华为系高端品牌首场质量危机
+- **更新（12页）**：
+  - entities/zunjie.md - 刹车踏板危机完整信息 + 关联事件页
+  - entities/huawei-auto.md - 乾崑9月安全报告（月活94.6%、累计辅助驾驶157.85亿公里、国庆5.53亿公里=1.88倍）
+  - entities/renault.md - 周报深度：E-Space 4.7米MPV两年开发周期、Ampere并入集团（IPO终结）、Megane首引LFP、巴西吉利GEA架构2027雷诺标、H1销量116.5万(-0.4%)
+  - entities/gac.md - 一汽/丰田/广汽三方签约（10/8），南北丰田整合进入执行阶段
+  - entities/zhuoyu.md - 进军商用车（福田合作）+ 标签合规修正（strategy/partnership/europe→adas/strategy/export）
+  - entities/li-auto.md - i6改款10/28发布
+  - entities/xiaopeng-yoyo.md - 10/9正式上线 + 「能力输出方」定位澄清
+  - comparisons/waymo-vs-tesla-robotaxi-2026.md - Waymo 50亿美元债务融资 → 全球三方格局定型
+  - concepts/risc-v-automotive.md - 紫荆半导体车规RISC-V出货破千万颗
+  - concepts/foreign-automakers-chinese-ad.md - 承泰科技获德系豪车毫米波雷达定点（本土首家）——中国供应链渗透下沉到「感知器官」
+  - concepts/chassis-domain-control.md - 立讯精密100%控股京西智行——底盘Tier1并购整合维度
+  - concepts/eu-ev-market-2026.md - 瑞银：中国品牌年内欧洲份额或冲20%
+- **导航更新**：index.md - 车企中国30→32（+foton，修正历史偏差）、车企美国1→2（+waymo）、市场/趋势/政策39→41（+zunjie-brake-pedal-controversy，修正历史偏差）；Last updated 2026-10-09；Total pages 288→291（entities 110 / concepts 163 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（291 页全部注册，缺失 0）；新建页断链扫描修复 1 处（[[传统豪华品牌]]→纯文本）
+- **核心洞察**：①尊界事件是华为系高端品牌第一场「刹车测试」——测试方法学的行业争议（100km/h刹停=标准工况 vs 官方国标合规话术）背后，两连跌停已给「安全溢价」叙事定价，百万级定位根基首次动摇；②Waymo 债务融资+欧洲日本扩张——Robotaxi 从股权输血转向自我造血验证，中国 Robotaxi 出海窗口期压缩；③卓驭×福田=智驾价格战向商用车外溢，华为乾崑/地平线在商用车侧均有布局，「低渗透率+高人工成本」场景成为新战场；④中国供应链渗透外资体系从「智驾大脑」（Momenta/华为）下沉到「感知器官」（承泰雷达）与底盘执行器（立讯×京西智行）；⑤雷诺 Provost 务实控本三线同逻辑（Ampere收归+100亿本土+吉利架构抢巴西），巴黎车展（10/12）为验证窗口
