@@ -1,10 +1,10 @@
 ---
 title: 上汽通用 (SAIC-GM)
 created: 2026-08-06
-updated: 2026-08-17
+updated: 2026-10-10
 type: entity
 tags: [oem-cn, oem-us, joint-venture]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md]
+sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 上汽通用 (SAIC-GM)
@@ -58,3 +58,15 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - 新能源产品规划与投放节奏
 - 智能驾驶能力建设
 - 出口战略与全球市场布局
+
+## 2026-10-10 更新：通用 Q3 在华超 35.8 万辆，新能源占比首破 60%
+
+| 维度 | 数据 |
+|------|------|
+| Q3 在华销量 | **超 35.8万辆**（去年同期近 47万辆，回落明显） |
+| 新能源占比 | **破 60%（首次）** |
+| 别克至境 E7（插混SUV） | 超 1.3万辆 |
+| GL8 家族 | 超 2.2万辆 |
+| 凯迪拉克 XT5 | Q3 交付超 9,000辆，搭载 **Momenta R7** 世界模型智驾（[[momenta]]） |
+
+- 判断：新能源占比破 60% 但总盘回落——结构领先、总量失速的典型合资困境；XT5 上 Momenta R7 是通用「智驾外采中国方案」的又一个落地（[[foreign-automakers-chinese-ad]]）；别克/GL8/凯迪拉克三大支柱里，GL8/至境吃混动红利，XT5 赌智驾体验——通用在华边际改善靠「中国供应链+混动」双轮（对照 [[saic]] 集团视角）

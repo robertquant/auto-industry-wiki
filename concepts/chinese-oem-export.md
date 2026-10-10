@@ -1,10 +1,10 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-09-19
+updated: 2026-10-10
 type: concept
 tags: [export, strategy, trend, oem-cn]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 中国车企出海 (Chinese OEM Export)
@@ -65,3 +65,21 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md]
 - 2026全年中国新能源出口总量能否破600万辆
 - 欧盟关税政策走向与本地化建厂对冲效果
 - PHEV出海（增程/插混）在欧美市场的接受度
+
+## 2026-10-10 更新：出口目的国 TOP10（1-8月）+ 贸易变量
+
+### 总量榜（盖世研究院 1-8月）
+
+| 排名 | 市场 | 出口量 | 同比 |
+|------|------|--------|------|
+| 1 | **俄罗斯** | **61.9万辆** | +126.8% |
+| ... | 欧洲多国 | - | 前十无负增长 |
+
+### 新能源榜
+- **巴西 32.7万辆领跑（+163.4%）**；前十无负增长；**意大利 +215.2%** 增速最猛
+- 判断：燃油出口看俄罗斯，新能源出口看巴西/欧洲——双轮结构清晰
+
+### 贸易变量（10/10）
+- **中欧混动出口协议（10/9）**：混动/插混对欧出口或减半——直接冲击出口结构中混动占比高者（[[chery]]、[[geely]]、[[byd]]），详见 [[eu-hybrid-export-caps-2026]]
+- **北美闸门合拢中**：美国禁止法案推迟至中期选举后、加拿大 Unifor 要求 100% 附加税、英国评估加税（[[north-america-ev-trade-barriers-2026]]）；中加低关税 EV 配额（4.9万辆/年）成唯一合规缝隙，[[geely]] 2027 卡位
+- 判断：出口的「量」叙事进入顶部区域，「本地化率×合规通道」成为下一阶段胜负手（[[eu-70x70-rule]]、[[china-tech-reverse-export]]）

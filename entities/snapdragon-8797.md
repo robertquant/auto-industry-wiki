@@ -1,10 +1,10 @@
 ---
 title: 高通骁龙8797 (Snapdragon 8797)
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-10
 type: entity
 tags: [chip, cockpit, adas, tier1, platform]
-sources: [raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 高通骁龙8797 (Snapdragon 8797)
@@ -48,3 +48,7 @@ sources: [raw/articles/2026-09-24-daily-digest.md]
 - 8797 与地平线星空 6P 的量产爬坡竞赛
 - 端侧 300 亿参数 MoE 的实际可用性（带宽/散热约束）
 - 高通在 20 万以下市场的下沉速度
+
+## 2026-10-10 补充：理想 i6 定点（座舱）
+- **2026款理想 i6（10/28发布）座舱采用骁龙 8797**（[[li-auto]]）——继零跑 D19 全球首发双 8797 后，新势力第二家定点；理想「自研智驾芯片（马赫 M100）+ 外采高通座舱」的舱驾分域选型，与零跑 D19 的「双 8797 舱驾融合」形成两条路线对照（[[cabin-drive-integration]]）
+- 判断：8797 从「零跑独占」进入「多客户量产」阶段；理想选 8797 而非自研座舱芯片，说明舱驾融合主战场仍是高通/地平线等专业玩家——车企自研集中在智驾主控（[[auto-chip-self-develop]]）

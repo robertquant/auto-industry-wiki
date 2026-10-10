@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -95,3 +95,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **Q3 全球交付 486,532 辆**，高于彭博分析师预期均值（463,761 辆）；储能装机 13.7GWh；交付公布后股价 +5%
 - 华尔街预期：连续两年下滑后，2026 年销量将小幅回升
 - 判断：交付基本盘回稳 + Robotaxi 新叙事并行——Q4 观察点从「交付」转向「运营时长×事故率」（全天运营，10/7 记录；[[waymo-vs-tesla-robotaxi-2026]]）
+
+## 2026-10-10 更新：巴黎车展 Cybercab 欧洲首秀 + FSD 欧洲最大规模公开路演
+- **Cybercab 欧洲首秀（仅静态展示）**：10/12-18 巴黎车展（见 [[2026-paris-auto-show]]）——欧洲公众首次近距离接触无方向盘 Robotaxi，但无动态演示
+- **6 款 FSD 车型欧洲开放试驾**——FSD 欧洲最大规模公开路演：欧洲战略从「卖车」转向「卖智驾体验」
+- **判断**：Cybercab 欧洲商业化最早 **2027**；静态首秀+FSD 路演组合 = 特斯拉欧洲「合规先行、叙事铺垫」——先让欧洲媒体/公众建立 FSD 认知，再谈准入（欧洲数据合规/法规是硬门槛，见 [[un-autonomous-driving-regulation-2026]]）；时机微妙：与欧洲对中国智驾「安全冗余」叙事输出同台（[[zunjie-brake-pedal-controversy]] 风波后，见 [[avatr-t09]] 判断）

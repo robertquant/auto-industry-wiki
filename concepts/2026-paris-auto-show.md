@@ -1,10 +1,10 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-10
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 2026巴黎车展 (Paris Motor Show)
@@ -73,3 +73,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **中国品牌 65 展台占 20 个**；法国市占率三级跳：2025 年 3.4% → 2026H1 4.8% → 9月单月 8%
 - **比亚迪法国 H1 +136%**（[[byd]]）；问界全系登台（[[wenjie]]）；吉利占 5 馆（[[geely]]）；**理想 i9 / 极氪 9X / 零跑 D19（80度增程）欧洲首发**（[[li-auto]]、[[zeekr]]、[[leapmotor]]）；**腾势 D9 11.5 万欧对标 Taycan**；**名爵缺席**信号（[[mg]]）
 - 判断：中国军团从「出口商」变「市场定义者」——欧洲首发共同点是「中国定义的产品直接以欧洲定价进入」（[[china-brand-market-share-2026]]、[[eu-ev-market-2026]]）
+
+## 10/10 补充：T09 全球首秀 + 特斯拉 FSD 欧洲路演 + 9家现场下订
+- **阿维塔 T09 全球首秀**：华为乾崑首款高端旗舰（ADS 5 + 4颗激光雷达/896线、插混双/三电机）→ 详见 [[avatr-t09]]——中国高端旗舰把欧洲车展当全球首发舞台
+- **特斯拉 Cybercab 欧洲首秀（仅静态）+ 6款 FSD 车型开放试驾**：FSD 欧洲最大规模公开路演，Cybercab 欧洲商业化最早 2027（[[tesla]]）——中美智驾叙事同台竞技
+- **20+ 中国品牌参展、9 个品牌法国门店可现场下订**——从「参展」到「开订」的渠道收口（承接 10/8「参展即上市」判断）
+- [[xiaopeng]] G9L 全球上市**登陆 64 国 + 奥地利工厂投产**——小鹏产品+合规双线出海兑现
+- 判断：巴黎车展（10/12开幕）的看点是**「叙事对轰」**——中国智驾（ADS5/T09）输出「安全冗余」、特斯拉输出 FSD 体验、欧洲巨头输出「规模/概念」；尊界刹车风波（[[zunjie-brake-pedal-controversy]]）之后，欧洲首次同时检验中美两套智驾叙事，含金量高于历届

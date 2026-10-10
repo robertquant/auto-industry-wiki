@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # Momenta (魔门塔)
@@ -69,4 +69,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **神龙科技×Momenta 合作**：依托 R7 世界模型联合开发高阶智驾，覆盖**标致、Jeep 全新量产车型**（中国/欧洲/全球市场）——标致、Jeep 高阶智驾首次落地（见 [[stellantis]]）
 - Momenta 深度参与产品定义与整车开发——从「方案供应」升级为「联合开发」，是 [[chinese-oem-export]]「在中国、为全球」开发模式的又一案例（继大众 ID.ERA、本田2027车型后第三条海外量产线）
 - 判断：欧洲传统品牌（德系→日系→法系/美系）高阶智驾全部转向中国方案商，[[foreign-automakers-chinese-ad]] 趋势从个案变常规
+
+## 2026-10-10 更新：Robotaxi 全球化扩张路线图
+- **Robotaxi 计划：2026 底数百辆 → 2027 数千辆**，重点进入 **迪拜、更多欧洲城市、日本**——从乘用车方案商切入 L4 运营赛道（[[pony-ai]]、[[weRide]] 之外的第三条商业化路径：方案商自营车队）
+- **凯迪拉克 XT5 搭载 Momenta R7 世界模型**（Q3 交付超 9,000 辆，见 [[saic-gm]]）——合资/外资品牌在华车型继续装车，装机量基本盘扩大
+- 判断：Robotaxi 扩张 = Momenta 从「卖方案」到「卖运营」的估值叙事升级；中东/欧洲/日本绕开中国 Robotaxi 内卷（[[waymo-vs-tesla-robotaxi-2026]] 全球三方格局），但自营车队的资产/合规成本是新增敞口
 

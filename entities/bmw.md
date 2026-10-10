@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -122,3 +122,9 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **新3系 G50 燃油版**：直六 443 马力、零百 4.1 秒——燃油性能图腾续命（对照 10/7 裁 20% 部门）
 - **iX4 定档年底**（Neue Klasse 平台）——新世代纯电补位
 - 判断：双轨策略（高端燃油续命 + 新世代纯电补位）与「收缩+聚焦」（10/7）并行不悖；iX4 是 Neue Klasse 量产爬坡的第一份答卷（[[2026-paris-auto-show]]、[[bba-ev-ranking-2026]]）
+
+## 2026-10-10 更新：iX4 正式发布 + Q3 美国销冠
+- **iX4 发布：70,900 欧起 / WLTP 828km**——Neue Klasse 第二款量产车落地（10/8「定档年底」兑现）；欧版 828km vs 中国版超长续航（i3 长轴 CLTC 1000km+）的全球分区续航策略成型
+- **Q3 美国豪华销冠：100,210 辆**，超雷克萨斯 93,056 辆、奔驰约 7.6 万——中国定价战未伤美国燃油基盘，双轨市场策略见效
+- **德国自愿离职 8,000 人**（10/7 裁 20% 部门岗位的落地机制）——组织收缩与产品投放并行
+- 判断：iX4 发布 + 缺席巴黎车展（10/6）+ 美国销冠三线并进——宝马「资源押 Neue Klasse、区域差异化定价」策略清晰（[[bba-ev-ranking-2026]]、[[mercedes-benz]]）

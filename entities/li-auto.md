@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-09
+updated: 2026-10-10
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -182,3 +182,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 ## 2026-10-09 更新：i6 改款定档 10/28
 - **理想 i6 改款 10/28 发布**（盖世）：i 系列节奏加快——国内上市（10 月）+ 巴黎车展欧洲首秀（[[2026-paris-auto-show]]）之外的第三节点
 - 判断：改款紧跟上市，目标直指 10 月新势力交付榜卡位；纯电 i 系列是理想 Q4 增量核心（[[new-forces-landscape-2026]]）
+
+## 2026-10-10 更新：i6 改款 10/28 六大升级曝光
+
+- **定档 10/28 发布**，10/11 展车进店——改款即上市节奏（10/9 已录定档）
+- **六大升级**：灯光（照射距离 +30%、**ADB 标配**）、「不弯腰」前备箱、双零重力座椅、**29 英寸 6K 全景屏**
+- **硬件组合**：智驾马赫 M100（1280 TOPS，[[li-auto-m100]]）+ **座舱骁龙 8797**（[[snapdragon-8797]]，继零跑 D19 后舱驾旗舰再定点）+ **全系标配 96kWh 自研 5C 超充电池**；后驱 CLTC **780km**
+- 判断：「电池+芯片」双自研组合量产落地（对照 9/16 i9 的技术首秀）——i6 改款是理想纯电走量逻辑的完整验证：Q4 交付榜卡位 + 3 万档纯电重新放量（9 月 31,817 台垫底的止跌关键，见 [[new-forces-landscape-2026]]）；骁龙 8797 座舱 = 理想在舱驾融合选型上「自研智驾+外采座舱」的务实分层

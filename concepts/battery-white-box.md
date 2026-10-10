@@ -1,10 +1,10 @@
 ---
 title: 动力电池白盒模式
 created: 2026-08-17
-updated: 2026-09-16
+updated: 2026-10-10
 type: concept
 tags: [battery-tech, supply-chain, strategy, trend]
-sources: [daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 动力电池白盒模式
@@ -107,3 +107,8 @@ sources: [daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-
 - 中小车企能否承受白盒化的成本压力
 - 白盒化对电池行业集中度的影响
 - 固态电池技术路线是否改变白盒化趋势
+
+## 2026-10-10 更新：「慢整合、深重组」时代（周晓莺）
+- **理想 26.5亿增资欣旺达**（持股约 11.17% 成**第二大股东**）+ **引入中创新航代工**自研电芯——白盒模式进入「股权投资绑定」新阶段：不只定义规格，直接入股二线电池厂锁定产能与话语权（代工+入股双管齐下）
+- **小鹏主导电池系统集成**、**广汽拟收购一汽丰田 50% 股权**被列入同一整合叙事——车企与供应链关系进入重新整合期
+- **判断**：「去宁化」本质不是弃用宁德，而是**车企重掌电池系统定义权**——白盒化的终极形态=车企成为系统集成商、电池厂退化为代工产能（对照 [[catl]] 的应对：收购耀宁工厂、绑定车企产能）；对二线电池厂（欣旺达/中创新航）是「被绑定」还是「被赋能」取决于车企生态位（[[li-auto]]、[[xiaopeng]]）

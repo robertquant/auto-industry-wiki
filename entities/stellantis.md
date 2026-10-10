@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -72,3 +72,9 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-07 更新：Momenta 进入标致/Jeep 全球车型开发流程
 - 神龙×[[momenta]] 合作升级：**R7 世界模型进入标致/Jeep 全球车型开发流程**（10/4 首次落地的延伸）——中国智驾方案从「中国特供」进入 Stellantis 全球产品定义层
 - 判断：Stellantis「中国采购」清单再添智驾总成——与零跑（整车）、博泰（座舱）、宁德（电池）拼成完整中国供应链拼图（[[china-tech-reverse-export]]、[[leapmotor]]）
+
+## 2026-10-10 更新：Q3 美国回稳 + Wayve AI 智驾入局
+
+- **Q3 美国销量 32.4万辆**：Ram +29% 对冲 Jeep -20%——美国基本盘靠皮卡撑住（结构性依赖延续）
+- **×Wayve 合作**：Wayve 的 AI 驾驶软件整合进 **STLA AutoDrive** 平台，首款产品目标 **2028 北美推出**——用外部 AI 方案缩短 ADAS 开发周期、降本
+- 判断：Wayve 合作 = 自研智驾事实放弃的又一信号（对标 [[renault]] 无自研、[[hyundai]] 转投英伟达）——欧洲巨头智驾全部「买方案」；但注意 Wayve 是英国公司而非中国方案商（[[momenta]]），Stellantis 在智驾上「中国+英国」双源采购，降低单一依赖（对照 [[foreign-automakers-chinese-ad]]）

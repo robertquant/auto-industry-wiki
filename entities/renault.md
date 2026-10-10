@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-09
+updated: 2026-10-10
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -274,3 +274,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - 市场：H1 全球销量 116.5 万辆（-0.4%），印度 +61%、巴西 +5.3%；**巴西 8 月比亚迪份额 9.3%，雷诺跌至第七**——南美承压是巴西合资追加投资（累计 8.99 亿欧元）的注脚
 - 联盟：FlexEVan SDV 2026 年发布并与日产共享；日产欧洲 C 级纯电/800V 共享仍在框架内
 - 判断：从「de Meo 独立 Ampere 叙事」到「Provost 务实控本」——电驱软件收归集团 + 100 亿砸本土 + 吉利架构抢巴西，三线同一逻辑：**最短周期最低成本打中国竞品**；巴黎车展是首个验证窗口（[[2026-paris-auto-show]]）
+
+## 2026-10-10 更新：R4 E-Tech 大升级 + Twingo 定价落实
+
+- **巴黎车展（10/12-18）50 款车主场作战**（四大品牌矩阵，见 [[2026-paris-auto-show]]）；CEO 重申未来 5 年法国本土投超 100 亿欧、2026 法国产量 +25%（10/6 已录）
+- **R4 E-Tech 大升级**：续航 310/415/400km 三档 + **RG 特别版**——A/B 级纯电产品线「续航+版本」双补强（对照 [[entry-ev-profit-crisis]] 平价盈利困局）
+- **Twingo E-Tech 定价落实：19,990 欧，1 月开订**——<2 万欧承诺兑现（此前多次喊话，见 10/4、10/9 记录），欧洲「kei car」级平价电动价格锚定（[[twingo-e-tech]]）
+- 判断：巴黎车展 = Renault 2026 产品叙事收官节点：50 款规模压阵 + R4 升级 + Twingo 定价落地，「本土防守+平价进攻」双线在家门口接受检验；Twingo 定价落实后，观察点转向订单转化与欧洲 <2.5 万欧细分竞争（对照 [[leapmotor]] T03、[[byd]] Dolphin Surf）

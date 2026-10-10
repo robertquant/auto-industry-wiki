@@ -5,6 +5,50 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > 超过500条时轮转：重命名为 log-YYYY.md，新建当前文件。
 
+## [2026-10-10 22:00] ingest | 每日整理（晨报+AI日报+盖世晚报）
+
+### 新建页面（4个）
+- entities/avatr-t09.md - 阿维塔T09巴黎车展全球首秀：华为乾崑首款高端旗舰（ADS 5+4激光雷达/896线、插混双/三电机）
+- concepts/eu-hybrid-export-caps-2026.md - 中欧混动出口协议（10/9）：四年对欧混动/插混出口或减半，基准/年度数/监督未公布——PHEV避税窗口倒计时
+- concepts/global-ice-below-50-2026.md - 全球纯燃油份额2026H1首破50%（49%，较2021年73%降24pct）——电气化过半拐点
+- concepts/north-america-ev-trade-barriers-2026.md - 北美EV贸易壁垒三线收紧（美法案推迟至中期选举后/加Unifor诉求100%税/英评估）；中加4.9万辆配额成唯一合规缝隙
+
+### 更新页面（21个）
+- entities/avatr.md - T09全球首秀+乾崑首款高端旗舰定位（关联[[avatr-t09]]）
+- entities/xiaopeng.md - UNECE任职（10/9）+ G9L全球上市64国/奥地利工厂投产
+- entities/renault.md - R4 E-Tech大升级（310/415/400km+RG版）+ Twingo 19,990欧1月开订（<2万欧承诺兑现）
+- entities/geely.md - 官宣进军加拿大（2027首批，中加配额4.9万辆/年、6.1%关税）
+- entities/li-auto.md - i6改款10/28六大升级（马赫M100/骁龙8797/96kWh 5C/CLTC 780km/29寸6K）
+- entities/stellantis.md - Q3美国32.4万（Ram+29%对冲Jeep-20%）+ Wayve AI智驾入STLA AutoDrive（2028北美）
+- entities/bmw.md - iX4发布（70,900欧/828km）+ Q3美国销冠（100,210超雷克萨斯）+自愿离职8,000人
+- entities/volkswagen.md - 全新纯电SUV（传ID. Tiguan）接替ID.4/5
+- entities/jaguar-land-rover.md - Type 01纽约首发，纯电超豪华转型旗舰落地
+- entities/chery.md - 前三季221万辆、出口超去年全年；中欧混动协议风险提示
+- entities/momenta.md - Robotaxi 2026底数百→2027数千辆（迪拜/欧洲/日本）+ XT5装车
+- entities/hyundai.md - 自研智驾推迟至2029、转投英伟达
+- entities/saic-gm.md - 通用Q3在华超35.8万辆、新能源占比首破60%、XT5搭Momenta R7
+- entities/tesla.md - Cybercab欧洲首秀（静态）+ 6款FSD欧洲试驾（最大规模路演）
+- concepts/eu-phev-strategy.md - 中欧混动协议终结PHEV避税窗口（重大更新）
+- concepts/chinese-oem-export.md - 出口目的国TOP10（1-8月：俄61.9万领跑/巴西32.7万新能源榜）+贸易变量
+- concepts/new-forces-landscape-2026.md - 9月终局座次（零跑10.6万、理想3.18万末位）+年度目标完成率<70%
+- concepts/2026-paris-auto-show.md - T09首秀+FSD路演+9家现场下订，「叙事对轰」定调
+- entities/ice-supplier-divergence.md - 尼得科剥离电机转投AI芯片（主动剥离型转型案例）
+- concepts/battery-white-box.md - 理想入股欣旺达11.17%+中创新航代工，「慢整合深重组」时代
+- entities/snapdragon-8797.md - 理想i6座舱定点8797（零跑D19后第二家）
+
+### 导航更新
+- index.md：产品/平台9→10（+avatr-t09）、市场/趋势/政策41→44（+eu-hybrid-export-caps-2026/+global-ice-below-50-2026/+north-america-ev-trade-barriers-2026）；Last updated 2026-10-10；Total pages 291→295（entities 111 / concepts 166 / comparisons 7 / auto-industry 10 / european-automakers 1）
+
+### 索引完整性校验
+- comm 输出为空（295页全部注册，缺失 0）；今日新增链接全部可解析（残留断链均为既有中文纯文本链接/旧页别名链接，非本次引入）
+
+### 核心洞察
+- ①中欧混动出口协议（10/9）＝出海最大变量落地第一步，两年多PHEV避税窗口进入倒计时，「欧洲制造」从可选变必选
+- ②全球燃油份额破50%与北美三线贸易壁垒同周发生——中国出海「量」叙事见顶，「本地化率×合规通道」成新胜负手（中加4.9万辆配额成唯一缝隙，吉利2027卡位）
+- ③巴黎车展（10/12）升级为「叙事对轰」：阿维塔T09输出安全冗余（尊界风波后）、特斯拉FSD最大路演、欧洲巨头规模参展——中美智驾叙事首次同台检验
+- ④传统车企自研智驾再添实锤（现代转投英伟达、Stellantis买Wayve）；传统零部件巨头从「转型」进入「换赛道」（尼得科剥离电机）
+- ⑤理想i6「自研智驾+外采8797座舱」与零跑「双8797舱驾融合」形成路线对照——车企自研收敛至智驾主控芯片
+
 ## [2026-09-18 22:00] ingest | 2026-09-17~18 每日信息整理（robert深度对话+盖世日报）
 
 ### 新建页面（2个）

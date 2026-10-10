@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -200,3 +200,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **大众安徽「与众 09」纯电轿跑 19.99 万起预售、10月底上市**：标配 750TOPS 图灵AI芯片 + 城市 NOA——「小鹏技术+大众品牌」正面打中国价格战（[[xiaopeng]]）
 - 与 ID.ERA 8X（30万级）构成大众中国本土化高低配；成败看 10 月底交付质量
 - 判断：AURA T6 12.99 万（10/7）验证「中国供应链+大众品牌」后，与众09 把战场从性价比拉到智能轿跑——合资反攻从试金石进入攻坚（[[foreign-automakers-chinese-ad]]）
+
+## 2026-10-10 更新：全新纯电 SUV（传 ID. Tiguan）接替 ID.4/5
+- **全新纯电 SUV（媒体传 ID. Tiguan）将接替 ID.4/5**——ID 系列「字母+数字」命名回归经典名（延续 [[2026-06-movement]]），产品线换代启动；MEB 首代车型（ID.4/5）进入退场通道
+- 判断：命名回归 + 换代 = 大众承认首代 MEB 纯电产品力/成本双重失守；ID. Tiguan 若复用经典名走量是欧洲防守核心变量（对照 [[renault]] R4 E-Tech 升级、[[2026-paris-auto-show]] ID 三连首发）

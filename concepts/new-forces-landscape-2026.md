@@ -1,10 +1,10 @@
 ---
 title: 新势力格局质变
 created: 2026-05-25
-updated: 2026-09-30
+updated: 2026-10-10
 type: concept
 tags: [sales, market-share, strategy, china, ev]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-25.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-25.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 ## 概述
@@ -81,4 +81,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-25.md]
 
 - **恒大汽车正式退出制造**：又一个「跨界造车」玩家出局——叠加哪吒/威马等先例，淘汰赛从新势力蔓延到跨界资本系（见 [[china-ev-warring-states]]）
 - 9月大盘：零跑连续两月破10万并超特斯拉中国，「一超多强」格局固化，详见 [[2026-09-china-sales-battle]]
+
+## 2026-10-10 补充：9月终局 + 年度目标压力
+- **9月收官座次**：零跑 10.6万（连续3月破10万）＞ 小鹏 4.13万 ≈ 小米 4万+（澎程首月破1万）＞ 理想 3.18万（-6.3%/-15.6%，新势力末位）——「零跑一超、理想掉队」的座次重排完成（[[2026-09-china-sales-battle]]）
+- **年度目标完成率不足七成**，**四季度去补贴压力提前**（补贴退坡+价格战延续，见 [[auto-price-hike-2026]] 利润修复与本次去补贴的张力）
+- 判断：Q4 新势力比拼从「单月销量」转向「年度目标完成率+毛利率」；零跑/小米的爬坡 vs 理想的纯电补位构成下半场主线（[[li-auto]]、[[xiaomi-pengcheng]]）
 

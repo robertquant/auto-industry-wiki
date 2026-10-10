@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -68,4 +68,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **9 月出口 20.78 万辆——中国车企单月出口历史纪录**；前三季累计出口 155.1 万辆（+65.6%），**已超 2025 全年**
 - **奇瑞全球化 3.0 再落子**：主品牌纳入全球体系（此前以海外子品牌/属地化运营为主）——全球品牌建设从「卖车」转向「立牌」
 - 判断：单月出口纪录 + 全球化 3.0 = 「出口王」从销量标签升级为体系能力；海外增量仍是自主第二排位博弈的胜负手（[[china-export-leaders-2026]]、[[2026-09-china-sales-battle]]）
+
+## 2026-10-10 更新：前三季 221 万辆，出口已超去年全年
+- **前三季度总销量超 221 万辆**，**出口超 2025 全年**（9 月单月 29.2万辆 +4.2%，与[[geely]] 29.22万贴身肉搏延续，见 [[2026-09-china-sales-battle]]）
+- 9 月出口 20.78 万（10/7 已录）叠加前三季口径：出口占比 ~70% 的「出口王」结构未变
+- 判断：221 万辆里海外贡献过半——当国内内需存量博弈（[[china-ev-warring-states]]），奇瑞的增量确定性 = 海外；但中欧混动出口协议（[[eu-hybrid-export-caps-2026]]）是悬顶之剑——奇瑞混动占比高，欧洲路径若受限需加速新兴市场与本地化对冲（[[chinese-oem-export]]）
 

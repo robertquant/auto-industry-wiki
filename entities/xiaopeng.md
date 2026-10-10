@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-07
+updated: 2026-10-10
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -205,3 +205,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - 技术底座：4 颗自研图灵芯片有效算力 **3000TOPS**（全球车端最高）+ 第二代 VLA（无激光雷达/高精地图 L4）+ 六重冗余 100ms 失效切换；**目标 2027 广州无安全员载客运营**
 - 卖碳（[[china-carbon-credit-export]]）：累计超 10 亿元，**2026 年确认超 5 亿**
 - 判断：Robotaxi 商业化探索 = 智驾资产第三次变现通道，与「卖技术+卖碳」并线；「前装量产+软硬一体」路线对标 [[waymo-vs-tesla-robotaxi-2026]]
+
+## 2026-10-10 更新：UNECE任职 + G9L 64国上市/奥地利工厂投产
+
+- **出任 UNECE 相关职务（10/9）**：参与自动驾驶全球法规制定——从「合规跟随者」成为「规则参与者」，中国车企在[[un-autonomous-driving-regulation-2026]]框架下的话语权布局（该框架内 WP.29 DCAS 新规 2026 底欧盟强制落地，合规成本见 10/2 记录）
+- **G9L 巴黎车展全球上市，登陆 64 国 + 奥地利工厂投产**（10/10 盖世）：产品+合规双线出海——「卖车+卖标准话语权」组合拳成型（[[2026-paris-auto-show]]、[[china-tech-reverse-export]]）
+- 判断：小鹏从「智驾产品输出」升级为「产品+法规话语权」双输出；UNECE 任职是继卖技术（大众）、卖碳（保时捷）后第三条「非车变现」通道——出海叙事从销量维度切向规则维度

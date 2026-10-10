@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-04
+updated: 2026-10-10
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -167,3 +167,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **超级Eva + 千里浩瀚 G-ASD 4.0 量产上车**（见 [[geely-super-eva]]）；**与英伟达 DRIVE Hyperion 共研 L4**——智驾双轨：自研G-ASD走量、英伟达平台攻L4
 - 领克 9月 18,493台、新能源占比创新高（合并后 [[zeekr-lynk-co-merger]] 高端矩阵放量）
 - 判断：345万目标 = 基盘（吉利+银河+领克极氪）+ 出海（64万）双轮；与英伟达共研说明L4级智驾仍需要外部算力底座，自研芯片+外购平台并行是头部车企的务实路线
+
+## 2026-10-10 更新：官宣进军加拿大（2027首批车型）
+
+- **吉利正式宣布进入加拿大市场**：2027 年首批车型，依托**中加低关税 EV 配额（4.9万辆/年、6.1%关税）**——北美闸门唯一的合规缝隙（见 [[north-america-ev-trade-barriers-2026]]）
+- 玩家卡位：路特斯先行、**吉利**官宣（2027）、比亚迪/奇瑞筹备、特斯拉抢配额——配额是「稀缺合规凭证」
+- 判断：吉利北美攻略走「配额通道+轻资产」路线（延续 H1 出口 47.4万辆的轻资产逻辑）；加拿大是北美唯一可合规进入的市场，2027 年首批车型的成败决定后续配额分配话语权（对照 [[tesla]] 抢配额、[[polestar-us-ban-2026]] 美国禁令参照）

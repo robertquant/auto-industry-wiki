@@ -1,10 +1,10 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-09-29
+updated: 2026-10-10
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
-sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 ## 概述
@@ -112,3 +112,7 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
 - **两年降本 17亿英镑**（与裁员同步推进）
 - **Range Rover Electric 再推迟**至 2026/2027
 - **判断**：JLR 是欧洲传统豪华中电动化最滞后的样本——销量崩塌 + 现金流压力下，纯电旗舰反复跳票，转型窗口持续收窄。
+
+### 2026年10月：Type 01 纽约首发
+- **捷豹 Type 01 纽约首发**——纯电超豪华转型旗舰落地（6月「10月首发」承诺兑现）：纯电超豪华 GT 定位，承接品牌「弃油转电、上探超豪」叙事
+- 判断：Type 01 是 JLR「电动化=高端化」策略的成败赌注（对比 Range Rover Electric 反复跳票）——选纽约而非欧洲首发，瞄准超豪华客户群与舆论高地；市场表现不及预期则捷豹品牌转型窗口彻底关闭（对照 [[mercedes-benz]] 高端化、[[bba-ev-ranking-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 现代起亚 (Hyundai-Kia)
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-10
 type: entity
 tags: [hyundai, kia, korea, ev, hybrid]
-sources: [memory/2026-06-27.md]
+sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 现代起亚 (Hyundai-Kia)
@@ -96,3 +96,7 @@ sources: [memory/2026-06-27.md]
 - [[toyota]] - 日系竞品
 - [[volkswagen]] - 德系竞品
 - [[hybrid-efficiency-principle]] - 混动省油原理
+
+## 2026-10-10 更新：自研智驾推迟至 2029，转投英伟达
+- **自研高阶智驾量产时间推迟至 2029**（较原计划晚两年）——期间**转投英伟达**平台加速部署（[[nvidia]]）
+- 判断：现代是「传统车企自研智驾难度」的最新实锤——韩系工程能力不弱（EV3/IONIQ 产品力认可度高）仍被迫外采，印证 [[adas-self-develop]] 的分层判断：自研是话术还是能力，量产时间表说了算；转投英伟达 = 智驾芯片集中度继续向 [[autonomous-driving-chips]] 头部收敛（对照 [[stellantis]] 买 Wayve、[[bmw]] 买 Momenta）

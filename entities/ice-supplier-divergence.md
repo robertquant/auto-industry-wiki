@@ -1,10 +1,10 @@
 ---
 title: 燃油车供应商命运分化
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-10-10
 type: concept
 tags: [supply-chain, electrification, trend]
-sources: [raw/articles/2026-07-07-daily-topics.md]
+sources: [raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-10-10-daily-digest.md]
 ---
 
 # 燃油车供应商命运分化
@@ -64,3 +64,7 @@ sources: [raw/articles/2026-07-07-daily-topics.md]
 - [[andritz-layoff]] - 设备供应商先行指标
 - [[three-electric-regional-comparison]] - 三电区域对比
 - [[eu-ev-market-2026]] - 欧洲EV市场动态
+
+## 2026-10-10 补充：尼得科案例——「主动剥离」型转型
+- **尼得科（日本电产）拟出售家电、汽车电机等低利润业务**，加码 AI、微芯片与能源投资——会计丑闻后市值缩水 1/3 的自救动作（对照转型成功案例中的三花/拓普的「能力迁移」路线，这是第三种：**资产剥离**）
+- 判断：电机业务曾是新旧动能交接的受益者（电驱替代发动机），但尼得科连电驱毛利都看不上——说明电气化供应链的利润分层已明确：**芯片/AI > 电池 > 电驱总成**；传统零部件巨头（含日系）从「转型」进入「换赛道」（对照 [[humanoid-talent-flow]] 人才流向）
