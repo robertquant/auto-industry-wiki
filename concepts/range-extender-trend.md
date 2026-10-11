@@ -1,7 +1,7 @@
 ---
 title: 增程技术趋势 (Range Extender Trend)
 created: 2026-07-31
-updated: 2026-09-09
+updated: 2026-10-11
 type: concept
 tags: [ev-tech, battery-tech, trend]
 sources: [memory/2026-07-31.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
@@ -92,3 +92,6 @@ sources: [memory/2026-07-31.md, memory/2026-09-09.md, daily-news/2026-09-09-gasg
 - 纯电续航400km成为新标杆
 - "大电池小油箱"策略持续2-3年
 - 与插混共存而非替代
+## 2026-10-11 更新：浩思动力 X-Range C15——「纯电转增程」模块化新物种
+- **浩思动力 X-Range C15 获 2026 欧洲产品设计大奖（EPDA）**：自称**全球首款可量产的纯电转增程解决方案**——模块化增程平台，纯电车可后装转增程
+- 判断：若「后装转增程」量产成立，将打破「增程=原生设计」的既有假设，撬动存量纯电市场的补能焦虑二次销售（对照 [[xiaomi-pengcheng]] 原生增程、[[li-auto]] 增程基本盘）——警惕营销成分：EE 架构/热管理是否支持后装是关键验证点

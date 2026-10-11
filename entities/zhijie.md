@@ -1,7 +1,7 @@
 ---
 title: 智界 (Luxeed)
 created: 2026-05-03
-updated: 2026-09-28
+updated: 2026-10-11
 type: entity
 tags: [oem-cn, adas, vehicle, policy]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
@@ -81,3 +81,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/art
 - 智界产品线新增：S7（纯电轿车）/ V9（纯电SUV）/ RX（运动SUV，对标特斯拉Model Y高性能版）。
 - 相关：[[huawei-auto]]、[[huawei-ads]]、[[chery]]
 
+
+## 2026-10-11 更新：R7 焕新版到店 200 家、10 月底交付
+- **智界 R7 焕新版试驾车已抵达全国 200 家门店**，10 月底开启交付——华为智选车渠道铺货节奏：200 家到店 = 上市即全网可试
+- 判断：R7 焕新版承担智界 2026H2 走量任务（V9/RX 之后）——华为系在 25 万级纯电 SUV 的补位车型；「渠道即销量」的华为打法再次验证（[[huawei-auto]]、[[wenjie]]）

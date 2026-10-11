@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-11
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -190,3 +190,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **Q3 在华交付超 9 万辆**，40 万+豪华市场领跑、**纯电 GLC 超预期**——MB.EA 首款量产车站稳（对照 10/7 Momenta 智驾闭环 [[momenta]]）
 - **新一代 EQS 开放线控转向选装**（税前 2500 欧）；**EQE/迈巴赫 EQS 680 停产**——砍低端电轿、押高端纯电 SUV 的主动取舍
 - 判断：「以价换量已死」反向验证——豪华品牌靠产品结构而非走量；「聚焦高端」与宝马收缩（[[bmw]]）殊途同归（[[bba-ev-ranking-2026]]）
+
+## 2026-10-11 更新：Q3 全球 BEV 6.84 万辆创新高
+- **Q3 全球纯电 6.84 万辆创单季新高**（晨报口径）——叠加 10/8「Q3 在华交付超 9 万辆」：奔驰「聚焦高端 + 纯电补位」双线均在放量
+- 判断：6.84 万单季 BEV 对奔驰整体销量盘子仍小（<15%），但趋势（创新高）+结构（高端纯电）验证了「过渡年」战略——MB.EA 起量（纯电 GLC）+ MMA（GLA）双平台是 2027 放量的地基（[[bba-ev-ranking-2026]]）

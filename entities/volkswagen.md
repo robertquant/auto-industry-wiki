@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-10
+updated: 2026-10-11
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -204,3 +204,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-10-10 更新：全新纯电 SUV（传 ID. Tiguan）接替 ID.4/5
 - **全新纯电 SUV（媒体传 ID. Tiguan）将接替 ID.4/5**——ID 系列「字母+数字」命名回归经典名（延续 [[2026-06-movement]]），产品线换代启动；MEB 首代车型（ID.4/5）进入退场通道
 - 判断：命名回归 + 换代 = 大众承认首代 MEB 纯电产品力/成本双重失守；ID. Tiguan 若复用经典名走量是欧洲防守核心变量（对照 [[renault]] R4 E-Tech 升级、[[2026-paris-auto-show]] ID 三连首发）
+
+## 2026-10-11 更新：利润率下修 ≤1% + ID.ERA 5X 定档 11 月
+- **利润率预期下修至 ≤1%**（晨报口径）——重组成本（裁员 10 万、关厂 160 亿欧，见 9 月更新）吞噬利润，「生存重组」代价显性化
+- **ID.ERA 5X 11 月上市**：CMP/CEA 首款量产车（8 月工信部申报，见上文）进入交付倒计时——大众中国新能源翻身仗的核心弹药
+- 判断：利润率 ≤1% 意味着大众在**用现金流换中国/欧洲转型时间**；ID.ERA 5X 若 11 月上市后走量，才能验证「中国供应链+大众品牌」能否从叙事变成利润（[[foreign-automakers-chinese-ad]]、[[euro-stoxx-50-exit]]）

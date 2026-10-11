@@ -1,7 +1,7 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-10-07
+updated: 2026-10-11
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md]
@@ -145,3 +145,6 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 - **[[chery]] 9 月出口 20.78 万辆，创中国车企单月出口历史纪录**；前三季累计 155.1 万辆（+65.6%）超 2025 全年
 - **中国新能源出口占比连续三个月过半**——出口结构从燃油主导转向新能源主导，与比亚迪海外 +153.9% 呼应（[[byd]]、[[2026-09-china-sales-battle]]）
 - 判断：出口从「总量新高」进入「结构升级」阶段——新能源出口占比过半是 2026 年出口第二曲线的核心信号（与 [[eu-ev-market-2026]] 欧洲 8 月电气化份额首过半互证）
+## 2026-10-11 更新：太仓口岸出口破百万——口岸级里程碑
+- **太仓口岸 1-9 月出口 108 万辆首破百万**；**9 月新能源出口 +110%**——单一口岸年出口百万辆级，新能源出口翻倍增长
+- 判断：口岸百万辆 = 出口由「车企总量」渗透到「口岸基建设施」维度；新能源出口 +110% 与 10/7「新能源出口占比连续三个月过半」互证——出口结构升级在口岸数据上同样成立（[[2026-09-china-sales-battle]]、[[chinese-oem-export]]）

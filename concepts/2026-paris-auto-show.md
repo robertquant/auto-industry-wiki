@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-11
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -80,3 +80,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **20+ 中国品牌参展、9 个品牌法国门店可现场下订**——从「参展」到「开订」的渠道收口（承接 10/8「参展即上市」判断）
 - [[xiaopeng]] G9L 全球上市**登陆 64 国 + 奥地利工厂投产**——小鹏产品+合规双线出海兑现
 - 判断：巴黎车展（10/12开幕）的看点是**「叙事对轰」**——中国智驾（ADS5/T09）输出「安全冗余」、特斯拉输出 FSD 体验、欧洲巨头输出「规模/概念」；尊界刹车风波（[[zunjie-brake-pedal-controversy]]）之后，欧洲首次同时检验中美两套智驾叙事，含金量高于历届
+
+## 10/11 补充：开幕前夜——G9L 开售确认 + 雷诺阵容
+- **[[xiaopeng]] G9L 10/12 正式全球上市、登陆 64 国**，展台超 1,000㎡；欧洲首台 G9L 麦格纳奥地利工厂试制下线；陆地航母 + IRON 机器人同台（[[xpeng]]）
+- **[[renault]] 阵容确认**：全新 Mégane E-Tech、Trafic E-Tech、雷诺 5 + **三款概念车**——「复古电动」（E-Space）+ 平价纯电（R5/Mégane）+ 商用车电动（Trafic）三线
+- 判断：开幕即「上市日」——小鹏把全球上市放在车展首日，验证「参展即收割」（10/5 判断）的执行力；雷诺三概念车 vs 小鹏三形态（车/飞行器/机器人）同场，是「欧洲工业叙事 vs 中国 AI 叙事」的正面碰撞

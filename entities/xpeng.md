@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-09-26
+updated: 2026-10-11
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -144,3 +144,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - 全年能否实现正增长（前7月-12.78%）
 - AI原生概念能否转化为实质销量溢价
 - 产品矩阵进一步扩大计划
+## 2026-10-11 更新：物理 AI 全家桶出征巴黎 + G9L 麦格纳下线
+- **10/12 巴黎车展 G9L 全球上市，登陆 64 国**，展台超 1,000㎡（[[2026-paris-auto-show]]）
+- **欧洲首台 G9L 麦格纳奥地利工厂试制下线**：本地化生产兑现——「中国技术+欧洲制造」再落一城（[[china-tech-reverse-export]]），配合混动出口限制（[[eu-hybrid-export-caps-2026]]）下的本地化必选项
+- **展台 = AI 生态发布会**：G9L/MONA L03/P7+ 等 + **陆地航母 + IRON 机器人同台**——「物理 AI」全家桶第一次以整车+飞行器+机器人组合形态出海，产品发布会变生态发布会
+- 判断：小鹏出海从「卖车」升级为「卖 AI 生态叙事」；G9L 全球上市 64 国 + 奥地利本土制造 = 产品与合规双线兑现（对照 10/10 巴黎车展条目）

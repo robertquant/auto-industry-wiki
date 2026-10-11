@@ -1,7 +1,7 @@
 ---
 title: 全球汽油车份额跌破50%（2026）
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-11
 type: concept
 tags: [trend, sales, ev-tech, policy]
 sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md]
@@ -49,3 +49,6 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - 2026全年最终份额（含PHEV口径）
 - 印度/东南亚等燃油增量市场能否延缓跌破速度（[[india-auto-market]]）
 - 混动出口协议（[[eu-hybrid-export-caps-2026]]）对全球混动供给的扰动
+## 2026-10-11 更新：全球 EV 准备度排名——中国挪威前二、美日跌出前 20
+- **31 市场五维评分（宏观环境/市场格局/消费者意愿/充电基础设施/拥车成本）**：**中国、挪威居前二，美国、日本跌出前 20**
+- 含义：市场准备度（需求+基建+政策）与「电气化过半」（49%）互证——中国/挪威是电气化「需求侧」完成体；美日跌出前 20 说明其电气化落后不是产品问题而是**系统性问题**（政策摇摆/基建滞后/成本结构，对照 [[japanese-automaker-crisis-2026]]、[[north-america-ev-trade-barriers-2026]]）

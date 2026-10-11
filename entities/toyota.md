@@ -1,7 +1,7 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-10-07
+updated: 2026-10-11
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
 sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md]
@@ -58,7 +58,7 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 ## 关系网络
 
 - [[byd]] - 部分合作
-- [[大众]] - 传统车企竞争对手
+- [[volkswagen]] - 传统车企竞争对手
 - [[stellantis]] - 传统车企竞争对手
 
 ## 印度市场战略 (2026)
@@ -123,7 +123,7 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 
 - [[byd]] - 部分合作
 - [[suzuki]] - 印度战略协同方
-- [[大众]] - 传统车企竞争对手
+- [[volkswagen]] - 传统车企竞争对手
 - [[stellantis]] - 传统车企竞争对手
 - [[india-auto-market]] - 印度市场背景
 ## 2026-10-01 更新：南北丰田合并落定（产销分离）
@@ -147,3 +147,8 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 ## 2026-10-08 更新：南北丰田合并传闻再发酵
 - **盖世快讯热点：南北丰田合并传闻升温**，「一个丰田」在华体系重构预期强化——延续 10/7 产销分离路径讨论（[[gac]]）
 - 判断：传闻期渠道/经销商信心管理仍是执行变量；整合落点（销售公司 50:25:25 股权）不变，日系在华统一体收缩方向不变（[[japanese-automaker-crisis-2026]]）
+
+## 2026-10-11 更新：10/8 三方正式签约——整合进入执行期
+- 一汽/丰田/广汽 10/8 广州正式签约：广汽发行股份购一汽丰田 50%，一汽将成广汽重要战略股东；**一二丰研发/采购/生产/销售全面协同**（[[gac]]）
+- 签约 = 10/7「产销分离执行层讨论」落地：从传闻/预案/辟谣博弈进入**法律文件阶段**；丰田保留销售话语权（50:25:25 新销售公司）、让渡生产统筹权给广汽
+- 判断：日系在华从「双渠道内耗」转向「统一体收缩」的样本——丰田用股权换广汽的产能与电智化资源，是防守型整合的「最优解」而非「撤退」（[[japanese-automaker-crisis-2026]]）

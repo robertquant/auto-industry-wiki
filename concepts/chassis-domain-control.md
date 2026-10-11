@@ -1,7 +1,7 @@
 ---
 title: 底盘域控 (Chassis Domain Control)
 created: 2026-10-06
-updated: 2026-10-09
+updated: 2026-10-11
 type: concept
 tags: [ev-tech, trend, system]
 sources: [raw/articles/2026-10-06-daily-digest.md]
@@ -33,3 +33,7 @@ sources: [raw/articles/2026-10-06-daily-digest.md]
 - [[li-l9-livis-tech]] - 理想 L9 Livis：线控底盘+800V 主动悬架量产标杆
 - [[driving-tech-fusion-paradigm]] - 智驾技术路线收敛背景
 - [[tesla]] - Cybercab 无方向盘点燃线控需求
+### 2026-10-11 更新：立讯×京西智行交割完成——底盘 Tier1 全球化成型
+- **10/9 交割完成**：京西智行正式成为立讯精密全资控股企业，全面融合**悬架、制动、转向三大底盘系统**
+- 整合后底盘业务覆盖**中欧美南美四大产区**，设 **8 个技术研发中心、7 座生产基地、2 处试车场**——智能底盘 Tier1 的系统集成与全球交付能力到位（对照 [[bosch]]/采埃孚，中资首次拥有覆盖四大产区的底盘执行器平台）
+- 判断：2026-2027 底盘 Tier1 密集重组期开始兑现（10/6 判断）——「域控+执行器」全栈能力 + 全球交付网络是下一轮定点战争的门票（详见 [[tier1-mna-consolidation-2026]]）

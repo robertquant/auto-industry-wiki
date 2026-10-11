@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-09
+updated: 2026-10-11
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
@@ -103,3 +103,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 - **10/5 与 [[qualcomm-auto]] 官宣多年期专利大和解**：交叉许可覆盖 5G/计算/AI/网络，高通收购华为部分美国专利，高通为净支出方（详见 [[huawei-qualcomm-settlement-2026]]）
 - 华为 2024 专利许可收入 6.3 亿美元、27 亿台 5G 设备获许可——标准必要专利组合获西方主流玩家价值背书
 - 判断：IP 战清场、产品战升温——华为车端竞争（乾崑 vs 高通舱驾）回归产品力；专利收入模式为华为生态提供现金流第二曲线（[[auto-chip-competitive-landscape]]）
+
+## 2026-10-11 更新：智选车模式风险分析（承接尊界事件）
+- **「品牌前置＝反噬前置」**：智选车实际承担 OEM 职责（产品定义/品牌/渠道/站台），出事时责任直指华为而非制造商——尊界事件全网骂华为而非江淮（[[zunjie-brake-pedal-controversy]]）
+- **符号性人物双刃剑**：余承东高调风格是智选车流量的来源，也是「遥遥领先」透支的出口；华为基因（灰度/集体）与个人英雄主义的张力在安全品上无法再被容忍
+- **结构矛盾**：引望股东（赛力斯/阿维塔）要幕后供应商，余承东兼任引望董事长×鸿蒙智行代言人——利益与角色错位
+- 判断：短期华为仍是受益方（M9 大卖、乾崑装机第一），中期风险在「华为系」标签溢价被逐件消耗；解法是品牌去冠名化、舞台还给车企（引望逻辑）
+- 政策叠加：四部门新规（[[innovation-verification-regulation-2026]]）禁用零重力座椅/虚拟操纵件，直接击中鸿蒙智行三代产品叙事——监管与营销节奏的张力上升

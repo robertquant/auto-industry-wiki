@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-10
+updated: 2026-10-11
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -110,7 +110,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 | H1出口 | 47.4万辆（+158%） |
 | 全年目标 | 上调至92万辆 |
 | 模式 | 不再自建产能，利用现有全球制造体系 |
-| 合作网络 | [[volvo]]、[[ford]]、[[proton]]、[[renault]] |
+| 合作网络 | [[volvo]]、ford、proton、[[renault]] |
 
 **判断**：出口不再重资产建厂，而是利用合作伙伴的全球制造网络，这是吉利与比亚迪出口模式的关键差异。轻资产出海，风险更低但控制力也相应减弱。
 
@@ -173,3 +173,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **吉利正式宣布进入加拿大市场**：2027 年首批车型，依托**中加低关税 EV 配额（4.9万辆/年、6.1%关税）**——北美闸门唯一的合规缝隙（见 [[north-america-ev-trade-barriers-2026]]）
 - 玩家卡位：路特斯先行、**吉利**官宣（2027）、比亚迪/奇瑞筹备、特斯拉抢配额——配额是「稀缺合规凭证」
 - 判断：吉利北美攻略走「配额通道+轻资产」路线（延续 H1 出口 47.4万辆的轻资产逻辑）；加拿大是北美唯一可合规进入的市场，2027 年首批车型的成败决定后续配额分配话语权（对照 [[tesla]] 抢配额、[[polestar-us-ban-2026]] 美国禁令参照）
+
+## 2026-10-11 更新：加拿大公司设立 + 1-9月纪录 + 吉曜通行独立卖电池
+- **加拿大公司 10/9 设立完成并启动运营**，正搭建零售与服务网络，**2027 交付首批车型**——10/10「官宣进加拿大」的执行细节落地（[[north-america-ev-trade-barriers-2026]]）
+- **1-9 月累计 223.5 万辆创历史纪录**；出口 **79.7 万辆 +169%**；**9 月新能源出口 7.3 万辆 +403%**——出口加速度再升级（对照 10/2「出口连续4月破10万」）
+- **吉曜通行（ENERGEE）电池业务独立外售**：10/9 启动全球经销商伙伴招募——继涪陵工厂让渡 [[catl]]（9月）后，电池资产「轻资产化」第二步：从「卖厂」到「卖品牌渠道」，吉利电池从自用产能转向可对外供应的独立业务（[[battery-white-box]] 视角：吉利走 Pack/BMS+渠道，不做电芯重资产）
+- 判断：加拿大（配额）+ 出口 +403%（新能源）+ 电池业务变现 = 「轻资产出海 + 资产证券化」主线完整闭环

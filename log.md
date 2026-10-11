@@ -995,3 +995,34 @@
 - **导航更新**：index.md - 车企中国30→32（+foton，修正历史偏差）、车企美国1→2（+waymo）、市场/趋势/政策39→41（+zunjie-brake-pedal-controversy，修正历史偏差）；Last updated 2026-10-09；Total pages 288→291（entities 110 / concepts 163 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（291 页全部注册，缺失 0）；新建页断链扫描修复 1 处（[[传统豪华品牌]]→纯文本）
 - **核心洞察**：①尊界事件是华为系高端品牌第一场「刹车测试」——测试方法学的行业争议（100km/h刹停=标准工况 vs 官方国标合规话术）背后，两连跌停已给「安全溢价」叙事定价，百万级定位根基首次动摇；②Waymo 债务融资+欧洲日本扩张——Robotaxi 从股权输血转向自我造血验证，中国 Robotaxi 出海窗口期压缩；③卓驭×福田=智驾价格战向商用车外溢，华为乾崑/地平线在商用车侧均有布局，「低渗透率+高人工成本」场景成为新战场；④中国供应链渗透外资体系从「智驾大脑」（Momenta/华为）下沉到「感知器官」（承泰雷达）与底盘执行器（立讯×京西智行）；⑤雷诺 Provost 务实控本三线同逻辑（Ampere收归+100亿本土+吉利架构抢巴西），巴黎车展（10/12）为验证窗口
+
+## [2026-10-11 22:00] ingest | 每日整理（晨报+AI日报+盖世晚报+深度对话）
+- **素材入库**：raw/articles/2026-10-11-daily-digest.md（三路素材 + 与robert深度对话「尊界V800×余承东定位」实录；晚报全文见 daily-news/2026-10-11-gasgoo-evening.md）
+- **新建（5页）**：
+  - entities/mengshi-x700.md - 猛士X700量产下线（10/25上市、24.98-28.98万、乾崑ADS 5+HarmonySpace 6、预售24h破8000、投资106亿/省内采购61%）——华为乾崑下沉硬派越野
+  - entities/hongqi-tiangong-07.md - 红旗天工07（16.79万起标配384线可变焦激光雷达+司南智驾5.0）——激光雷达价格战打到17万级
+  - entities/aion-ray7.md - 埃安Ray7（全球首发芯片级驱制融合、首搭华为EMB线控制动+文远知行L4同源大模型）——线控全家桶下探15-20万级
+  - concepts/innovation-verification-regulation-2026.md - 四部门创新设计/研发验证新规征求意见稿（禁隐藏式门把手/折叠屏/零重力座椅、虚拟操纵件留实体、验证≥1年/3万公里）——尊界事件官方回应，创新从营销驱动转验证驱动
+  - concepts/tier1-mna-consolidation-2026.md - 外资Tier1并购整合潮（彼欧6000亿韩元收摩比斯照明、捷温收摩丁、立讯100%控股京西智行）+佛瑞亚海拉三合一BMS订单
+- **更新（18页）**：
+  - entities/gac.md - 三方签约细节（发行股份购一汽丰田50%、一汽成重要战略股东、一二丰研发/采购/生产/销售全面协同）
+  - entities/toyota.md - 10/8正式签约落地，整合从预案进入法律文件阶段
+  - entities/geely.md - 加拿大公司10/9设立运营+1-9月223.5万辆纪录+出口79.7万(+169%)+9月新能源出口+403%+吉曜通行电池业务独立外售
+  - concepts/zunjie-brake-pedal-controversy.md - ⭐余承东定位深度分析（品牌前置=反噬前置、个人IP与华为体系张力、短期资产中期负债判断）+中汽中心10/9踏板材质调研
+  - entities/huawei-auto.md - 智选车模式风险分析（符号性人物双刃剑、引望结构矛盾、品牌去冠名化解法）+新规对鸿蒙智行叙事冲击
+  - entities/xpeng.md - G9L 10/12巴黎全球上市64国+麦格纳奥地利试制下线+陆地航母/IRON同台
+  - concepts/2026-paris-auto-show.md - 开幕前夜：G9L开售确认+雷诺阵容（全新Mégane E-Tech/Trafic E-Tech/R5+三款概念车）
+  - entities/volkswagen.md - 利润率下修≤1%+ID.ERA 5X 11月上市
+  - entities/stellantis.md - 10月关停部分法国工厂
+  - concepts/polestar-us-ban-2026.md - Q3增长全靠美国后全面退出（黑色幽默数据定格）
+  - entities/mercedes-benz.md - Q3全球BEV 6.84万辆创新高
+  - entities/zhijie.md - R7焕新版到店200家、10月底交付
+  - entities/chery.md - 海外收入近七成→管理架构重构（全球化3.0细节补录）
+  - concepts/chassis-domain-control.md - 立讯×京西智行10/9交割完成（四大产区/8研发中心/7工厂/2试车场）
+  - concepts/china-export-leaders-2026.md - 太仓口岸1-9月出口108万辆首破百万、9月新能源出口+110%
+  - concepts/range-extender-trend.md - 浩思动力X-Range C15获EPDA（纯电转增程模块化，警惕营销成分）
+  - concepts/global-ice-below-50-2026.md - 全球EV准备度排名：中国挪威前二、美日跌出前20
+  - concepts/north-america-ev-trade-barriers-2026.md - 吉利加拿大公司设立执行细节
+- **导航更新**：index.md - 产品/平台10→13（+aion-ray7/+hongqi-tiangong-07/+mengshi-x700）、市场/趋势/政策44→46（+innovation-verification-regulation-2026/+tier1-mna-consolidation-2026）；Last updated 2026-10-11；Total pages 295→300（entities 114 / concepts 168 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（300 页全部注册，缺失 0）；新建页断链扫描干净；顺手修复预存断链 3 处（[[大众]]→[[volkswagen]]、[[ford]]/[[proton]]→纯文本）
+- **核心洞察**：①四部门新规是尊界事件的官方回应——「12个月造车」踩刹车，座舱炫技（隐藏门把手/折叠屏/零重力座椅/虚拟按键）配置叙事失效，AI仿真验证被政策背书；②余承东定位分析（与robert对话）：智选车「品牌前置=反噬前置」，短期仍是资产（M9），中期2-3年滑向负债，解法是品牌去冠名化——「华为系」不再免死金牌；③激光雷达价格战打到17万级（天工07标配384线）+华为EMB线控下探20万内（Ray7）=智驾平权从「功能」进入「执行器」层；④外资Tier1资产历史性换手（彼欧收摩比斯照明3.9亿欧≈0.24x PS）——中资买技术入口、欧系买互补能力，与整车端广汽收一汽丰田同构；⑤南北丰田整合进入法律文件阶段、吉利加拿大落地+9月新能源出口+403%——出海/合资两条线都在「执行期」
