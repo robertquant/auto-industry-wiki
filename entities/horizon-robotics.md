@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-10-05
+updated: 2026-10-12
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -79,6 +79,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - 酷睿程L3方案2027交付兑现度
 - 舱驾融合能否帮地平线突破英伟达生态壁垒
 - 征程1500万片后的L2+下沉市场垄断度
+
+## 2026-10-12 更新：铃木定点——征程首次进入日系车企
+
+- **[[suzuki]] e-Sky（11/16 日本上市）搭载征程芯片 + [[byd]] LFP 电池**——征程系列首次进入日系 OBM 量产车型，国产智驾芯片突破「日系保守供应链」的标志性事件
+- 同日口径复核：2026 H1 自主品牌智驾芯片份额 **31.94%（第一）**、征程累计 1500 万套 / 800 万辆搭载；4 月智驾域控芯片装机英伟达 50.9% vs 地平线 13.6%（[[autonomous-driving-chips]]）
+- 判断：铃木定点验证「国产芯片 + 中国电池」打包出海模式渗透到日系成本敏感型车企——地平线的客户结构从自主品牌（[[byd]]/理想/大众酷睿程）扩展到日系，[[battery-white-box]] 视角下中国供应链「系统级出海」再下一城
 
 ## 2026-09-28 更新：市占率新口径（9/15）
 

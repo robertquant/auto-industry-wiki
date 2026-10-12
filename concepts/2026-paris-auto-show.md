@@ -1,10 +1,10 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-12
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 2026巴黎车展 (Paris Motor Show)
@@ -85,3 +85,21 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[xiaopeng]] G9L 10/12 正式全球上市、登陆 64 国**，展台超 1,000㎡；欧洲首台 G9L 麦格纳奥地利工厂试制下线；陆地航母 + IRON 机器人同台（[[xpeng]]）
 - **[[renault]] 阵容确认**：全新 Mégane E-Tech、Trafic E-Tech、雷诺 5 + **三款概念车**——「复古电动」（E-Space）+ 平价纯电（R5/Mégane）+ 商用车电动（Trafic）三线
 - 判断：开幕即「上市日」——小鹏把全球上市放在车展首日，验证「参展即收割」（10/5 判断）的执行力；雷诺三概念车 vs 小鹏三形态（车/飞行器/机器人）同场，是「欧洲工业叙事 vs 中国 AI 叙事」的正面碰撞
+
+## 10/12 开幕日：智驾实验室实测 + 中国军团 1/3
+
+### 「智驾实验室」公开道路实测——中外智驾首次同场证伪
+- 官方邀约**全部参展商**参与公开智驾道路实测，**仅 [[xiaopeng]] + [[tesla]] 应战，欧洲车企集体弃权**——与 2024 年「中国智驾只会在参数上领先」的叙事形成反转背书（见 [[traditional-automaker-ai-transition]]）
+- [[xiaopeng]]：**NGP（第二代 VLA）欧洲首次大规模公开试乘**——中国智驾在欧洲主场的第一次「可被公开证伪」的实测（呼应 [[vla-model]]、[[vla-mass-production]]）
+- [[tesla]]：Cybercab 欧洲首秀为静态展示，6 款 FSD 车型开放试驾（见 [[tesla]]）
+
+### 数据定格
+- **中国品牌 20 家参展创纪录、占参展商 1/3**（延续 10/8「65 展台占 20 个」口径）
+- **[[li-auto]] i6 巴黎车展欧洲首秀**（19:30 欧洲战略发布会）：骁龙 8797 座舱 + 自研马赫 M100 + 96kWh 自研电池 / 780km，10/28 国内发布（详见 [[li-auto]]）
+- **[[renault]] 三款概念车揭幕**（Mégane E-Tech + E-Space / 雷诺 8 Gordini / 雷诺 4 JP4x4）
+- [[xiaopeng]] G9L 全球上市执行（64 国，麦格纳格拉茨试产）
+
+### 判断
+1. **欧洲智驾叙事被「弃权」暴露**：10/12 之前欧洲巨头谈「概念/规模」，10/12 之后「拒绝实测」成为可被引用的公开记录——智驾竞赛的叙事优势彻底移交中国阵营
+2. **理想 i6 欧洲定价/渠道仍待揭晓**：欧洲首秀已兑现，19:30 战略发布会若给出定价与渠道模式，将直接决定理想欧洲战线成色（经销 vs 直营悬而未决）
+3. **智驾进入「可被公开证伪」阶段**：2027 = 中国自研芯片 + VLA 全球验收年的判断（晨报口径），巴黎车展实测是第一个全球舞台样本

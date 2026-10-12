@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-10-11
+updated: 2026-10-12
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 小鹏汽车 (XPeng)
@@ -149,3 +149,9 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - **欧洲首台 G9L 麦格纳奥地利工厂试制下线**：本地化生产兑现——「中国技术+欧洲制造」再落一城（[[china-tech-reverse-export]]），配合混动出口限制（[[eu-hybrid-export-caps-2026]]）下的本地化必选项
 - **展台 = AI 生态发布会**：G9L/MONA L03/P7+ 等 + **陆地航母 + IRON 机器人同台**——「物理 AI」全家桶第一次以整车+飞行器+机器人组合形态出海，产品发布会变生态发布会
 - 判断：小鹏出海从「卖车」升级为「卖 AI 生态叙事」；G9L 全球上市 64 国 + 奥地利本土制造 = 产品与合规双线兑现（对照 10/10 巴黎车展条目）
+
+## 2026-10-12 更新：巴黎开幕日——智驾实验室实测应战 + NGP 欧洲首测
+- **车展官方「智驾实验室」公开道路实测：仅小鹏 + [[tesla]] 应战，欧洲车企集体弃权**（官方邀约全部参展商）——中国智驾第一次在欧洲主场「可被公开证伪」的实测（[[2026-paris-auto-show]]）
+- **NGP（第二代 VLA）欧洲首次大规模公开试乘**——VLA 量产落地（[[vla-model]]、[[vla-mass-production]]）的欧洲验证现场
+- G9L 全球上市 64 国正式执行（10/11 已录）
+- 判断：小鹏从「参数领先」叙事进入「实测证伪」阶段——欧洲版图的技术信任状靠道路实测而非发布会；2027 = 中国自研芯片 + VLA 全球验收年（[[vla-world-model]]）

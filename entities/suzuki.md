@@ -1,10 +1,10 @@
 ---
 title: 铃木 (Suzuki)
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-10-12
 type: entity
-tags: [suzuki, japan, india, hybrid, strategy]
-sources: [memory/2026-05-27.md]
+tags: [oem-jp, strategy, export, ev-tech]
+sources: [memory/2026-05-27.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 铃木 (Suzuki)
@@ -62,12 +62,19 @@ sources: [memory/2026-05-27.md]
 | 全球排名 | 印度市场第一 |
 | 电动化进度 | 混动优先、纯电跟进 |
 
+## 2026-10-12 更新：e-Sky——日系小型车电动化外包中国供应链
+
+- **铃木 e-Sky 11/16 日本上市**：搭载 [[horizon-robotics]] 征程芯片 + [[byd]] LFP 电池——日本本土市场小型电车首次采用「中国智驾芯片 + 中国电池」组合
+- 战略含义：铃木的电动化路线 = 「印度靠混动规模、日本靠中国供应链外包」——不建自研电驱/智驾体系，用成本敏感型采购维持小型车利润（延续 [[japanese-india-strategy]] 的务实逻辑）
+- 判断：日系成本敏感型车企成为中国汽车供应链「系统级出海」的新客户群；铃木日本 e-Sky 是 [[horizon-robotics]] 征程芯片进入日系 OBM 的标志性定点（见 [[horizon-robotics]]）
+
 ## 关系网络
 
 - [[toyota]] - 印度战略协同方
 - [[india-auto-market]] - 核心市场
-- [[byd]] - 中国竞争对手（被排除印度）
+- [[byd]] - 电池供应商（e-Sky LFP）+ 中国竞争对手（被排除印度）
 - [[mg]] - MG路径对比（被迫交出控股权）
+- [[horizon-robotics]] - 智驾芯片供应商（e-Sky）
 
 ## 待观察
 

@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-11
+updated: 2026-10-12
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -194,3 +194,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-10-11 更新：Q3 全球 BEV 6.84 万辆创新高
 - **Q3 全球纯电 6.84 万辆创单季新高**（晨报口径）——叠加 10/8「Q3 在华交付超 9 万辆」：奔驰「聚焦高端 + 纯电补位」双线均在放量
 - 判断：6.84 万单季 BEV 对奔驰整体销量盘子仍小（<15%），但趋势（创新高）+结构（高端纯电）验证了「过渡年」战略——MB.EA 起量（纯电 GLC）+ MMA（GLA）双平台是 2027 放量的地基（[[bba-ev-ranking-2026]]）
+
+## 2026-10-12 更新：LG新能源 46100 大圆柱定点（2028 起供）
+- **LG 新能源将从 2028 年起向奔驰新一代电动车供应 46100 规格大圆柱电池，2027 年开始建设产线**——奔驰圆柱电池路线正式定案：46 系大圆柱继特斯拉之后迎来欧洲豪华品牌客户
+- 判断：奔驰「圆柱化」+ 平行供应商双逻辑——在宁德/孚能之外引入韩系大圆柱，是对单一供应链依赖的主动对冲（[[battery-white-box]] 视角）；2027 建线、2028 上车意味着下一代电动车平台电池路线已锁定（[[global-battery-market-2026]]）

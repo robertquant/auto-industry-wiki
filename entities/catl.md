@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-09-30
+updated: 2026-10-12
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -128,4 +128,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **行业背景**：全行业产能利用率不足60%，电芯产能向头部集中
 - **判断**：这是头部电池厂在产能过剩期的「接盘式扩张」——收购在建产能替代新建，重资产集中化与车企「去宁化」两极分化并存（对照：理想投资欣旺达、小米选中创新航/欣旺达）
 - 相关：[[geely]]（资产让渡方）、[[nev-battery-swap]]（巧克力换电）
+
+## 2026-10-12 更新：电池护照——GBA 试点全球唯一「全勤」
+
+- **全球电池联盟（GBA）2026 电池护照试点结果公布：宁德时代为全球唯一历次试点均有电池护照发布的电池企业**——2027/2/18 欧盟强制（[[battery-passport-2026]]）前的过渡期里，宁德把护照做成「标准话语权」资产
+- 意义：护照三要素（碳足迹 / 供应链溯源 / 再生材料含量）将重构成欧准入壁垒，宁德的 GBA 全勤 = 数据基础设施先发；与 9/30 欧洲产能布局互补（[[global-battery-market-2026]]）
+- 判断：电池护照是欧盟「规则性贸易壁垒」（[[battery-passport-2026]]）——宁德用试点全勤换隐性定价权，中小厂商将被数据体系成本清出欧盟市场
 

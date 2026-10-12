@@ -1,10 +1,10 @@
 ---
 title: 极星美国禁售事件 (2026)
 created: 2026-07-03
-updated: 2026-10-11
+updated: 2026-10-12
 type: concept
 tags: [geopolitics, polestar, us, policy, trade-war]
-sources: [daily-news/2026-07-03-eu-carmakers-weekly.md, memory/2026-09-29.md]
+sources: [daily-news/2026-07-03-eu-carmakers-weekly.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 极星美国禁售事件 (2026)
@@ -78,3 +78,8 @@ sources: [daily-news/2026-07-03-eu-carmakers-weekly.md, memory/2026-09-29.md]
 - **极星 Q3 增长全靠美国市场**（晨报口径）——而 9 月底刚官宣全面退出美国（见上）：「最后的增长来自最不能留的市场」
 - 数据定格：Q3 美国贡献全部增量 → 弃守；瑞典总部的「欧洲转身」叙事与「美国依赖」现实同框，印证 9/29 判断——欧洲转身是唯一出路但缺本地产品力
 - 对照：[[geely]] 2027 加拿大配额卡位、沃尔沃美国豁免——吉利系在北美「极星退出、吉利/沃尔沃/路特斯各寻缝隙」的分化布局（[[north-america-ev-trade-barriers-2026]]）
+
+## 2026-10-12 更新：2027 款起在美受限 + Polestar 7 斯洛伐克产
+- **美国网联车新规影响定格**：2026 款库存即将售罄，**2027 款起在美面临销售限制**（搭载中国网联技术的车辆准入受限）——从「官宣退出」变成「被规则锁定退出」
+- **重心转欧执行**：**Polestar 7 拟由斯洛伐克工厂生产**——欧洲本地化替代美国市场；「欧洲转身」（9/29 判断）进入产品线执行层面
+- 判断：美国网联车新规（[[north-america-ev-trade-barriers-2026]]）首个整车品牌受害者——「中国技术含量」在美国市场成为原罪；斯洛伐克产 Polestar 7 是「欧洲本地化换市场准入」的标准答卷，也为吉利系其他品牌提供合规路径参照（[[volvo]]、[[geely]]）

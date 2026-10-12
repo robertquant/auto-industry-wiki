@@ -1,10 +1,10 @@
 ---
 title: 全球动力电池格局 (2026)
 created: 2026-08-06
-updated: 2026-09-16
+updated: 2026-10-12
 type: concept
 tags: [battery, supply-chain, trend, oem-cn, oem-kr]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 全球动力电池格局 (2026)
@@ -133,3 +133,9 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 - 电池消费税开征，产业链成本传导
 - 固态电池量产节奏决定下一轮格局
 - "白盒化"趋势下电池厂与车企关系重塑
+
+## 2026-10-12 更新：SNE 前 8 月数据——844.2GWh，宁德 ~40%
+- **SNE Research：2026 年 1-8 月全球动力电池装车 844.2GWh（+19%）**；宁德时代市占率约 40% 居首，第二名中企增速翻倍——全球装车量级从 H1 的 608.5GWh 上修验证
+- **LG 新能源 2028 年起为 [[mercedes-benz]] 供应 46100 大圆柱**（2027 建产线）——韩系「46 系大圆柱」反攻信号：大圆柱从特斯拉专属扩展到欧洲豪华品牌（详见 [[mercedes-benz]]）
+- **合规变量入局**：[[battery-passport-2026]]（2027/2/18 欧盟强制）将让「合规能力」进入份额竞争函数——[[catl]] 的 GBA 试点全勤是先手（[[catl]]）
+- 判断：份额竞争从「产能/价格」双维进入「产能+价格+合规溯源」三维；韩系借大圆柱绑定欧洲豪华品牌，中国头部借护照标准话语权守欧，格局从「中韩对抗」走向「多维缠斗」

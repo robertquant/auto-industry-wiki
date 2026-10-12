@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-11
+updated: 2026-10-12
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -179,3 +179,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **1-9 月累计 223.5 万辆创历史纪录**；出口 **79.7 万辆 +169%**；**9 月新能源出口 7.3 万辆 +403%**——出口加速度再升级（对照 10/2「出口连续4月破10万」）
 - **吉曜通行（ENERGEE）电池业务独立外售**：10/9 启动全球经销商伙伴招募——继涪陵工厂让渡 [[catl]]（9月）后，电池资产「轻资产化」第二步：从「卖厂」到「卖品牌渠道」，吉利电池从自用产能转向可对外供应的独立业务（[[battery-white-box]] 视角：吉利走 Pack/BMS+渠道，不做电芯重资产）
 - 判断：加拿大（配额）+ 出口 +403%（新能源）+ 电池业务变现 = 「轻资产出海 + 资产证券化」主线完整闭环
+
+## 2026-10-12 更新：千里浩瀚 31.4 亿公里 + 西班牙合资（混动本地化）
+- **千里浩瀚辅助驾驶累计里程 31.4 亿公里（+252.6%）、开启率 93.9% 创新高**（中秋·国庆出行报告，截至 10/7）——规模数据反哺智驾迭代（[[data-moat]]、[[training-loop]]）
+- **吉利-福特西班牙合资进入提速预期**：[[eu-hybrid-export-caps-2026]]「出口减半就本地造」语境下，吉利欧洲本地化从整车/渠道（领克极氪）延伸到合资生产——与比亚迪匈牙利、零跑西班牙同列三个本地化样本
+- 判断：千里浩瀚开启率 93.9% 是「体验粘性」硬指标，数据规模继续拉大与二三线智驾的差距；西班牙合资承接混动本地化需求，欧洲战线的「中国技术+欧洲制造」再下一城（[[china-tech-reverse-export]]）

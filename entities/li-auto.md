@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-10
+updated: 2026-10-12
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -189,3 +189,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **六大升级**：灯光（照射距离 +30%、**ADB 标配**）、「不弯腰」前备箱、双零重力座椅、**29 英寸 6K 全景屏**
 - **硬件组合**：智驾马赫 M100（1280 TOPS，[[li-auto-m100]]）+ **座舱骁龙 8797**（[[snapdragon-8797]]，继零跑 D19 后舱驾旗舰再定点）+ **全系标配 96kWh 自研 5C 超充电池**；后驱 CLTC **780km**
 - 判断：「电池+芯片」双自研组合量产落地（对照 9/16 i9 的技术首秀）——i6 改款是理想纯电走量逻辑的完整验证：Q4 交付榜卡位 + 3 万档纯电重新放量（9 月 31,817 台垫底的止跌关键，见 [[new-forces-landscape-2026]]）；骁龙 8797 座舱 = 理想在舱驾融合选型上「自研智驾+外采座舱」的务实分层
+
+## 2026-10-12 更新：i6 巴黎车展欧洲首秀完成（开幕日）
+- **理想 i6 巴黎车展欧洲首秀落地**（10/12 开幕日 19:30 欧洲战略发布会，见 [[2026-paris-auto-show]]）——欧洲首秀从「定档」（10/3）到「兑现」；配置组合与 10/10 记录一致：骁龙 8797 座舱 + 自研马赫 M100（1280 TOPS）+ 96kWh 自研 5C 电池 / 780km
+- **中国品牌 20 家占巴黎车展参展商 1/3**（[[2026-paris-auto-show]]）——i6 欧洲首秀的竞争密度参照
+- 判断：i6 欧洲首秀「只展示未定价」——19:30 发布会未放出欧洲定价与渠道模式，经销 vs 直营仍待解；10/28 国内发布是下一个关键节点（i 系列 Q4 走量验证，见 [[new-forces-landscape-2026]]）

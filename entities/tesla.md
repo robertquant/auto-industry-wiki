@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-10
+updated: 2026-10-12
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -100,3 +100,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **Cybercab 欧洲首秀（仅静态展示）**：10/12-18 巴黎车展（见 [[2026-paris-auto-show]]）——欧洲公众首次近距离接触无方向盘 Robotaxi，但无动态演示
 - **6 款 FSD 车型欧洲开放试驾**——FSD 欧洲最大规模公开路演：欧洲战略从「卖车」转向「卖智驾体验」
 - **判断**：Cybercab 欧洲商业化最早 **2027**；静态首秀+FSD 路演组合 = 特斯拉欧洲「合规先行、叙事铺垫」——先让欧洲媒体/公众建立 FSD 认知，再谈准入（欧洲数据合规/法规是硬门槛，见 [[un-autonomous-driving-regulation-2026]]）；时机微妙：与欧洲对中国智驾「安全冗余」叙事输出同台（[[zunjie-brake-pedal-controversy]] 风波后，见 [[avatr-t09]] 判断）
+
+## 2026-10-12 更新：FSD 欧洲更名「Tesla Assisted Driving」——合规换名
+- **德国交通部提出异议后，特斯拉将欧洲市场 FSD（Supervised）更名为「Tesla Assisted Driving」（特斯拉辅助驾驶）**——被视为换取德国支持其欧盟获批的交换条件；德方同时接受**速度偏移不超过法定限速 ±10%** 的方案
+- 背景：Cybercab 巴黎车展欧洲首秀（10/12，[[2026-paris-auto-show]]）同天落地——欧洲战略从「卖智驾体验」叙事（10/10）进入「合规落地」执行
+- 判断：更名 = 「FSD」品牌让位于欧盟路权——名字可以改、限速可以让，但准入必须拿到；**限速 ±10% 背书了欧洲监管「谨慎放行」姿态**，也意味着欧洲 FSD 体验将被监管框架主动降级（对照中国 FSD 落地节奏 [[tesla-fsd-china]]）；「Tesla Assisted Driving」命名刻意与「Full Self-Driving」切割——欧洲消费者将看到与北美不同的安全叙事
