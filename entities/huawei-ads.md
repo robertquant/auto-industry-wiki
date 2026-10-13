@@ -1,7 +1,7 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-07-01
+updated: 2026-10-13
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
 sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md]
@@ -162,3 +162,8 @@ sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/
 - ADS 5.0的实际使用数据和安全事故处理
 - 智选车模式的可持续性
 - 是否会输出给更多传统车企
+## 2026-10-13 补充：乾崑国庆报告——从「装得上」到「敢用爱用」
+- **国庆7天**：辅助驾驶活跃用户 **159.72万**（占比 **90.17%**）、主动避免碰撞 **5.82万次**
+- **量产规模**：乾崑智驾搭载量突破 **200万辆**——**第二个100万辆仅约12个月**
+- **行业渗透**：8月国内新车 L2 及以上装配渗透率 **73.6%**，L2++ 单月装配 **54.5万辆**
+- 判断：活跃率90%+ 是比装机量更硬的信任指标——叙事从「装得上」转向「敢用、爱用」（呼应 [[adas-liability-guarantee]]）；[[wenjie]] M9 连续4月 50万+销冠、M6 累计破6万台，华为系高端矩阵 M6/M8/M9 梯度成型

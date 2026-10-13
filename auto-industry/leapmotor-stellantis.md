@@ -1,3 +1,12 @@
+---
+title: 零跑×Stellantis合作模式分析
+created: 2026-09-18
+updated: 2026-10-13
+type: entity
+tags: [comparison, oem-cn, oem-eu, export, strategy]
+sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md]
+---
+
 # 零跑×Stellantis合作模式分析
 
 ## 一、合作结构
@@ -131,3 +140,11 @@
 
 - 零跑第二品牌分析（见`leapmotor-second-brand.md`）
 - 欧洲车企技术合作模式对比
+---
+
+## 十、2026-10 更新：萨拉戈萨 B10 + 技术输出升级
+
+- **WSJ 10/10 报道**：Stellantis 萨拉戈萨（Zaragoza）工厂产零跑 **B10，最快2026年内投产**——**西方大厂首次向中国品牌开放欧洲制造**（此前仅波兰组装，见上表）
+- **技术输出升级**：另洽谈将零跑三电技术搭载于**菲亚特/欧宝/标致**车型——从「卖零跑的车」升级为「用零跑的技术」（[[china-tech-reverse-export]]）
+- **销量验证**：零跑 Lafa5 海外订单 4 个月破 **1.2万台**（刷新海外车型纪录）；9月出口超 2.7万台、欧洲网点破千（[[leapmotor]]）
+- **判断**：「中国技术+欧洲制造」模式从个案变范式——配额制（[[eu-hybrid-export-caps-2026]]）下本地化生产是唯一不占配额的通路，萨拉戈萨投产即抢跑

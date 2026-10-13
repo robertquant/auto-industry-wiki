@@ -1,7 +1,7 @@
 ---
 title: 2026年9月中国乘用车销量战报
 created: 2026-09-30
-updated: 2026-10-06
+updated: 2026-10-13
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-30-daily-digest.md, memory/2026-09-30.md]
@@ -100,3 +100,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 - **[[leapmotor]] 海外出口提前完成全年目标**（连续3月破10万叠加欧洲千店）；[[zeekr]] 37,216（+103.85%）9X 登德国
 - **领克 1.85万、新能源占比 92.1% 创新高**——燃油基盘换血样本（[[zeekr-lynk-co-merger]]）
 - 判断：9月最大结构性信号再确认——国内存量博弈、增量全在海外
+
+### 10/13 补充：批发口径确认——渗透率 65.7% 落定
+- 乘联会定稿：**9月新能源批发 167万辆（+12%）**、**渗透率 65.7%**——顶部 ⚠️ 的双口径问题闭环：**57.8%=零售狭义口径，65.7%=批发口径，两数并存为常态**（[[nev-penetration-60-percent]]）
+- 补充：奇瑞捷途 Jaecoo 7 登顶**英国9月销冠**——出口占比71%的奇瑞在欧洲单点突破（[[chery]]）；吉利vs奇瑞维持140辆月差的「自主第二」博弈

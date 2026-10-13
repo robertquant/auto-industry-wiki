@@ -1048,3 +1048,25 @@
 - **导航更新**：index.md - 车企（欧洲）9→10（+porsche）、市场/趋势/政策46→47（+battery-passport-2026）；Last updated 2026-10-12；Total pages 300→302（entities 115 / concepts 169 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（302 页全部注册，缺失 0）；新建/更新页断链扫描干净；存量遗留断链（中文别名旧链等 30+ 处，源自 adas-self-develop/ampere/honda-china 等旧页，非今日引入）待后续 lint 统一清理
 - **核心洞察**：①巴黎车展「智驾实验室」欧洲车企集体弃权是 2024「中国智驾只会参数领先」叙事的反转背书——智驾进入「可被公开证伪」阶段，2027=中国自研芯片+VLA全球验收年；②中欧混动出口「减半以上」+电池护照2027/2强制+美国网联车新规 = 出海合规成本三线并进，配额换和平的代价转嫁为欧洲本地化产能竞赛（比亚迪匈牙利/零跑西班牙/吉利-福特西班牙三样本）；③特斯拉 FSD 欧洲更名让渡「FSD」品牌换准入——限速±10% 显示欧洲监管「谨慎放行」姿态，欧版体验将被监管主动降级；④铃木 e-Sky 用「中国芯片+中国电池」造日本车——中国供应链系统级出海渗透日系成本敏感型车企；⑤保时捷 中国-33% 裁员9000回归燃油 vs 中国品牌40万+价格带持续蚕食——豪华品牌电动化退守信号
+
+## [2026-10-13 22:00] ingest | 每日整理（晨报 + 汽车AI日报 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-13-daily-digest.md（三合一全文，晚报全文见 daily-news/2026-10-13-gasgoo-evening.md，已推送 robert）
+- **新建（3页）**：
+  - entities/gac-toyota.md - 广汽丰田铂智3X「兜底罗生门」+芯片静默降级（Orin X 254TOPS→高通8650 50/100TOPS）+6-9月销量连跌4个月/黑猫投诉1063件完成70件——兜底承诺首次系统性压力测试，10万级合资智驾BOM降本区样本
+  - entities/valeo.md - 法国Tier1：巴黎车展 VSS360 一体化单盒+L3/L4级 SCALA 3 激光雷达——供应商从幕后走向台前
+  - entities/renxin-serdes.md - 仁芯科技车载SerDes（16/32Gbps）近50款车型定点、月出货数百万颗——车载高速传输国产化放量
+- **更新（16页）**：
+  - concepts/eu-hybrid-export-caps-2026.md - ⭐配额参数浮出：35万辆/年上限（2027起、每年+6%）、四年内份额砍半；8月中国混动占欧1/4、PHEV进口+86%——比关税更狠（封顶量）
+  - concepts/2026-paris-auto-show.md - 雷诺6款全球首秀（R8 Gordini 270马力/R5 Turbo 3E等）+标致RCZ Vision（全固态+1000V+线控）+法雷奥抢戏+启源入欧
+  - entities/huawei-ads.md - 乾崑国庆报告：活跃用户159.72万（90.17%）、避免碰撞5.82万次、搭载破200万辆（第二个100万仅12个月）
+  - concepts/adas-liability-guarantee.md - 广丰「兜底罗生门」案例入库：「签的是营销不是责任」，赔付透明度成下一竞争维度
+  - concepts/lithium-price-surge-2026.md - 10/12单日暴跌11.79%至10.89万/吨——「二次上行」证伪，需求强≠价格涨（供给/库存主导）
+  - auto-industry/leapmotor-stellantis.md - 补frontmatter（旧页无YAML）+萨拉戈萨B10最快今年投产+三电技术装菲亚特/欧宝/标致洽谈+Lafa5订单4个月1.2万台
+  - entities/volkswagen.md / mercedes-benz.md / volvo.md - Q3中国失速（-38.5%/-31%/-40.6%）与油电分化；上汽大众ID.ERA 8X增程20.68万起
+  - entities/stellantis.md / geely.md / byd.md / wenjie.md - RCZ Vision+零跑深化、巴西库里蒂巴工厂冲刺、1-8月出口TOP10（巴西20.9万登顶/欧洲五席）、M9连续4月50万+销冠
+  - comparisons/2026-09-china-sales-battle.md - 批发口径闭环：167万辆/+12%/渗透率65.7%（57.8%=零售、65.7%=批发）；Jaecoo 7登顶英国9月销冠
+  - concepts/ai-engineering-2026.md - WNEVC亦庄10/21-23观测窗口（自动驾驶测试验证/L3体验）
+  - concepts/l3-autonomous-driving.md - 通用eyes-off 2028首发Escalade IQ（美系唯一按表推进L3）
+- **导航更新**：index.md - 车企（中国）32→33（+gac-toyota）、芯片厂商15→16（+renxin-serdes）、供应商/方案商18→19（+valeo）；Last updated 2026-10-13；Total pages 302→305（entities 118 / concepts 169 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（305 页全部注册，缺失 0）；修复插入点破坏的 qualcomm-auto 索引行 1 处
+- **核心洞察**：①欧盟混动配额 35万辆/年 落地轮廓 = 给中国出海混动判四年「限刑」——比BEV关税更狠（关税打价格、配额封顶量），本地化产能（零跑西班牙/比亚迪匈牙利/吉利巴西）成唯一不占配额的通路，配额制把「出口」与「本地制造」切成两个政策篮子；②广丰兜底罗生门=「兜底承诺」首次系统性压力测试——后台数据解释权在车企，「签的是营销不是责任」，赔付透明度成为继兜底话术后的下一竞争维度；③碳酸锂单日暴跌11.79% 再证「需求好≠价格涨」——2026锂价主导变量是供给/库存/期货而非需求，方法论准则（一个叙事不能解释所有价格变化）三度应验；④巴黎车展进入「技术表态」阶段：欧洲用全固态/1000V/线控概念防守、中国用当下可买进攻，Tier1（法雷奥）开始直接面向OEM抢订单

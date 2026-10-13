@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-13
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -103,3 +103,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 1. **欧洲智驾叙事被「弃权」暴露**：10/12 之前欧洲巨头谈「概念/规模」，10/12 之后「拒绝实测」成为可被引用的公开记录——智驾竞赛的叙事优势彻底移交中国阵营
 2. **理想 i6 欧洲定价/渠道仍待揭晓**：欧洲首秀已兑现，19:30 战略发布会若给出定价与渠道模式，将直接决定理想欧洲战线成色（经销 vs 直营悬而未决）
 3. **智驾进入「可被公开证伪」阶段**：2027 = 中国自研芯片 + VLA 全球验收年的判断（晨报口径），巴黎车展实测是第一个全球舞台样本
+
+## 10/13 补充：雷诺主场6款全球首秀 + 供应商抢戏
+- **[[renault]] 6款全球首秀**：E-Space 概念车、全新 Mégane E-Tech、Trafic E-Tech（商用车电动化）、**R5 Turbo 3E**（性能版）、Rafale Hypnotic、**R8 Gordini（270马力）** + R4 JP4x4 四驱概念——「情怀IP（R5/R8/R4）+ 商用车电动」双线翻身；判断：南美+吉利（**巴西库里蒂巴合资工厂投产冲刺**，[[geely]]）才是真增量
+- **[[stellantis]] 标致 RCZ Vision 概念车**：**全固态电池 + 1000V + 线控底盘**（[[solid-state-battery]]），基于 STLA One 架构，目标 500马力/600km——Stellantis 阵营对下一代纯电平台的集中表态
+- **Tier1 抢戏**：[[valeo]] VSS360（一体化单盒，L1/L2→L2+ 高速NOA）+ SCALA 3 激光雷达（200米/130km/h，面向L3/L4）——供应商从幕后走向台前
+- **[[changan]] 启源正式入欧**：长安携启源/深蓝/阿维塔参展、混动产品线扩容——配额落地（[[eu-hybrid-export-caps-2026]]）前抢窗口
+- 判断：车展进入「技术表态」阶段——欧洲用「下一代架构概念」（全固态/1000V/线控）防守，中国用「当下可买」进攻

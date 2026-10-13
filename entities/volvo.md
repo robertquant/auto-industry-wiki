@@ -1,7 +1,7 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-03
+updated: 2026-10-13
 type: entity
 tags: [oem-eu, strategy, sales, export]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
@@ -91,3 +91,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 - **Q3 全球 14.16万辆（-10.7%）**；**大中华区暴跌 -40.6%**——官方口径「未见缓解」，从7月单月 -27% 恶化为季度 -40.6%
 - **纯电占比 32%（+29%）**：电动化结构持续改善，但增量在欧洲；中国纯电输入被价格战抵消
 - **判断**：二线豪华没有护城河——BBA 价格下探（[[bmw]] iX3长轴 26.99万、[[mercedes-benz]] 纯电GLC 24.9万）挤压下，保价策略在华失速；对比大众有本土化技术缓冲（[[volkswagen]]）、吉利有渠道协同（[[zeekr-lynk-co-merger]]），沃尔沃两条都没有，电动化拐点前只能以价换量或继续收缩
+
+## 2026-10-13 补充：Q3——大中华区失速 vs 欧洲纯电高增
+- **Q3 全球 14.16万辆（-10.7%）**；**大中华区 -40.6%**（各区域最惨）；**欧洲纯电 +51%**
+- 判断：兑现页首「在华关键转折」——中国基本盘让位于欧洲纯电基本盘，吉利生态内「欧洲化」加深（[[geely]]）

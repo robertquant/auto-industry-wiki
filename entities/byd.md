@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-07
+updated: 2026-10-13
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -216,3 +216,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **方程豹钛9 官图预热**：全尺寸承载式插混SUV、轴距 3130mm 超理想L9/问界M9、全新 DMS 平台——硬派→全尺寸家用扩张试水（[[fangchengbao-ti9]]）
 - **9月出口 18.07 万辆、海外销量同比 +153%**（口径与 10/7 记录的海外 17.99 万略有出入；巴西/匈牙利/土耳其本地化+闪充站双轮）；**大唐EV 9月 13,010 辆、累计破 4 万**——国内累计同比 -3.9% 全靠海外填，全年出口冲击 200 万辆（[[chinese-oem-export]]）
 - 判断：「海洋网走量+方程豹冲高」双线新品节奏 + 海外增量定调延续（对照 10/6-7 记录）
+
+## 2026-10-13 补充：1-8月出口TOP10——巴西登顶、欧洲五席
+- **巴西 209,394辆登顶**（纯电11万+插混9.9万）；澳/英/比利时紧随其后，前十中**欧洲占五席**
+- **按市场配置动力组合**：泰国几乎全纯电；英国/比利时/阿联酋以插混为主——比亚迪出口从「卖同一种车」转向「按市场定义产品组合」（对照 [[byd-dolphin-g-dmi]] 欧洲专用DM-i）

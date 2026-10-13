@@ -1,7 +1,7 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-10-06
+updated: 2026-10-13
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
@@ -71,3 +71,8 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - **Alpamayo 1.5**（AI 工程化套件）：10万+ 下载——英伟达把 AI 研发工具链「产品化」铺向车企（[[auto-ai-toolchain]]）
 - **Omniverse NuRec**：与 51WORLD / dSPACE / Foretellix / Mcity 联合——物理 AI 数据工厂生态（[[data-loop]]、[[training-loop]] 基础设施化）
 - 判断：AI 工程化竞争从「单点工具」转向「平台生态」——英伟达用 Omniverse 卡位仿真与合成数据入口（[[synthetic-data-explosion]]）
+
+## 2026-10-13 补充：WNEVC 亦庄（10/21-23）——下一观测窗口
+- 世界智能网联汽车大会（北京亦庄）设「自动驾驶测试验证 / AI产业赋能」边会 + L3 体验环节
+- 背景：亦庄 40+ 企业、1500+ 台车、安全测试里程 6500万公里——政策+测试能力背书
+- 观察点：自动驾驶测试验证（[[ai-testing-automation]]、[[vectorcast-ai-testing]]）、L3 体验（[[l3-autonomous-driving]]）

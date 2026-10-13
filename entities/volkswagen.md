@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-11
+updated: 2026-10-13
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -209,3 +209,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **利润率预期下修至 ≤1%**（晨报口径）——重组成本（裁员 10 万、关厂 160 亿欧，见 9 月更新）吞噬利润，「生存重组」代价显性化
 - **ID.ERA 5X 11 月上市**：CMP/CEA 首款量产车（8 月工信部申报，见上文）进入交付倒计时——大众中国新能源翻身仗的核心弹药
 - 判断：利润率 ≤1% 意味着大众在**用现金流换中国/欧洲转型时间**；ID.ERA 5X 若 11 月上市后走量，才能验证「中国供应链+大众品牌」能否从叙事变成利润（[[foreign-automakers-chinese-ad]]、[[euro-stoxx-50-exit]]）
+
+## 2026-10-13 补充：Q3——中国失速加剧
+- **Q3 全球 188.5万辆（-14.3%）**；**中国 Q3 仅 40.58万辆（-38.5%）**，前三季中国累计约 **-30%**——合资盘（上汽大众/一汽大众）失血远超全球均值
+- **上汽大众 ID.ERA 8X 增程SUV 上市 20.68万起**——大众在华首次以增程形态救火（[[range-extender-trend]]），合资新能源放下身段
+- 判断：中国是大众全球利润压舱石，Q3 中国 -38.5% 意味着 CMP/CEA 平台走量窗口被压缩；增程上车是「中国定义产品」的又一证据

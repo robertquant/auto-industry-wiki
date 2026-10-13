@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-12
+updated: 2026-10-13
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -198,3 +198,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-10-12 更新：LG新能源 46100 大圆柱定点（2028 起供）
 - **LG 新能源将从 2028 年起向奔驰新一代电动车供应 46100 规格大圆柱电池，2027 年开始建设产线**——奔驰圆柱电池路线正式定案：46 系大圆柱继特斯拉之后迎来欧洲豪华品牌客户
 - 判断：奔驰「圆柱化」+ 平行供应商双逻辑——在宁德/孚能之外引入韩系大圆柱，是对单一供应链依赖的主动对冲（[[battery-white-box]] 视角）；2027 建线、2028 上车意味着下一代电动车平台电池路线已锁定（[[global-battery-market-2026]]）
+
+## 2026-10-13 补充：Q3 中国——油电分化极端化
+- **Q3 中国 8.68万辆（-31%）** vs **纯电 6.84万辆（+61%）创新高**——燃油塌方、纯电爆发，「过渡年」定位被数据坐实
+- **国产长轴 GLE 标配 Momenta R6**（[[momenta]]）——奔驰中国智能化继续外包头部国产方案

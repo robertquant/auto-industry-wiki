@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-12
+updated: 2026-10-13
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -184,3 +184,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **千里浩瀚辅助驾驶累计里程 31.4 亿公里（+252.6%）、开启率 93.9% 创新高**（中秋·国庆出行报告，截至 10/7）——规模数据反哺智驾迭代（[[data-moat]]、[[training-loop]]）
 - **吉利-福特西班牙合资进入提速预期**：[[eu-hybrid-export-caps-2026]]「出口减半就本地造」语境下，吉利欧洲本地化从整车/渠道（领克极氪）延伸到合资生产——与比亚迪匈牙利、零跑西班牙同列三个本地化样本
 - 判断：千里浩瀚开启率 93.9% 是「体验粘性」硬指标，数据规模继续拉大与二三线智驾的差距；西班牙合资承接混动本地化需求，欧洲战线的「中国技术+欧洲制造」再下一城（[[china-tech-reverse-export]]）
+
+## 2026-10-13 补充：巴西库里蒂巴合资工厂投产冲刺
+- **吉利×雷诺巴西库里蒂巴（Curitiba）合资工厂进入投产冲刺**——南美本地化产能落地（雷诺品牌/渠道 + 吉利供应链），与 [[eu-hybrid-export-caps-2026]] 语境下欧洲建厂同构：本地化=绕开贸易壁垒的通用解
+- 背景：9月吉利出口 +162%（[[chinese-oem-export]]），海外产能是下一阶段增量来源
