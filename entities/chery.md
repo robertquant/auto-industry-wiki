@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-11
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -78,3 +78,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-10-11 更新：海外收入近七成 → 管理架构重构（全球化3.0 细节补录）
 - **10/7 公告细节**：基于**海外收入占比近七成**的业务结构，发布深化全球化 3.0 的高管分工调整——主品牌（奇瑞）**纳入全球市场管理体系**（此前以海外子品牌/属地化运营为主）
 - 判断：海外收入近七成 = 组织从「国内为主、出口为辅」翻转为「全球一盘棋」——管理架构跟收入结构走，是出口王从「销量标签」到「体系能力」的组织学落地（[[china-export-leaders-2026]]）；中欧混动协议（[[eu-hybrid-export-caps-2026]]）是这条路的悬顶之剑
+
+## 2026-10-14 更新：瑞虎4混动法国首发 + 捷途旅行者7全球上市
+- **瑞虎4 混动法国首发 23,990 欧起**（巴黎车展）——奇瑞欧洲平价混动进攻（[[eu-hybrid-export-caps-2026]] 配额窗口期抢量）
+- **捷途旅行者7 全球上市 14.99-17.99 万**——捷途越野序列全球扩张
+- **中欧磋商达成共识，奇瑞表态支持**——作为混动出口最大受益者之一的表态分量（[[eu-hybrid-export-caps-2026]]）
+- 判断：欧洲混动配额落地前加速「最后窗口期」投放；瑞虎4 定价直插 Dacia/雷诺平价区间（[[entry-ev-profit-crisis]]）

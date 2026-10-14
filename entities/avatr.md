@@ -1,7 +1,7 @@
 ---
 title: 阿维塔 (Avatr)
 created: 2026-06-13
-updated: 2026-10-10
+updated: 2026-10-14
 type: entity
 tags: [avatr, changan, huawei, china, ev, adas, export]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-06-13.md, raw/articles/2026-10-10-daily-digest.md]
@@ -76,3 +76,5 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-06-13.md, raw/art
 - **华为乾崑首款高端旗舰**：ADS 5 智驾 + **4颗激光雷达**（顶雷 896线）；插混 1.5T 双电机 / 2.0T 三电机
 - 判断：4激光雷达堆料 = 高端化技术叙事 + 欧洲「安全冗余」合规叙事双输出；首秀时机在尊界刹车风波（[[zunjie-brake-pedal-controversy]]）之后，欧洲市场对中国智驾「安全结论」的检验窗口开启
 - 与 07L（纯电高端）构成「纯电+插混」双线；T09 是全球首发即亮相的欧洲第一印象车型
+## 2026-10-14 补充：T09 概念版 50 万级定价区间浮出
+- 巴黎车展 T09 概念版（华为乾崑+三电机）**50 万级、2026 年内上市**（[[avatr-t09]]）——10/10 首秀后的定价与节奏落地

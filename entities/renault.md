@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-10
+updated: 2026-10-14
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -281,3 +281,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **R4 E-Tech 大升级**：续航 310/415/400km 三档 + **RG 特别版**——A/B 级纯电产品线「续航+版本」双补强（对照 [[entry-ev-profit-crisis]] 平价盈利困局）
 - **Twingo E-Tech 定价落实：19,990 欧，1 月开订**——<2 万欧承诺兑现（此前多次喊话，见 10/4、10/9 记录），欧洲「kei car」级平价电动价格锚定（[[twingo-e-tech]]）
 - 判断：巴黎车展 = Renault 2026 产品叙事收官节点：50 款规模压阵 + R4 升级 + Twingo 定价落地，「本土防守+平价进攻」双线在家门口接受检验；Twingo 定价落实后，观察点转向订单转化与欧洲 <2.5 万欧细分竞争（对照 [[leapmotor]] T03、[[byd]] Dolphin Surf）
+
+## 2026-10-14 更新：巴黎车展主场收官——50辆/6新车/3概念 + Douai 联合项目
+- **50 辆展车、6 款新车 + 3 款概念车**：新 Mégane E-Tech、Trafic E-Tech（**800V、279英里**）、R5 Turbo 3E、Rafale Hypnotic、E-Space、R8 Gordini（270马力）、R4 JP4x4——「情怀IP+商用车电动」双线收官（对照 10/13 记录）
+- **Provost 携 Cambolive 主持**——新 CEO/新销售主管组合主场首秀（[[2026-paris-auto-show]]）
+- **Ampere Douai 工厂联合项目推进（[[nissan]]/三菱）**——联盟从平台共享延伸到共厂共线（[[renault-nissan-development-process]]）
+- **雷诺-日产联盟上半年全球份额 5.4% 列第五**（崔东树口径）
+- 判断：主场秀的「量」（50辆）兑现，「本地化/联盟协同」细节（Douai 三品牌共线）是更值得跟踪的落地项

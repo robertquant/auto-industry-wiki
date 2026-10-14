@@ -1,7 +1,7 @@
 ---
 title: 经销商毛利危机与残值崩塌
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-14
 type: concept
 tags: [pricing, sales, strategy, trend, export]
 sources: [raw/articles/2026-09-22-daily-digest.md]
@@ -51,3 +51,7 @@ sources: [raw/articles/2026-09-22-daily-digest.md]
 - 经销商退网/资金链风险是否在2027集中爆发
 - 中国品牌出海市场残值曲线
 - 整车厂是否把渠道亏损重新内部化
+
+## 2026-10-14 补充：9月经销商库存系数 1.68 超警戒线
+- **9 月库存系数 1.68**（警戒线 1.5）——连续超警戒，10 月上旬零售 -24%（[[chinese-oem-export]]）的渠道侧注脚
+- 判断：库存系数回到 1.5+ 意味着 Q4 终端折扣压力不减，渠道健康度继续恶化——「价格战→压库→渠道失血」链条未见松解（[[2026-09-china-sales-battle]] 批发/零售剪刀差延续）

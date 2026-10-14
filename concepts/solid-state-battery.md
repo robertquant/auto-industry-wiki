@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-03
+updated: 2026-10-14
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -182,3 +182,6 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **七部门《新型电池产业十五五规划》（9/28）明确 2026 = 固液混合量产元年**，「先混固液、后全固态」渐进路线获国家级定调（见 [[battery-fifteen-five-plan]]）
 - 2030 全固态初步规模化目标与 [[byd]] 2027 装车、[[chery]] 2026 Q4 犀牛固液混合装车的时间表对齐——行业从「讲故事」切到「排产期」
 - **判断**：政策确认的最大受益者是固液混合（半固态）产业链——2026-2027 量产爬坡先于全固态兑现；全固态仍是 2029-2030 的终局叙事
+## 2026-10-14 补充：巨湾技研首条 GWh 级全固态产线投产
+- **巨湾技研行业首条 GWh 级全固态电池产线投产**：技改路线 + 固液柔性切换（可生产固液混合/全固态）——「先混固液、后全固态」政策路线（10/3 已录）的产线端落地
+- 判断：GWh 级产线 = 全固态从「样品」进入「试产」；柔性切换设计对冲全固态商业化不确定性——设备复用是当前阶段的务实工程解，与 [[byd]] 2027 硫化物装车、[[battery-fifteen-five-plan]] 2030 初步规模化时间表对齐

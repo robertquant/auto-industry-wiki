@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-10
+updated: 2026-10-14
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -128,3 +128,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **Q3 美国豪华销冠：100,210 辆**，超雷克萨斯 93,056 辆、奔驰约 7.6 万——中国定价战未伤美国燃油基盘，双轨市场策略见效
 - **德国自愿离职 8,000 人**（10/7 裁 20% 部门岗位的落地机制）——组织收缩与产品投放并行
 - 判断：iX4 发布 + 缺席巴黎车展（10/6）+ 美国销冠三线并进——宝马「资源押 Neue Klasse、区域差异化定价」策略清晰（[[bba-ev-ranking-2026]]、[[mercedes-benz]]）
+
+## 2026-10-14 更新：Q3 全球 -6.3%、中国 -25%
+- **Q3 全球交付 -6.3%**；**中国 -25%**；**BEV 逆势 +7.2%**——电动化结构性增长 vs 中国失血的「双轨」延续
+- **巴黎车展缺席确认**（[[2026-paris-auto-show]]：中国 20 家翻倍、宝马/MINI/捷豹路虎集体缺席）——「资源押 Neue Klasse」策略的车展侧落地（10/6 已录）
+- 判断：Q3 美国销冠（10/10）+ 全球 BEV +7.2% = 收缩策略正确性初验；中国 -25% 仍是最大失血点（[[bba-ev-ranking-2026]]）

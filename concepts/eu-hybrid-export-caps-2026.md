@@ -1,7 +1,7 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-10-13
+updated: 2026-10-14
 type: concept
 tags: [policy, export, europe, strategy, trend]
 sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md]
@@ -57,3 +57,8 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **数据背景**：8月中国产汽车已占欧洲混动销量约 **1/4**；欧盟 PHEV 进口一年 **+86%**、均价 **-20%**——混动正是中国对欧出口量最大的形态（[[byd]] DM系、[[geely]]、[[chery]] 出口欧洲主力形态）
 - **判断升级**：比电车关税更狠——BEV 关税打价格，混动配额**直接封顶量**；官方「减半以上」口径与 35万辆/年 技术参数互相印证。**年底前对欧出口混动的车企全部要重新算账**
 - **连结点**：本地化生产（[[leapmotor-stellantis]] 西班牙、[[byd-hungary-factory]]、吉利-福特西班牙）成为不占配额的通路——配额制把「出口」与「本地制造」切成两个政策篮子
+
+## 2026-10-14 补充：中欧磋商达成共识——车企密集表态
+- **中欧磋商（布鲁塞尔峰会周期）达成共识**：**中汽协、[[chery]]、[[bmw]]** 先后表态支持——「官方+龙头车企」齐声背书的第一节点
+- 与 10/12「减半以上」、10/13「35万辆/年」轮廓互相印证：协议框架进入「共识确认 + 细则博弈」阶段
+- 判断：车企表态 = 预期管理——配额落地前先锁定市场预期，出口企业（奇瑞/比亚迪/吉利）开始按「封顶量」重排欧洲产品组合；与出口退税下调（[[export-tax-rebate-cut-2026]]）构成 2027 双重约束

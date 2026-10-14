@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-10-03
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
@@ -143,3 +143,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **9月集团销量 22.9万（-14%）**：8月 -22.6% 后继续双位数下滑，但环比回升（8月 21.88万 → 9月 22.9万）；与长城同步回调，自主「内缩外爆」样本（见 [[great-wall]]、[[chinese-oem-export]]）
 - **阿维塔 9系将巴黎车展全球首发**（见 [[2026-paris-auto-show]]）——长安高端化的欧洲首秀
 
+
+## 2026-10-14 更新：欧洲基地时间表 + 问界入欧
+- **巴黎车展官宣欧洲基地**：**2028 年 18 万辆产能、2030 年 35 万辆**，合作方**年内官宣**——长安欧洲本地化落子
+- **问界 2027 年进欧洲、WVTA 认证已启动**（[[wenjie]]）——长安系+华为系欧洲准入双线
+- 判断：欧洲本地化从「比亚迪/吉利/零跑」三样本扩为多线（长安+奇瑞跟进）；合作方年内官宣是下一个观察点（本地化必选：[[eu-hybrid-export-caps-2026]]、[[china-tech-reverse-export]]）

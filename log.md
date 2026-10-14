@@ -1070,3 +1070,31 @@
 - **导航更新**：index.md - 车企（中国）32→33（+gac-toyota）、芯片厂商15→16（+renxin-serdes）、供应商/方案商18→19（+valeo）；Last updated 2026-10-13；Total pages 302→305（entities 118 / concepts 169 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（305 页全部注册，缺失 0）；修复插入点破坏的 qualcomm-auto 索引行 1 处
 - **核心洞察**：①欧盟混动配额 35万辆/年 落地轮廓 = 给中国出海混动判四年「限刑」——比BEV关税更狠（关税打价格、配额封顶量），本地化产能（零跑西班牙/比亚迪匈牙利/吉利巴西）成唯一不占配额的通路，配额制把「出口」与「本地制造」切成两个政策篮子；②广丰兜底罗生门=「兜底承诺」首次系统性压力测试——后台数据解释权在车企，「签的是营销不是责任」，赔付透明度成为继兜底话术后的下一竞争维度；③碳酸锂单日暴跌11.79% 再证「需求好≠价格涨」——2026锂价主导变量是供给/库存/期货而非需求，方法论准则（一个叙事不能解释所有价格变化）三度应验；④巴黎车展进入「技术表态」阶段：欧洲用全固态/1000V/线控概念防守、中国用当下可买进攻，Tier1（法雷奥）开始直接面向OEM抢订单
+
+## [2026-10-14 22:00] ingest | 每日整理（晨报三合一 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-14-daily-digest.md（晨报+AI日报三合一；晚报全文见 daily-news/2026-10-14-gasgoo-evening.md，已推送 robert）
+- **新建（5页）**：
+  - concepts/export-tax-rebate-cut-2026.md - 新能源出口退税率13%→9%（2027年4月起）——与混动配额/电池护照同框的「出海政策分水岭」：2027=政策红利窗口关闭+合规成本上升元年，本地化产能成唯一护城河
+  - entities/byd-han.md - 比亚迪大汉（10/13上市23.59万起）：D级行政打25万级、CLTC 1008km、二代刀片+闪充+云辇-A+后轮转向全系标配
+  - entities/xpeng-g9l.md - 小鹏G9L全球上市（法国74,990欧起/64国）：第二代VLA/NGP欧洲首次公开实测、5C 11.7分钟、26国674万公里、NGP 2027交付
+  - concepts/gm-forward-2026.md - 通用GM Forward：2028 eyes-off（Escalade IQ）+中央计算平台（OTA 10x/带宽1000x/AI算力35x）+2027 Gemini——美系唯一按表推进L3
+  - concepts/shanghai-fuel-vehicle-peak-2026.md - 上海新政：存量燃油车置换新能源、2030燃油小客车峰值平台——一线城市首个「燃油车见顶」政策文件
+- **更新（21页）**：
+  - concepts/2026-paris-auto-show.md - ⭐G9L欧洲定价、吉利集团首秀（Monjaro EM-i/领克07GT/极氪9X预订）、中国20家翻倍 vs 宝马/MINI/捷豹路虎缺席、雷诺50辆收官、长安欧洲基地时间表、奇瑞瑞虎4法国首发
+  - entities/renault.md / ampere.md(link) - 主场50辆/6新车/3概念（Trafic 800V 279英里、R5 Turbo 3E等）+ Ampere Douai联合项目（日产/三菱）+ 联盟份额5.4%列第五
+  - entities/geely.md - 巴黎首秀、极氪9X预订（2027/1交付）、极氪欧洲+200%、沃尔沃任领克欧洲独家经销商官宣、三大品牌欧盟9月首破万辆
+  - entities/volvo.md - XC60三次改款（插混1240km）+领克经销商角色巴黎官宣
+  - entities/byd.md - 大汉上市+李柯「欧洲2030本地员工超4万人」
+  - entities/volkswagen.md - 10/23 Q3财报观察点+ID.ERA 8X技术真容（800V/EA211增程器/1602km/Momenta R7+192线激光雷达/交付即城市NOA）
+  - entities/bmw.md - Q3全球-6.3%/中国-25%/BEV+7.2%；entities/stellantis.md - Q3发货128.6万（欧洲+10% Smart Car回血/北美-12%/零跑国际51%并表）
+  - entities/chery.md - 瑞虎4混动法国首发23,990欧+捷途旅行者7+中欧磋商表态；entities/changan.md - 欧洲基地2028年18万/2030年35万辆+问界2027进欧洲（WVTA启动）
+  - entities/wenjie.md - 2027进欧洲/WVTA认证启动；entities/avatr.md + avatr-t09.md - T09概念版50万级、2026年内上市
+  - entities/roewe-jiayue-07.md - 工博会「全球首款AI原生汽车」（豆包+2000+ SOA接口）；entities/hongqi-tiangong-07.md - 高通8397细节（≈8295×14/64+512G）
+  - entities/xpeng.md - G9L欧洲定价+XPENG AI ENGINEERING（8C超充8分钟80%、机器人年底量产）
+  - concepts/eu-hybrid-export-caps-2026.md - 中欧磋商达成共识（中汽协/奇瑞/宝马表态）
+  - concepts/solid-state-battery.md - 巨湾技研首条GWh级全固态产线（技改+固液柔性切换）
+  - concepts/chinese-oem-export.md - 9月出口91.7万辆(+73.7%)/新能源60.8%/增程+478%、10月上旬零售-24%/渗透率61.2%
+  - concepts/dealer-margin-crisis.md - 9月库存系数1.68超警戒线；concepts/ultra-fast-charging.md - 小鹏8C 8分钟80%
+- **导航更新**：index.md - 产品/平台13→15（+byd-han、+xpeng-g9l）、技术89→90（+gm-forward-2026）、市场/趋势/政策46→48（+export-tax-rebate-cut-2026、+shanghai-fuel-vehicle-peak-2026）；Last updated 2026-10-14；Total pages 305→310（entities 120 / concepts 172 / comparisons 7 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（310 页全部注册，缺失 0）
+- **核心洞察**：①出口退税13%→9% + 混动配额35万辆/年 + 电池护照2027/2 = 三重合规约束同框，2027 被锁死为「本地化元年」——比亚迪（欧洲4万人）、吉利（沃尔沃渠道）、长安（2028年18万辆）巴黎车展动作全部踩在同一节拍，从「出口退税」转向「技术/产能收益」；②巴黎车展进入「定价+交付」阶段：G9L 74,990欧/瑞虎4 23,990欧同日定价、极氪9X开订——「参展即收割」兑现，德系缺席 vs 中国20家翻倍是车展投入再分配的镜像；③9月增程出口+478% 与混动配额形成最尖锐对冲——增长最快的出口形态恰是被封顶对象；④通用35倍AI算力+Gemini=软件欠账实锤，2028 eyes-off 仍是 L2+/L3 边界试探而非L4；⑤小鹏8C（8分钟80%）+机器人年底量产 =「AI原生」叙事从发布会进入量产兑现期

@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-13
+updated: 2026-10-14
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -214,3 +214,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **Q3 全球 188.5万辆（-14.3%）**；**中国 Q3 仅 40.58万辆（-38.5%）**，前三季中国累计约 **-30%**——合资盘（上汽大众/一汽大众）失血远超全球均值
 - **上汽大众 ID.ERA 8X 增程SUV 上市 20.68万起**——大众在华首次以增程形态救火（[[range-extender-trend]]），合资新能源放下身段
 - 判断：中国是大众全球利润压舱石，Q3 中国 -38.5% 意味着 CMP/CEA 平台走量窗口被压缩；增程上车是「中国定义产品」的又一证据
+
+## 2026-10-14 补充：Q3 财报观察点（10/23）+ ID.ERA 8X 技术真容
+- **10/23 Q3 财报 = 关键观察点**：Q3 全球 -14.3%（四年最大）、中国 -38.5%（10/13 已录）后，市场等待重组成本与利润率细节（利润率已下修至 ≤1%，见 10/11）
+- **上汽大众 ID.ERA 8X（10/12 上市，20.68万起/25万级主力）**：800V + EA211 增程器、**CLTC 1602km**、**Momenta R7 + 192线激光雷达**、**交付即城市 NOA**——「大众底盘+中国软件」合资反攻完整模板（[[momenta]]、[[range-extender-trend]]）
+- 判断：ID.ERA 8X 把 10/13「增程救火」升级为「增程+中国智驾」双补课；10/23 财报将首次量化重组成本对利润率的实际吞噬

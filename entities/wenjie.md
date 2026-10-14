@@ -1,7 +1,7 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-10-13
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, vehicle, adas, ecosystem]
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
@@ -121,3 +121,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-13 补充：M9 连续4月 50万+销冠
 - 鸿蒙智行官宣：**M9 连续四个月蝉联 50万以上车型销量第一**；**M6（4/22上市）累计交付破6万台**
 - 判断：华为系高端矩阵 M6/M8/M9 梯度成型——M9 锚定品牌上限、M6 走量（呼应 [[huawei-ads]] 乾崑搭载破200万辆）
+
+## 2026-10-14 补充：2027 进欧洲 + WVTA 认证启动
+- **问界 2027 年进欧洲、WVTA 认证已启动**（[[2026-paris-auto-show]] 口径）——华为系品牌欧洲准入第一站
+- 判断：M9 国内 50 万+销冠（10/13）后，欧洲是华为系高端叙事的下一个校验场；WVTA 启动早于整车出口 = 合规先行（[[eu-70x70-rule]] 语境）

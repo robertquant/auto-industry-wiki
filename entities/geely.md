@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-13
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -188,3 +188,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-13 补充：巴西库里蒂巴合资工厂投产冲刺
 - **吉利×雷诺巴西库里蒂巴（Curitiba）合资工厂进入投产冲刺**——南美本地化产能落地（雷诺品牌/渠道 + 吉利供应链），与 [[eu-hybrid-export-caps-2026]] 语境下欧洲建厂同构：本地化=绕开贸易壁垒的通用解
 - 背景：9月吉利出口 +162%（[[chinese-oem-export]]），海外产能是下一阶段增量来源
+
+## 2026-10-14 更新：巴黎车展首秀 + 欧盟月销破万
+- **吉利集团首秀巴黎车展**：Monjaro EM-i / 领克07GT 首秀；**极氪9X 开启预订（2027年1月交付）**；**极氪欧洲交付 +200%**（[[zeekr]]）
+- **2027 年起 [[volvo]] 任领克欧洲独家经销商**——9/10 协议在欧洲主场正式官宣，「轻资产借渠道」落地（[[chinese-oem-export]] 渠道复用样本）
+- **三大品牌（吉利/极氪/领克）欧盟 9 月销量首破万辆**——欧洲月销万级是本地化（西班牙合资，[[eu-hybrid-export-caps-2026]] 语境）前的渠道先行
+- 判断：欧盟首破万辆 + 极氪 9X 预订 = 吉利欧洲从「试水」进入「批量收割」；沃尔沃渠道承接领克后，吉利系欧洲网络密度翻倍

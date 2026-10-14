@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-13
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -220,3 +220,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-13 补充：1-8月出口TOP10——巴西登顶、欧洲五席
 - **巴西 209,394辆登顶**（纯电11万+插混9.9万）；澳/英/比利时紧随其后，前十中**欧洲占五席**
 - **按市场配置动力组合**：泰国几乎全纯电；英国/比利时/阿联酋以插混为主——比亚迪出口从「卖同一种车」转向「按市场定义产品组合」（对照 [[byd-dolphin-g-dmi]] 欧洲专用DM-i）
+
+## 2026-10-14 补充：大汉上市（10/13）+ 欧洲本地化承诺
+- **大汉正式上市 23.59 万起**（9月预售 24.99-29.99 万）：CLTC 最高 1008km、二代刀片+闪充、云辇-A、**后轮转向全系标配**——D级行政尺寸打 25 万级（详见 [[byd-han]]）
+- **李柯巴黎车展口径：欧洲 2030 年本地员工超 4 万人**——匈牙利工厂（[[byd-hungary-factory]]）之外的人力本地化承诺；与出口退税下调（[[export-tax-rebate-cut-2026]]）同框 = 「到欧洲造车」政策信号的企业侧呼应
+- 判断：大汉上市价较预售下探 1.4 万，验证「尺寸越级+价格降维」旗舰打法；欧洲 4 万人目标刷新中国车企欧洲本地化规模上限

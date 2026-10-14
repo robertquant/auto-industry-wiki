@@ -1,7 +1,7 @@
 ---
 title: 超快充技术军备竞赛
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-10-14
 type: concept
 tags: [battery, charging, 800v, catl, byd, technology]
 sources: [memory/2026-05-03.md]
@@ -78,3 +78,8 @@ sources: [memory/2026-05-03.md]
 - **9/23 吉利发布「智充」**：单枪峰值 2250kW，宣称全球量产最快补能纪录——超充叙事从「分钟级」进入「秒级补能」（对照 [[byd]] 兆瓦闪充、宁德 6分27秒）
 - **基础设施**：截至2026年8月全国充电设施超 2,422万台
 - 相关：[[geely]]、[[battery-swap-vs-ultra-fast-charging]]
+
+## 2026-10-14 补充：小鹏 8C——8分钟充至 80%
+- **小鹏 XPENG AI ENGINEERING 发布 8C 超充：8 分钟充至 80%**（[[xpeng]]）——超充军备竞赛从「5分钟补能数百km」升级为「8分钟满血」
+- 对照：[[byd]] 兆瓦闪充 10C（5分钟 10-70%）、吉利智充 2250kW（10/2 已录）、宁德 6分27秒——「分钟级」叙事白热化
+- 判断：8C/10C 参数战的意义小于「桩端配套」——超充体验仍受电网与桩密度约束（[[battery-swap-vs-ultra-fast-charging]] 补能路线之争）

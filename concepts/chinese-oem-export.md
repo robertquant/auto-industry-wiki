@@ -1,7 +1,7 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-10-10
+updated: 2026-10-14
 type: concept
 tags: [export, strategy, trend, oem-cn]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -83,3 +83,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **中欧混动出口协议（10/9）**：混动/插混对欧出口或减半——直接冲击出口结构中混动占比高者（[[chery]]、[[geely]]、[[byd]]），详见 [[eu-hybrid-export-caps-2026]]
 - **北美闸门合拢中**：美国禁止法案推迟至中期选举后、加拿大 Unifor 要求 100% 附加税、英国评估加税（[[north-america-ev-trade-barriers-2026]]）；中加低关税 EV 配额（4.9万辆/年）成唯一合规缝隙，[[geely]] 2027 卡位
 - 判断：出口的「量」叙事进入顶部区域，「本地化率×合规通道」成为下一阶段胜负手（[[eu-70x70-rule]]、[[china-tech-reverse-export]]）
+## 2026-10-14 补充：9月出口 91.7万辆 + 增程出口暴涨 478%
+- **9 月乘用车出口 91.7 万辆（+73.7%）**：新能源占 **60.8%**；**增程出口暴涨 +478%**——增程从内销技术路线变成出口新引擎（[[range-extender-trend]]）
+- **10 月上旬零售同比 -24%**、新能源渗透率 **61.2%**——国内总量收缩 vs 出口高增的剪刀差延续
+- 判断：增程 +478% 与中欧混动配额（[[eu-hybrid-export-caps-2026]]）形成最尖锐对冲——增长最快的出口形态恰是配额封顶对象；出口退税下调（[[export-tax-rebate-cut-2026]]）同期落地，出口的「量叙事」见顶信号进一步确认（对照 10/10 判断）

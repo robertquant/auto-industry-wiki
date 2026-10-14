@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-13
+updated: 2026-10-14
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -110,3 +110,13 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **Tier1 抢戏**：[[valeo]] VSS360（一体化单盒，L1/L2→L2+ 高速NOA）+ SCALA 3 激光雷达（200米/130km/h，面向L3/L4）——供应商从幕后走向台前
 - **[[changan]] 启源正式入欧**：长安携启源/深蓝/阿维塔参展、混动产品线扩容——配额落地（[[eu-hybrid-export-caps-2026]]）前抢窗口
 - 判断：车展进入「技术表态」阶段——欧洲用「下一代架构概念」（全固态/1000V/线控）防守，中国用「当下可买」进攻
+
+## 10/14 补充：G9L欧洲定价 + 吉利集团首秀 + 德系集体缺席
+- **[[xpeng]] G9L 全球上市定价落地：法国 74,990 欧起**（64国）；图灵AI智驾欧洲首次公开道路体验——与 [[tesla]] 为仅有两家应战「智驾实验室」公开实测的参展商（详见 [[xpeng-g9l]]：5C 11.7分钟/26国674万公里路测）
+- **[[geely]] 集团首秀巴黎车展**：Monjaro EM-i / 领克07GT 首秀；**极氪9X 开启预订（2027年1月交付）**；**极氪欧洲交付 +200%**（[[zeekr]]）；**2027年起 [[volvo]] 任领克欧洲独家经销商**（9月协议的欧洲主场官宣）；**三大品牌欧盟 9 月销量首破万辆**
+- **中国品牌 20 家参展（较上届翻倍）**；**宝马/MINI/捷豹路虎集体缺席**——德系勒紧营销保研发（[[bmw]] 10/6 缺席记录延续）
+- **[[chery]] 瑞虎4 混动法国首发 23,990 欧起**——奇瑞欧洲平价混动进攻（[[eu-hybrid-export-caps-2026]] 配额窗口期抢量）
+- **[[changan]] 欧洲基地时间表**：2028 年 18 万辆产能、2030 年 35 万辆，合作方年内官宣；**问界 2027 进欧洲、WVTA 认证已启动**（[[wenjie]]）
+- **[[renault]] 主场收官口径**：50 辆展车、6 款新车 + 3 款概念车（新 Mégane E-Tech / Trafic E-Tech 800V 279英里 / R5 Turbo 3E / Rafale Hypnotic / E-Space / R8 Gordini 270马力 / R4 JP4x4）；Provost 携 Cambolive 主持；**Ampere Douai 工厂联合项目（日产/三菱）推进**（[[ampere]]）
+- **[[volvo]] XC60 第三次改款亮相**（插混 1240km）；**[[byd]] 李柯口径：欧洲 2030 年本地员工超 4 万人**（[[byd-hungary-factory]]）
+- 判断：①车展进入「定价+交付」阶段——中国品牌同日完成欧洲定价（G9L/瑞虎4）与预订开启（极氪9X），10/5「参展即收割」判断兑现；②德系集体缺席 vs 中国 20 家翻倍 = 车展投入再分配的直观镜像；③出口退税下调（[[export-tax-rebate-cut-2026]]）+混动配额落地前，中国品牌在巴黎的每笔签约都在给 2027 本地化竞速加注

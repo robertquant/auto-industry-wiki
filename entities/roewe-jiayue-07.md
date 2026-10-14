@@ -1,7 +1,7 @@
 ---
 title: 荣威家越07 (Roewe Jiayue 07)
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-14
 type: entity
 tags: [oem-cn, vehicle, pricing, cockpit, ai]
 sources: [raw/articles/2026-09-26-daily-digest.md]
@@ -41,3 +41,7 @@ sources: [raw/articles/2026-09-26-daily-digest.md]
 - Token 补贴的期限与额度上限（是否隐含细则）
 - 是否引发同行跟进的价格战
 - 用户实际座舱 AI 使用率与车企成本敞口
+
+## 2026-10-14 补充：工博会「全球首款AI原生汽车」亮相
+- **工博会亮相，标榜「全球首款 AI 原生汽车」**：基座 **火山引擎豆包**（[[volcengine]]）、**2000+ SOA 原子接口**——座舱 Agent 可调用整车级服务
+- 判断：「全球首款」话术存疑（AI 原生定义权竞争，[[aidv]]），但 2000+ SOA 原子接口是实打实的软件架构动作——座舱开放度从「功能级」到「整车级」的跃迁样本；Token 补贴（9/26 已录）+ AI 原生双标签 = 荣威用 AI 叙事对冲 13.78 万价格带的同质化

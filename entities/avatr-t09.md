@@ -1,7 +1,7 @@
 ---
 title: 阿维塔T09
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-14
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech, export]
 sources: [raw/articles/2026-10-10-daily-digest.md]
@@ -43,3 +43,6 @@ sources: [raw/articles/2026-10-10-daily-digest.md]
 - 巴黎车展正式发布的具体定价与上市节奏
 - 「全球首发」是否同步开启欧洲预订（9家中国品牌法国门店可下订背景下）
 - 4激光雷达方案的MSRP溢价 vs 竞品（问界M9/理想i9）
+## 2026-10-14 补充：概念版巴黎首秀 + 50万级定位
+- **T09 概念版巴黎首秀**（[[2026-paris-auto-show]]）：华为乾崑 + 三电机；**50 万级、2026 年内上市**（媒体口径）——定价区间浮出
+- 判断：50 万级插混旗舰 vs [[li-auto]] i9/问界 M9 的高端混战（[[9-series-suv-battle]]）；2026 年内上市意味着国内交付先于欧洲准入

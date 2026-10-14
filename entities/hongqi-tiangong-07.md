@@ -1,7 +1,7 @@
 ---
 title: 红旗天工07 (Hongqi Tiangong 07)
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-14
 type: entity
 tags: [vehicle, oem-cn, adas, pricing, cockpit]
 sources: [raw/articles/2026-10-11-daily-digest.md]
@@ -37,3 +37,6 @@ sources: [raw/articles/2026-10-11-daily-digest.md]
 - 16.79 万的「标配」口径（全系 vs 高配）
 - 天工系列后续车型与销量爬坡
 - 对同价位竞品（深蓝/埃安/银河）智驾配置的挤压
+## 2026-10-14 补充：高通 8397 座舱细节
+- **首发高通 8397**：AI 算力 ≈8295×14、64GB+512GB、东软智行域控——「算力堆料」定义国产旗舰座舱新基准（[[qualcomm-auto]]）
+- 判断：8295×14 的量级把座舱算力叙事从「够用」推向「过剩」——支撑端侧大模型+多屏交互；座舱芯片军备竞赛的又一锚点（[[cockpit-chip]]）

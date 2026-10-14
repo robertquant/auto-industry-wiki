@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-13
+updated: 2026-10-14
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -86,3 +86,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-13 补充：巴黎车展「技术表态」+ 零跑合作深化
 - **标致 RCZ Vision 概念车**：全固态电池 + 1000V + 线控底盘（STLA One 架构，目标500马力/600km）——集团下一代纯电平台集中表态（[[solid-state-battery]]，详见 [[2026-paris-auto-show]]）
 - **[[leapmotor]] 合作深化（WSJ 10/10）**：萨拉戈萨工厂产零跑 B10 **最快今年投产**——西方大厂首次向中国品牌开放欧洲制造；另洽谈零跑三电技术装菲亚特/欧宝/标致（从「卖零跑的车」到「用零跑的技术」，见 [[leapmotor-stellantis]]）
+
+## 2026-10-14 补充：Q3 发货 128.6万辆——欧洲 Smart Car 回血、北美失血
+- **Q3 发货 128.6 万辆（-1%）**：**欧洲 +10%**（Smart Car 平台 C3/Frontera/大潘达走量）、**北美 -12%**；**含零跑国际 51% 并表**
+- 判断：欧洲靠廉价 BEV 平台回血，验证「用中国性价比打法守欧洲」（[[leapmotor]] 同构）；北美 -12% 延续 10/10「皮卡撑盘」的结构脆弱性；零跑国际并表开始贡献（[[leapmotor-stellantis]]）
