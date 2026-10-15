@@ -2,7 +2,7 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-14 | Total pages: 310
+> Last updated: 2026-10-15 | Total pages: 310
 
 统计：entities 120 · concepts 172 · comparisons 7 · auto-industry 10 · european-automakers 1
 

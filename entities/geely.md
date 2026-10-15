@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-14
+updated: 2026-10-15
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -194,3 +194,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **2027 年起 [[volvo]] 任领克欧洲独家经销商**——9/10 协议在欧洲主场正式官宣，「轻资产借渠道」落地（[[chinese-oem-export]] 渠道复用样本）
 - **三大品牌（吉利/极氪/领克）欧盟 9 月销量首破万辆**——欧洲月销万级是本地化（西班牙合资，[[eu-hybrid-export-caps-2026]] 语境）前的渠道先行
 - 判断：欧盟首破万辆 + 极氪 9X 预订 = 吉利欧洲从「试水」进入「批量收割」；沃尔沃渠道承接领克后，吉利系欧洲网络密度翻倍
+
+## 2026-10-15 更新：前三季度销量破 300 万辆 + 新能源渗透率 59.7%
+
+- **前三季度销量突破 300 万辆**、**新能源渗透率 59.7%**（晚报口径）——吉利提前锁定全年 400 万级体量，新能源已成基本盘而非增量（对照 [[byd]] 同期、[[chinese-oem-export]]）
+- 与 10/14 欧洲三品牌首破万辆、极氪 9X 预订同频：国内渗透率见顶于六成线后，增量靠海外与高端（[[zeekr]]、[[volvo]]）

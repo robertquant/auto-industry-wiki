@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-13
+updated: 2026-10-15
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -202,3 +202,21 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-10-13 补充：Q3 中国——油电分化极端化
 - **Q3 中国 8.68万辆（-31%）** vs **纯电 6.84万辆（+61%）创新高**——燃油塌方、纯电爆发，「过渡年」定位被数据坐实
 - **国产长轴 GLE 标配 Momenta R6**（[[momenta]]）——奔驰中国智能化继续外包头部国产方案
+
+## 2026-10-15 补充：纯电CLA中国惨败终局 + MMA失效根因 + Momenta深度绑定（robert 三问）
+
+### 售价/销量终局
+- **6 月零挂牌、产线暂停**，上市 8 个月累计仅千余台；上半年累计 627-635 辆；7 月传停产（北京奔驰辟谣「高温假+设备检修」）
+- 价格线：上市 24.9-29.99 万（CLA 260L 入门 24.9 万）→ **2026 款调整至 22.9 万起**，经销商「清库姿态」。账面不差：89kWh、CLTC 最高 866km、800V、325kW 快充
+- 对照：同款车欧洲月销 4,000+ 坐稳销冠——**同一款车、两个市场、两种命运**
+
+### MMA 平台为何中国失效——不是技术失败，是中国化失败
+1. **轴距仅比欧洲标轴加长 40mm**，仍是紧凑轿跑——中国卖点（空间/行政感）未兑现
+2. **中国版阉割双电机四驱**只留单电机后驱；**全系无激光雷达**，智驾止步 L2++——恰逢中国「智驾平权」主战场（对比 [[deepal]] S07 15.99 万带华为 ADS Pro，[[lidar-penetration]]）
+3. **EQ 系列「油改电」烂尾楼效应**透支信任——高管段建军喊出「我们不是杂牌电动车」的反击本身就是品牌危机的注脚
+4. **基本盘失血**：Q2 中国销量暴跌 30% 跌破 10 万辆，经销网络承压
+
+### 智驾伙伴确认：Momenta，且是深度绑定
+- **2017 年投 B1 轮——首个投资 Momenta 的车企**；**2026.6 港股 IPO 做基石投资者**（与比亚迪等 14 家）；**联合研发模式**而非纯采购
+- **2026.6.15 OTA Momenta 强化学习大模型上车**：复杂路口处理能力提升 **5-10 倍**（详见 [[momenta]]）
+- **虾评**：欧洲卖「车」、中国卖「智能」——CLA 把欧洲成功经验原样搬中国 = 错误市场用错误武器；软件跟上了（Momenta 绑定），但硬件定义（无激光雷达）被旧架构锁死。MMA 留给奔驰的教训：中国化不是加长+降价，是重新定义产品（[[china-tech-reverse-export]]、[[bba-ev-ranking-2026]]）}]

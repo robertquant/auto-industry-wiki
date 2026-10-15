@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-14
+updated: 2026-10-15
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -84,3 +84,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **捷途旅行者7 全球上市 14.99-17.99 万**——捷途越野序列全球扩张
 - **中欧磋商达成共识，奇瑞表态支持**——作为混动出口最大受益者之一的表态分量（[[eu-hybrid-export-caps-2026]]）
 - 判断：欧洲混动配额落地前加速「最后窗口期」投放；瑞虎4 定价直插 Dacia/雷诺平价区间（[[entry-ev-profit-crisis]]）
+
+## 2026-10-15 更新：9月新能源 13.3万辆破纪录 + 犀牛固态电池规格落地
+
+- **9 月新能源销量 13.3 万辆破纪录**——奇瑞新能源单月新高（燃油+混动出口基本盘之外的新能源加速，[[chinese-oem-export]]）
+- **犀牛固态电池 400Wh/kg（S 系列），2027 上车验证**——规格落地坐实 10/14 前「固液混合先行、全固态验证」路线（[[solid-state-battery]]）：400Wh/kg 直逼全固态指标，S 系列或对应高端序列首搭
+- 判断：13.3 万验证奇瑞「出口+新能源」双轮，但新能源以国内为主（海外仍是燃油/混动）；犀牛 S 系列 2027 验证节点与 [[byd]] 全固态 2027 装车同档——2027 是国产固态电池验收年

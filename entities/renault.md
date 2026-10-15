@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-14
+updated: 2026-10-15
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -288,3 +288,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Ampere Douai 工厂联合项目推进（[[nissan]]/三菱）**——联盟从平台共享延伸到共厂共线（[[renault-nissan-development-process]]）
 - **雷诺-日产联盟上半年全球份额 5.4% 列第五**（崔东树口径）
 - 判断：主场秀的「量」（50辆）兑现，「本地化/联盟协同」细节（Douai 三品牌共线）是更值得跟踪的落地项
+
+## 2026-10-15 更新：Provost 上任定位——接替 de Meo（2025.7），强调速度与敏捷
+
+- **新 CEO Provost 2025.7 接替 de Meo**，巴黎发布会反复强调「**速度与敏捷**」——从 de Meo 时代的「Electropop 叙事+分拆 Ampere」切换到 Provost「务实控本+加速决策」基调（呼应 10/8 已录的「从 de Meo 独立 Ampere 叙事到 Provost 务实控本」）
+- 判断：雷诺的公司叙事重心从「电动愿景」转向「执行速度」——与 10/1「开发周期红线（不低于两年）」条目对照：对外强调敏捷、对内守住工程红线（[[2026-paris-auto-show]]、[[renault-nissan-development-process]]）

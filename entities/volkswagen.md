@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-14
+updated: 2026-10-15
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -219,3 +219,12 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **10/23 Q3 财报 = 关键观察点**：Q3 全球 -14.3%（四年最大）、中国 -38.5%（10/13 已录）后，市场等待重组成本与利润率细节（利润率已下修至 ≤1%，见 10/11）
 - **上汽大众 ID.ERA 8X（10/12 上市，20.68万起/25万级主力）**：800V + EA211 增程器、**CLTC 1602km**、**Momenta R7 + 192线激光雷达**、**交付即城市 NOA**——「大众底盘+中国软件」合资反攻完整模板（[[momenta]]、[[range-extender-trend]]）
 - 判断：ID.ERA 8X 把 10/13「增程救火」升级为「增程+中国智驾」双补课；10/23 财报将首次量化重组成本对利润率的实际吞噬
+
+## 2026-10-15 补充：CARIAD 再裁1000人——裁员靶心在德国，中国区反向扩招
+
+- **结论（每经求证）**：无证据显示此轮裁员涉及中国团队；证据指向中国区在**扩招**。每经已向大众中国求证，截至发稿未获回复
+- **裁员靶心在德国**：1000人 = 23%（4,300→3,300）；最可能受影响的是 CARIAD×博世**提前终止合作**项目约 500 人（德国为主）；2025 年已裁 30%（1,600人）
+- **动因**：CARIAD 2025 营收 17.75 亿欧、经营亏损 **21.8 亿欧**——总部止血优先
+- **中国区反向操作**：**VCTC（合肥，2023 落户，总投资约 10 亿欧）是大众德国总部以外最大研发中心**；2026 招聘较 2025 增长 **19%**、薪资涨 **13%**；CARIAD 中国职能已并入合肥体系
+- **判断（robert 问答深挖）**：大众软件战略本质是「**从德国收缩、向中国转移**」——裁德国工程师、招合肥工程师，用中国人力成本+供应链重做软件（[[china-tech-reverse-export]]）。观察点：VCTC 2,000 人目标是否兑现、CEA 架构量产节点（2026-27，见 10/3 安徽基地/酷睿程条目）
+- 相关：[[euro-stoxx-50-exit]]、[[traditional-automaker-ai-transition]]

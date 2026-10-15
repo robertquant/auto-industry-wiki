@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-14
+updated: 2026-10-15
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -185,3 +185,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 ## 2026-10-14 补充：巨湾技研首条 GWh 级全固态产线投产
 - **巨湾技研行业首条 GWh 级全固态电池产线投产**：技改路线 + 固液柔性切换（可生产固液混合/全固态）——「先混固液、后全固态」政策路线（10/3 已录）的产线端落地
 - 判断：GWh 级产线 = 全固态从「样品」进入「试产」；柔性切换设计对冲全固态商业化不确定性——设备复用是当前阶段的务实工程解，与 [[byd]] 2027 硫化物装车、[[battery-fifteen-five-plan]] 2030 初步规模化时间表对齐
+
+## 2026-10-15 更新：奇瑞犀牛固态 400Wh/kg（S 系列）——2027 上车验证
+
+- **奇瑞犀牛固态电池 400Wh/kg**（S 系列，2027 上车验证）——400Wh/kg 已逼近全固态指标线（对照 [[byd]] 硫化物 400Wh/kg），奇瑞从「固液混合先行」向「固态规格兑现」迈一步
+- **2027 = 国产固态验收年**：比亚迪（硫化物装车）、奇瑞（犀牛 S 系列验证）、行业政策（2030 初步规模化）三线汇合（[[battery-fifteen-five-plan]]）

@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-03
+updated: 2026-10-15
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -160,3 +160,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **9/21 完成第100万辆交付**，成交均价 40万+——高端纯电首个百万（对照 [[li-auto]] 累计183万含增程、[[xiaomi-auto]] 50万）
 - **9月三品牌均创历史新高**（蔚来品牌 21,318台 +55.3%）；前三季度累计 300,301台（+49.2%），年目标 45.6-48.9万达成率仅 61-66%——全年目标大概率下修或阶段性放弃
 - 补能峰值压力测试（国庆服务区排队 5h+）：换电确定性 +1（见 [[nev-battery-swap]]、[[geely-nio-swap-alliance]]）
+
+## 2026-10-15 更新：充换电站累计 9,602 座
+
+- **充换电站累计 9,602 座**（晚报口径，较 10/3 的 9,515 座 +87 座）——补能网络仍在周级爬坡（[[nev-battery-swap]]）
+- 与 9/28 [[geely-nio-swap-alliance]]（吉利入股蔚来能源 30%）叠加：换电从单品牌壁垒转向双巨头平台化后的网络密度仍领先

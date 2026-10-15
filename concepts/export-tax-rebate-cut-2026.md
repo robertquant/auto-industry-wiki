@@ -1,7 +1,7 @@
 ---
 title: 新能源出口退税率下调（2027年4月 13%→9%）
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 type: concept
 tags: [policy, export, trend, strategy]
 sources: [raw/articles/2026-10-14-daily-digest.md]
@@ -34,3 +34,8 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 - [[byd]] / [[geely]] / [[chery]] - 出海三极
 - [[battery-passport-2026]] - 合规成本上升的另一维度
 - [[eu-70x70-rule]] - 欧盟本地化价值要求
+
+## 2026-10-15 补充：晚报洞察——低毛利平价车型承压
+
+- **出口退税下调 + 欧盟本地化要求双叠加**：出海逻辑从「低价走量」转向「本地化+高附加值」——**低毛利平价车型未来一年最难受**（单车利润本就薄，退税减少直接侵蚀）
+- 受益侧：本地化产能（[[byd-hungary-factory]]、[[leapmotor-stellantis]]）与高价值车型（[[xpeng-g9l]] 74,990 欧起）——退税退坡对出口结构是「洗牌器」而非「刹车」

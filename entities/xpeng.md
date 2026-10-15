@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-10-14
+updated: 2026-10-15
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -160,3 +160,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - **G9L 法国 74,990 欧起**（全球上市 64 国执行，详见 [[xpeng-g9l]]）：5C 超充 10-80% 仅 11.7 分钟、26 国 674 万公里路测，**NGP 2027 全球交付**——欧洲「补能+数据」双叙事落地
 - **XPENG AI ENGINEERING 发布**：**8C 超充 8 分钟充至 80%**（[[ultra-fast-charging]] 军备竞赛再上台阶）；**机器人（IRON）年底量产**——呼应 10/11「物理 AI 全家桶出征」叙事进入量产兑现
 - 判断：G9L 欧洲定价直插豪华纯电区间 + 8C/机器人量产 = 小鹏「AI 原生」叙事同时进入欧洲定价验证与国内技术兑现两个阶段
+
+## 2026-10-15 更新：凯旋门环岛 NGP 实测 + 开放物理 AI 生态
+
+- **NGP 巴黎凯旋门环岛实测通过**（何小鹏 10/14 22:25 宣布）：VLA2.0 / 6.3.0 版本，**无标线、无红绿灯的 12 条大道环岛**——欧洲最复杂路口的真实考场；**两周微调适配一国**，印证「VLA 泛化成本低」叙事（[[vla-model]]、[[vla-mass-production]]）；NGP 2027 欧洲落地（呼应 10/12 首测、[[xpeng-g9l]]）
+- **开放智能汽车技术合作 + 物理 AI 生态**（10/14 财联社）：**万兆以太网车内传输 +33 倍**、AI 诊断单车检测省 **41 分钟**、产线电检年成本 **-95%**、15 分钟整车 OTA——供应链效率数字首次系统公开；**Robotaxi「小鹏悠游」洽谈欧洲出行平台**（[[xiaopeng-yoyo]]）、**飞行汽车 7,000 台订单**、**机器人年底量产**（呼应 10/14 AI ENGINEERING）
+- **2030 百万辆目标**（晚报口径）：欧洲占半——出海从「销量增长」升格为「集团半壁江山」
+- 判断：凯旋门实测 = 技术证伪叙事升级（官方亲测而非仅试乘）；开放生态 = 从「卖车」到「卖技术栈+卖生态」的商业模式外溢，与 10/11「物理 AI 全家桶」一致（[[physical-ai]]、[[ai-engineering-2026]]）

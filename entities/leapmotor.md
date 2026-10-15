@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-05
+updated: 2026-10-15
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -183,3 +183,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **零跑下调 2026 利润目标 40%**——连续破10万台但盈利达标承压，规模换利润的代价显性化（H1净利2.1亿仍为新势力唯一盈利）
 - 零跑国际欧洲目标上调 10万+（[[stellantis]] 通道加码）
 - 判断：价格战侵蚀超预期；出海溢价与本土价格战的利润对冲是Q4观察点
+
+## 2026-10-15 更新：B10 萨拉戈萨下线——首款欧洲量产车兑现
+
+- **B10 本周在 Stellantis 西班牙萨拉戈萨工厂下线**——零跑首款欧洲量产车（2026 计划 9,000 台，供西/法/意市场）
+- 意义：从「10/1 欧洲网点 1,020 家/渠道布局」进入「**欧洲本地制造**」落地——在混动配额/关税挤压（[[eu-hybrid-export-caps-2026]]）下，本地化产能 = 免配额通路（[[leapmotor-stellantis]]、[[export-tax-rebate-cut-2026]]）
+- 判断：9,000 台/年只是试水规模，验证「Stellantis 工厂代工 + 中国三电」模式的良品率与成本；跑通则复制到更多车型（对照 10/14 三电装菲亚特/欧宝/标致洽谈）

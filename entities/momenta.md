@@ -1,7 +1,7 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-10
+updated: 2026-10-15
 type: entity
 tags: [tier1, adas, ai, system]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -73,5 +73,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 ## 2026-10-10 更新：Robotaxi 全球化扩张路线图
 - **Robotaxi 计划：2026 底数百辆 → 2027 数千辆**，重点进入 **迪拜、更多欧洲城市、日本**——从乘用车方案商切入 L4 运营赛道（[[pony-ai]]、[[weRide]] 之外的第三条商业化路径：方案商自营车队）
 - **凯迪拉克 XT5 搭载 Momenta R7 世界模型**（Q3 交付超 9,000 辆，见 [[saic-gm]]）——合资/外资品牌在华车型继续装车，装机量基本盘扩大
+
+## 2026-10-15 更新：奔驰深度绑定细节——从 B1 轮到港股基石
+
+- **时间线坐实「最早绑定」**：2017 年投 B1 轮，**首个投资 Momenta 的车企**；2026.6 港股 IPO 任**基石投资者**（与比亚迪等 14 家）——从股权投资到资本站台两条线都锁死（见 [[mercedes-benz]]）
+- **非纯采购，联合研发模式**：与奔驰中国团队共研，非黑盒交付
+- **2026.6.15 OTA 强化学习大模型上车国产纯电 CLA**：复杂路口处理能力提升 5-10 倍——Momenta 技术从「端到端」追加「RL 强化」标签，是国产方案商在豪华品牌中的**技术溢价**证据
+- 判断：奔驰×Momenta 不是「供应商关系」而是「资本+研发+产品」三重绑定——国产智驾方案商拿到过最深的欧洲豪华品牌绑定样本（对照 [[bmw]] 的深度共研，[[foreign-automakers-chinese-ad]]）
 - 判断：Robotaxi 扩张 = Momenta 从「卖方案」到「卖运营」的估值叙事升级；中东/欧洲/日本绕开中国 Robotaxi 内卷（[[waymo-vs-tesla-robotaxi-2026]] 全球三方格局），但自营车队的资产/合规成本是新增敞口
 
