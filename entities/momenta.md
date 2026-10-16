@@ -1,7 +1,7 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [tier1, adas, ai, system]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -82,3 +82,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - 判断：奔驰×Momenta 不是「供应商关系」而是「资本+研发+产品」三重绑定——国产智驾方案商拿到过最深的欧洲豪华品牌绑定样本（对照 [[bmw]] 的深度共研，[[foreign-automakers-chinese-ad]]）
 - 判断：Robotaxi 扩张 = Momenta 从「卖方案」到「卖运营」的估值叙事升级；中东/欧洲/日本绕开中国 Robotaxi 内卷（[[waymo-vs-tesla-robotaxi-2026]] 全球三方格局），但自营车队的资产/合规成本是新增敞口
 
+
+## 2026-10-16 更新：R7世界模型首批OTA上车奔驰
+
+- **奔驰将首批 OTA Momenta R7 世界模型**（晨报口径）——继 6/15 强化学习大模型 OTA（10/15 已录）后，世界模型成为双方第二个装车节点：世界模型（[[world-model]]）从仿真/训练侧下沉到车端推理（[[vla-world-model]] 路线的一家之言），奔驰成其豪华品牌首发载体
+- 判断：「资本+研发+产品」三重绑定（10/15 已录）继续兑现为装车节奏；R7 世界模型若在奔驰存量车上跑通，= Momenta 从「端到端方案商」升级为「世界模型上车第一人」，对标 [[tesla]] FSD 世界模型叙事

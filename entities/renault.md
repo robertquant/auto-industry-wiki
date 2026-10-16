@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -293,3 +293,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **新 CEO Provost 2025.7 接替 de Meo**，巴黎发布会反复强调「**速度与敏捷**」——从 de Meo 时代的「Electropop 叙事+分拆 Ampere」切换到 Provost「务实控本+加速决策」基调（呼应 10/8 已录的「从 de Meo 独立 Ampere 叙事到 Provost 务实控本」）
 - 判断：雷诺的公司叙事重心从「电动愿景」转向「执行速度」——与 10/1「开发周期红线（不低于两年）」条目对照：对外强调敏捷、对内守住工程红线（[[2026-paris-auto-show]]、[[renault-nissan-development-process]]）
+
+## 2026-10-16 更新：E-Space概念车/Striker首发 + Q3高个位数预期 + 三菱转购富士康EV
+
+- **巴黎车展收官 + 新 Spring 转欧洲本土生产**：E-Space 概念车首发（三排座、二排可旋转 180°）、达契亚 Striker 世界首发——主场 50 款/6 新车（10/14 已录）之外，Spring 本土化 = 欧洲平价纯电产能回迁（[[entry-ev-profit-crisis]] 语境下的成本自救）
+- **Q3 零售销量预计同比高个位数增长**，正式营收 10/23 披露——H1 全球 116.5 万辆（-0.4%）后，Q3 增长是 Provost「效率型精简」路线（10/8、10/15 已录）的首个成绩单节点
+- **Twingo E-Tech 欧洲 8 月开售**：「中国研发+欧洲制造」样板兑现（详见 [[twingo-e-tech]]）——ACDC 上海两年开发、斯洛文尼亚生产、电机上海 eDrive、LFP 电池 [[catl]]、<2 万欧
+- **Ampere 拆解推进（详见 [[ampere]]）**：IPO 失败后并入集团转先进工程中心，Douai 等三厂回归直属，CFO 出走 Nexans——继 Mobilize 后第二次纠偏
+- **联盟侧：三菱转向采购富士康 EV**——雷诺-日产-三菱联盟内部分化：三菱弃雷诺平台投富士康，Douai 为四家客户产 6 款电动车（[[renault-nissan-development-process]]）
+- **巴西**：与 [[geely]] 合资首车（银河星舰7）下线、吉利持股 26.4%、GEA 平台两款新车下半年投产
+- 判断：10/23 营收 = Provost 百日考；Twingo 成本兑现 + Q3 增长是胜负手（雷诺周报本周判断）；三菱转向富士康给联盟敲警钟——「共厂共线」若不快于外部代工选项，联盟会继续空心化

@@ -1,7 +1,7 @@
 ---
 title: 功率模块市场格局 2026（1-7月装机）
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-162026-10-02
 type: concept
 tags: [chip, supply-chain, trend]
 sources: [raw/articles/2026-10-02-daily-digest.md, daily-news/2026-10-02-gasgoo-evening.md]
@@ -27,3 +27,8 @@ sources: [raw/articles/2026-10-02-daily-digest.md, daily-news/2026-10-02-gasgoo-
 - **IGBT国产化提速**：国产份额登顶标志供应链安全叙事兑现；英飞凌等外资份额被挤压
 - **SiC 是下一个战场**：外资暂领先、本土紧咬，8英寸SiC衬底降本是决胜变量，见 [[auto-chip-self-develop]]、[[global-battery-competition]]
 - 与智驾芯片（[[autonomous-driving-chips]]）对照：电驱功率半导体的国产替代先于智驾芯片完成
+
+## 2026-10-16 更新：长飞先进车规主驱SiC——8英寸降本赛再添玩家
+
+- **长飞先进发布车规主驱 + AI 数据中心新技术（10/15 深圳）**（10/16 盖世）——碳化硅功率半导体在「新能源车电驱 + 算力基础设施」双赛道加速渗透（长飞 = 光通信起家的 SiC 新势力，主驱/AI 数据中心双目标）
+- 判断：本页「SiC 是下一个战场、8 英寸衬底降本是决胜变量」判断兑现中——长飞（光纤龙头跨界）+ 既有玩家涌入，SiC 竞争从「材料产能」走向「车规验证+数据中心」双市场（对照 [[nvidia]] 数据中心逻辑）；比亚迪半导体格局（[[byd]] 垂直整合）压力测试加码

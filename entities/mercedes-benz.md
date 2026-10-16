@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -220,3 +220,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **2017 年投 B1 轮——首个投资 Momenta 的车企**；**2026.6 港股 IPO 做基石投资者**（与比亚迪等 14 家）；**联合研发模式**而非纯采购
 - **2026.6.15 OTA Momenta 强化学习大模型上车**：复杂路口处理能力提升 **5-10 倍**（详见 [[momenta]]）
 - **虾评**：欧洲卖「车」、中国卖「智能」——CLA 把欧洲成功经验原样搬中国 = 错误市场用错误武器；软件跟上了（Momenta 绑定），但硬件定义（无激光雷达）被旧架构锁死。MMA 留给奔驰的教训：中国化不是加长+降价，是重新定义产品（[[china-tech-reverse-export]]、[[bba-ev-ranking-2026]]）}]
+
+## 2026-10-16 更新：Q3在华9万辆+ + 首批OTA Momenta R7世界模型
+
+- **Q3 在华销量 9 万辆+**——较 Q2 跌破 10 万辆（10/15 已录）进一步下探，中国基本盘失血未止（[[bba-ev-ranking-2026]]）
+- **将首批 OTA Momenta R7 世界模型**——智驾合作从「联合研发」（10/15 已录）进入「装车兑现」：R7 世界模型（[[world-model]]）上车 = 奔驰在中国用 Momenta 的新一代架构做体验止血，与 10/15「硬件被旧架构锁死」判断互证（[[momenta]]）
+- 判断：Q3 9 万辆 × OTA R7 世界模型 = 「车卖不动、软件先跟上」——奔驰中国策略从产品重新定义（MMA 教训）转向「存量车软件升级」的止血路线

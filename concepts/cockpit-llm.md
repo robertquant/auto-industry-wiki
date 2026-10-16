@@ -1,7 +1,7 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-09-25
+updated: 2026-10-162026-09-25
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
@@ -117,3 +117,8 @@ robert 判断「座舱 AI 的编排/主动服务层壁垒很低、容易被抄�
 - **OpenAI GPT-6 + Intelligent UI 发布；Anthropic 同日发 Claude Haiku 5.5（成本较 4.5 降 75%）**——座舱 Agent 模型底座路线分化：自研全栈派 vs 合作选型派（[[chinese-oem-ai-methodology]]）
 - 低成本小模型让座舱 Agent 边际成本下探——「全系标配」成本条件成熟，可延伸至 15 万以下价位带（对照 [[deepal]] 智驾平权）
 - 判断：模型价格战与 [[deepseek]] 开源低价共振，端侧/云端双降——座舱 AI 竞争焦点进一步从「模型能力」移向「执行与中间件」（[[cockpit-ai-barrier-layering]]、[[dicore]]）
+
+## 2026-10-16 更新：双大模型冗余成趋势——长安马自达EZ-60「豆包+讯飞星火」
+
+- **长安马自达 EZ-60 引入「豆包+讯飞星火」双大模型（39ms 响应）**（10-16 汽车AI日报）——座舱从「选一家模型」转向「双模型并行/冗余」：一家主交互、一家备援/分工（豆包 = [[volcengine]]生态、星火 = 讯飞）
+- 判断：双模型冗余 = 车企对单一模型供应商的避险（能力/商务双向），与 9/25 记录的「DeepSeek 45.2% 一家独大」形成对冲——模型层「去单点依赖」与 [[cockpit-model-tiering]] 的端云分层叠加，座舱 AI 竞争焦点进一步移向「编排层」（[[cockpit-ai-barrier-layering]]、[[dicore]]）

@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-14
+updated: 2026-10-162026-10-14
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -90,3 +90,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-14 补充：Q3 发货 128.6万辆——欧洲 Smart Car 回血、北美失血
 - **Q3 发货 128.6 万辆（-1%）**：**欧洲 +10%**（Smart Car 平台 C3/Frontera/大潘达走量）、**北美 -12%**；**含零跑国际 51% 并表**
 - 判断：欧洲靠廉价 BEV 平台回血，验证「用中国性价比打法守欧洲」（[[leapmotor]] 同构）；北美 -12% 延续 10/10「皮卡撑盘」的结构脆弱性；零跑国际并表开始贡献（[[leapmotor-stellantis]]）
+
+## 2026-10-16 更新：评估西班牙萨拉戈萨共线生产零跑B10 + 欧宝纯电SUV
+
+- **评估萨拉戈萨工厂共线生产零跑 B10 与欧宝纯电 SUV**——继 B10 下线（10/15 已录）与三电洽谈（10/14 已录）后的第三次表态：从「代工中国车」升级为「中国车与自家车共线」——同一平台级共线 = 零跑技术（[[leapmotor]]）与 Smart Car 平台逻辑（Q3 欧洲 +10%，10/14 已录）在产线端合流
+- 判断：萨拉戈萨从「Stellantis 工厂」变成「中国性价比方案欧洲母港」——若共线落地，欧宝纯电 SUV 的潜在三电/架构来源与 B10 同源，Stellantis「用中国打法守欧洲」进入产线级复制（[[leapmotor-stellantis]]）

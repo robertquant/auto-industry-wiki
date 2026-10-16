@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -190,3 +190,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 
 - **奇瑞犀牛固态电池 400Wh/kg**（S 系列，2027 上车验证）——400Wh/kg 已逼近全固态指标线（对照 [[byd]] 硫化物 400Wh/kg），奇瑞从「固液混合先行」向「固态规格兑现」迈一步
 - **2027 = 国产固态验收年**：比亚迪（硫化物装车）、奇瑞（犀牛 S 系列验证）、行业政策（2030 初步规模化）三线汇合（[[battery-fifteen-five-plan]]）
+
+## 2026-10-16 更新：巨湾产线认证细节——GB/T 48093.1-2026 首家 + 深共熔电解质
+
+- **巨湾技研 GWh 级全固态产线（10/13 投产）认证细节**（10/16 盖世）：**全球首家获第三方权威认证并量产**、**GB/T 48093.1-2026 首家通过**；**深共熔基复合固态电解质路线**、比能量 260-480Wh/kg、**GB 38031-2025 新国标全部安全试验通过**；存量 4GWh 液态线技改 + 固液柔性切换（10/14 已录产线投产）
+- 判断：认证细节坐实「全固态量产」不再是发布会口径——GB/T 48093.1-2026 成为行业首个可对标的标准锚点（对照 [[byd]] 2027 硫化物装车、[[chery]] 犀牛 400Wh/kg、[[battery-fifteen-five-plan]] 2030 规模化）；深共熔（DES）电解质路线 vs 硫化物/氧化物——三条路线并行验证，2027 仍是验收大年

@@ -1,7 +1,7 @@
 ---
 title: FSD V14代码精简
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-162026-06-03
 type: concept
 tags: [adas, end-to-end, tesla, technology, vla]
 sources: [memory/2026-06-02.md]
@@ -55,3 +55,7 @@ FSD V14的代码精简是智驾领域最硬核的实证数据。不是PPT，不�
 - [[huawei-ads]] - 华为ADS（反VLA立场）
 - [[xiaopeng]] - 小鹏VLA端到端
 - [[li-auto]] - 理想MindVLA
+## 2026-10-16 更新：HW3 Lite 蒸馏版——可压缩性的硬件侧变现
+
+- **FSD v14.3 Lite 推送 HW3**（2026.38.5.1，2017 Model X 可装）：HW4 V14 能力蒸馏至 HW3，含强化学习移植——V14 代码量骤减（31 万→2000 行）的端到端可压缩性，在硬件侧兑现为「老硬件也能跑新模型」（详见 [[adas-model-distillation]]）
+- 判断：代码精简 + 模型蒸馏组合 = 特斯拉把「架构效率」变成「存量用户锁定」；对照小鹏「堆算力」路线（[[mona-l05]]）——两条路线对「能力」的定义不同：蒸馏保底体验、堆算力定义上限

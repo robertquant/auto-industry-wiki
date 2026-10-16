@@ -1117,3 +1117,32 @@
 - **导航更新**：index.md - 无新页面（14页均为更新）；Last updated 2026-10-15；Total pages 310（entities 120 / concepts 172 / comparisons 7 / auto-industry 10 / european-automakers 1）
 - **索引完整性校验**：comm 输出为空（310 页全部注册，缺失 0）
 - **核心洞察**：①大众软件战略是「从德国收缩、向中国转移」——裁德国工程师（CARIAD 4300→3300）、招合肥工程师（VCTC 招聘+19%/薪资+13%），用中国人力成本+供应链重做软件，CEA架构量产节点（2026-27）是验证窗口；②奔驰CLA中国失败=中国化失败而非技术失败——欧洲卖「车」、中国卖「智能」，砍四驱/无雷达=把「智能」也砍了，软件（Momenta）跟上但硬件定义被旧架构锁死；③英伟达 vs 地平线差距缩至10.4pp（4月域控口径50.9%→13.6%、8月装机口径30.2%→19.75%），国产替代进入斜率最大区间；④2027=国产固态电池验收年（比亚迪硫化物装车/奇瑞犀牛S系列验证/政策2030规模化三线汇合）；⑤退税+本地化双压下「低毛利平价车型」是未来一年最受伤群体，本地化产能+高价值车型受益
+
+## [2026-10-16 22:00] ingest | 每日整理（晨报 + 雷诺周报 + 汽车AI日报 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-16-daily-digest.md（晨报+雷诺周报+AI日报+晚报要点四合一；晚报全文见 daily-news/2026-10-16-gasgoo-evening.md，已推送 robert）
+- **新建（2页）**：
+  - entities/mona-l05.md - 小鹏MONA L05（预售16.98-19.18万/双图灵1500TOPS/二代VLA/增程1310km/10-29上市）——「算力批发」路线载体
+  - concepts/adas-model-distillation.md - 智驾模型蒸馏路线：特斯拉FSD v14.3 Lite（HW4蒸馏至HW3）vs 小鹏堆算力——存量锁定 vs 上限军备
+- **更新（27页）**：
+  - entities/byd.md - 9月46.36万年内新高/1-9月313.2万 + 巴黎首发Shark插混皮卡 + ATTO 8欧洲首发（二代刀片/9分钟闪充/652km）
+  - entities/geely.md - 出口79.8万(+169%)、巴西雷诺合资首车（银河星舰7）下线、2027进加拿大、谷歌智能座舱合作
+  - entities/chery.md - 9月出口20.78万创中国单月纪录、捷途7登顶英国9月销冠
+  - entities/leapmotor.md - 9月10.57万三连破10万 + Stellantis评估萨拉戈萨共线生产零跑B10与欧宝纯电SUV
+  - entities/nio.md - 2027年5款大车冲盈利；entities/li-auto.md - 2027Q1携Li 6登陆挪威/荷兰
+  - entities/volkswagen.md - ID.ERA 8X权益价20.68万起 + 裁员10月执行（2.8万自愿离职）；entities/mercedes-benz.md - Q3在华9万辆+ + 首批OTA Momenta R7世界模型
+  - entities/momenta.md - R7世界模型奔驰装车（第二个装车节点）；entities/bmw.md - iX3欧洲订单1/3、德布勒森二班制、裁员10月执行
+  - entities/stellantis.md - 萨拉戈萨共线评估（B10+欧宝）；entities/renault.md - E-Space/Striker首发、Spring本土化、Q3高个位数预期（10/23营收）、三菱转购富士康EV、巴西首车下线
+  - entities/ampere.md - 拆解执行（三厂回归直属、CFO出走Nexans）；entities/twingo-e-tech.md - 8月欧洲开售细节（上海eDrive电机/宁德LFP/<2万欧）
+  - entities/tesla.md - FSD v14.3 Lite HW3推送；entities/xpeng.md - MONA L05预售+M03 Ultra SE（算力批发成型）
+  - entities/zunjie.md + concepts/zunjie-brake-pedal-controversy.md - 三部门（工信部/网信办/市监总局）联合调查组介入
+  - concepts/innovation-verification-regulation-2026.md - 51项技术参数、≥3万公里、「两冬一夏」、软件可靠性必测、「实车为主仿真为辅」
+  - concepts/fsd-v14-code-collapse.md - HW3蒸馏数据点；concepts/cockpit-llm.md - EZ-60豆包+讯飞星火双大模型（双模型冗余趋势）
+  - concepts/lithium-price-surge-2026.md - 赣锋前三季净利50.12亿（+195倍）业绩兑现
+  - concepts/global-battery-market-2026.md - 9月电池产销237.8GWh/储能+104.4%/铁锂装车85.5%
+  - concepts/solid-state-battery.md - 巨湾GB/T 48093.1-2026首家+深共熔电解质+260-480Wh/kg认证细节
+  - concepts/2026-paris-auto-show.md - 中国车「抄袭」吐槽发酵、BYD Shark/Atto 8、保时捷Mission S
+  - concepts/ai-manufacturing.md - 工信部AI产业导航图（20领域1000+场景）；concepts/power-module-market-2026.md - 长飞先进SiC双赛道
+  - entities/blacksesame.md - 3亿元AI服务器合同；entities/gac.md - 因湃电池第30万套下线
+- **导航更新**：index.md - entities 120→121（+mona-l05）、concepts 172→173（+adas-model-distillation）、产品/平台15→16；Last updated 2026-10-16；Total pages 310→312
+- **索引完整性校验**：comm 输出为空（312 页全部注册，缺失 0）
+- **核心洞察**：①Deutsche三巨头裁员执行期集体落Q4（大众2.8万自愿离职/宝马8000/奔驰Q3在华跌至9万辆）vs 巴黎车展中国20家翻倍——「欧洲止血、中国进攻」的镜像季度；②混动配额倒计时（[[eu-hybrid-export-caps-2026]]）+ 吉利/比亚迪插混入欧卡位——奇瑞9月出口20.78万单月纪录恰是封顶对象的最极端放量；③蒸馏vs堆算力路线之争因FSD v14.3 Lite（2017年Model X能跑新FSD）有了完整样本——软件边际成本≈0锁定存量 vs 自研芯片下放价格带；④监管双收紧：三部门调查尊界V800 + 四部门51项验证参数——「12个月造车」制度性踩刹车，实车数据成新壁垒；⑤Provost雷诺「效率型精简」第一个成绩单节点=10/23 Q3营收，Twingo（<2万欧中国供应链）成本兑现是胜负手

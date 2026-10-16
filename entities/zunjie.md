@@ -1,7 +1,7 @@
 ---
 title: 尊界 (Zunjie)
 created: 2026-07-31
-updated: 2026-10-09
+updated: 2026-10-162026-10-09
 type: entity
 tags: [oem-cn, vehicle, luxury]
 sources: [memory/2026-07-31.md, daily-news/2026-08-14-gasgoo-evening.md]
@@ -76,3 +76,7 @@ sources: [memory/2026-07-31.md, daily-news/2026-08-14-gasgoo-evening.md]
 - 百万级MPV市场的持续需求
 - 华为智选车高端化上限
 - 江淮制造品质口碑
+## 2026-10-16 更新：三部门联合调查刹车踏板事件
+
+- **工信部、中央网信办、市场监管总局成立联合调查组核查 V800 刹车踏板支架断裂**（10/16 盖世）——事件从舆论发酵（10/9 已录）升级为**国家级监管核查**，尊界表态完全服从配合（详见 [[zunjie-brake-pedal-controversy]]）
+- 判断：三部门联合 = 事件从「个案质量」上升到「监管样本」——与四部门研发验证新规（[[innovation-verification-regulation-2026]]）同框，「华为系高端」叙事首次面临国家级压力测试

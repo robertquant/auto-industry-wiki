@@ -1,7 +1,7 @@
 ---
 title: 全球动力电池格局 (2026)
 created: 2026-08-06
-updated: 2026-10-12
+updated: 2026-10-162026-10-12
 type: concept
 tags: [battery, supply-chain, trend, oem-cn, oem-kr]
 sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
@@ -139,3 +139,7 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 - **LG 新能源 2028 年起为 [[mercedes-benz]] 供应 46100 大圆柱**（2027 建产线）——韩系「46 系大圆柱」反攻信号：大圆柱从特斯拉专属扩展到欧洲豪华品牌（详见 [[mercedes-benz]]）
 - **合规变量入局**：[[battery-passport-2026]]（2027/2/18 欧盟强制）将让「合规能力」进入份额竞争函数——[[catl]] 的 GBA 试点全勤是先手（[[catl]]）
 - 判断：份额竞争从「产能/价格」双维进入「产能+价格+合规溯源」三维；韩系借大圆柱绑定欧洲豪华品牌，中国头部借护照标准话语权守欧，格局从「中韩对抗」走向「多维缠斗」
+## 2026-10-16 更新：9月电池产销237.8GWh + 储能翻倍
+
+- **9 月动力+储能电池产量 237.8GWh（+57.3%）**；**储能电池销量 73.5GWh（+104.4%）**——储能成第二增长曲线（10/2「电池产销」口径补充）；**铁锂装车占比 85.5%**，三元同比 -10.9%（[[fifth-gen-lfp-battery]] 挤压延续）
+- 判断：储能翻倍 + 出口提速 = 电池需求从「车端单引擎」变「车+储能双引擎」（呼应 [[catl]] 增长结构）；铁锂 85.5% 占比坐实「LFP 终局」——三元仅剩高端/大圆柱细分（[[mercedes-benz]] 46100 大圆柱路径，10/12 已录）

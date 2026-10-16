@@ -1,7 +1,7 @@
 ---
 title: 智能制造AI化
 created: 2026-05-04
-updated: 2026-06-09
+updated: 2026-10-162026-06-09
 type: concept
 tags: [strategy, investment]
 sources: [memory/2026-05-04.md, memory/2026-05-09.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-09.md]
@@ -73,3 +73,7 @@ AI技术嵌入汽车制造全流程，包括MES系统、柔性产线、气动仿
 - [[byd]] - 比亚迪，垂直整合制造
 - [[ai-r-and-d]] - AI研发工程
 - [[aidv]] - AI定义车辆
+## 2026-10-16 更新：工信部AI「产业导航图」——汽车列重点赋能领域
+
+- **工信部发布「人工智能赋能新型工业化高价值场景」（10/15）**：覆盖汽车、石化、钢铁等 **20 个细分领域、1000+ 场景**；汽车侧 = **汽车大模型、模块化工艺岛与柔性产线、AI 驱动的全流程质量追溯**（10/16 盖世）
+- 判断：「产业导航图」= AI 制造从企业自驱升级为**国家级场景清单**——主机厂申报/立项有了政策锚点（[[ai-engineering-2026]] 工程化兑现的政策侧）；「模块化工艺岛+柔性产线」与 [[digital-twin-factory]]、[[siemens-xcelerator-ai-agents]] 技术栈呼应；质量追溯 = AI 与「验证监管」（[[innovation-verification-regulation-2026]]）的衔接点

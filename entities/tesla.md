@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-12
+updated: 2026-10-162026-10-12
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -105,3 +105,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **德国交通部提出异议后，特斯拉将欧洲市场 FSD（Supervised）更名为「Tesla Assisted Driving」（特斯拉辅助驾驶）**——被视为换取德国支持其欧盟获批的交换条件；德方同时接受**速度偏移不超过法定限速 ±10%** 的方案
 - 背景：Cybercab 巴黎车展欧洲首秀（10/12，[[2026-paris-auto-show]]）同天落地——欧洲战略从「卖智驾体验」叙事（10/10）进入「合规落地」执行
 - 判断：更名 = 「FSD」品牌让位于欧盟路权——名字可以改、限速可以让，但准入必须拿到；**限速 ±10% 背书了欧洲监管「谨慎放行」姿态**，也意味着欧洲 FSD 体验将被监管框架主动降级（对照中国 FSD 落地节奏 [[tesla-fsd-china]]）；「Tesla Assisted Driving」命名刻意与「Full Self-Driving」切割——欧洲消费者将看到与北美不同的安全叙事
+
+## 2026-10-16 更新：FSD v14.3 Lite 推送 HW3——HW4能力蒸馏至老硬件
+
+- **FSD v14.3 Lite 推送 HW3 老款 Model S/X**（10-16 快科技）：**HW4 V14 能力蒸馏至 HW3**，版本 2026.38.5.1，**2017 年款 Model X 可装**，含强化学习策略移植（详见 [[adas-model-distillation]]）
+- 判断：软件边际成本 ≈ 0 锁定百万级存量用户（体验止血非算力平权）；蒸馏路线 vs 小鹏「堆算力」路线（[[mona-l05]] 双图灵 1500TOPS）之争再添实锤；与 FSD v14 代码 31 万→2000 行（[[fsd-v14-code-collapse]]）互证端到端架构可压缩性——特斯拉智驾盈利模式从「卖硬件」转向「老车收订阅」

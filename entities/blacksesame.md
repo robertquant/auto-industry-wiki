@@ -1,7 +1,7 @@
 ---
 title: 黑芝麻智能
 created: 2026-05-08
-updated: 2026-09-27
+updated: 2026-10-162026-09-27
 type: entity
 tags: [chip, blacksesame, adas, 中国]
 sources: [raw/articles/2026-09-27-daily-digest.md]
@@ -27,3 +27,7 @@ sources: [raw/articles/2026-09-27-daily-digest.md]
 - [[ai-software-engineering]] - 车企软件工程AI化
 - [[data-loop]] - 智驾数据闭环工具链
 - [[world-model]] - 世界模型技术路线
+## 2026-10-16 更新：3亿元AI服务器合同——车规技术外溢
+
+- **与某A股上市公司签署 AI 计算服务器框架合同约 3 亿元**（其中一年内约 2.5 亿元采购黑芝麻高性能 AI 芯片整机，10/16 盖世）——AI 服务器业务首批订单，车规计算平台技术向边缘计算/企业本地部署延伸
+- 判断：黑芝麻从「智驾芯片国产双雄」（[[blacksesame]]/[[horizon-robotics]]）向「AI 计算平台公司」扩界——与 [[nvidia]] 卖铲人转型（拟追投 Figure）对照，「车规芯片厂做通用 AI 计算」成为 2026 新路径；对车规主业是现金流补充而非转型

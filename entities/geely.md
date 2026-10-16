@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -199,3 +199,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **前三季度销量突破 300 万辆**、**新能源渗透率 59.7%**（晚报口径）——吉利提前锁定全年 400 万级体量，新能源已成基本盘而非增量（对照 [[byd]] 同期、[[chinese-oem-export]]）
 - 与 10/14 欧洲三品牌首破万辆、极氪 9X 预订同频：国内渗透率见顶于六成线后，增量靠海外与高端（[[zeekr]]、[[volvo]]）
+
+## 2026-10-16 更新：出口79.8万(+169%) + 巴西合资首车下线 + 2027进加拿大
+
+- **1-9 月出口 79.8 万辆（+169%）**——出口增速远超销量增速（前三季 300.26 万辆已是 10/15 记录），海外已成主引擎（[[chinese-oem-export]]）
+- **与 [[renault]] 巴西合资首车（银河星舰7）下线**：7.14 亿美元项目推进、吉利持股 26.4%、GEA 平台两款新车下半年投产——拉美本地化落地（[[spain-china-gateway]] 之外的第二个洲际节点）
+- **2027 进军加拿大**：借中加低关税 EV 配额（4.9 万辆/年）卡位北美合规缝隙（[[north-america-ev-trade-barriers-2026]]）
+- **与谷歌达成智能车载数字体验合作**（10/16 盖世）——座舱全球化绑定谷歌生态（对标 [[volcengine]] 系国内路线，[[geely-super-eva]] 之外的第二套座舱栈）
+- 判断：吉利 2026 出海 = 「欧洲（沃尔沃渠道+西班牙合资）+ 拉美（巴西）+ 北美（加拿大）」三线并进，混动/燃油双动力出海（对照 [[byd]] 纯电为主）；谷歌合作暗示海外座舱「去中国化」——出海越是全球化，供应链越是本地化

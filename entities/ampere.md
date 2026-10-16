@@ -1,7 +1,7 @@
 ---
 title: Ampere
 created: 2026-04-30
-updated: 2026-05-23
+updated: 2026-10-162026-05-23
 type: entity
 tags: [renault, europe, ev, strategy]
 sources: [raw/articles/2026-04-30-renault-daily.md]
@@ -65,3 +65,7 @@ Ampere的撤销标志着欧洲车企"电动车特区"模式的终结。2021-2023
 
 ## 参见
 - [[china-tech-reverse-export]] - 技术输出模式分析
+## 2026-10-16 更新：Ampere 拆解推进——三厂回归直属、CFO 出走
+
+- **拆解进入执行期**：IPO 失败后并入集团转「先进工程中心」，**Douai 等三厂回归集团直属**（此前为 Ampere 独立产能）、**CFO 出走 Nexans**——继 Mobilize 回收后第二次组织纠偏（[[renault]] 周报口径）
+- 判断：Ampere 从「独立故事」到「工程部门」的退场路径 = 欧洲「电动车特区」模式终结的又一注脚（2021-2023 splitter 浪潮全数回撤，见本页既有结论）；三厂回归直属 + Douai 为四家客户产 6 款电动车 = 产能从「叙事资产」变回「经营资产」

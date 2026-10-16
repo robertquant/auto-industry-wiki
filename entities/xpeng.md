@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -167,3 +167,9 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - **开放智能汽车技术合作 + 物理 AI 生态**（10/14 财联社）：**万兆以太网车内传输 +33 倍**、AI 诊断单车检测省 **41 分钟**、产线电检年成本 **-95%**、15 分钟整车 OTA——供应链效率数字首次系统公开；**Robotaxi「小鹏悠游」洽谈欧洲出行平台**（[[xiaopeng-yoyo]]）、**飞行汽车 7,000 台订单**、**机器人年底量产**（呼应 10/14 AI ENGINEERING）
 - **2030 百万辆目标**（晚报口径）：欧洲占半——出海从「销量增长」升格为「集团半壁江山」
 - 判断：凯旋门实测 = 技术证伪叙事升级（官方亲测而非仅试乘）；开放生态 = 从「卖车」到「卖技术栈+卖生态」的商业模式外溢，与 10/11「物理 AI 全家桶」一致（[[physical-ai]]、[[ai-engineering-2026]]）
+
+## 2026-10-16 更新：MONA L05 预售 + M03 Ultra SE——「算力批发」路线成型
+
+- **MONA L05 预售 16.98-19.18 万（10-15）**：双图灵芯片 1500TOPS + 第二代 VLA + 车位到车位 2.0 + 天玑 AIOS 6.2.0、增程综合续航 1310km、**10-29 上市**（详见 [[mona-l05]]）
+- **M03 Ultra SE 15.18 万**：与 L05 构成 15-20 万双锚——自研芯片量产红利直接转化为价格带降维，「算力批发」成型（对照 [[deepal]] 华为智驾下放 15 万级）
+- 判断：MONA 从「颜值+价格」切到「智驾+价格」；增程首入 MONA = 小鹏从纯电单动力转向「智驾溢价 × 增程走量」双轮（[[range-extender-trend]]）；图灵芯片 1500TOPS 下放是「堆算力路线」（反蒸馏，[[adas-model-distillation]]）的价格带武器

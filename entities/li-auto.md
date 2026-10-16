@@ -1,7 +1,7 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-12
+updated: 2026-10-162026-10-12
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -194,3 +194,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **理想 i6 巴黎车展欧洲首秀落地**（10/12 开幕日 19:30 欧洲战略发布会，见 [[2026-paris-auto-show]]）——欧洲首秀从「定档」（10/3）到「兑现」；配置组合与 10/10 记录一致：骁龙 8797 座舱 + 自研马赫 M100（1280 TOPS）+ 96kWh 自研 5C 电池 / 780km
 - **中国品牌 20 家占巴黎车展参展商 1/3**（[[2026-paris-auto-show]]）——i6 欧洲首秀的竞争密度参照
 - 判断：i6 欧洲首秀「只展示未定价」——19:30 发布会未放出欧洲定价与渠道模式，经销 vs 直营仍待解；10/28 国内发布是下一个关键节点（i 系列 Q4 走量验证，见 [[new-forces-landscape-2026]]）
+
+## 2026-10-16 更新：2027 Q1 携 Li 6 登陆挪威/荷兰
+
+- **2027 Q1 携 Li 6 登陆挪威/荷兰**（晨报口径）——继 i6 巴黎首秀（10/12 已录）后欧洲进入「具体车型+具体市场+具体时间」阶段；Li 6 或为 L6 的欧洲命名（[[volvo]] 2027 起任领克欧洲经销商同框 = 吉利系欧洲渠道联动，见 [[geely]]）
+- 判断：挪威/荷兰 = 欧洲 BEV 渗透率最高市场（[[eu-ev-market-2026]]），理想用增程基本盘车型打头阵而非纯电 i 系列——欧洲首战求稳不求炫

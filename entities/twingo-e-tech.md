@@ -1,7 +1,7 @@
 ---
 title: Twingo E-Tech
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-10-162026-06-25
 type: entity
 tags: [renault, europe, entry-ev, china-tech]
 sources: [memory/2026-06-25.md]
@@ -80,3 +80,7 @@ sources: [memory/2026-06-25.md]
 ## 来源
 
 - memory/2026-06-25.md：深度分析对话记录
+## 2026-10-16 更新：欧洲8月开售——「中国研发+欧洲制造」样板细节
+
+- **2026 年 8 月欧洲开售**：ACDC 上海研发中心两年开发（21 个月，6/25 已录）、斯洛文尼亚生产、**电机上海 eDrive 供应**、**LFP 电池 [[catl]]**、售价 **<2 万欧**（法国租购方案衔接 [[france-social-leasing-2026]]）
+- 判断：电机电池双中国供应链 + 欧洲总装 = [[china-tech-reverse-export]] 最完整落地样本；<2 万欧定价直插 [[entry-ev-profit-crisis]] 死区，验证「中国供应链成本能否兑现」= [[renault]] Q4 胜负手（10/16 雷诺周报判断）

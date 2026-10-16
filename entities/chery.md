@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -90,3 +90,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **9 月新能源销量 13.3 万辆破纪录**——奇瑞新能源单月新高（燃油+混动出口基本盘之外的新能源加速，[[chinese-oem-export]]）
 - **犀牛固态电池 400Wh/kg（S 系列），2027 上车验证**——规格落地坐实 10/14 前「固液混合先行、全固态验证」路线（[[solid-state-battery]]）：400Wh/kg 直逼全固态指标，S 系列或对应高端序列首搭
 - 判断：13.3 万验证奇瑞「出口+新能源」双轮，但新能源以国内为主（海外仍是燃油/混动）；犀牛 S 系列 2027 验证节点与 [[byd]] 全固态 2027 装车同档——2027 是国产固态电池验收年
+
+## 2026-10-16 更新：9月出口20.78万辆创中国单月纪录 + 捷途7登顶英国销冠
+
+- **9 月出口 20.78 万辆，创中国车企单月出口纪录**（此前纪录 8 月 19.7 万）——海外占比超 70% 独步行业（[[china-export-leaders-2026]]），出口结构仍以燃油+混动为主（[[eu-hybrid-export-caps-2026]] 语境下出口形态最大受益/承压者之一）
+- **捷途7 登顶英国 9 月销冠**——捷途在欧洲（英国）单点突破，奇瑞多品牌出海（瑞虎/欧萌达/捷途/星途）再添实证
+- 判断：出口纪录月月刷新 = 「混动配额封顶（四年减半）」前最后窗口期的极致放量；英国销冠验证「平价燃油/混动」在欧仍有空间，与 [[renault]] 平价电动路线（[[entry-ev-profit-crisis]]）形成错位竞争

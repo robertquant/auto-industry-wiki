@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-14
+updated: 2026-10-162026-10-14
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -120,3 +120,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[renault]] 主场收官口径**：50 辆展车、6 款新车 + 3 款概念车（新 Mégane E-Tech / Trafic E-Tech 800V 279英里 / R5 Turbo 3E / Rafale Hypnotic / E-Space / R8 Gordini 270马力 / R4 JP4x4）；Provost 携 Cambolive 主持；**Ampere Douai 工厂联合项目（日产/三菱）推进**（[[ampere]]）
 - **[[volvo]] XC60 第三次改款亮相**（插混 1240km）；**[[byd]] 李柯口径：欧洲 2030 年本地员工超 4 万人**（[[byd-hungary-factory]]）
 - 判断：①车展进入「定价+交付」阶段——中国品牌同日完成欧洲定价（G9L/瑞虎4）与预订开启（极氪9X），10/5「参展即收割」判断兑现；②德系集体缺席 vs 中国 20 家翻倍 = 车展投入再分配的直观镜像；③出口退税下调（[[export-tax-rebate-cut-2026]]）+混动配额落地前，中国品牌在巴黎的每笔签约都在给 2027 本地化竞速加注
+
+## 10/16 补充：中国车「互相抄袭」吐槽发酵 + BYD Shark/Atto 8 补位
+
+- **「中国车互相抄袭」吐槽发酵**（10-15）：**7 款高端 SUV 车机/座舱界面雷同**，理想硬哥「只抄袭了一家」——车展技术表态的另一面：座舱「同质化」从发布会走向舆论场（[[cockpit-ai-evolution]] 语境下交互设计空心化，[[cockpit-interaction-quality]]「交互质量才是护城河」互证）
+- **[[byd]] 巴黎首发 Shark 插混皮卡 + 欧洲推 ATTO 8**（二代刀片+9 分钟闪充、115kWh WLTP 652km，对标起亚 EV9/[[xpeng-g9l]]）——中国品牌从轿车/SUV 卷向皮卡+大型SUV细分
+- **[[porsche]] Mission S 概念车全球首发**（10/16）：五圆仪表+模拟指针+MagSafe 中控——德系以「驾驶者回归」回应座舱军备竞赛（与 7 款雷同车机形成对照）
+- 判断：车展收尾日三重信号——中国卷「同质化争议」（内卷反噬）、欧洲打「驾驶体验差异」（保时捷/雷诺 E-Space 旋转座椅，见 [[renault]]）、比亚迪补「产品线空白」（皮卡/大型SUV）

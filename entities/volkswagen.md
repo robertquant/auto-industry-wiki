@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-15
+updated: 2026-10-162026-10-15
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
@@ -228,3 +228,9 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **中国区反向操作**：**VCTC（合肥，2023 落户，总投资约 10 亿欧）是大众德国总部以外最大研发中心**；2026 招聘较 2025 增长 **19%**、薪资涨 **13%**；CARIAD 中国职能已并入合肥体系
 - **判断（robert 问答深挖）**：大众软件战略本质是「**从德国收缩、向中国转移**」——裁德国工程师、招合肥工程师，用中国人力成本+供应链重做软件（[[china-tech-reverse-export]]）。观察点：VCTC 2,000 人目标是否兑现、CEA 架构量产节点（2026-27，见 10/3 安徽基地/酷睿程条目）
 - 相关：[[euro-stoxx-50-exit]]、[[traditional-automaker-ai-transition]]
+
+## 2026-10-16 更新：ID. ERA 8X 权益价 20.68 万起 + 裁员10月启动执行
+
+- **ID. ERA 8X 权益价 20.68 万起**——技术真容（800V/EA211 增程器/1602km/Momenta R7+192 线激光雷达/交付即城市 NOA）已于 10/14 记录，价格为最后一块拼图：直接插入 20 万级插混红海（对照 [[sealion-06-dmi]] 12.99 万起、[[byd-han]] 23.59 万起）
+- **裁员 10 月启动执行**：2.8 万人已自愿离职（早前口径），Q4 进入执行期——与 [[bmw]]（裁 8000 人 10 月起）[[mercedes-benz]] 集体落在 Q4：德系三巨头转型阵痛集中兑现（[[euro-stoxx-50-exit]]、[[bba-ev-ranking-2026]]）
+- 判断：ID. ERA 8X「中国特供技术全家桶」定价 20.68 万 = 大众在中国的最后一搏火力全开；裁员执行 + 软件西退东进（10/15 CARIAD 记录）构成「欧洲止血、中国进攻」的双线叙事
