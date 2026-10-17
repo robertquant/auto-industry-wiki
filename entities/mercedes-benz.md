@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -226,3 +226,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **Q3 在华销量 9 万辆+**——较 Q2 跌破 10 万辆（10/15 已录）进一步下探，中国基本盘失血未止（[[bba-ev-ranking-2026]]）
 - **将首批 OTA Momenta R7 世界模型**——智驾合作从「联合研发」（10/15 已录）进入「装车兑现」：R7 世界模型（[[world-model]]）上车 = 奔驰在中国用 Momenta 的新一代架构做体验止血，与 10/15「硬件被旧架构锁死」判断互证（[[momenta]]）
 - 判断：Q3 9 万辆 × OTA R7 世界模型 = 「车卖不动、软件先跟上」——奔驰中国策略从产品重新定义（MMA 教训）转向「存量车软件升级」的止血路线
+
+## 2026-10-17 更新：MMA 平台 GLA/AMG CLA 巴黎首秀
+- **MMA 平台 GLA + AMG CLA 巴黎车展首秀**（[[2026-paris-auto-show]]）：AMG CLA **三电机、纽北 7:32**——性能标杆回归纽北叙事
+- **纯电/燃油回归同一平台**（MMA）：奔驰从「EQ 独立平台」转向「一平台多能源」——与大众多能源（[[volkswagen]]）、保时捷收缩（[[porsche]]）共构德系 2027 语境；9 月命名重组弃 EQ 前缀（10/16 已录）配套
+- 判断：MMA 是奔驰「由中国定义、为全球输出」的第一套平台级落地——GLA EV 此前已录（WLTP 657km），AMG CLA 用性能守住豪华溢价，智驾仍靠 [[momenta]]（年内扩至 9 款车型）

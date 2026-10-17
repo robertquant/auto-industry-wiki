@@ -1,10 +1,10 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-10-14
+updated: 2026-10-17
 type: concept
 tags: [policy, export, europe, strategy, trend]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md]
+sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 中欧混动出口协议（2026-10）
@@ -62,3 +62,8 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **中欧磋商（布鲁塞尔峰会周期）达成共识**：**中汽协、[[chery]]、[[bmw]]** 先后表态支持——「官方+龙头车企」齐声背书的第一节点
 - 与 10/12「减半以上」、10/13「35万辆/年」轮廓互相印证：协议框架进入「共识确认 + 细则博弈」阶段
 - 判断：车企表态 = 预期管理——配额落地前先锁定市场预期，出口企业（奇瑞/比亚迪/吉利）开始按「封顶量」重排欧洲产品组合；与出口退税下调（[[export-tax-rebate-cut-2026]]）构成 2027 双重约束
+
+## 2026-10-17 补充：配额机制细化——2026年12月启动、首年35万辆、每年+6%
+- **德媒披露执行口径**：配额自 **2026年12月**起实施（早于此前「2027年起」预估），**首年 35 万辆、此后每年 +6%**（与 10/13 WSJ/DW 轮廓一致，但启动时间提前——PHEV 规避窗口比预期更短）
+- **判断修正**：「12月启动」意味着 2026 年底最后两个月出口成为抢跑窗口，2027 年全年配额约束首次完整生效；本地化产线（[[byd-hungary-factory]]、[[leapmotor-stellantis]]、吉利-福特西班牙）的爬坡速度直接决定配额内份额
+- 口袋：基准基数与监督办法仍未正式公开——「政治框架+技术参数」的组合不变，执行谈判与 [[2026-paris-auto-show]] 收官后中国车企的欧洲产品组合重排同步进行

@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-162026-10-14
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -140,3 +140,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **德布勒森工厂转二班制**——匈牙利工厂产能爬坡，Neue Klasse 欧洲本土产能落地（对照 [[byd-hungary-factory]] 的「后来者模式」，德布勒森是「守成者模式」）
 - **裁员 8,000 人 10 月起执行**——10/7 自愿离职机制的落地执行（与 [[volkswagen]] 2.8 万人、[[mercedes-benz]] 同处 Q4 执行期）
 - 判断：iX3 欧洲 1/3 订单 = 宝马「押注 Neue Klasse」策略的正确性再验证（10/14 已录 BEV +7.2%）；德布勒森二班制 = 欧洲本地产能对冲关税/配额风险（[[export-tax-rebate-cut-2026]]）
+
+## 2026-10-17 更新：裁员执行细节——10月启动德国自愿离职
+- **10 月起德国启动自愿离职**，**2027 年底前全球裁约 8,000 人（约 5%）**，一次性成本约 **10 亿欧**——「德国利润养全球体系」旧循环断裂的财务落点（对照 [[volkswagen]] 10 万、[[porsche]] 9000）
+- 巴黎车展缺席（10/14 已录 [[2026-paris-auto-show]]）延续——收缩期营销预算让位于研发与重组
+- 对照：德系四强（大众/宝马/奔驰/保时捷）裁员与收缩在 Q4 集体执行，「欧洲止血、中国进攻」镜像季度（[[2026-paris-auto-show]]）

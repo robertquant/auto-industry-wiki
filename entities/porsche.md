@@ -1,10 +1,10 @@
 ---
 title: 保时捷 (Porsche)
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, vehicle, sales, strategy, export]
-sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, concepts/china-carbon-credit-export.md]
+sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, concepts/china-carbon-credit-export.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 保时捷 (Porsche)
@@ -44,3 +44,7 @@ sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-
 - 裁员 9,000 人后的成本结构与燃油新品节奏
 - 电动化战略是否彻底后退（718/卡宴纯电计划存废）
 - 中国市场的进一步收缩与渠道出清
+## 2026-10-17 更新：2035 战略「主动收缩」——盈亏平衡压至 20 万以下
+- **2035 战略定调「主动收缩」**：盈亏平衡点压至**年销 20 万辆以下**、**再裁 9,000 人**、**出售 Rimac 股权**（收缩非核心投资）
+- 解读：从「增长叙事」切换到「生存叙事」——与大众 2030 计划（[[volkswagen]]）、[[bmw]] 8,000 人裁员同构；巴黎车展 Mission S 概念车（10/16 已录 [[2026-paris-auto-show]]）是收缩期的产品宣言：「驾驶者体验」差异化守豪华溢价
+- 关系：碳积分买方角色（[[china-carbon-credit-export]]）不受收缩影响——合规现金支出反而成为收缩期的稳定项

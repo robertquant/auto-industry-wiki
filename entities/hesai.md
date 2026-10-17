@@ -1,10 +1,10 @@
 ---
 title: 禾赛科技 (Hesai)
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-10-17
 type: entity
 tags: [liDAR, supplier, china, adas]
-sources: [memory/2026-05-24.md]
+sources: [memory/2026-05-24.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 禾赛科技 (Hesai)
@@ -60,3 +60,7 @@ sources: [memory/2026-05-24.md]
 - [[liDAR-cost]] - 激光雷达价格下探
 - [[byd]] - 海鸥激光雷达下放
 - [[huawei-ads]] - 国内市场竞争对手
+## 2026-10-17 更新：Kosmo 三维数据引擎——物理 AI 数据资产化
+- **10/14 发布 Kosmo 三维数据引擎 + 空间相机 Kosmo One + Kosmo World**（汽车AI日报口径）——用真实世界三维数据投喂**具身智能与世界模型（WM）训练**（[[world-model]]、[[physical-ai]]）
+- 含义：禾赛从「卖激光雷达」升级为「卖物理世界数据管道」——传感器厂商把数据资产化（对照 [[momenta]] 数据闭环、[[data-moat]]）；激光雷达终局竞争从硬件成本转向**数据供给规模**
+- 与 5 月奔驰 L3 供应链突破（本页已录）构成两条增长曲线：车规装车 + AI 训练数据

@@ -1146,3 +1146,37 @@
 - **导航更新**：index.md - entities 120→121（+mona-l05）、concepts 172→173（+adas-model-distillation）、产品/平台15→16；Last updated 2026-10-16；Total pages 310→312
 - **索引完整性校验**：comm 输出为空（312 页全部注册，缺失 0）
 - **核心洞察**：①Deutsche三巨头裁员执行期集体落Q4（大众2.8万自愿离职/宝马8000/奔驰Q3在华跌至9万辆）vs 巴黎车展中国20家翻倍——「欧洲止血、中国进攻」的镜像季度；②混动配额倒计时（[[eu-hybrid-export-caps-2026]]）+ 吉利/比亚迪插混入欧卡位——奇瑞9月出口20.78万单月纪录恰是封顶对象的最极端放量；③蒸馏vs堆算力路线之争因FSD v14.3 Lite（2017年Model X能跑新FSD）有了完整样本——软件边际成本≈0锁定存量 vs 自研芯片下放价格带；④监管双收紧：三部门调查尊界V800 + 四部门51项验证参数——「12个月造车」制度性踩刹车，实车数据成新壁垒；⑤Provost雷诺「效率型精简」第一个成绩单节点=10/23 Q3营收，Twingo（<2万欧中国供应链）成本兑现是胜负手
+
+## [2026-10-17 22:00] ingest | 每日整理（晨报 + 汽车AI日报 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-17-daily-digest.md（晨报+AI日报+晚报要点四合一；晚报全文见 daily-news/2026-10-17-gasgoo-evening.md，已推送 robert）
+- **新建（1页）**：
+  - comparisons/flying-car-race-2026.md - 飞行汽车路线之争：特斯拉火箭Roadster（80kN冷气推进/2028/意向金33.2万）vs 小鹏分体式飞行汽车（年内交付/订单7000+）——「叙事 vs 落地」对照，共同瓶颈=飞行认证（TC）
+- **更新（25页）**：
+  - entities/xpeng.md - 巴黎智驾实验室唯一中国应战者（仅小鹏+特斯拉）+ 当选UNECE TF-ESRI秘书长（首家中国企业）+ AI ENGINEERING开放平台 + 飞行汽车订单7000+
+  - entities/momenta.md - 量产110万台/最新10万台仅36天/H1营收16亿(+76%)/毛利75%/亏损收窄97%/L3研发2027量产（奥迪首发）
+  - entities/hesai.md - Kosmo三维数据引擎+Kosmo One空间相机+Kosmo World（物理AI数据资产化）
+  - entities/volkswagen.md - ID.ERA 8X上市20.68-26.98万全系标配Momenta R7 + 借尊界V800炮轰速成车 + CARIAD AI重组1600人
+  - entities/byd.md - 9月海外17.99万(+153.9%) + 李柯欧洲二三工厂（法国候选）
+  - entities/byd-hungary-factory.md - 40亿欧/一期15万辆Q4总装 + 欧洲工厂阶梯扩容
+  - entities/renault.md - Twingo 9月法国4992辆纯电第三 + ACDC中国团队200人<2年<2万欧标准化 + Mégane E-Tech换LFP 67kWh/500km + Q3财报10/29
+  - entities/twingo-e-tech.md - 9月法国纯电榜第三
+  - entities/mercedes-benz.md - MMA平台GLA/AMG CLA巴黎首秀（三电机/纽北7:32）、纯电燃油同平台
+  - entities/porsche.md - 2035战略主动收缩（盈亏平衡<20万/再裁9000/出售Rimac股权）
+  - entities/stellantis.md - 巴黎车展8品牌60余款+9概念车 + 零跑B10萨拉戈萨投产确认
+  - entities/bmw.md - 裁员执行：10月起德国自愿离职、2027底前全球8000人(5%)、一次性成本10亿欧
+  - entities/chery.md - 前三季出口155.12万(+65.6%)
+  - entities/shangjie.md - Z9工信部申报（5139mm/轴距3086mm、华为896线激光雷达、455kW、大陆MKC2线控）
+  - entities/saidou.md - 首车ME7申报（豆包座舱+元戎无图智驾、凤凰工厂代工、420kW）——元戎合作正式确认
+  - entities/hyundai.md - 第八代伊兰特国产版申报（AI大模型车机）
+  - entities/changan.md - 智能化225亿/7500人/日均330万公里仿真 + 核实剔除L3旧闻
+  - entities/valeo.md - anSWer「开发周期数月」表态（营销含量偏高）
+  - concepts/eu-hybrid-export-caps-2026.md - 配额机制细化：2026年12月起首年35万辆、每年+6%（启动早于预期）
+  - concepts/power-module-market-2026.md - SiC模块细分榜：英飞凌14.3%居首/比亚迪半导体12.2%/前十本土六席 + 长飞PG系列 + 6英寸衬底企稳回升
+  - concepts/2026-paris-auto-show.md - 收官：22家中国品牌创纪录、从卖车到造车、智驾实验室仅小鹏+特斯拉、德系收缩
+  - concepts/storage-chip-surge-2026.md - 江波龙前三季净利+20倍、车规存储结构性缺货
+  - concepts/chassis-domain-control.md - 上汽「走进大底盘」技术展（21家供应商）+ 尚界Z9采用大陆MKC2线控
+  - concepts/tier1-mna-consolidation-2026.md - 广和通×航盛电子重组完成（国产Tier1横向整合）
+  - concepts/ai-in-automotive-rd.md - Vector中国技术周 + 法雷奥anSWer + 长安投入（AI工程化三信源）
+- **导航更新**：index.md - comparisons 7→8（+flying-car-race-2026）；Last updated 2026-10-17；Total pages 312→313（entities 121 / concepts 173 / comparisons 8 / auto-industry 10 / european-automakers 1）
+- **索引完整性校验**：comm 输出为空（313 页全部注册，缺失 0）
+- **核心洞察**：①混动配额启动时间提前至2026年12月（德媒，35万辆/年+6%）——PHEV规避窗口比预期短，巴黎车展「从卖车到造车」的产能布局（零跑萨拉戈萨/BYD匈牙利/吉利瓦伦西亚）恰是配额制下唯一增量通道，本地化爬坡速度决定2027配额内份额；②SiC进入「应用能力竞争」——6英寸衬底企稳回升、扩产竞赛结束，IGBT国产已领先（比亚迪半导体19.2%整体榜）但SiC独家口径英飞凌仍居首（14.3% vs 12.2%），两个口径需区分引用；③Momenta财务拐点（H1营收16亿+76%/毛利75%/亏损收窄97%）+110万台基盘=L3（奥迪首发）与R7全系标配（ID.ERA 8X）的底气，「中国智驾定义豪华品牌」从合作叙事进入规模化兑现；④巴黎车展收官判词：BBA连官方智驾体验资格都没拿到（仅特斯拉/小鹏入选），智能化代差比销量数据更刺眼；⑤保时捷2035「主动收缩」+宝马8000人+大众10万——德系Q4集体止血，与22家中国品牌巴黎攻势构成镜像季度

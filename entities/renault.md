@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -303,3 +303,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **联盟侧：三菱转向采购富士康 EV**——雷诺-日产-三菱联盟内部分化：三菱弃雷诺平台投富士康，Douai 为四家客户产 6 款电动车（[[renault-nissan-development-process]]）
 - **巴西**：与 [[geely]] 合资首车（银河星舰7）下线、吉利持股 26.4%、GEA 平台两款新车下半年投产
 - 判断：10/23 营收 = Provost 百日考；Twingo 成本兑现 + Q3 增长是胜负手（雷诺周报本周判断）；三菱转向富士康给联盟敲警钟——「共厂共线」若不快于外部代工选项，联盟会继续空心化
+
+## 2026-10-17 更新：Twingo 法国纯电第三 + ACDC「中国速度」标准化
+- **Twingo E-Tech 9 月法国销量 4,992 辆、纯电榜第三**（仅次于 Model Y / 雷诺 5）——<2 万欧平价电动的法国本土验证（[[twingo-e-tech]]）
+- **ACDC 中国团队（约 200 人）主导研发**：周期不到两年、定价低于 2 万欧——「中国速度」从个案变成雷诺**标准化流程**（呼应 10/1「开发周期红线」与 10/15 Provost「速度与敏捷」叙事）
+- **Mégane E-Tech 换 LFP（67kWh / 500km）**：主力车型磷酸铁锂化——成本结构向 [[catl]] 供应链进一步倾斜（对照 10/6 已录 R5 Five LFP 入门版）
+- **达契亚 Spring 全系 <2 万欧**；E-Space 概念车全球首发（10/16 已录）；**Q3 财报 10/29 披露**（营收先导 10/23）——Provost 百日考双节点
+- 判断：雷诺「中国研发+欧洲制造」公式进入复制期——Twingo 验证、Mégane LFP 跟进、Spring 本土化，平价电动三箭齐发（[[entry-ev-profit-crisis]] 语境下欧洲唯一有规模打法的主机厂）

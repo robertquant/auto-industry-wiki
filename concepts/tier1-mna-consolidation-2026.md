@@ -1,10 +1,10 @@
 ---
 title: 外资Tier1并购整合潮（2026-10）
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-17
 type: concept
 tags: [supply-chain, trend, tier1]
-sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-evening.md]
+sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 外资Tier1并购整合潮（2026-10）
@@ -52,3 +52,7 @@ sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-
 - 彼欧-摩比斯交割后照明市场份额（全球前三？）
 - 立讯京西智行下一个并购标的（域控/线控转向？）
 - 更多欧系 Tier1 资产挂售（大陆/法雷奥/采埃孚拆分传闻）
+## 2026-10-17 更新：国产整合补位——广和通×航盛电子重组完成
+- **通信模组龙头广和通 × 汽车电子 Tier1 航盛电子重组完成**：航盛借力加速**泰国、欧洲产能布局**、广和通补**AI 算力+通信能力**，构建**舱驾融合软硬一体化**能力（[[cabin-drive-integration]]）
+- 判断：中外并购同屏——欧系卖资产补现金/中资买技术（本页交易清单）之外，**国产 Tier1 之间的横向整合**同步提速，指向同一结论：Tier1 竞争门槛从单一零部件升维到「系统级集成 + 全球交付」
+- 呼应：[[chassis-domain-control]]、[[ice-supplier-divergence]]

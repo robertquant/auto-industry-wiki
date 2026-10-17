@@ -1,10 +1,10 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-10-14
+updated: 2026-10-17
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 长安汽车 (Changan)
@@ -148,3 +148,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **巴黎车展官宣欧洲基地**：**2028 年 18 万辆产能、2030 年 35 万辆**，合作方**年内官宣**——长安欧洲本地化落子
 - **问界 2027 年进欧洲、WVTA 认证已启动**（[[wenjie]]）——长安系+华为系欧洲准入双线
 - 判断：欧洲本地化从「比亚迪/吉利/零跑」三样本扩为多线（长安+奇瑞跟进）；合作方年内官宣是下一个观察点（本地化必选：[[eu-hybrid-export-caps-2026]]、[[china-tech-reverse-export]]）
+
+## 2026-10-17 更新：智能化投入盘点——225亿/7500人/日均330万公里仿真
+- **智能化累计投入 225 亿元、团队 7,500 人、日均仿真 330 万公里**（汽车AI日报口径）——央企智能化投入的量化样本（对照 [[li-auto]] AI 研发 60 亿/年）
+- 核实剔除：网传「长安 10/15 取得全国首块 L3 号牌」为旧闻复述（实为 25.12 首牌 / 26.3 L4 牌照）——长安 L3/L4 进度以 [[l3-mass-production-2026]] 记录为准
+- 语境：天枢一段式端到端（9/18 已录）+ 启源入欧（[[2026-paris-auto-show]]）——智能化投入进入产品转化期

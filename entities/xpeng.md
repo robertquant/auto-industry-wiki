@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 小鹏汽车 (XPeng)
@@ -173,3 +173,9 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 - **MONA L05 预售 16.98-19.18 万（10-15）**：双图灵芯片 1500TOPS + 第二代 VLA + 车位到车位 2.0 + 天玑 AIOS 6.2.0、增程综合续航 1310km、**10-29 上市**（详见 [[mona-l05]]）
 - **M03 Ultra SE 15.18 万**：与 L05 构成 15-20 万双锚——自研芯片量产红利直接转化为价格带降维，「算力批发」成型（对照 [[deepal]] 华为智驾下放 15 万级）
 - 判断：MONA 从「颜值+价格」切到「智驾+价格」；增程首入 MONA = 小鹏从纯电单动力转向「智驾溢价 × 增程走量」双轮（[[range-extender-trend]]）；图灵芯片 1500TOPS 下放是「堆算力路线」（反蒸馏，[[adas-model-distillation]]）的价格带武器
+
+## 2026-10-17 更新：巴黎智驾实验室唯一中国应战者 + UNECE 秘书长席位 + 飞行汽车交付
+- **巴黎车展智驾实验室：仅小鹏 + 特斯拉两家应战**——BBA 均未入选，智能化代差公开化的最直接样本（[[2026-paris-auto-show]]、[[xpeng-g9l]]）
+- **当选 UNECE TF-ESRI 秘书长（首家中国企业）**：小鹏从「智驾出海」跨入「标准制定」——联合国欧洲经济委员会智驾法规话语权一步（[[un-autonomous-driving-regulation-2026]]）
+- **发布 XPENG AI ENGINEERING 开放平台**：AI 工程能力对外输出——与大众合作（[[volkswagen]]）之后的平台化变现延伸
+- **分体式飞行汽车年内批量交付、全球订单超 7,000**（[[flying-car-race-2026]]）

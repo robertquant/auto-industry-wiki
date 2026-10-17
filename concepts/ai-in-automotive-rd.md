@@ -1,10 +1,10 @@
 ---
 title: 车企AI研发应用
 created: 2026-06-30
-updated: 2026-08-18
+updated: 2026-10-17
 type: concept
 tags: [ai, autonomous-driving, smart-cockpit]
-sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-08-18.md]
+sources: [memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 车企AI研发应用
@@ -142,3 +142,7 @@ AI重塑汽车研发全链条——代码生成、测试、数据闭环。代码
 - AI生成代码的ASPICE合规性
 - 数据飞轮的护城河深度
 - 中小车企如何追赶头部AI投入
+## 2026-10-17 更新：开发工具链 + 供应商软件效能叙事
+- **Vector 中国技术周（10.13-16）**：AI Agent 渗透研发全链路（测试工具链厂商视角，[[vectorcast-2026]]）
+- **法雷奥 anSWer 宣称「开发周期缩短至数月」**（见 [[valeo]]）——营销含量偏高，缺量化基线
+- **长安智能化累计投入 225 亿/7500 人/日均 330 万公里仿真**（[[changan]]）——同周多个信源印证 AI 工程化进入价值兑现期（[[ai-engineering-2026]]）

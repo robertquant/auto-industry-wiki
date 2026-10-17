@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # Momenta (魔门塔)
@@ -87,3 +87,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 
 - **奔驰将首批 OTA Momenta R7 世界模型**（晨报口径）——继 6/15 强化学习大模型 OTA（10/15 已录）后，世界模型成为双方第二个装车节点：世界模型（[[world-model]]）从仿真/训练侧下沉到车端推理（[[vla-world-model]] 路线的一家之言），奔驰成其豪华品牌首发载体
 - 判断：「资本+研发+产品」三重绑定（10/15 已录）继续兑现为装车节奏；R7 世界模型若在奔驰存量车上跑通，= Momenta 从「端到端方案商」升级为「世界模型上车第一人」，对标 [[tesla]] FSD 世界模型叙事
+
+## 2026-10-17 更新：量产 110 万台 + 财务拐点 + L3 启动（奥迪首发）
+- **量产累计 110 万台，最新 10 万台仅 36 天**——装机斜率陡增（对照 2026 H1 城市 NOA 21.4 万辆，行业第二）
+- **H1 营收 16 亿（+76%）、毛利率 75%、亏损收窄 97%**——方案商财务模型验证：高毛利软件授权 + 规模摊薄
+- **L3 研发启动，预计 2027 量产，奥迪首发**（[[l3-autonomous-driving]]）——奥迪加入 bmw/mercedes 的「Momenta 客户名单」，欧洲豪华 L3 周期再添一家
+- **ID.ERA 8X 全系标配 R7 世界模型**（10/17 上市，[[volkswagen]]）——量产世界模型第二节点
+- 判断：「中国智驾定义豪华品牌智能化」（10/7 已录）从合作叙事进入规模化兑现期——110 万台基盘 + 75% 毛利 = 数据飞轮与商业飞轮同步转动（[[data-moat]]）

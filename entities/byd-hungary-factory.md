@@ -1,10 +1,10 @@
 ---
 title: 比亚迪匈牙利工厂
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-10-17
 type: entity
 tags: [byd, europe, strategy, investment]
-sources: [memory/2026-06-16.md]
+sources: [memory/2026-06-16.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 比亚迪匈牙利工厂
@@ -33,3 +33,7 @@ sources: [memory/2026-06-16.md]
 - [[eu-phev-strategy]] - PHEV关税规避策略
 - [[volkswagen]] - 欧洲竞争对手
 - [[stellantis]] - 欧洲竞争对手
+## 2026-10-17 更新：Q4 总装启动 + 欧洲工厂阶梯扩容
+- **产能落地**：一期规划 15 万辆、总投资 40 亿欧，**Q4 进入总装阶段**（巴黎车展口径，[[2026-paris-auto-show]]）
+- **工厂扩容**：李柯称将建 **欧洲第二、第三工厂**，**法国为候选地**——东欧（匈牙利/成本）+ 西欧（法国/市场与政治）双布局逻辑
+- 判断：混动配额（[[eu-hybrid-export-caps-2026]]）与电池护照（[[battery-passport-2026]]）双重合规压力下，匈牙利厂从「战略备份」变「战略核心」——Q4 总装爬坡速度 = 2027 欧洲配额内份额的胜负手

@@ -1,10 +1,10 @@
 ---
 title: 现代起亚 (Hyundai-Kia)
 created: 2026-06-27
-updated: 2026-10-10
+updated: 2026-10-17
 type: entity
 tags: [hyundai, kia, korea, ev, hybrid]
-sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 现代起亚 (Hyundai-Kia)
@@ -100,3 +100,7 @@ sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md]
 ## 2026-10-10 更新：自研智驾推迟至 2029，转投英伟达
 - **自研高阶智驾量产时间推迟至 2029**（较原计划晚两年）——期间**转投英伟达**平台加速部署（[[nvidia]]）
 - 判断：现代是「传统车企自研智驾难度」的最新实锤——韩系工程能力不弱（EV3/IONIQ 产品力认可度高）仍被迫外采，印证 [[adas-self-develop]] 的分层判断：自研是话术还是能力，量产时间表说了算；转投英伟达 = 智驾芯片集中度继续向 [[autonomous-driving-chips]] 头部收敛（对照 [[stellantis]] 买 Wayve、[[bmw]] 买 Momenta）
+## 2026-10-17 更新：第八代伊兰特国产版申报
+- **北京现代第八代伊兰特国产版现身工信部申报**：保留海外原版机甲风造型，尺寸全面加大（**4765/1855/1425mm、轴距 2750mm**）
+- **配置**：14.6 英寸悬浮屏 + **AI 大模型车机**、支持记忆泊车/远程泊车；动力沿用 1.5L 自吸 + 84.5kW
+- 判断：现代在华以「本土化加长 + 智能配置补课」守住燃油基盘（对照 [[honda-china]] 衰退路径）；合资燃油车 AI 车机升级是 2026 共性动作（[[cockpit-llm]]）

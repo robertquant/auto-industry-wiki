@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-16 | Total pages: 312
+> Last updated: 2026-10-17 | Total pages: 313
 
-统计：entities 121 · concepts 173 · comparisons 7 · auto-industry 10 · european-automakers 1
+统计：entities 121 · concepts 173 · comparisons 8 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -351,7 +351,7 @@
 - [[rgev-platform]] - 雷诺下一代纯电平台，代号RGEV Medium 2.0，目标追平中国供应链效率。2026年5月披露技术规格。
 - [[sodium-ion-battery]] - 钠离子电池是以钠离子为载体的二次电池技术，2026年进入规模化量产元年。与锂离子电池相比，钠电池在低温性能、安全性、快充能力和资源自主性方面具有显著优势，能量密度略逊但对特定场
 
-## Comparisons（6）
+## Comparisons（8）
 
 - [[2026-08-china-sales-battle]] - | 维度 | 数据 |
 - [[2026-09-china-sales-battle]] - 9月乘用车零售224.1万辆创历史纪录，新能源渗透率57.8%，燃油车企利润率1.5%近十年最低，新车投放超60款；比亚迪增量全由海外贡献，零跑超特斯拉中国
@@ -360,6 +360,7 @@
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。
 - [[waymo-vs-tesla-robotaxi-2026]] - Waymo（~4000台/周50万单/15城）vs Tesla（奥斯汀44台+内华达5000台批文）——L4商业化「运营实绩 vs 规模叙事」的硬数据对照
 - [[battery-swap-vs-ultra-fast-charging]] - 补能路线之争2026：吉利×蔚来换电联盟 vs 比亚迪/宁德超充阵营，维度对比（时间/重资产/标准化/场景）+ 两大破局点与观察指标。
+- [[flying-car-race-2026]] - 飞行汽车路线之争：特斯拉火箭Roadster（80kN冷气推进/2028）vs 小鹏分体式飞行汽车（年内交付/订单7000+）——「叙事规模 vs 商业落地」对照，共同瓶颈是飞行认证（TC）。
 
 ## Auto-Industry 分析（10）
 

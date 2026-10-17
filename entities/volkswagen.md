@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -234,3 +234,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **ID. ERA 8X 权益价 20.68 万起**——技术真容（800V/EA211 增程器/1602km/Momenta R7+192 线激光雷达/交付即城市 NOA）已于 10/14 记录，价格为最后一块拼图：直接插入 20 万级插混红海（对照 [[sealion-06-dmi]] 12.99 万起、[[byd-han]] 23.59 万起）
 - **裁员 10 月启动执行**：2.8 万人已自愿离职（早前口径），Q4 进入执行期——与 [[bmw]]（裁 8000 人 10 月起）[[mercedes-benz]] 集体落在 Q4：德系三巨头转型阵痛集中兑现（[[euro-stoxx-50-exit]]、[[bba-ev-ranking-2026]]）
 - 判断：ID. ERA 8X「中国特供技术全家桶」定价 20.68 万 = 大众在中国的最后一搏火力全开；裁员执行 + 软件西退东进（10/15 CARIAD 记录）构成「欧洲止血、中国进攻」的双线叙事
+
+## 2026-10-17 更新：ID.ERA 8X 上市 + 借刹车门炮轰「速成车」
+- **ID.ERA 8X 正式上市 20.68-26.98 万**，**全系标配 Momenta R7 世界模型**（合资品牌量产世界模型第二节点，见 [[momenta]]、[[world-model]]）——「中国智驾方案进大众合资产品线」从 9/26 推送升级为全系标配
+- **借尊界 V800 刹车踏板事件炮轰「速成车」**（[[zunjie-brake-pedal-controversy]]）：三部门联合调查背景下，合资阵营把「验证标准」从速度叙事拉回可靠叙事——大众用「老牌可靠」对冲智能化短板
+- **CARIAD 以 AI 为核心重组裁约 1,600 人**（与 9/8 已录的 Cariad 1,600 人裁员口径一致，本轮明确「AI 为核心」重组方向）——德国软件团队收缩、中国（合肥 VCTC）扩编的再确认

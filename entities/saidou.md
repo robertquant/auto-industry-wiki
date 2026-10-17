@@ -1,10 +1,10 @@
 ---
 title: 赛豆科技
 created: 2026-06-06
-updated: 2026-06-21
+updated: 2026-10-17
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-21.md]
+sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-21.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 赛豆科技
@@ -60,3 +60,10 @@ sources: [memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-21.md]
 - [[cockpit-llm]] - 座舱大模型格局
 - [[cockpit-ai-evolution]] - 座舱AI演化路径
 - [[huawei-ads]] - 华为智驾方案，Hi模式对比
+## 2026-10-17 更新：首车 ME7 工信部申报
+- **赛豆 ME7 现身工信部申报**：中大型轿跑 SUV，**轴距 3050mm**；双电机版系统功率 **420kW**
+- **座舱**：**豆包大模型**（多轮对话、情绪识别）——「先有 AI 再有车」定位落地（[[volcengine]]）
+- **智驾**：**元戎启行无图方案**（[[yuanrong-qixing]]）——6/21 已录「或与元戎合作（待确认）」正式确认
+- **电池**：宁德时代三元锂（[[catl]]）
+- **生产**：赛力斯**凤凰工厂代工**、独立品牌与渠道运营（[[seres]]）
+- 判断：字节系首车落地路线清晰——代工 + 豆包座舱 + 第三方智驾，「AI 定义汽车」进入可检验阶段（[[volcengine]]）

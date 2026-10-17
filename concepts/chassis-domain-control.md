@@ -1,10 +1,10 @@
 ---
 title: 底盘域控 (Chassis Domain Control)
 created: 2026-10-06
-updated: 2026-10-11
+updated: 2026-10-17
 type: concept
 tags: [ev-tech, trend, system]
-sources: [raw/articles/2026-10-06-daily-digest.md]
+sources: [raw/articles/2026-10-06-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 底盘域控 (Chassis Domain Control)
@@ -37,3 +37,7 @@ sources: [raw/articles/2026-10-06-daily-digest.md]
 - **10/9 交割完成**：京西智行正式成为立讯精密全资控股企业，全面融合**悬架、制动、转向三大底盘系统**
 - 整合后底盘业务覆盖**中欧美南美四大产区**，设 **8 个技术研发中心、7 座生产基地、2 处试车场**——智能底盘 Tier1 的系统集成与全球交付能力到位（对照 [[bosch]]/采埃孚，中资首次拥有覆盖四大产区的底盘执行器平台）
 - 判断：2026-2027 底盘 Tier1 密集重组期开始兑现（10/6 判断）——「域控+执行器」全栈能力 + 全球交付网络是下一轮定点战争的门票（详见 [[tier1-mna-consolidation-2026]]）
+
+### 2026-10-17 智能底盘产业化提速：上汽「走进大底盘」技术展
+- **上汽联合高校及 21 家供应商**（10/16）围绕线控底盘、零部件准入与供需对接研讨——智能底盘从「单车技术」走向「产业协同」：主机厂牵头、供应商共建准入标准
+- 与 10/6「底盘域控三强」判断互证：[[saic]] 以供应链整合补足线控底盘生态位，[[shangjie]] Z9 率先采用大陆 MKC2 线控制动——线控执行器进入旗舰车型标配周期

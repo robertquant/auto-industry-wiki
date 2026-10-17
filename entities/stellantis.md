@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-162026-10-14
+updated: 2026-10-17
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -95,3 +95,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 
 - **评估萨拉戈萨工厂共线生产零跑 B10 与欧宝纯电 SUV**——继 B10 下线（10/15 已录）与三电洽谈（10/14 已录）后的第三次表态：从「代工中国车」升级为「中国车与自家车共线」——同一平台级共线 = 零跑技术（[[leapmotor]]）与 Smart Car 平台逻辑（Q3 欧洲 +10%，10/14 已录）在产线端合流
 - 判断：萨拉戈萨从「Stellantis 工厂」变成「中国性价比方案欧洲母港」——若共线落地，欧宝纯电 SUV 的潜在三电/架构来源与 B10 同源，Stellantis「用中国打法守欧洲」进入产线级复制（[[leapmotor-stellantis]]）
+
+## 2026-10-17 更新：巴黎车展 8 品牌 60 余款 + 9 款概念车
+- **8 品牌 60 余款车 + 9 款概念车**参展，主打**品牌历史**守份额（RCZ Vision 全固态/1000V/线控概念车 10/13 已录 [[2026-paris-auto-show]]）——用「历史叙事+概念车」对冲中国 22 家军团攻势
+- **零跑 B10 萨拉戈萨投产确认**（[[leapmotor-stellantis]]）——「引进来」路线第一个欧洲量产节点兑现
+- 判断：Stellantis 战略重心 = 本土守份额 + 中国供应链补成本——巴黎车展的「历史牌」与西班牙产线的「中国牌」同步打

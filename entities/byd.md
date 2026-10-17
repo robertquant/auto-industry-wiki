@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-162026-10-15
+updated: 2026-10-17
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -236,3 +236,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **9 月销量 46.36 万辆（年内新高）、1-9 月累计 313.2 万辆**——王朝海洋基本盘 + 海外冲量双驱动（对照 [[chinese-oem-export]] 全年出口冲击 200 万辆）
 - **巴黎车展首发 Shark 插混皮卡 + 欧洲推 ATTO 8**：ATTO 8 为欧洲首款二代刀片电池纯电 SUV（9 分钟 10%→97% 闪充、115kWh WLTP 652km，对标起亚 EV9/小鹏 G9，见 [[xpeng-g9l]]）——皮卡+大型SUV 补欧洲产品线短板（此前欧洲主战场在 A0-A 级，见 [[byd-dolphin-g-dmi]]、[[byd-hungary-factory]]）
 - 判断：插混皮卡入欧 = 与吉利同踩混动配额窗口（[[eu-hybrid-export-caps-2026]]）的卡位战；ATTO 8 用「二代刀片+闪充」在欧打旗舰叙事，与大汉国内上市（[[byd-han]]）形成双旗舰收官
+
+## 2026-10-17 更新：9月海外17.99万辆 + 欧洲双工厂计划
+- **9 月海外销量 17.99 万辆（+153.9%）**——海外增速持续快于国内（对照 8 月 18.9 万辆口径）
+- **李柯巴黎车展口径：建欧洲第二、第三工厂，法国为候选地**——匈牙利（[[byd-hungary-factory]]）之外产能阶梯扩容；2030 年欧洲本地员工超 4 万人（10/14 已录于 [[2026-paris-auto-show]]）
+- 巴黎动作：Shark 插混皮卡全球首发 + ATTO 8 欧洲推进（[[2026-paris-auto-show]]）
+- 判断：混动配额细节（2026年12月起 35 万辆/年，[[eu-hybrid-export-caps-2026]]）落地当周，比亚迪「本地制造换配额」路线确定性进一步加强

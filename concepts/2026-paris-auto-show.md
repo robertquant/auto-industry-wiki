@@ -1,10 +1,10 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-162026-10-14
+updated: 2026-10-17
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 2026巴黎车展 (Paris Motor Show)
@@ -127,3 +127,11 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[byd]] 巴黎首发 Shark 插混皮卡 + 欧洲推 ATTO 8**（二代刀片+9 分钟闪充、115kWh WLTP 652km，对标起亚 EV9/[[xpeng-g9l]]）——中国品牌从轿车/SUV 卷向皮卡+大型SUV细分
 - **[[porsche]] Mission S 概念车全球首发**（10/16）：五圆仪表+模拟指针+MagSafe 中控——德系以「驾驶者回归」回应座舱军备竞赛（与 7 款雷同车机形成对照）
 - 判断：车展收尾日三重信号——中国卷「同质化争议」（内卷反噬）、欧洲打「驾驶体验差异」（保时捷/雷诺 E-Space 旋转座椅，见 [[renault]]）、比亚迪补「产品线空白」（皮卡/大型SUV）
+
+## 10/17 收官：22家中国品牌创纪录 + 主题从「卖车」变「造车」+ 混动配额细化
+- **22 家中国品牌参展创纪录**（上届约 10 家 → 22 家）——主题从「卖车」变「造车」：[[byd]] Shark 插混皮卡全球首发（闪充进欧）、[[geely]] Monjaro EM-i/领克 07GT/极氪 9X 欧洲首秀；产能端 **[[leapmotor]] B10 萨拉戈萨投产**、**[[xpeng]] G9L 广州+格拉茨双产地**、**[[byd-hungary-factory]] Q4 总装**、**吉利×福特瓦伦西亚合资**——展台叙事让位于产线落地
+- **中欧混动配额机制细化**（德媒）：**2026 年 12 月起首年 35 万辆、每年 +6%**（[[eu-hybrid-export-caps-2026]]）——巴黎窗口期抢量进入倒计时
+- **[[mercedes-benz]] MMA 平台 GLA/AMG CLA 首秀**（三电机、纽北 7:32）——纯电/燃油回归同一平台的「多能源」信号（欧洲三派：大众多能源/雷诺混动生态/奔驰纯电为主）
+- **[[porsche]] 2035 战略「主动收缩」**：盈亏平衡压至年销 20 万以下、再裁 9000 人、出售 Rimac 股权——德系收缩叙事在车展主场正式化
+- **[[stellantis]] 8 品牌 60 余款 + 9 款概念车**——主打品牌历史守份额（与 22 家中国军团形成「守 vs 攻」镜像）
+- **收官判词**：BBA 在巴黎连官方智驾体验资格都没拿到（仅 [[tesla]]、[[xpeng]] 入选智驾实验室）——比销量数据更刺眼的智能化代差信号；刹车门（[[zunjie-brake-pedal-controversy]]）给合资递刀：验证标准从「速度」回摆到「可靠」

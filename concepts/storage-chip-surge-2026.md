@@ -1,10 +1,10 @@
 ---
 title: 存储芯片价格暴涨 (2026 Storage Chip Surge)
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-10-17
 type: concept
 tags: [chip, supply-chain, strategy, cost]
-sources: [daily-news/2026-06-30-gasgoo-evening.md]
+sources: [daily-news/2026-06-30-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 存储芯片价格暴涨 (2026 Storage Chip Surge)
@@ -47,3 +47,7 @@ sources: [daily-news/2026-06-30-gasgoo-evening.md]
 - [[byd-xuanji-a3]] - 比亚迪自研芯片
 - [[li-auto-m100]] - 理想自研芯片
 - [[horizon]] - 地平线（第三方芯片商面临车企自研竞争）
+## 2026-10-17 更新：车规存储结构性缺货——江波龙净利预增约20倍
+- **江波龙预计前三季度净利同比大增约 20 倍**（10/17 盖世）——存储涨价周期的业绩兑现样本（对照 2026 年 6 月本页记录的 180% 涨幅逻辑）
+- **车规存储进入「结构性缺货」**：原厂涨价传导至车规领域——智驾/座舱高算力平台（[[ai-box-independent-compute]]）存储需求激增 + AI 供给挤占，车规料号供应优先度下降
+- 判断：本页「自研芯片从成本优化升级为工业自卫战」判断在存储环节继续兑现——车规存储国产替代（[[auto-chip-self-develop]]）提速窗口打开

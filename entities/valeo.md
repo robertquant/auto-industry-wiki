@@ -1,10 +1,10 @@
 ---
 title: 法雷奥（Valeo）
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-17
 type: entity
 tags: [tier1, adas, ev-tech]
-sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md]
+sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
 ---
 
 # 法雷奥（Valeo）
@@ -24,3 +24,6 @@ Tier1 在车展戏份加重：智能化时代传感器/系统供应商需要直�
 - [[bosch]] - 同级 Tier1 转型对照
 - [[hesai]] - 激光雷达竞争格局
 - [[l3-autonomous-driving]] - SCALA 3 面向的 L3/L4 场景
+## 2026-10-17 更新：anSWer——「开发周期缩短至数月」表态
+- **anSWer 平台宣称开发周期缩短至数月**（汽车AI日报口径）——营销含量偏高：缺量化基线（对照什么周期？验证范围？）
+- 判断：法雷奥在 VSS360/SCALA 3（10/13 已录）硬件抢戏后转向软件效能叙事——Tier1 集体「AI 提效」话术（[[ai-in-automotive-rd]]）的供应商版
