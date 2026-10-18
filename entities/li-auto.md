@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-162026-10-12
+updated: 2026-10-18
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -199,3 +199,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 
 - **2027 Q1 携 Li 6 登陆挪威/荷兰**（晨报口径）——继 i6 巴黎首秀（10/12 已录）后欧洲进入「具体车型+具体市场+具体时间」阶段；Li 6 或为 L6 的欧洲命名（[[volvo]] 2027 起任领克欧洲经销商同框 = 吉利系欧洲渠道联动，见 [[geely]]）
 - 判断：挪威/荷兰 = 欧洲 BEV 渗透率最高市场（[[eu-ev-market-2026]]），理想用增程基本盘车型打头阵而非纯电 i 系列——欧洲首战求稳不求炫
+
+## 2026-10-18 更新：芯片子公司马赫心科技首轮 16.25 亿融资
+
+- **上海马赫心科技（2026年8月注册）完成首轮 16.25 亿元融资**（10/16 签约）：杭州经韬、蓝驰创投、华业天成领投，追加认购权悉数行使投后估值 **171 亿元**；**理想仍持股 74.01%** 保持控股（详见 [[mahe-xintech]]）
+- **马赫M100 = 全球首款动态数据流AI芯片**（5nm/1280 TOPS），已搭载新一代量产车型；资金用于芯片研发商业化，尤其**非汽车领域**（机器人/域控）
+- 判断：车企自研芯片从「成本中心」变「独立估值单元」——对照同日 [[xinhe-hangtu]]（50亿累计）的密集融资，智驾芯片战进入资本化阶段；理想「苹果式设计+代工」模式（9/18 已录）延伸出资本化第二层

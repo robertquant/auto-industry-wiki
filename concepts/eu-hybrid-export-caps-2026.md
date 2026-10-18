@@ -1,10 +1,10 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-10-17
+updated: 2026-10-18
 type: concept
 tags: [policy, export, europe, strategy, trend]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
 ---
 
 # 中欧混动出口协议（2026-10）
@@ -67,3 +67,8 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **德媒披露执行口径**：配额自 **2026年12月**起实施（早于此前「2027年起」预估），**首年 35 万辆、此后每年 +6%**（与 10/13 WSJ/DW 轮廓一致，但启动时间提前——PHEV 规避窗口比预期更短）
 - **判断修正**：「12月启动」意味着 2026 年底最后两个月出口成为抢跑窗口，2027 年全年配额约束首次完整生效；本地化产线（[[byd-hungary-factory]]、[[leapmotor-stellantis]]、吉利-福特西班牙）的爬坡速度直接决定配额内份额
 - 口袋：基准基数与监督办法仍未正式公开——「政治框架+技术参数」的组合不变，执行谈判与 [[2026-paris-auto-show]] 收官后中国车企的欧洲产品组合重排同步进行
+
+## 2026-10-18 补充：三原则官宣 + 车企表态扩容
+- **中欧贸易投资磋商机制下达成共识，官方定调「基于事实、非歧视、合规」三原则**（10/14 磋商、10/18 晚报披露）——比「减半数字」更重要的是**合规框架先于细则落地**：配额将按合规/事实核查而非政治配额执行
+- **表态车企扩容**：[[chery]]、[[byd]]、[[bmw]]（聂科维首访华）、[[changan]]、[[leapmotor]] 密集表态支持；**零跑已在欧洲 36 国建立超 1000 家网点并进入本地化制造**——「渠道先行+本地化」成为配额时代中国车企的标准姿势（[[leapmotor-stellantis]]）
+- 判断：三原则 = 给「减半」留出执行弹性——合规能力（碳足迹/溯源/事实核查，呼应 [[battery-passport-2026]]）成为配额谈判中的软筹码；本地化网点密度（零跑 1000+ 家）是配额外的第二战场

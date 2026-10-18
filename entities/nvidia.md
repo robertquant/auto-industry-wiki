@@ -1,10 +1,10 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-18
 type: entity
 tags: [chip, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
 ---
 
 # 英伟达（NVIDIA）
@@ -22,6 +22,12 @@ AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[auton
 
 - 智驾芯片端：英伟达仍主导（Thor 系列），但国产替代加速（地平线 13.6%、比亚迪自研，见 [[autonomous-driving-chips]]）——资本布局是对「芯片主业周期见顶」的对冲
 - Figure 若绑定英伟达生态，机器人「大脑」芯片/平台战争将先于本体量产爆发——复制智驾芯片路径到具身智能
+
+## 2026-10-18 更新：德国主权AI合作——从「卖铲人」到「主权AI基础设施供应商」
+
+- **德国联邦政府×英伟达主权AI合作**（10/19 柏林「Invest in Germany」峰会默茨×黄仁勋官宣，详见 [[germany-nvidia-sovereign-ai-2026]]）：约 10 亿欧元级，慕尼黑工业AI云约 1 万枚 GPU / 0.5 EFLOPS，聚焦**物理AI**（机器人/自动驾驶/工业），西门子、奥迪、Black Forest Labs 参与
+- 战略角色第三跳：卖芯片（智驾）→ 买公司（Figure/1400亿美元交易）→ **主权AI基建供应商**（国家级采购）——需求端从车企扩展到国家主权基金，芯片周期对冲升级
+- 对照：欧洲「双线下注」——德国主权基金买美国算力 vs [[renault]] 资本入股中国芯片（[[xinhe-hangtu]]）；英伟达在中国市场被替代（[[autonomous-driving-chips]]）的同时，在欧洲主权市场建立新根据地
 
 ## 相关页面
 

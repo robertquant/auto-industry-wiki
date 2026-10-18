@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-18
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -310,3 +310,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Mégane E-Tech 换 LFP（67kWh / 500km）**：主力车型磷酸铁锂化——成本结构向 [[catl]] 供应链进一步倾斜（对照 10/6 已录 R5 Five LFP 入门版）
 - **达契亚 Spring 全系 <2 万欧**；E-Space 概念车全球首发（10/16 已录）；**Q3 财报 10/29 披露**（营收先导 10/23）——Provost 百日考双节点
 - 判断：雷诺「中国研发+欧洲制造」公式进入复制期——Twingo 验证、Mégane LFP 跟进、Spring 本土化，平价电动三箭齐发（[[entry-ev-profit-crisis]] 语境下欧洲唯一有规模打法的主机厂）
+
+## 2026-10-18 更新：首次投资中国物理AI芯片公司（新芯航途）
+
+- **雷诺首次投资新芯航途（XHEART）**（10/16 披露，详见 [[xinhe-hangtu]]）：历史累计约 50 亿元战略轮的投资方，奇瑞追加、长鑫科技参投——欧洲OEM入股中国芯片的**直接资本绑定**案例
+- 与 ACDC 中国团队（<2年<2万欧标准化，10/17 已录）同构：欧洲不追赶中国芯片代差，**用资本锁定供应与定价权**（对照 [[foreign-automakers-chinese-ad]] 的纯技术合作模式）
+- 欧洲双线下注：雷诺买中国芯片（[[xinhe-hangtu]]）vs 德国主权基金买美国算力（[[germany-nvidia-sovereign-ai-2026]]）——欧洲智能化的双重依赖格局成型

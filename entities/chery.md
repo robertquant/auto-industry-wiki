@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-18
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -33,6 +33,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **犀牛固液混合版**：2026 Q4 率先装车
 
 **判断**：奇瑞走「固液混合先行、全固态验证」的渐进路线，与 [[byd]] 硫化物全固态 2027 上车、[[solid-state-battery]] 行业节奏一致。
+
+## 2026-10-18 更新：追加投资新芯航途（XHEART）
+
+- **奇瑞追加投资物理AI算力芯片公司新芯航途**（10/16 披露，详见 [[xinhe-hangtu]]）：雷诺首次投资 + 奇瑞追加 + 长鑫科技参投，历史累计约 50 亿元
+- 奇瑞×雷诺在同一芯片标的汇合——两家欧洲/新兴市场出口强者联合锁定中国芯片供应（[[china-tech-reverse-export]] 的资本化变体）；X7 后续搭载奇瑞部分车型，投资=供应链锁定的延伸
 
 ## 行业动态
 - 2026年9月：王传福、尹同跃、李斌、项兴初中科大校友同台（行业头部交流信号）

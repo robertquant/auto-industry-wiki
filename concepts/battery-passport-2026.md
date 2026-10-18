@@ -1,10 +1,10 @@
 ---
 title: 电池护照 (Battery Passport)
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-18
 type: concept
 tags: [policy, battery, supply-chain, export, trend]
-sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md]
+sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
 ---
 
 # 电池护照 (Battery Passport)
@@ -13,7 +13,7 @@ sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-
 欧盟《新电池法规》要求的动力电池「数字孪生」合规凭证，涵盖**碳足迹**、**供应链溯源**、**再生材料含量**三大核心信息块。2027 年 2 月 18 日起，动力电池进入欧盟市场必须携带电池护照——从自愿试点升级为**市场准入凭证**。
 
 ## 关键时间线
-- **2026**：全球电池联盟（GBA）公布 2026 年电池护照试点结果；[[catl]] 为**全球唯一历次试点均有护照发布的电池企业**
+- **2026**：全球电池联盟（GBA）公布 2026 年电池护照试点结果；[[catl]] 为**全球唯一历次试点均有护照发布的电池企业**（10/18 补充：**连续三期参与**，实现**矿端到电池包全价值链 ESG 数据覆盖**）
 - **2027/2/18**：欧盟强制生效——无护照 = 无欧盟市场准入
 
 ## 对产业的含义

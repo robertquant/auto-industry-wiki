@@ -1,10 +1,10 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-10-17
+updated: 2026-10-18
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
 ---
 
 # 长安汽车 (Changan)
@@ -153,3 +153,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **智能化累计投入 225 亿元、团队 7,500 人、日均仿真 330 万公里**（汽车AI日报口径）——央企智能化投入的量化样本（对照 [[li-auto]] AI 研发 60 亿/年）
 - 核实剔除：网传「长安 10/15 取得全国首块 L3 号牌」为旧闻复述（实为 25.12 首牌 / 26.3 L4 牌照）——长安 L3/L4 进度以 [[l3-mass-production-2026]] 记录为准
 - 语境：天枢一段式端到端（9/18 已录）+ 启源入欧（[[2026-paris-auto-show]]）——智能化投入进入产品转化期
+
+## 2026-10-18 更新：管理层重大调整——朱华荣→赵非，为全球化让路
+- **10/16 公告**：朱华荣辞任长安汽车（上市公司）董事长，继续任中国长安党委书记/董事长；**赵非接任上市公司董事长**，**叶沛任总裁**，杨大勇任常务执行副总裁、邓承浩升执行副总裁——集团与上市公司权责厘清
+- **海外成为突围重点**：H1 海外交付 40.2 万辆（+35.1%）——换帅信号 = 为全球化/市场化运营让路（对照 [[geely]] 李书福→安聪慧交接的同一逻辑）
+- 判断：长安换帅与欧洲基地时间表（10/14 已录：2028 年 18 万辆产能）同频——「央企治理结构现代化 + 出海优先」双轨推进，[[chinese-oem-export]] 语境下自主头部新一轮组织升级样本

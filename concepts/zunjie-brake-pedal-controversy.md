@@ -1,10 +1,10 @@
 ---
 title: 尊界V800刹车踏板断裂事件
 created: 2026-10-09
-updated: 2026-10-162026-10-11
+updated: 2026-10-18
 type: concept
 tags: [controversy, adas, vehicle]
-sources: [raw/articles/2026-10-09-daily-digest.md]
+sources: [raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
 ---
 
 # 尊界V800刹车踏板断裂事件
@@ -21,6 +21,7 @@ sources: [raw/articles/2026-10-09-daily-digest.md]
 | 10/09 | 懂车帝再回应：网传「暴力测试」不存在，百公里刹停是标准测试工况，非极端 |
 | 10/09 | 江淮**再度跌停**，收 22.25 元——两连跌停 |
 | 10/09 | 广汽本田借势营销：雅阁踏板可承受 3000N 以上不断裂 |
+| 10/16-18 | **工信部 + 中央网信办 + 市场监管总局成立联合调查组**核查刹车踏板支架断裂问题，尊界声明全力配合，调查结论未公布 |
 
 ## 三方角力
 
@@ -43,6 +44,7 @@ sources: [raw/articles/2026-10-09-daily-digest.md]
 ## 待观察
 - 官方「优化设计」的具体方案与召回/升级范围
 - 江淮股价与 V800 订单/交付的后续走势
+- **三部门联合调查结论**——从「企业间争议」升级为「监管定调」，结论将直接决定华为系/尊界的责任认定与行业示范（对照 [[innovation-verification-regulation-2026]] 四部门51项验证参数的制度背景）
 - 是否引发监管对「测试标准 vs 实际使用」的行业讨论
 ## 2026-10-11 更新：余承东定位深度分析（与 robert 对话，观点保留）
 

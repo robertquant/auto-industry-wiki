@@ -1,10 +1,10 @@
 ---
 title: 理想马赫M100芯片
 created: 2026-06-12
-updated: 2026-06-16
+updated: 2026-10-18
 type: entity
 tags: [li-auto, chip, autonomous-driving, 5nm]
-sources: [memory/2026-06-12.md, memory/2026-06-16.md]
+sources: [memory/2026-06-12.md, memory/2026-06-16.md, raw/articles/2026-10-18-daily-digest.md]
 ---
 
 # 理想马赫M100芯片
@@ -48,3 +48,9 @@ sources: [memory/2026-06-12.md, memory/2026-06-16.md]
 - [[nvidia]] - 被替代方
 - [[auto-chip-self-develop]] - 车企自研芯片趋势
 - [[world-model]] - 理想世界模型路线（25亿公里训练数据）
+
+## 2026-10-18 更新：马赫M100 动态数据流定位 + 子公司资本化
+
+- **马赫M100 确认为「全球首款动态数据流AI芯片」**（5nm 车规/1280 TOPS），已搭载新一代量产车型（i9/2026款i6）——动态数据流 = 按数据流动态分配算力，区别于传统静态调度，对应 [[world-model]] 高带宽低延迟需求
+- **母公司 [[li-auto]] 将芯片业务独立为上海马赫心科技（2026年8月注册）并完成首轮 16.25 亿融资**，投后估值最高 171 亿元、理想持股 74.01%（详见 [[mahe-xintech]]）
+- 资金投向含非汽车领域（机器人/域控）——M100 架构从智驾向 [[humanoid-robot-industry]] 等物理AI场景延伸
