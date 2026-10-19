@@ -1,10 +1,10 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-19
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 2026巴黎车展 (Paris Motor Show)
@@ -127,6 +127,12 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[byd]] 巴黎首发 Shark 插混皮卡 + 欧洲推 ATTO 8**（二代刀片+9 分钟闪充、115kWh WLTP 652km，对标起亚 EV9/[[xpeng-g9l]]）——中国品牌从轿车/SUV 卷向皮卡+大型SUV细分
 - **[[porsche]] Mission S 概念车全球首发**（10/16）：五圆仪表+模拟指针+MagSafe 中控——德系以「驾驶者回归」回应座舱军备竞赛（与 7 款雷同车机形成对照）
 - 判断：车展收尾日三重信号——中国卷「同质化争议」（内卷反噬）、欧洲打「驾驶体验差异」（保时捷/雷诺 E-Space 旋转座椅，见 [[renault]]）、比亚迪补「产品线空白」（皮卡/大型SUV）
+
+## 10/19 补记：收官后——大众城市车家族订单近 15 万 + Filosa「意识形态」论
+- **[[volkswagen]] 电动城市车家族（ID.Polo / ID.Cross / CUPRA Raval / Škoda Epiq）巴黎同台**，ID.Polo 预售 €24,995 起，**家族累计订单近 15 万**——欧洲平价电动需求实证，大众用四品牌分摊成本正面回击中国 10 万级军团（[[byd]]、[[leapmotor]]）
+- **[[stellantis]] CEO Filosa 口径：「此前 EV 战略锚定于意识形态」**→ 务实混动——欧洲主流 OEM 首次公开承认纯电优先战略失误，与大众多能源、保时捷收缩共构「去意识形态化」转向
+- **口径校正（矛盾标注）**：中国品牌参展数三口径并存——10/14 「20 家」（较上届翻倍）、10/17 「22 家创纪录」、10/19 晨报「20 家 + 7 款全球首发」——22 家为最晚口径，20/22 之差疑为品牌/集团统计口径（含独立子品牌与否），引用时需注明日期
+- **收官判断（10/19 晨报口径）**：本届 = 欧洲「本地化军备竞赛」开幕 + 车企集体务实电动化（止血）——与 10/17「从卖车到造车」判词同向，产能爬坡（[[leapmotor-stellantis]]、[[byd-hungary-factory]]、xpeng 格拉茨）成 2027 配额时代唯一增量通道
 
 ## 10/17 收官：22家中国品牌创纪录 + 主题从「卖车」变「造车」+ 混动配额细化
 - **22 家中国品牌参展创纪录**（上届约 10 家 → 22 家）——主题从「卖车」变「造车」：[[byd]] Shark 插混皮卡全球首发（闪充进欧）、[[geely]] Monjaro EM-i/领克 07GT/极氪 9X 欧洲首秀；产能端 **[[leapmotor]] B10 萨拉戈萨投产**、**[[xpeng]] G9L 广州+格拉茨双产地**、**[[byd-hungary-factory]] Q4 总装**、**吉利×福特瓦伦西亚合资**——展台叙事让位于产线落地

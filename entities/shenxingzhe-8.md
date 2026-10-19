@@ -1,10 +1,10 @@
 ---
 title: 神行者8 (Shenxingzhe 8)
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-19
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 神行者8
@@ -37,3 +37,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/art
 - 神行者8 首发版 **1000台全部售罄**——华为ADS 5 + 800V + 奇瑞制造的组合初战告捷
 - 验证「[[chery]]×[[jaguar-land-rover]]×[[huawei-ads]]」三方合作模式的市场接受度
 - 待观察：常规版本定价与产能爬坡；与问界M9/理想L9的正面竞争（见 [[2026-09-china-sales-battle]]）
+
+## 2026-10-19 更新：限时权益价 28.99 万起 + 骁遥增混电池细节
+- **限时权益价 28.99 万元起**（较 9/3 上市价 30.99 万起下探 2 万）——上市 6 周即变相降价，豪华增程 SUV 价格战传导（对照 [[li-auto]] L9、[[wenjie]] M9 市场）
+- **三电细节首次完整披露**：CLTC 纯电续航 310km；**宁德时代 60.3kWh 骁遥增混全地形专用电池**（[[catl]] 增混专用产品线）；**800V + 6C 超充**（20%-80% 约 12 分钟）；华为乾崑 ADS
+- 判断：神行者 8 的「28.99 万 + 800V + 6C + 乾崑 ADS」= 奇瑞×捷豹路虎用中国三电全家桶打 30 万级，权益价下探反映增程赛道价格锚整体下移（[[range-extender-trend]]）

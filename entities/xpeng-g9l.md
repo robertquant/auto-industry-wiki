@@ -1,10 +1,10 @@
 ---
 title: 小鹏G9L (XPeng G9L)
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-19
 type: entity
 tags: [vehicle, oem-cn, adas, export]
-sources: [raw/articles/2026-10-14-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 小鹏G9L (XPeng G9L)
@@ -18,7 +18,7 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 |------|------|
 | 法国售价 | **74,990 欧元起** |
 | 覆盖市场 | 64 国 |
-| 本地化生产 | 麦格纳奥地利工厂试制下线 |
+| 本地化生产 | 麦格纳奥地利工厂试制下线（10/19 确认量产） |
 | 智驾 | 图灵AI智驾（第二代VLA/NGP），欧洲首次公开道路实测（与特斯拉为仅有两家应战参展商） |
 
 ## 关键参数
@@ -32,7 +32,7 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 ## 判断
 1. **参数领先→实测证伪的载体**：74,990 欧直插欧洲豪华纯电区间，叠加 NGP 欧洲公开道路实测（[[2026-paris-auto-show]] 智驾实验室）——中国智驾第一次在欧美腹地被公开检验
 2. **补能+数据双叙事**：5C 超充 11.7 分钟 + 26 国 674 万公里路测 = 欧洲市场的补能体验与数据合规本地化闭环（[[training-loop]]、[[ultra-fast-charging]]）
-3. **本地化生产**：麦格纳奥地利试产 → 不占混动配额、不依赖出口退税的通路（[[export-tax-rebate-cut-2026]]、[[china-tech-reverse-export]]）
+3. **本地化生产**：麦格纳奥地利试产 → 不占混动配额、不依赖出口退税的通路（[[export-tax-rebate-cut-2026]]、[[china-tech-reverse-export]]）——10/19 晨报确认**格拉茨工厂量产**，欧洲首台本地化车进入交付轨道
 
 ## 关系网络
 - [[xpeng]] - 所属品牌

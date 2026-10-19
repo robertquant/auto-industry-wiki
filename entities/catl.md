@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-10-12
+updated: 2026-10-19
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -128,6 +128,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **行业背景**：全行业产能利用率不足60%，电芯产能向头部集中
 - **判断**：这是头部电池厂在产能过剩期的「接盘式扩张」——收购在建产能替代新建，重资产集中化与车企「去宁化」两极分化并存（对照：理想投资欣旺达、小米选中创新航/欣旺达）
 - 相关：[[geely]]（资产让渡方）、[[nev-battery-swap]]（巧克力换电）
+
+## 2026-10-19 更新：匈牙利试产 + 钠电正极 1200 亿锁单 + ×赛力斯深化
+- **匈牙利德布勒森工厂首条产线进入试生产**（设备调试+工艺验证完成）——欧洲本地化供应从建设期进入验证期（呼应 [[battery-passport-2026]] 下欧洲准入节奏；与 [[byd-hungary-factory]] 同期）
+- **容百科技锁定宁德约 60% 钠电正极采购量**（10/15 公告，2026-2031 预计超 1200 亿元，详见 [[ronbay]]）——钠电路线从「储能补充」转向供应链长协锁量（[[sodium-ion-battery]]、[[lithium-price-surge-2026]]）
+- **×赛力斯深化战略合作**（10/10 重庆签约，详见 [[seres]]）：电池安全/产业链协同/全球生态；赛力斯超级工厂「厂中厂」二期 10-12GWh（合计超 20GWh）
+- 判断：容量侧「匈牙利试产 + 钠电锁单 + 赛力斯扩产」三线并进——宁德同时押注欧洲准入、材料降本（钠电）、国内客户绑定，供应链「多手准备」进入执行期
 
 ## 2026-10-12 更新：电池护照——GBA 试点全球唯一「全勤」
 

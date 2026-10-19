@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-17
+updated: 2026-10-19
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -234,6 +234,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **ID. ERA 8X 权益价 20.68 万起**——技术真容（800V/EA211 增程器/1602km/Momenta R7+192 线激光雷达/交付即城市 NOA）已于 10/14 记录，价格为最后一块拼图：直接插入 20 万级插混红海（对照 [[sealion-06-dmi]] 12.99 万起、[[byd-han]] 23.59 万起）
 - **裁员 10 月启动执行**：2.8 万人已自愿离职（早前口径），Q4 进入执行期——与 [[bmw]]（裁 8000 人 10 月起）[[mercedes-benz]] 集体落在 Q4：德系三巨头转型阵痛集中兑现（[[euro-stoxx-50-exit]]、[[bba-ev-ranking-2026]]）
 - 判断：ID. ERA 8X「中国特供技术全家桶」定价 20.68 万 = 大众在中国的最后一搏火力全开；裁员执行 + 软件西退东进（10/15 CARIAD 记录）构成「欧洲止血、中国进攻」的双线叙事
+
+## 2026-10-19 更新：电动城市车家族巴黎同台——ID.Polo 预售 €24,995 起
+- **电动城市车家族（ID.Polo / ID.Cross / CUPRA Raval / Škoda Epiq）巴黎车展同台**，ID.Polo 预售 €24,995 起，**家族累计订单近 15 万**（[[2026-paris-auto-show]]）——大众用 €25k 以下入门电动车补欧洲微型/小型 EV 空白（对照 [[renault]] Twingo/Spring 平价电动路线）
+- 判断：15 万订单 = 欧洲平价电动车需求真实存在；但家族四品牌同平台分摊研发成本的同时，也把中国 10 万级电动车（[[byd]] 海鸥/[[leapmotor]]）的价格压力直接引入欧洲本土市场——「欧洲止血」的真正考验是成本曲线而非订单
 
 ## 2026-10-17 更新：ID.ERA 8X 上市 + 借刹车门炮轰「速成车」
 - **ID.ERA 8X 正式上市 20.68-26.98 万**，**全系标配 Momenta R7 世界模型**（合资品牌量产世界模型第二节点，见 [[momenta]]、[[world-model]]）——「中国智驾方案进大众合资产品线」从 9/26 推送升级为全系标配

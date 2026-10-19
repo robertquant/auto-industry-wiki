@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-19
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -226,6 +226,11 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **Q3 在华销量 9 万辆+**——较 Q2 跌破 10 万辆（10/15 已录）进一步下探，中国基本盘失血未止（[[bba-ev-ranking-2026]]）
 - **将首批 OTA Momenta R7 世界模型**——智驾合作从「联合研发」（10/15 已录）进入「装车兑现」：R7 世界模型（[[world-model]]）上车 = 奔驰在中国用 Momenta 的新一代架构做体验止血，与 10/15「硬件被旧架构锁死」判断互证（[[momenta]]）
 - 判断：Q3 9 万辆 × OTA R7 世界模型 = 「车卖不动、软件先跟上」——奔驰中国策略从产品重新定义（MMA 教训）转向「存量车软件升级」的止血路线
+
+## 2026-10-19 更新：×英伟达扩大合作——MB.OS×Hyperion 锁 L4/Robotaxi
+- **10/16 官宣扩大与 [[nvidia]] 合作**：MB.OS + Hyperion / Alpamayo / HALOS 平台，支持 L4 及 Robotaxi——奔驰成为英伟达「汽车系统级平台」的欧洲核心用户
+- 双外包结构成型：软件/算力栈绑英伟达（欧洲）+ 中国智驾方案绑 [[momenta]]（R7 世界模型 OTA，10/17 已录）——奔驰按市场分别外包算力与算法
+- 判断：奔驰「中国卖不动就卖软件升级」的止血线（Q3 9 万辆，10/17 已录）之外，押注英伟达栈赌 2027+ 下一代平台翻身——但 MB.OS 历史进度多次跳票，Hyperion 落地节点是关键观察点
 
 ## 2026-10-17 更新：MMA 平台 GLA/AMG CLA 巴黎首秀
 - **MMA 平台 GLA + AMG CLA 巴黎车展首秀**（[[2026-paris-auto-show]]）：AMG CLA **三电机、纽北 7:32**——性能标杆回归纽北叙事

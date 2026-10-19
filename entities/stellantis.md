@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-19
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -95,6 +95,11 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 
 - **评估萨拉戈萨工厂共线生产零跑 B10 与欧宝纯电 SUV**——继 B10 下线（10/15 已录）与三电洽谈（10/14 已录）后的第三次表态：从「代工中国车」升级为「中国车与自家车共线」——同一平台级共线 = 零跑技术（[[leapmotor]]）与 Smart Car 平台逻辑（Q3 欧洲 +10%，10/14 已录）在产线端合流
 - 判断：萨拉戈萨从「Stellantis 工厂」变成「中国性价比方案欧洲母港」——若共线落地，欧宝纯电 SUV 的潜在三电/架构来源与 B10 同源，Stellantis「用中国打法守欧洲」进入产线级复制（[[leapmotor-stellantis]]）
+
+## 2026-10-19 更新：Filosa 承认 EV 战略「锚定于意识形态」→ 务实混动
+- **CEO Filosa 巴黎口径：此前 EV 战略「锚定于意识形态」是错误**，转向务实混合动力路线（10/13-18 巴黎车展，[[2026-paris-auto-show]]）——欧洲主流 OEM 首次公开承认纯电优先战略失误，与 [[volkswagen]] 多能源、[[bmw]] 灵活动力（10/17 已录）共构德系「去意识形态化」
+- 背景：Stellantis 欧洲利润承压 + 中国军团（[[leapmotor]] 萨拉戈萨共线，10/15 已录）成本挤压——「务实混动」是利润止血的路线选择，也是把 2020s 初纯电承诺的软着陆
+- 判断：Filosa 的「意识形态」定性 = 欧洲电动化叙事从「承诺」切换到「成本现实」的标志性话语；但混动化回摆与欧盟 2035 燃油禁令（含混动）存在时间冲突，观察 2027 政策窗口
 
 ## 2026-10-17 更新：巴黎车展 8 品牌 60 余款 + 9 款概念车
 - **8 品牌 60 余款车 + 9 款概念车**参展，主打**品牌历史**守份额（RCZ Vision 全固态/1000V/线控概念车 10/13 已录 [[2026-paris-auto-show]]）——用「历史叙事+概念车」对冲中国 22 家军团攻势

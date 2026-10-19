@@ -1,10 +1,10 @@
 ---
 title: 埃安Ray7 (Aion Ray7)
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-19
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
-sources: [raw/articles/2026-10-11-daily-digest.md]
+sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 埃安Ray7 (Aion Ray7)
@@ -34,6 +34,11 @@ sources: [raw/articles/2026-10-11-daily-digest.md]
 - [[weRide]] - 文远知行 L4 模型供应方
 - [[gac]] - 母公司广汽集团（埃安/传祺自主矩阵）
 - [[hongqi-tiangong-07]] - 同期 15-20 万级智驾竞品（激光雷达路线对照）
+
+## 2026-10-19 更新：预售 12.88 万起——L4 技术下探 13 万级
+- **10/17 预售定价 12.88 万元起**（低于此前 15-20 万级预期）：文远知行 L4 Robotaxi 同源端到端 + 华为 DriveONE / EMB 全线控首发——**L4 技术下放 15 万级**（实际落入 13 万级）
+- 与 [[hongqi-tiangong-07]]（15-20 万级激光雷达路线）价格带错位：Ray7 用「L4 算法 + 线控硬件」打 12.88 万，激光雷达不再是标配叙事——智驾内卷从「卷传感器配置」转向「卷算法降本」（对照 [[deepal]] 华为 ADS 下放 15 万级）
+- 待观察更新：10/17 预售定价已确认；EMB 量产真实性与法规准入、文远 L4 模型量产表现仍待实车验证
 
 ## 待观察
 - 10/17 预售定价与「芯片级驱制融合」的量产真实性

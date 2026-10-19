@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-10-05
+updated: 2026-10-19
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -144,3 +144,9 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
   - 其余多为研发测试牌照（仅带安全员算法验证）
 - 提醒消费者区分「预埋硬件+OTA宣传」与真正持证产品——**L2.9营销话术仍是2026年消费级主力**（延伸 [[l3-autonomous-driving]]）
 - 试点限制条件=法规保守度的直接映射（见 [[safety-case]]）
+
+## 2026-10-19 更新：强制化落地细节——替代 2024 推荐版 + OTA 伪装禁令
+- **工信部《智能网联汽车自动驾驶系统安全要求》正式升级为强制性国标**（OFweek 报道）：**替代 2024 版推荐性标准**，首次对 L3/L4 提出全国统一安全技术规范（责任归属与安全边界）
+- **关键条款：仅搭载 L2/ADAS 的车型无法通过 OTA 升级「伪装」成自动驾驶**——营销话术与法规边界的硬隔离，直接打击「预埋硬件 + OTA 宣传」打法（呼应页首「L2.9 营销话术」提示）
+- **配套：工信部 10/15 发布智能网联汽车「远控脱困」技术验证通知**——远程操控监管同步收紧，L3/L4 的「远程接管」路径纳入验证体系
+- 实施时点不变：2027-07-01；与 [[fifteen-five-plan]]（十五五规划）+ [[zunjie-brake-pedal-controversy]]（刹车门三部门调查）构成 2026Q4 智驾监管三连——「技术竞赛 + 安全追责」双轨并行

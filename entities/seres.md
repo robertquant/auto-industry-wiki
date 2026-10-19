@@ -1,10 +1,10 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-10-06
+updated: 2026-10-19
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 赛力斯 (Seres)
@@ -75,6 +75,11 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-10-06 更新：华为×赛力斯新五年合作（10/1）
 - **联合组建「问界专属团队」**，新五年合作落定——此前「分手」担忧解除（[[wenjie]]、[[huawei-auto]]）
 - 判断：华为从「包办」退至「赋能」，资源转向尊界/享界/智界/尚界——赌赛力斯独立造血（[[zunjie]]、[[xiangjie]]、[[zhijie]]、[[shangjie]]）
+
+## 2026-10-19 更新：×宁德时代深化合作——「厂中厂」二期 10-12GWh
+- **10/10 重庆签约深化战略合作**（电池安全/产业链协同/全球生态）；**问界继续全系搭载宁德电池**；**赛力斯超级工厂「厂中厂」二期规划 10-12GWh，一、二期合计超 20GWh**；联合开拓欧洲、中东及中亚市场
+- 与 10/6 新五年合作（华为退位赋能）同频：赛力斯一边从华为手里接权、一边与 [[catl]] 绑定电池供应与全球渠道——「华为赋能 + 宁德供能 + 自有工厂」三角结构成型
+- 判断：厂中厂二期 = 赛力斯对问界销量的继续加码（120 万用户基盘）；欧洲/中东/中亚联合开拓 = 宁德借赛力斯整车渠道出海、赛力斯借宁德电池背书进欧
 
 ## 2026-10-08 补充：新五年合作细节（9/30 深圳签约）
 - **9/30 双方深圳签约**，联合组建问界业务专属团队，「专属专营」升级问界业务；产品定义、渠道零售、服务体系已移交赛力斯主导（承接 10/6 记录）
