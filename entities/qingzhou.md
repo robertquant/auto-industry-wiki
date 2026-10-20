@@ -1,7 +1,7 @@
 ---
 title: 轻舟智航
 created: 2026-06-23
-updated: 2026-10-01
+updated: 2026-10-20
 type: entity
 tags: [智驾, adas, 中国, noa]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-23.md]
@@ -16,6 +16,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-23.md]
 ### 市场份额
 - **NOA市场份额：30.1%**（2026年Q1）
 - **累计搭载量：突破100万台**（2026年6月）
+
+## 2026-10-20 更新：城市NOA打入10-20万价格带——单征程6M方案量产首发
+
+- **行业首个量产上市的[[horizon-robotics]]单征程6M城市NOA方案**（7-10月密集兑现窗口）——把城市NOA从高价旗舰带入大众市场
+- **9款合作车型**接力上市/开启预售，集中覆盖 **10-20万元主流价格带**——该价格带智驾平权的关键推手（[[city-noa-penetration]]、[[lidar-penetration]]）
+- 巴黎车展展示城市NOA当地路测成果——中国智驾「卖技术」出海一景（[[china-tech-reverse-export]]）
+- 判断：单征程6M = 地平线征程6系列（[[horizon-robotics]]）走量弹道的最直接受益方案；对照[[yuanrong-qixing]]（高通平台VLA）、[[momenta]]（高端纯视觉）构成「10-20万地平线 / 15-25万高通 / 高端Momenta」的三层价格带分工
 - 中国智驾方案商第一梯队成员
 
 ### 竞争格局

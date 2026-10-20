@@ -1,7 +1,7 @@
 ---
 title: 高通汽车 (Qualcomm Auto)
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-20
 type: entity
 tags: [chip, cockpit, adas, tier1]
 sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -10,6 +10,12 @@ sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-da
 # 高通汽车 (Qualcomm Auto)
 
 ## 概述
+
+## 2026-10-20 更新：骁龙峰会——中国贡献汽车业务全球一半营收
+
+- **骁龙峰会（10月）**：中国贡献高通汽车业务**全球一半营收**；**存储芯片涨价压力大**（[[storage-chip-surge-2026]]）；**端侧智能体协同（多终端Agent协作）2027-28 才落地**——端侧AI叙事时间表首次明确
+- 判断：汽车业务中国化过半 = 基本盘绑定中国市场（[[cockpit-chip]] 座舱 72.1% 垄断仍是压舱石）；但端侧 Agent 协同 2027-28 = 座舱 AI 下一波换机潮被官方押后（[[in-cabin-ai-agent]]）；存储涨价 + [[advanced-node-capacity-2027]] 产能挤占 = 2026-27 芯企共性成本压力
+- 相关：[[snapdragon-8797]]、[[yuanrong-qixing]]（高通双平台 VLA 量产）
 座舱芯片（8295）霸主，2026年以SA8797舱驾融合芯片切入智驾市场，凭借「座舱入口」成为多家车企的「必选项」。路线：承认纯智驾芯片打不过英伟达，用座舱优势撬动智驾（走舱驾一体差异化）。
 
 ## 2026年关键产品

@@ -1,7 +1,7 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-10-03
+updated: 2026-10-20
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
@@ -11,6 +11,12 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 
 ## 概述
 新能源汽车补能方式之一，通过更换电池实现快速补能。2026年8月蔚来第4000座换电站落成，累计换电突破1.2亿次。9月华为生态首次涉足换电，行业格局出现关键变化。
+
+## 2026-10-20 更新：引望×宁德时代签约——换电标准第三极成型
+
+- **10/19 宁德时代**：引望（[[huawei-auto]]）× 宁德时代/时代电服签《智能化补能生态战略合作协议》（曾毓群 + 靳玉志出席）——华为生态换电从「东风奕境预研」（10/3 已录）升级为引望平台级合作
+- **格局改写**：换电标准之争从「[[geely-nio-swap-alliance]]（吉利×蔚来）vs 宁德巧克力网络」演变为**宁德+引望（华为系）联盟**——华为渠道/车机生态给宁德换电标准带来 C 端触达能力
+- 待观察：引望换电是否直接接入巧克力网络（99 秒标准）；鸿蒙智行品牌（[[wenjie]]/[[zhijie]]/[[zunjie]]）接入节奏；与蔚来换电联盟（[[nio]]）的终端兼容可能性
 
 ## 2026年9月关键更新
 

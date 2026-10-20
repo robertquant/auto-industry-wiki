@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-19
+updated: 2026-10-20
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -238,6 +238,13 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-10-19 更新：电动城市车家族巴黎同台——ID.Polo 预售 €24,995 起
 - **电动城市车家族（ID.Polo / ID.Cross / CUPRA Raval / Škoda Epiq）巴黎车展同台**，ID.Polo 预售 €24,995 起，**家族累计订单近 15 万**（[[2026-paris-auto-show]]）——大众用 €25k 以下入门电动车补欧洲微型/小型 EV 空白（对照 [[renault]] Twingo/Spring 平价电动路线）
 - 判断：15 万订单 = 欧洲平价电动车需求真实存在；但家族四品牌同平台分摊研发成本的同时，也把中国 10 万级电动车（[[byd]] 海鸥/[[leapmotor]]）的价格压力直接引入欧洲本土市场——「欧洲止血」的真正考验是成本曲线而非订单
+
+## 2026-10-20 更新：Q3交付189万（-14.3%）+ 2027-31砍投61亿欧 + CEA首车「与众07」投产
+
+- **Q3 交付 189 万辆（-14.3%）**——四年最大降幅的绝对值口径补录（降幅 10/13-14 已录）
+- **CARIAD 再裁约 1,000 人**（10/15 已录）+ **2027-31 削减 61 亿欧元投资**（CARIAD 2025 亏损 21.8 亿欧的止血延续）——软件业务从「投入期」转「收缩期」，与中国合肥 VCTC 扩编（10/15 已录）同框 = 西退东进再确认
+- **CEA 架构首车「与众07」投产**（大众安徽）：[[horizon-robotics]] 智驾 Q3 起装车 **7 款**车型（酷睿程合资通道）；**L3 目标 2027H2**
+- 判断：CEA 首车落地 = 「合肥软件 + 地平线智驾 + 中国定义」验证节点；L3 2027H2 是大众在中国智驾追赶的时间表锚点（[[l3-autonomous-driving]]、[[china-tech-reverse-export]]）
 
 ## 2026-10-17 更新：ID.ERA 8X 上市 + 借刹车门炮轰「速成车」
 - **ID.ERA 8X 正式上市 20.68-26.98 万**，**全系标配 Momenta R7 世界模型**（合资品牌量产世界模型第二节点，见 [[momenta]]、[[world-model]]）——「中国智驾方案进大众合资产品线」从 9/26 推送升级为全系标配

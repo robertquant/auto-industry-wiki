@@ -1,15 +1,18 @@
 ---
 title: 全球动力电池格局 (2026)
 created: 2026-08-06
-updated: 2026-10-162026-10-12
+updated: 2026-10-20
 type: concept
 tags: [battery, supply-chain, trend, oem-cn, oem-kr]
 sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
-# 全球动力电池格局 (2026)
+## 2026-10-20 更新：9月产量 237.8GWh（+57.3%）+ 1-8月全球装车 TOP10
 
-## 概述
+- **9 月中国动力+储能电池合计产量 237.8GWh（+57.3%）**；1-9 月累计 **1833.1GWh（+63.4%）**（电池联盟）——装车结构继续向 LFP 倾斜，**储能成第二增长曲线**
+- **SNE Research：2026年1-8月全球装车 844.2GWh（+19.7%）**；前十中 **7 家中国企业合计占 73.3%**，**宁德时代独占约四成**；**瑞浦兰钧（+126.3%）新上榜**；日韩份额继续被压缩
+- 判断：产量增速（+63%）＞装车增速（+19.7%）的剪刀差 = 储能 + 出口消化；宁德全球四成装车 + 电池护照全勤（[[battery-passport-2026]]，[[catl]]）双领先 = 份额与合规双基本盘
+- 相关：[[power-module-market-2026]]、[[sodium-ion-battery]]、[[fifth-gen-lfp-battery]]
 全球动力电池竞争进入"中国平台化扩张"时代。2026年上半年全球电动汽车动力电池装机量达608.5GWh，同比增长20%。中国前十企业合计份额达72.4%。竞争焦点从产能规模转向区域制造效率、客户组合、产品结构、合规溯源四种核心能力。
 
 ## 2026年9月新动态

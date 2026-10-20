@@ -1,7 +1,7 @@
 ---
 title: 黑芝麻智能
 created: 2026-05-08
-updated: 2026-10-162026-09-27
+updated: 2026-09-27
 type: entity
 tags: [chip, blacksesame, adas, 中国]
 sources: [raw/articles/2026-09-27-daily-digest.md]

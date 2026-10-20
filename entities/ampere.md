@@ -1,7 +1,7 @@
 ---
 title: Ampere
 created: 2026-04-30
-updated: 2026-10-162026-05-23
+updated: 2026-05-23
 type: entity
 tags: [renault, europe, ev, strategy]
 sources: [raw/articles/2026-04-30-renault-daily.md]

@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-11
+updated: 2026-10-20
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
@@ -10,6 +10,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 # 华为汽车生态 (Huawei Auto)
 
 ## 概述
+
+## 2026-10-20 更新：引望×宁德时代换电合作签约——补能双轨成型
+
+- **10/19 宁德时代**：引望 × 宁德时代/时代电服签《智能化补能生态战略合作协议》（曾毓群 + 靳玉志〔引望董事长/CEO〕出席）——华为生态换电布局从「东风奕境预研」（10/3 已录）升级为**引望平台级合作**（[[nev-battery-swap]]）
+- 补能版图：**超充（[[ultra-fast-charging]]）+ 换电双轨**；华为渠道/车机生态给宁德换电标准（巧克力换电网络，99 秒）带来 C 端触达能力
+- 格局：换电标准之争从「[[geely-nio-swap-alliance]]（吉利×蔚来）vs 宁德」演变为**宁德+引望（华为系）联盟**——标准第三极成型
+- 待观察：引望换电是否直接接入巧克力网络；鸿蒙智行旗下品牌（[[wenjie]]/[[zhijie]]/[[zunjie]]）接入节奏（[[catl]]）
 华为以「零部件+HI+智选」三种模式渗透汽车产业，2026年乾崑ADS 5成为高阶智驾事实标准之一：H1城市NOA装机32.3万辆居首，鸿蒙智行舱内激光雷达大批装车开启L3硬件预埋。生态覆盖[[seres]]（问界）、[[zunjie]]（尊界）、[[changan]]（阿维塔/启境）、东风奕境等。
 
 ## 智驾产品线

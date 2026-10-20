@@ -1,7 +1,7 @@
 ---
 title: 智能制造AI化
 created: 2026-05-04
-updated: 2026-10-162026-06-09
+updated: 2026-06-09
 type: concept
 tags: [strategy, investment]
 sources: [memory/2026-05-04.md, memory/2026-05-09.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-09.md]

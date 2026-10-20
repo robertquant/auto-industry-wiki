@@ -1,7 +1,7 @@
 ---
 title: 新能源渗透率60%里程碑 (2026年)
 created: 2026-05-13
-updated: 2026-09-28
+updated: 2026-10-20
 type: concept
 tags: [nev, penetration, milestone, 2026, china, sales]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
@@ -22,6 +22,14 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-n
 | 2026年7月 | 55%+ | 中汽协（含商用车） |
 
 **突破65%意味着**：新能源从「多数」进入「绝对主导」——8月大盘158万辆（环比+8.1%）回暖背景下渗透率仍创新高，油电分化不可逆。8月品牌销量明细见 [[2026-08-china-sales-battle]]。
+
+## 2026-10-20 更新：9月渗透率 67%——燃油车销售占比首破 1/3
+
+- **2026年9月：新能源渗透率 67%（历史新高）、纯电份额 47.3%**；**燃油车销售占比首次跌破 1/3**——每卖出三辆有两辆是新能源（乘联分会，盖世 10/19）
+- **马斯克转发**相关数据并评论「中国对石油的依赖正在快速下降」（[[tesla]]）
+- **合资燃油销量同比降幅普遍超 20%**，部分合资品牌在华产能利用率已低于 50%——渗透率拐点的供给端代价（[[dealer-margin-crisis]]、[[bba-ev-ranking-2026]]）
+- 里程碑连续口径：2026年4月 61.4% → 7月 64.5%（零售）→ 8月 65.8%（零售）→ **9月 67%**
+- 判断：燃油车跌破 1/3 是标志性拐点——燃油价值链（产能/渠道/残值）进入加速出清期，「合资产能利用率 <50%」将成常态话题（对照 [[italy-market-2026]]、[[japanese-sales-china-2026]] 欧洲/日系同频下滑）
 
 ### 2026年9月更新：纯电逼近50%大关
 - **8月燃油车零售**：仅54万辆（同比-40%），纯燃油同比-45%

@@ -1,7 +1,7 @@
 ---
 title: 数字孪生工厂
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-20
 type: concept
 tags: [ai-manufacturing, digital-twin, technology, smart-factory]
 sources: [raw/articles/2026-05-26-ai-panorama.md]
@@ -51,3 +51,8 @@ sources: [raw/articles/2026-05-26-ai-panorama.md]
 
 - [[ai-manufacturing]] - 智能制造AI化
 - [[aidv]] - AI定义车辆范式
+
+## 2026-10-20 更新：舍弗勒太仓数智工厂——人形机器人制造机器人关节
+
+- **10/20 舍弗勒具身智能机器人太仓数智工厂启用**：约 7,500㎡ 厂房、**6 台人形机器人**进入**关节模组装配产线**（物料搬运/分拣/压装/检测），配套 **6 类工业训练场景**——「人形机器人开始参与制造自己的核心零部件」（[[humanoid-robot-industry]]）
+- 判断：外资 Tier1 把机器人产能与数智工厂合流——关节模组是机器人成本大头，自产 + AI 质检 = 降本闭环；也是 [[humanoid-robot]] 赛道罕见的「Tier1 直接下场造」样本（对照 [[tier1-mna-consolidation-2026]] 并购扩版图路线）

@@ -1,7 +1,7 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-10-19
+updated: 2026-10-20
 type: concept
 tags: [policy, export, europe, strategy, trend]
 sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md]
@@ -52,6 +52,12 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **数据背书**：前 8 个月中国品牌欧洲销量 **91.4 万辆、同比翻番**；插混份额从 **11% 跳升至 29%**——PHEV 通道收窄前的最后冲刺数据（[[eu-phev-strategy]]）
 - **本地化竞速**：「出口减半就本地造」——[[byd]] 匈牙利工厂、[[leapmotor]] 西班牙投产、**吉利-福特西班牙合资**（[[geely]]）三样本预计加速
 - **下一观察节点**：**10 月中旬布鲁塞尔峰会**——执行细则（基准年度/年度配额/监督机制）是否在这一轮落地
+## 2026-10-20 补充：中方反制对价 + 产业反应
+
+- **中方对价**（晨报口径）：对 **40 亿欧元欧盟商品降关税** + **松绑稀土出口管制**——协议从「单边限出口」变为**双向对价**结构（10/9「谅解」、10/12-13 配额参数已录）
+- **产业反应**：Stellantis / 雷诺股价涨约 2%（[[stellantis]]、[[renault]]）——欧洲 OEM 用短期定价权换长期中国低价混动供给减少；雷诺 CEO 称协议为「重要里程碑」
+- 判断：稀土松绑 = 中方拿到比关税更硬的对价筹码；对价结构落地后，**配额执行细则（基准年度/监督机制）**仍为最大悬念（10/13 已列观察点）
+
 ## 2026-10-13 补充：配额参数浮出——35万辆/年 + 每年+6%
 - **配额轮廓**（WSJ/DW 口径）：欧盟拟将中国混动车（HEV/PHEV）进口上限设为**每年35万辆**（**2027年起**，此后每年 **+6%**），目标**四年内中国混动在欧份额砍半**
 - **数据背景**：8月中国产汽车已占欧洲混动销量约 **1/4**；欧盟 PHEV 进口一年 **+86%**、均价 **-20%**——混动正是中国对欧出口量最大的形态（[[byd]] DM系、[[geely]]、[[chery]] 出口欧洲主力形态）

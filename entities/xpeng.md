@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-08-09
-updated: 2026-10-19
+updated: 2026-10-20
 type: entity
 tags: [oem-cn, ev-tech, adas, ai, vehicle]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-industry/forecast-tracker.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -10,6 +10,12 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, memory/2026-08-09.md, auto-in
 # 小鹏汽车 (XPeng)
 
 ## 概述
+
+## 2026-10-20 更新：VLA 2.0 平台 2027 发布（AI日报在途素材，待核实）
+
+- **VLA 2.0 平台定档 2027**：宣称**首个端到端 vision-to-action 架构**；何小鹏称**全自动驾驶 1-3 年内可达**——下一代智驾平台规划（[[vla-model]]、[[vla-mass-production]]）
+- 语境：第二代 VLA 已随 G9L / MONA L05 量产上市（[[xpeng-g9l]]、[[mona-l05]]），VLA 2.0 为下一世代规划
+- ⚠️ 来源：10/20 15:00 AI日报 cron（SIGTERM 中断前的在途搜索结果）——**未经二次核验**；Q4 发布会为验证节点（[[xmind-tech-framework]]、[[xiaopeng-adas-roadmap]]）
 中国新势力车企，以"AI原生汽车公司"定位差异化竞争。2026年产品矩阵从GX单点押注扩展到MONA L03、G9L等多车型布局。GX 6月交付6,739台超预期，但前7月累计204,004台同比-12.78%，全年压力仍在。
 
 ## 2026年8月销量与VLA 2.0

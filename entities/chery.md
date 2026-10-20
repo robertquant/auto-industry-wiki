@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-18
+updated: 2026-10-20
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
@@ -101,6 +101,13 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **9 月出口 20.78 万辆，创中国车企单月出口纪录**（此前纪录 8 月 19.7 万）——海外占比超 70% 独步行业（[[china-export-leaders-2026]]），出口结构仍以燃油+混动为主（[[eu-hybrid-export-caps-2026]] 语境下出口形态最大受益/承压者之一）
 - **捷途7 登顶英国 9 月销冠**——捷途在欧洲（英国）单点突破，奇瑞多品牌出海（瑞虎/欧萌达/捷途/星途）再添实证
 - 判断：出口纪录月月刷新 = 「混动配额封顶（四年减半）」前最后窗口期的极致放量；英国销冠验证「平价燃油/混动」在欧仍有空间，与 [[renault]] 平价电动路线（[[entry-ev-profit-crisis]]）形成错位竞争
+
+## 2026-10-20 更新：9月新能源 133,310（+45.6%）+ iCAUR 2027 进英国
+
+- **9 月新能源 133,310 辆（+45.6%），连续 6 个月破 10 万**；1-9 月累计 85.9 万辆居行业前三；前三季新能源出口 52.9 万辆（+136%）——13.3 万破纪录（10/15 已录）补齐增速/连续性/出口维度
+- **犀牛电池三线体系化**：E 系列纯电 / H 系列混动 / **S 系列固态（电芯 >400Wh/kg，2027 上车验证）**（[[solid-state-battery]]）——400Wh/kg 规格 10/15 已录，本轮确认体系命名
+- **iCAUR 品牌 2027 年初进入英国**，首款车型 **V27 SUV**——海外高端品牌矩阵再落一子（此前 Omoda/Jaecoo 平价线）
+- 判断：新能源连续 6 月破 10 万 = 「出口王」（[[china-export-leaders-2026]]）在国内新能源的补课兑现；iCAUR 走高端 = 混动配额（[[eu-hybrid-export-caps-2026]]）约束下提价换利润空间的尝试
 
 ## 2026-10-17 更新：前三季出口 155.12 万辆（+65.6%）
 - **9 月出口破 20 万辆**（20.78 万创中国单月纪录，10/16 已录）、**前三季出口累计 155.12 万辆（+65.6%）**——出口王地位进一步固化

@@ -1,7 +1,7 @@
 ---
 title: FSD V14代码精简
 created: 2026-06-03
-updated: 2026-10-162026-06-03
+updated: 2026-06-03
 type: concept
 tags: [adas, end-to-end, tesla, technology, vla]
 sources: [memory/2026-06-02.md]

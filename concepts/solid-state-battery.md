@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-162026-10-15
+updated: 2026-10-20
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -12,6 +12,13 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **比亚迪全固态量产车定档 2027**（李柯确认）：硫化物路线 + 硅基负极、400Wh/kg、CLTC 1218km 原型车，**仰望新旗舰轿车或首搭**，配天神之眼 DiPilot 600。比亚迪成为全球首个确认硫化物全固态上车时间的主流车企。
 - **政策定调**：七部门《新型电池产业"十五五"规划》（9/28）首次提出 2030 年全固态初步规模化应用（见 [[battery-fifteen-five-plan]]），政策端与比亚迪量产时间表首次对齐。
 - 次日（9/29）A股固态电池概念涨停潮，机构判断产业化拐点渐近。
+
+## 2026-10-13 更新：巨湾技研吉瓦时级全固态产线投产——产线验证期开启
+
+- **10/13 广州南沙：行业首条吉瓦时级固态电池产线投产**（[[guangwan-jiyan]]）——**全球首家通过第三方检测认证并量产下线的固态电池企业**
+- 技术：**深共熔基复合固态电解质**路线、比能量 **260-480Wh/kg**、针刺不起火不爆炸；**通过新国标 GB/T 48093.1-2026 判定检测（首家）**
+- 意义：固态电池从「样品/中试」进入**吉瓦时级产线**——与 [[battery-fifteen-five-plan]]（2030 初步规模化）、[[chery]] 犀牛 S 系列（400Wh/kg，2027 上车）形成「产线验证期（2026-27）」共识
+- 判断：GB/T 48093.1-2026 判定检测首次落地 = **标准先于规模**——检测认证能力成为固态赛道准入门票（对照 [[catl]]、[[byd]] 2027 装车时间表）
 
 ## 概述
 

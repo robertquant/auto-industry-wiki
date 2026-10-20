@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-162026-10-15
+updated: 2026-10-20
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -189,6 +189,13 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **B10 本周在 Stellantis 西班牙萨拉戈萨工厂下线**——零跑首款欧洲量产车（2026 计划 9,000 台，供西/法/意市场）
 - 意义：从「10/1 欧洲网点 1,020 家/渠道布局」进入「**欧洲本地制造**」落地——在混动配额/关税挤压（[[eu-hybrid-export-caps-2026]]）下，本地化产能 = 免配额通路（[[leapmotor-stellantis]]、[[export-tax-rebate-cut-2026]]）
 - 判断：9,000 台/年只是试水规模，验证「Stellantis 工厂代工 + 中国三电」模式的良品率与成本；跑通则复制到更多车型（对照 10/14 三电装菲亚特/欧宝/标致洽谈）
+
+## 2026-10-20 更新：B10 量产官宣 + 全球新能源品牌第四 + 研发工具链
+
+- **10/16 B10 正式启动量产**（盖世确认）：与 **欧宝 Corsa、标致 208 共线**，并在**马连建成电池组装基地**——「整车+电池」双本地化（[[leapmotor-stellantis]]，10/15-16 已录下线/共线评估，本轮量产官宣）
+- **连续三个月月销破 10 万，居全球新能源品牌第四**（[[new-forces-landscape-2026]]）——从「中国新势力销冠」升维到全球坐标系
+- **研发工具链**：本地研发环境接入火山引擎 TRAE（AI Coding，[[ai-coding-tools-2026]]）——软件研发效率对标新势力第一梯队
+- 判断：全球第四 = 零跑规模叙事的新锚点；萨拉戈萨共线 Corsa/208 说明 Stellantis（[[stellantis]]）把零跑平台当 Smart Car 战略的欧洲产能答案
 
 ## 2026-10-16 更新：9月10.57万三连破10万 + 萨拉戈萨共线生产评估
 

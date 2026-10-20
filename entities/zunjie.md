@@ -1,7 +1,7 @@
 ---
 title: 尊界 (Zunjie)
 created: 2026-07-31
-updated: 2026-10-162026-10-09
+updated: 2026-10-09
 type: entity
 tags: [oem-cn, vehicle, luxury]
 sources: [memory/2026-07-31.md, daily-news/2026-08-14-gasgoo-evening.md]

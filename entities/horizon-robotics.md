@@ -98,3 +98,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - 注：与前序口径并存（4 月域控芯片英伟达 50.9% vs 地平线 13.6%，见 10/12 条目）——不同统计口径（装机芯片 vs 域控）下国产替代斜率一致
 - 判断：10.4pp 是国产龙头与英伟达的历史最小差距；「征程6系列放量 + 酷睿程/VCTC 定点」双引擎下，2026 Q4 是冲击 25%+ 份额的关键窗口（[[autonomous-driving-chips]]、[[nvidia]]）
 
+## 2026-10-20 更新：星空6P获工博会CIIF大奖 + 单征程6M量产双节点
+
+- **星空6P（BPU 650 TOPS）获工博会 CIIF 大奖**：智驾/座舱/仪表/车控**四域单芯片**，与新一代舱驾融合 OS 同获（[[starry-sky-chip]]、[[cabin-driving-fusion]]）——从 6/16 发布到国家级工业展奖项背书
+- **单征程6M 城市NOA 方案量产首发**（[[qingzhou]] 首发，9 款合作车型，10-20 万价格带，10/20 盖世）——征程6 系列走量兑现
+- 判断：「**征程走量、星空定调**」双线闭环成型：6M 吃掉 10-20 万平权红利（[[city-noa-penetration]]）、6P 卡位旗舰四域融合——与 [[blacksesame]] 武当C1296、[[snapdragon-8797]] 的舱驾融合竞争进入量产兑现阶段（[[cabin-drive-integration]]）
+

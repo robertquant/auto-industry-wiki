@@ -1,7 +1,7 @@
 ---
 title: 2026碳酸锂价格暴涨
 created: 2026-05-13
-updated: 2026-10-162026-10-13
+updated: 2026-10-13
 type: concept
 tags: [battery, supply-chain, cost, policy]
 sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md]

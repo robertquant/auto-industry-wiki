@@ -1,7 +1,7 @@
 ---
 title: 汽车创新设计与研发验证新规（2026征求意见稿）
 created: 2026-10-11
-updated: 2026-10-162026-10-11
+updated: 2026-10-11
 type: concept
 tags: [policy, trend, cockpit, controversy]
 sources: [raw/articles/2026-10-11-daily-digest.md]

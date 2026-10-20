@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-19
+updated: 2026-10-20
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -141,3 +141,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[porsche]] 2035 战略「主动收缩」**：盈亏平衡压至年销 20 万以下、再裁 9000 人、出售 Rimac 股权——德系收缩叙事在车展主场正式化
 - **[[stellantis]] 8 品牌 60 余款 + 9 款概念车**——主打品牌历史守份额（与 22 家中国军团形成「守 vs 攻」镜像）
 - **收官判词**：BBA 在巴黎连官方智驾体验资格都没拿到（仅 [[tesla]]、[[xpeng]] 入选智驾实验室）——比销量数据更刺眼的智能化代差信号；刹车门（[[zunjie-brake-pedal-controversy]]）给合资递刀：验证标准从「速度」回摆到「可靠」
+
+## 10/20 补记：展商占比定稿 + 入欧时间表
+
+- **22 家中国品牌、占整车展商 37.3%**（2024 年两倍，超德法本土品牌之和）——10/19 已注 20/22 口径矛盾，晨报口径定稿 **22 家** + 占比维度
+- **问界 2027 秋入欧**：AITO 6-9 **四款车型获欧盟整车型式认证**（[[wenjie]]、[[seres]]）——华为智选车（[[huawei-auto]]）欧洲官宣时间表，晚于理想（2027 Q1，[[li-auto]]）/小鹏（G9L 已开订）
+- **比亚迪接触法国建厂**（[[byd-hungary-factory]]）——本地化产能竞赛（[[eu-hybrid-export-caps-2026]]）下一站
+- 判断：巴黎车展 = 「中国主场进攻/欧洲防守反击」镜像收官定格：22 家 vs 欧洲本土平价电动反攻（[[entry-ev-profit-crisis]]）；2027 配额时代（[[eu-hybrid-export-caps-2026]]）的竞争舞台从展台搬到产线

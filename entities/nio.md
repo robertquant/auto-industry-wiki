@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-162026-10-15
+updated: 2026-10-20
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -165,6 +165,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **充换电站累计 9,602 座**（晚报口径，较 10/3 的 9,515 座 +87 座）——补能网络仍在周级爬坡（[[nev-battery-swap]]）
 - 与 9/28 [[geely-nio-swap-alliance]]（吉利入股蔚来能源 30%）叠加：换电从单品牌壁垒转向双巨头平台化后的网络密度仍领先
+
+## 2026-10-20 更新：9月交付 37,408 + 高端纯电基本盘
+
+- **9 月交付 37,408 辆**（晨报口径，含子品牌待细分）；前三季累计约 30 万（10/15 已录）——高端纯电基本盘稳固，但增速落后零跑/小米（对照 [[new-forces-landscape-2026]]）
+- 判断：9/28 吉利×蔚来换电联盟（[[geely-nio-swap-alliance]]）之后，当务之急是用「换电联盟叙事 + 高端纯电销量」维持资本市场与用户心智的双基本盘
 
 ## 2026-10-16 更新：明年5款大车冲盈利
 

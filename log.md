@@ -1228,3 +1228,36 @@
 - **导航更新**：index.md - entities 123→124（电池厂商2→3，+ronbay）；zhijie摘要刷新；Last updated 2026-10-19；Total pages 316→317
 - **索引完整性校验**：comm 输出为空（317 页全部注册，缺失 0）
 - **核心洞察**：①智界独立（资质+上市）=华为智选车从「车企代工」走向「品牌自持」样板，与问界改由赛力斯主导同向——华为退居Tier1赋能的治理收敛；②「去意识形态化」成欧洲主流OEM集体话语（Filosa公开承认+大众多能源+保时捷收缩），欧洲电动化叙事从承诺切换到成本现实；③海外收入53%是比亚迪「跨国车企」分水岭数据，Q3单季反超上汽=全年销冠悬念市场化；④二代海鸥上激光雷达=A0级智驾内卷标志性事件；⑤钠电从储能补充转向车用长协锁量（宁德1200亿锁单），锂价高位下材料端双轨化启动
+
+## [2026-10-20 22:00] ingest | 每日整理（晨报 + 汽车AI日报在途素材 + 盖世晚报）
+- **素材入库**：raw/articles/2026-10-20-daily-digest.md（三源合一；晚报全文见 daily-news/2026-10-20-gasgoo-evening.md，已推送 robert）；15:00 AI日报 cron 被 SIGTERM 中断，在途素材保留并标注「待核实」
+- **新建（1页）**：
+  - entities/guangwan-jiyan.md - 巨湾技研：10/13 广州南沙行业首条吉瓦时级固态电池产线投产（深共熔基复合固态电解质、260-480Wh/kg、针刺不起火），全球首家第三方认证+量产下线固态电池企业，通过新国标 GB/T 48093.1-2026 判定检测（首家）
+- **更新（21页）**：
+  - entities/volkswagen.md - Q3交付189万（-14.3%）+2027-31砍投61亿欧+CEA首车「与众07」投产+酷睿程/地平线智驾装车7款+L3目标2027H2
+  - entities/li-auto.md - 无图NOA OTA 6.0：24万AD Max车主、城市NOA里程3倍/日活8倍/渗透率超80%
+  - entities/qingzhou.md - 首个量产上市地平线单征程6M城市NOA方案、9款合作车型、10-20万价格带
+  - entities/leapmotor.md - B10萨拉戈萨量产官宣（共线Corsa/208+马连电池基地）+全球新能源品牌第四+研发接入TRAE
+  - entities/chery.md - 9月新能源133,310（+45.6%、连续6月破10万）+犀牛电池E/H/S三系+iCAUR 2027进英国（V27）
+  - entities/fangchengbao-ti9.md - 方程豹累计60万台+方程S/S GT轿车（18.99-23.99万、云辇-M首搭）对标SU7/Model 3
+  - entities/geely.md - 银河星愿第100万辆下线（A0级纯电、上市约两年）
+  - entities/nio.md - 9月交付37,408
+  - entities/horizon-robotics.md / entities/starry-sky-chip.md - 星空6P（650 TOPS四域单芯片）获工博会CIIF大奖
+  - entities/qualcomm-auto.md - 骁龙峰会：中国贡献汽车业务全球一半营收、端侧智能体协同2027-28落地
+  - entities/huawei-auto.md - 引望×宁德时代/时代电服换电签约（《智能化补能生态战略合作协议》）
+  - entities/xpeng.md - VLA 2.0平台2027发布（AI日报在途素材，标注待核实）
+  - entities/byd-hungary-factory.md - 法国建厂接触确认
+  - concepts/nev-penetration-60-percent.md - 9月渗透率67%历史新高、纯电47.3%、燃油车销售占比首破1/3（马斯克转发）；修复表格
+  - concepts/global-battery-market-2026.md - 9月产量237.8GWh（+57.3%）/1-9月1833.1GWh+SNE 1-8月装车844.2GWh（+19.7%）、瑞浦兰钧新上榜
+  - concepts/solid-state-battery.md - 巨湾吉瓦时产线+GB/T 48093.1-2026判定检测首落（产线验证期共识）
+  - concepts/eu-hybrid-export-caps-2026.md - 中方对价（40亿欧欧盟商品降关税+松绑稀土）+Stellantis/雷诺股价涨~2%
+  - concepts/nev-battery-swap.md - 引望×宁德时代签约=换电标准第三极（宁德+华为系 vs 吉利×蔚来）
+  - concepts/un-autonomous-driving-regulation-2026.md - 6.24通过、全球首个全自动驾驶ADS法规（日期精确化）
+  - concepts/2026-paris-auto-show.md - 22家/占整车展商37.3%口径定稿+问界2027秋入欧（AITO 6-9四款欧盟认证）
+  - concepts/digital-twin-factory.md - 舍弗勒太仓数智工厂（6台人形机器人上关节模组产线）
+  - auto-industry/leapmotor-stellantis.md - B10量产官宣+共线Corsa/208+电池组装基地（「整车+电池」双本地化）
+- **数据修复**：16页 frontmatter 日期损坏（`2026-10-1620XX-XX-XX` 拼接，先前 sed 事故）已批量修复
+- **核实不需更新**：battery-passport（宁德三轮全勤已于10/18录）、byd（9月46.4万/海外收入53%已于10/19录）、mercedes-benz×nvidia（10/19已录）、renault E-Space（10/16-17已录）、eu-hybrid 35万辆/年+6%（10/13-17已录）、xiaomi-pengcheng 澎程破万（10/3-8已录）
+- **导航更新**：index.md - entities 124→125（电池厂商3→4，+guangwan-jiyan）；qingzhou 摘要刷新；Last updated 2026-10-20；Total pages 317→318
+- **索引完整性校验**：comm 输出为空（318 页全部注册，缺失 0；broken links 0）
+- **核心洞察**：①燃油车销售占比首破1/3、渗透率67% = 标志性拐点，合资产能利用率<50%将成常态话题；②零跑「整车+电池」双本地化（萨拉戈萨共线Corsa/208+马连电池基地）把出海模板从「中国技术+欧洲制造」升级为「全链本地化」，全球新能源品牌第四；③固态电池进入产线验证期——巨湾吉瓦时产线+GB/T 48093.1-2026判定首落，检测认证成准入门票，2026底-2027上车窗口三方对表（巨湾/奇瑞/比亚迪）；④换电标准第三极成型：宁德+引望（华为系）vs 吉利×蔚来联盟；⑤中欧混动协议双向对价化——稀土松绑是中方终极筹码，执行细则仍是最大悬念；⑥地平线双线闭环（6M走量+6P定调）与轻舟单征程6M=智驾平权10-20万价格带兑现；⑦AI日报 cron（ae4272f9）连续中断需关注恢复

@@ -1,7 +1,7 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-18
+updated: 2026-10-20
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
@@ -199,6 +199,12 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 
 - **2027 Q1 携 Li 6 登陆挪威/荷兰**（晨报口径）——继 i6 巴黎首秀（10/12 已录）后欧洲进入「具体车型+具体市场+具体时间」阶段；Li 6 或为 L6 的欧洲命名（[[volvo]] 2027 起任领克欧洲经销商同框 = 吉利系欧洲渠道联动，见 [[geely]]）
 - 判断：挪威/荷兰 = 欧洲 BEV 渗透率最高市场（[[eu-ev-market-2026]]），理想用增程基本盘车型打头阵而非纯电 i 系列——欧洲首战求稳不求炫
+
+## 2026-10-20 更新：无图NOA OTA 6.0——24万AD Max车主的运营数据
+
+- **OTA 6.0 无图NOA**：**24 万 AD Max 车主**在用；城市NOA **里程 3 倍 / 日活 8 倍 / 渗透率超 80%**——「无图」路线运营数据首次规模化披露（[[city-noa]]、[[data-loop]]）
+- 9月交付 31,817（-6.3%）：新 L6 破万但整体掉队——被增程竞品（[[xiaomi-pengcheng]]、[[wenjie]]）侵蚀的头部样本（10/10 已录口径）；OTA 数据 = 存量车主黏性对冲增量放缓
+- 判断：日活 8 倍 = 城市NOA 从「尝鲜功能」进入「高频刚需」临界点（对照 [[city-noa-penetration]]）；以 OTA 节奏维持智驾心智，是 2027 Q1 Li 6 欧洲首战前的基本盘策略
 
 ## 2026-10-18 更新：芯片子公司马赫心科技首轮 16.25 亿融资
 

@@ -1,7 +1,7 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-10-162026-10-11
+updated: 2026-10-11
 type: entity
 tags: [oem-cn, sales, export, policy]
 sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]

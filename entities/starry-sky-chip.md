@@ -1,7 +1,7 @@
 ---
 title: 地平线星空芯片
 created: 2026-06-16
-updated: 2026-09-24
+updated: 2026-10-20
 type: entity
 tags: [chip, cockpit, adas, ai, platform]
 sources: [memory/2026-06-16.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-09-24-daily-digest.md]
@@ -10,6 +10,13 @@ sources: [memory/2026-06-16.md, raw/articles/2026-06-18-ai-panorama.md, raw/arti
 # 地平线星空芯片
 
 ## 概述
+
+## 2026-10-20 更新：星空6P 参数与 CIIF 大奖
+
+- **星空6P：BPU 650 TOPS**，智驾+座舱+仪表+车控**四域单芯片**融合（[[cabin-driving-fusion]]）
+- 获 **2026 工博会 CIIF 大奖**（与新一代舱驾融合 OS 同获，OS 命名待核）——中国舱驾融合芯片首获国家级工业展奖项
+- 单芯四域 = 「降本平权」叙事：省域控硬件成本约 1,500-4,000 元/车（[[cabin-drive-integration]]）；与 [[wudang-c1296]]、[[snapdragon-8797]] 构成 2026 舱驾融合三强（[[autonomous-driving-chips]]）
+- 相关：[[horizon-robotics]]、[[qingzhou]]（单征程6M 走量对照）
 地平线发布**星空芯片**，中国首款舱驾融合智能体芯片。2026年推出，定位于智能座舱+自动驾驶单芯片融合方案。
 
 ## 核心特点
