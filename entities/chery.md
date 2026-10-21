@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
@@ -108,6 +108,15 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **犀牛电池三线体系化**：E 系列纯电 / H 系列混动 / **S 系列固态（电芯 >400Wh/kg，2027 上车验证）**（[[solid-state-battery]]）——400Wh/kg 规格 10/15 已录，本轮确认体系命名
 - **iCAUR 品牌 2027 年初进入英国**，首款车型 **V27 SUV**——海外高端品牌矩阵再落一子（此前 Omoda/Jaecoo 平价线）
 - 判断：新能源连续 6 月破 10 万 = 「出口王」（[[china-export-leaders-2026]]）在国内新能源的补课兑现；iCAUR 走高端 = 混动配额（[[eu-hybrid-export-caps-2026]]）约束下提价换利润空间的尝试
+
+## 2026-10-21 更新：全球创新大会——原生L4 Robotaxi + CheryMind 物理AI底座
+
+- **10.20 芜湖奇瑞全球创新大会**：发布**行业首款原生前装（非改装）L4 Robotaxi**（[[native-robotaxi-2026]]），目标 2030 年全球运营 10 万辆——与[[caocao-robotaxi]]（吉利/曹操）同日前后官宣，原生 Robotaxi 2027 量产窗口锁定
+- **CHERY AWE 世界引擎**：构境/观语/行策三模型（对应场景理解/多模态交互/决策规划）
+- **CheryMind 物理AI底座**：700TB 企业知识 + 200PB 工程数据 + 2500 万 clips 驾驶数据——奇瑞把「数据资产」当 AI 底座核心（对照 [[faw]] 聚合智能、[[vehicle-computing-agent]]）
+- **紫微世界模型芯片**：奇瑞自研世界模型芯片（[[world-model]] 语境）——出口王开始补智驾/AI 自研课
+- **尹同跃拒绝价格战**：「出海切忌变填海」，从卖到全球 → 扎根全球（南非罗斯林工厂、西班牙闲置产能盘活为例）；点名摩托车出海低价教训——出口王主动上调出海质量要求（[[chinese-oem-export]]、[[eu-hybrid-export-caps-2026]]）
+- 判断：奇瑞 = 「出口第一 − 智驾/AI 声量短板」组合；创新大会补齐原生 Robotaxi + 物理 AI + 自研芯片三块拼图，但 Robotaxi 运营（10 万辆）依赖海外政策+国内牌照双变量，2030 目标偏叙事锚点
 
 ## 2026-10-17 更新：前三季出口 155.12 万辆（+65.6%）
 - **9 月出口破 20 万辆**（20.78 万创中国单月纪录，10/16 已录）、**前三季出口累计 155.12 万辆（+65.6%）**——出口王地位进一步固化

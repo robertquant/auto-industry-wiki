@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-19
+updated: 2026-10-21
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -231,6 +231,12 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **10/16 官宣扩大与 [[nvidia]] 合作**：MB.OS + Hyperion / Alpamayo / HALOS 平台，支持 L4 及 Robotaxi——奔驰成为英伟达「汽车系统级平台」的欧洲核心用户
 - 双外包结构成型：软件/算力栈绑英伟达（欧洲）+ 中国智驾方案绑 [[momenta]]（R7 世界模型 OTA，10/17 已录）——奔驰按市场分别外包算力与算法
 - 判断：奔驰「中国卖不动就卖软件升级」的止血线（Q3 9 万辆，10/17 已录）之外，押注英伟达栈赌 2027+ 下一代平台翻身——但 MB.OS 历史进度多次跳票，Hyperion 落地节点是关键观察点
+
+## 2026-10-21 更新：康林松以 ACEA 主席身份表态——反产业保护
+
+- 康林松（ACEA 主席）公开称**欧盟产业保护或推高成本、破坏供应链平衡**，中欧仍以对话合作为主旋律——欧洲车企集体话语从「保护诉求」转向「成本现实」（对照 [[2026-06-movement]]、[[eu-70x70-rule]]）
+- 语境：欧洲议会三党团初步协议放宽 2035 减排目标（[[eu-ev-market-2026]]）+ 中国品牌欧洲份额 14.6% 创新高——德系一把手公开反对保护 = 欧洲电动化叙事进入「成本优先」阶段
+- 判断：康林松「双面身份」（奔驰 CEO × ACEA 主席）表态暗示奔驰在欧政策诉求已从「关税壁垒」转向「对话+准入对等」；与奔驰中国「由中国定义」战略（[[china-tech-reverse-export]]）一致——保护主义伤的是奔驰自己的全球供应链
 
 ## 2026-10-17 更新：MMA 平台 GLA/AMG CLA 巴黎首秀
 - **MMA 平台 GLA + AMG CLA 巴黎车展首秀**（[[2026-paris-auto-show]]）：AMG CLA **三电机、纽北 7:32**——性能标杆回归纽北叙事

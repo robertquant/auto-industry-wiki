@@ -1,7 +1,7 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-10-14
+updated: 2026-10-21
 type: entity
 tags: [oem-cn, vehicle, adas, ecosystem]
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
@@ -125,3 +125,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-14 补充：2027 进欧洲 + WVTA 认证启动
 - **问界 2027 年进欧洲、WVTA 认证已启动**（[[2026-paris-auto-show]] 口径）——华为系品牌欧洲准入第一站
 - 判断：M9 国内 50 万+销冠（10/13）后，欧洲是华为系高端叙事的下一个校验场；WVTA 启动早于整车出口 = 合规先行（[[eu-70x70-rule]] 语境）
+
+## 2026-10-21 更新：神木事故官方回应（10.17）
+
+- **问界回应 10.17 神木事故**：**人驾状态**、车速 **139.1km/h（限速 50）**，高速撞击致机舱短路起火；**否认「电池爆燃」「智驾撞击」**
+- 语境：尊界刹车门（[[zunjie-brake-pedal-controversy]]）后华为系第二起安全争议；本次事故定性为超速人祸而非产品缺陷
+- 判断：人驾超速事故恰恰是智驾「免责边界」的写照（[[adas-liability-guarantee]]）——在 L2/L3 切换期，车企用 EDDR/行车数据自证清白将成为标准动作；事故舆情对[[huawei-auto]]系品牌的影响逐渐钝化，但「高速撞击后起火」的电池安全联想仍会持续发酵

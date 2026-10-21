@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -199,6 +199,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **前三季度销量突破 300 万辆**、**新能源渗透率 59.7%**（晚报口径）——吉利提前锁定全年 400 万级体量，新能源已成基本盘而非增量（对照 [[byd]] 同期、[[chinese-oem-export]]）
 - 与 10/14 欧洲三品牌首破万辆、极氪 9X 预订同频：国内渗透率见顶于六成线后，增量靠海外与高端（[[zeekr]]、[[volvo]]）
+
+## 2026-10-21 更新：曹操出行×吉利原生Robotaxi样车下线（Eva Cab）
+
+- **10/21 曹操出行×吉利原生 Robotaxi 样车（Eva Cab）下线**：整车架构正向开发非改装，**2027 量产并成为曹操出行主力车型**（详见 [[caocao-robotaxi]]）——与[[chery]] 原生 L4 同日前后官宣，原生 Robotaxi 路线 2027 量产窗口锁定（[[native-robotaxi-2026]]）
+- 判断：吉利把 Robotaxi 押注自有出行平台闭环——曹操出行的运力/数据反哺整车定义（与 [[xiaopeng-yoyo]]、[[waymo]]「自有车队」逻辑同向）；「主机厂+出行平台」一体化是吉利对比奇瑞（纯车端）的差异化
 
 ## 2026-10-20 更新：银河星愿第100万辆下线（A0级纯电两年百万）
 

@@ -1,7 +1,7 @@
 ---
 title: L3自动驾驶
 created: 2026-05-03
-updated: 2026-10-13
+updated: 2026-10-21
 type: concept
 tags: [adas, l3, huawei-ads, bosch, autonomous, technology]
 sources: [memory/2026-05-03.md, memory/2026-05-05.md, memory/2026-05-07.md, memory/2026-05-09.md, memory/2026-05-11.md, memory/2026-05-21.md, raw/articles/2026-05-26-ai-panorama.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md]
@@ -170,3 +170,7 @@ L3自动驾驶是有条件自动驾驶，驾驶员在特定场景下可以"脱�
 ## 2026-10-13 补充：通用 eyes-off 时间表重申（10/12）
 - 通用CEO巴拉重申 eyes-off「解放手眼」**按计划 2028 首发凯迪拉克 Escalade IQ**（区别于 Super Cruise 的脱手不脱眼）；本人再试乘称较3月进步巨大
 - 判断：美国主流 OEM 唯一按表推进 L3 的路线；核心变量=责任框架与 NHTSA 对接（[[safety-case]]）
+
+## 2026-10-21 补充：智驾「小蓝灯」国标拟定为蓝绿色
+- **L3+ 标志灯（「小蓝灯」）国标拟定颜色为蓝绿色**——L3+ 车辆在公共道路的视觉识别标识标准化（[[wnevc-2026]] 语境）
+- 意义：L3 从「公告准入」补上「路上辨识」环节——执法/其他交通参与者需要一眼识别「L3 已激活车辆」（区别于此前 **L3 时代「自动驾驶车辆亮灯」征求意见稿**，颜色定为蓝绿）；小细节但属 L3 商业化基础设施的一部分

@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -245,6 +245,15 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **CARIAD 再裁约 1,000 人**（10/15 已录）+ **2027-31 削减 61 亿欧元投资**（CARIAD 2025 亏损 21.8 亿欧的止血延续）——软件业务从「投入期」转「收缩期」，与中国合肥 VCTC 扩编（10/15 已录）同框 = 西退东进再确认
 - **CEA 架构首车「与众07」投产**（大众安徽）：[[horizon-robotics]] 智驾 Q3 起装车 **7 款**车型（酷睿程合资通道）；**L3 目标 2027H2**
 - 判断：CEA 首车落地 = 「合肥软件 + 地平线智驾 + 中国定义」验证节点；L3 2027H2 是大众在中国智驾追赶的时间表锚点（[[l3-autonomous-driving]]、[[china-tech-reverse-export]]）
+
+## 2026-10-21 更新：奥博穆「交付模式」——L3 2027 就绪 + 合肥成德国以外最大研发中心
+
+- **奥博穆（WNEVC 2026，[[wnevc-2026]]）定义大众在华阶段为「交付模式」（delivery mode）**：L2++ 已部署，**2027 L3 就绪**——叙事从「发布技术」转向「兑现量产」（[[l3-autonomous-driving]]）
+- **合肥 VCTC 成德国以外最大研发中心（3000+ 工程师）**：10/20 已录的 VCTC 扩编补上「规模最大」口径；与 CARIAD 德国收缩同框 = 研发重心东移再确认
+- **酷睿程（×[[horizon-robotics]]）HS8 芯片三季度起装三家合资 7 款新车**——地平线智驾进入大众在华合资全体系（此前 10/20 已录 7 款，本轮明确 HS8 型号+「三家合资」范围）
+- **CEA 平台车型已出海中东、中亚**——「中国定义」车型反向输出非欧美市场（[[china-tech-reverse-export]]）
+- **×英飞凌（[[infineon]]）CARIAD/VCTC 合肥创新应用中心挂牌**：AURIX MCU + 车规功率模块适配 CEA——芯片需求定义前移到合肥
+- 判断：大众在华执行「合肥研发中心 + 地平线智驾 + CEA 出海」三位一体；L3 2027 就绪与[[changan]] 2027 L3 量产、[[byd]] 时间表对齐——2027 成为中国 L3 量产对表年（[[wnevc-2026]]）
 
 ## 2026-10-17 更新：ID.ERA 8X 上市 + 借刹车门炮轰「速成车」
 - **ID.ERA 8X 正式上市 20.68-26.98 万**，**全系标配 Momenta R7 世界模型**（合资品牌量产世界模型第二节点，见 [[momenta]]、[[world-model]]）——「中国智驾方案进大众合资产品线」从 9/26 推送升级为全系标配

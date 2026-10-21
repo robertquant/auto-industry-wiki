@@ -1,7 +1,7 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-10-19
+updated: 2026-10-21
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -140,4 +140,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **全球电池联盟（GBA）2026 电池护照试点结果公布：宁德时代为全球唯一历次试点均有电池护照发布的电池企业**——2027/2/18 欧盟强制（[[battery-passport-2026]]）前的过渡期里，宁德把护照做成「标准话语权」资产
 - 意义：护照三要素（碳足迹 / 供应链溯源 / 再生材料含量）将重构成欧准入壁垒，宁德的 GBA 全勤 = 数据基础设施先发；与 9/30 欧洲产能布局互补（[[global-battery-market-2026]]）
 - 判断：电池护照是欧盟「规则性贸易壁垒」（[[battery-passport-2026]]）——宁德用试点全勤换隐性定价权，中小厂商将被数据体系成本清出欧盟市场
+
+## 2026-10-21 更新：回应2027需求担忧——单车带电量+32%对冲见顶 + 出口退税取消
+
+- **1-9月国内装车量 +17%**（含出口 +38%）——装车增速未失速，最大亮点是**单车平均带电量 69.5kWh（+32%）**：需求增量从「车多了」转向「每台车电池多了」
+- **股价较历史高点腰斩**：市场对 2027 需求担忧（渗透率见顶 + 车企「去宁德化」）持续定价
+- **2027 起电池出口退税取消**（[[export-tax-rebate-cut-2026]]），正与客户协商分担——宁德出口占比较大的背景下，退税取消直接压缩毛利，是 2027 电池板块最大变量之一
+- 判断：带电量 +32% 是宁德对冲渗透率见顶的核心逻辑（大电池化/长续航/快充标配），但出口退税取消 + 车企自研电池（[[battery-white-box]]）双压下，「量增利稳」能否维持是明年最大悬念；协商分担 = 谁有定价权谁少让利（[[ronbay]] 钠电锁单显示材料端宁德仍是强买方）
 

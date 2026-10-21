@@ -1,7 +1,7 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-10-09
+updated: 2026-10-21
 type: concept
 tags: [sales, trend, policy, prediction]
 sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -29,6 +29,12 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 | Tesla 欧洲份额 | 2.4% |
 
 **判断**：H1 BEV 同比 +1/3 显示欧洲电动化重新加速，8 月份额 38% 创高。但 BYD 与 Tesla 份额同为 2.4%——中国品牌与特斯拉在欧洲仍处同一量级，本土品牌（大众/Stellantis）凭入门级 BEV 守住基本盘。
+
+## 2026-10-21 更新：9月中国品牌欧洲销量创新高 + 欧洲议会拟放宽2035目标
+
+- **9 月中国车企欧洲销量 194,760 辆（+104%），份额 14.6% 创新高**——出口从「渗透期」进入「份额兑现期」（[[chinese-oem-export]]、[[china-brand-market-share-2026]]）
+- **欧洲议会三党团初步协议：放宽 2035 减排目标至较 2021 年降 87.5%（而非 100%）**——相当于给内燃机保留 12.5% 缓冲，纯电强制转型的政治承诺松动（对照 [[2026-06-movement]]、[[global-ice-below-50-2026]]）
+- 判断：`中国份额新高 + 欧洲目标放宽` 同时发生 = 欧洲电动化从「政治正确」转向「成本现实」；对中系车而言，2035 放宽不一定利空——补贴退坡后的平价 BEV（[[entry-ev-profit-crisis]]）仍是欧洲唯一增量，但 PHEV 敞口变大的时间窗口拉长（[[eu-phev-strategy]]）；后续表决进展待跟踪
 
 ## 关键判断
 

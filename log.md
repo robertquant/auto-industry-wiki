@@ -1261,3 +1261,30 @@
 - **导航更新**：index.md - entities 124→125（电池厂商3→4，+guangwan-jiyan）；qingzhou 摘要刷新；Last updated 2026-10-20；Total pages 317→318
 - **索引完整性校验**：comm 输出为空（318 页全部注册，缺失 0；broken links 0）
 - **核心洞察**：①燃油车销售占比首破1/3、渗透率67% = 标志性拐点，合资产能利用率<50%将成常态话题；②零跑「整车+电池」双本地化（萨拉戈萨共线Corsa/208+马连电池基地）把出海模板从「中国技术+欧洲制造」升级为「全链本地化」，全球新能源品牌第四；③固态电池进入产线验证期——巨湾吉瓦时产线+GB/T 48093.1-2026判定首落，检测认证成准入门票，2026底-2027上车窗口三方对表（巨湾/奇瑞/比亚迪）；④换电标准第三极成型：宁德+引望（华为系）vs 吉利×蔚来联盟；⑤中欧混动协议双向对价化——稀土松绑是中方终极筹码，执行细则仍是最大悬念；⑥地平线双线闭环（6M走量+6P定调）与轻舟单征程6M=智驾平权10-20万价格带兑现；⑦AI日报 cron（ae4272f9）连续中断需关注恢复
+
+## [2026-10-21 22:00] ingest | 每日整理（晨间AI日报 + 晚间盖世日报）
+- **素材入库**：raw/articles/2026-10-21-daily-digest.md（晨报+盖世双源合一；晚报全文见 daily-news/2026-10-21-gasgoo-evening.md，已推送 robert）
+- **新建（7页）**：
+  - entities/caocao-robotaxi.md - 曹操出行×吉利原生Robotaxi（Eva Cab）：整车正向开发非改装，2027量产成曹操主力车型
+  - entities/faw.md - 一汽「聚合智能」（刘亦功 WNEVC）：汽车/机器人/飞行汽车技术通用性>70%、司南智驾L2-L4、算力集群国产化率100%
+  - entities/infineon.md - 英飞凌：×大众CARIAD/VCTC合肥创新应用中心挂牌（AURIX MCU+功率模块适配CEA），芯片需求定义前移
+  - entities/ommov.md - 欧摩威：第三代卫星摄像头获中国首个量产定点（2027底）——外资感知供应商绑定中国车企出海
+  - entities/aike-xincai.md - 艾科新材：固态电池封装八大品类卡位，广州研发总部动工（5亿+/22条产线/达产30亿）
+  - concepts/wnevc-2026.md - 2026世界智能网联汽车大会（10/21-23亦庄）：官方口径L2 70.5%/NOA 34.2%/牌照2万+/测试2.2亿km；2027 L3/2028 L4时间表密集对齐
+  - concepts/native-robotaxi-2026.md - 原生Robotaxi路线：奇瑞/曹操-吉利/小鹏三方原生方案成型 vs 改装路线，2027量产窗口锁定
+- **更新（10页）**：
+  - entities/catl.md - 回应2027需求担忧：1-9月装车+17%（含出口+38%）、单车带电量69.5kWh（+32%）、2027出口退税取消协商分担
+  - entities/chery.md - 全球创新大会：原生L4 Robotaxi + CheryMind物理AI底座（700TB/200PB/2500万clips）+紫微世界模型芯片；尹同跃「出海切忌变填海」
+  - entities/volkswagen.md - 奥博穆「交付模式」：L2++已部署、2027 L3就绪；合肥VCTC德国以外最大研发中心（3000+）；酷睿程HS8装三家合资7款车；CEA出海中东中亚
+  - entities/wenjie.md - 神木事故官方回应（10.17）：人驾、139.1km/h超速、机舱短路起火，否认电池爆燃/智驾撞击
+  - entities/mercedes-benz.md - 康林松（ACEA主席）反产业保护表态
+  - entities/changan.md - 赵非WNEVC：2027 L3量产、2028 L4商业化，确认25.12国内首张L3正式号牌
+  - entities/geely.md - 曹操Eva Cab下线+2027量产（关联新页）
+  - concepts/eu-ev-market-2026.md - 9月中国车企欧洲销量194,760（+104%）份额14.6%创新高；欧洲议会三党团拟放宽2035目标（87.5%而非100%）
+  - concepts/l3-autonomous-driving.md - 智驾「小蓝灯」国标拟定蓝绿色
+  - concepts/physical-ai.md - 图达通×伽利略具身机器人感知（车规感知外溢物理AI）
+- **核实不需更新**：blacksesame（3亿合同已于10/16录）、leapmotor（TRAE已于10/20录）、huawei-auto（引望×宁德换电已于10/20录）、mercedes-benz×nvidia（10/19已录）
+- **导航更新**：index.md - entities 125→130（+aike-xincai/caocao-robotaxi/faw/infineon/ommov）、concepts 174→176（+native-robotaxi-2026/wnevc-2026）；chery/volkswagen/geely摘要刷新；Last updated 2026-10-21；Total pages 318→325
+- **索引完整性校验**：comm 输出为空（325 页全部注册，缺失 0；今日新增链接 0 broken）
+- **遗留项**：wiki 存在 ~20 个 legacy 中文文本 wikilink（[[华为]]/[[吉利]]/[[地平线]]等）无对应页面，属历史欠账，非今日引入，建议后续 lint 批量清理
+- **核心洞察**：①智驾进入「交付模式」叙事：大会官方口径（L2 70.5%/NOA 34.2%）+各厂2027 L3/2028 L4时间表对齐，法规+商业化双验证期；②原生Robotaxi成赛道分水岭：奇瑞/曹操-吉利同日官宣+小鹏悠游，2027量产窗口三方对表；③宁德以单车带电量+32%（69.5kWh）对冲渗透率见顶，2027出口退税取消是明年电池板块最大变量；④车企AI军备竞赛溢出车身进入数据/算力/芯片产业链层（CheryMind、英飞凌前移、国家数据集团）；⑤欧盟双信号：中国品牌欧洲份额14.6%创新高 vs 2035目标放宽（87.5%）+康林松反保护——欧洲电动化从政治正确转向成本现实

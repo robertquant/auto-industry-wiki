@@ -1,7 +1,7 @@
 ---
 title: 物理AI (Physical AI)
 created: 2026-05-20
-updated: 2026-09-25
+updated: 2026-10-21
 type: concept
 tags: [adas, l4, world-model, humanoid-robot]
 sources: [memory/2026-05-20.md, raw/articles/2026-09-25-daily-digest.md]
@@ -76,3 +76,7 @@ AI对物理世界的理解、预测和操作能力。区别于纯软件AI（如�
 - 物理AI的统一架构何时出现（类似LLM的Transformer）
 - 人形机器人与智驾物理AI的技术迁移效率
 - 合成数据在物理AI训练中的占比极限
+
+## 2026-10-21 补充：车规感知外溢物理AI——图达通×伽利略
+- **图达通（Innovusion）×伽利略合作具身机器人感知**（电力巡检/安防/末端配送）——激光雷达厂商从车规（[[liDAR-cost]] 价格战）向机器人场景变现的第二曲线
+- 判断：与黑芝麻 AI 服务器（[[blacksesame]] 10/16）、地平线机器人芯片（[[terra-robotics]]）同构——2026 下半年「车规技术外溢物理AI」成为供应链集体动作（[[humanoid-robot-industry]]）；图达通作为蔚来系激光雷达供应商，外溢逻辑更急迫（乘用车定点集中度过高）
