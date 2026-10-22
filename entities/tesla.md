@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-12
+updated: 2026-10-22
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -110,3 +110,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 
 - **FSD v14.3 Lite 推送 HW3 老款 Model S/X**（10-16 快科技）：**HW4 V14 能力蒸馏至 HW3**，版本 2026.38.5.1，**2017 年款 Model X 可装**，含强化学习策略移植（详见 [[adas-model-distillation]]）
 - 判断：软件边际成本 ≈ 0 锁定百万级存量用户（体验止血非算力平权）；蒸馏路线 vs 小鹏「堆算力」路线（[[mona-l05]] 双图灵 1500TOPS）之争再添实锤；与 FSD v14 代码 31 万→2000 行（[[fsd-v14-code-collapse]]）互证端到端架构可压缩性——特斯拉智驾盈利模式从「卖硬件」转向「老车收订阅」
+
+## 2026-10-22 更新：Q3 财报 + ×支付宝签约中国生态
+- **Q3（10/21 发布）**：营收 280.5 亿美元持平、GAAP 净利 7.87 亿（-43%）、交付 48.65 万辆（-2%）；但**毛利率回升 19.6%、FCF 转正 15.3 亿**；FSD 北美活跃订阅 **174 万（+67%）**；Cybercab 奥斯汀运营、Optimus 弗里蒙特量产线投产；capex 指引 250→200 亿美元向 AI/机器人倾斜（详见 [[tesla-q3-2026]]）
+- **×支付宝**：车载助手智慧停车、车机直接付停车费——**首次正式签约中国生态**而非单点适配
+- 判断：「美国收缩汽车叙事、中国接入生态」——不在中国建生态就接中国的生态（[[tesla-fsd-china]] 后第二个本土化妥协）；「利润承压、AI 叙事继续」与辛国斌「严禁未充分测试产品入市」（[[innovation-verification-regulation-2026]]）构成中美监管对照

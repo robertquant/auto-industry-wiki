@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-10-19
+updated: 2026-10-22
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -150,3 +150,8 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 - **关键条款：仅搭载 L2/ADAS 的车型无法通过 OTA 升级「伪装」成自动驾驶**——营销话术与法规边界的硬隔离，直接打击「预埋硬件 + OTA 宣传」打法（呼应页首「L2.9 营销话术」提示）
 - **配套：工信部 10/15 发布智能网联汽车「远控脱困」技术验证通知**——远程操控监管同步收紧，L3/L4 的「远程接管」路径纳入验证体系
 - 实施时点不变：2027-07-01；与 [[fifteen-five-plan]]（十五五规划）+ [[zunjie-brake-pedal-controversy]]（刹车门三部门调查）构成 2026Q4 智驾监管三连——「技术竞赛 + 安全追责」双轨并行
+
+## 2026-10-22 更新：李斌「2027.7.1 = 下半场标志」——车规节点被头部当竞争坐标
+- **蔚来李斌 WNEVC**：2027-07-01 L3 强制法规落地 = **智驾下半场开启的标志**（[[nio]]）——法规时间表成为头部企业叙事锚点
+- 同日三分：何小鹏跳过 L3（[[xiaopeng]]）/ 比亚迪限定场景 L3 2028（[[byd]]）——同一强制法规下三种商业化路径（[[l3-autonomous-driving]]）
+- 判断：GB 44721-2026（8 月已发布）+ 工信部准入新规（10/21 征求意见，[[innovation-verification-regulation-2026]]）+ 本法规 2027.7.1 实施 = 监管三连闭环：准入管上市、标准管验证、强制国标管功能

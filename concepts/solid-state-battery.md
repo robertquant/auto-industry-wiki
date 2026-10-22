@@ -1,10 +1,10 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-22
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
@@ -202,3 +202,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 
 - **巨湾技研 GWh 级全固态产线（10/13 投产）认证细节**（10/16 盖世）：**全球首家获第三方权威认证并量产**、**GB/T 48093.1-2026 首家通过**；**深共熔基复合固态电解质路线**、比能量 260-480Wh/kg、**GB 38031-2025 新国标全部安全试验通过**；存量 4GWh 液态线技改 + 固液柔性切换（10/14 已录产线投产）
 - 判断：认证细节坐实「全固态量产」不再是发布会口径——GB/T 48093.1-2026 成为行业首个可对标的标准锚点（对照 [[byd]] 2027 硫化物装车、[[chery]] 犀牛 400Wh/kg、[[battery-fifteen-five-plan]] 2030 规模化）；深共熔（DES）电解质路线 vs 硫化物/氧化物——三条路线并行验证，2027 仍是验收大年
+
+## 2026-10-22 更新：均胜固液混合电池近量产（硫化物路线）
+- **均胜电子固液混合电池近量产**：**300-600Wh/kg**、循环 **2000+ 次**、**30 分钟充 80%**、**热失控提前 30min-2h 预警**（硫化物路线）
+- 应用场景外溢：覆盖**人形机器人 / 机器狗 / AGV**——电池从车规向具身智能泛化（[[physical-ai]]、[[humanoid-robot-industry]]）
+- 判断：硫化物固液混合是「全固态前夜」的务实过渡——能量密度区间与全固态（巨湾 260-480Wh/kg）重叠，但用少量液态电解质换量产可行性；「热失控提前预警」把安全卖点从材料转向管理；Tier1（均胜）与电池厂的边界模糊化，见 [[tier1-mna-consolidation-2026]]

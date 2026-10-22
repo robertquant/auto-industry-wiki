@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-20
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -211,3 +211,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **上海马赫心科技（2026年8月注册）完成首轮 16.25 亿元融资**（10/16 签约）：杭州经韬、蓝驰创投、华业天成领投，追加认购权悉数行使投后估值 **171 亿元**；**理想仍持股 74.01%** 保持控股（详见 [[mahe-xintech]]）
 - **马赫M100 = 全球首款动态数据流AI芯片**（5nm/1280 TOPS），已搭载新一代量产车型；资金用于芯片研发商业化，尤其**非汽车领域**（机器人/域控）
 - 判断：车企自研芯片从「成本中心」变「独立估值单元」——对照同日 [[xinhe-hangtu]]（50亿累计）的密集融资，智驾芯片战进入资本化阶段；理想「苹果式设计+代工」模式（9/18 已录）延伸出资本化第二层
+
+## 2026-10-22 更新：连山自研电池体系 + 「自燃赔新车」营销豪赌
+- **「连山」三电全自研官宣**：电芯自研 + 欣旺达/中创新航代工（轻资产版垂直整合），电量算法误差 <3%——李想定调「智能看芯片，电动看三电」（详见 [[li-auto-lianshan-battery]]）
+- **「连山电池保障计划」**：自研电池因质量问题自燃/报废 → 赔同配置新车——安全承诺升级为法律级营销
+- **首搭车型理想 i6（10/28 上市，连山 5C 电池首发）**——新品发布与自研三电叙事捆绑
+- 判断：自研叙事从智驾芯片（[[li-auto-m100]]）蔓延到三电；对 [[catl]] 的第三次「叛逃」（蔚来/小鹏/理想全落地，[[battery-white-box]]）；1.5% 行业利润率下自研 = 估值故事 + 资本开支膨胀的双刃剑

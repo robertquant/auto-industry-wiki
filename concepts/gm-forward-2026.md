@@ -1,10 +1,10 @@
 ---
 title: 通用GM Forward战略（2026）
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-22
 type: concept
 tags: [oem-us, adas, sw, strategy, ai]
-sources: [raw/articles/2026-10-14-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 通用GM Forward战略
@@ -43,3 +43,8 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 - 2028 eyes-off 的责任与保险框架落地
 - 中央计算平台是否外溢至 [[saic-gm]] 中国车型
 - Gemini 上车的中国合规版本（能否落地中国）
+
+## 2026-10-22 更新：Q3 兑现 + 中国 8 连盈 + XT5 PHEV 交付即装 Momenta R7
+- **Q3 实绩**：净收入 500 亿美元 / 净利 33 亿 / EBIT 41 亿；全年指引上调 145-155 亿；追加 200 亿美元回购
+- **中国连续 8 季度盈利、新能源占比超 60% 创新高**；凯迪拉克 XT5 PHEV = **首款交付即搭载 Momenta R7 世界模型的豪华混动 SUV**（大众 ID.ERA 8X 同款方案，[[momenta]]）
+- 判断：GM Forward 的「中国执行层」= 智驾外采（[[foreign-automakers-chinese-ad]]）+ 混动本地化（[[saic-gm]] 视角）；200 亿美元回购表明中国利润流向股东而非新产能——通用中国核心资产的利润奶牛定位固化（对照 [[tesla-q3-2026]]）

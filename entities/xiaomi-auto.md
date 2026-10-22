@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-10-03
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -89,3 +89,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **1-9月累计约 30万辆**（9月首破4万），Q4 目标冲 25万——意味着 Q4 月均需 8万+，产能 vs 订单的缺口是最大风险
 - **[[xiaomi-pengcheng]] 首月破万**：增程子品牌开局验证「SU7/YU7+澎程」双线放量逻辑
 - 判断：小米从「产能爬坡」切换到「产能冲刺」模式——Q4 25万目标若达成，年销量将达 55万级，直接威胁新势力头部排位（对照 [[leapmotor]] 10.5万/月）
+
+## 2026-10-22 更新：一口气申报 8 款商标——旗舰向上 + 性能向外
+- **商标矩阵**：SU7 LUX / **SU9 LUX** / YU9 / SU9 / SU8 / YU8 / SU7 GT / 小米 GT——SU 轿车线（7→8→9）+ YU SUV线 + GT 性能线 + LUX 豪华线四线铺开
+- **SU9 LUX 被解读对标 A6L/享界 S9/5 系/E 级**行政旗舰——小米从「SU7 打 Model 3」升级到「行政级向上」
+- 判断：55 万年目标未达（Q4 冲 25 万，10/3 已录）背景下，「用澎程冲 2026 的量（[[xiaomi-pengcheng]]），用 SU9 画 2027 的饼」——商标先行的产品矩阵化，是资本叙事与产能爬坡的时间差管理

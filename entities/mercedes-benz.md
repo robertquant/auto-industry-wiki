@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -242,3 +242,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **MMA 平台 GLA + AMG CLA 巴黎车展首秀**（[[2026-paris-auto-show]]）：AMG CLA **三电机、纽北 7:32**——性能标杆回归纽北叙事
 - **纯电/燃油回归同一平台**（MMA）：奔驰从「EQ 独立平台」转向「一平台多能源」——与大众多能源（[[volkswagen]]）、保时捷收缩（[[porsche]]）共构德系 2027 语境；9 月命名重组弃 EQ 前缀（10/16 已录）配套
 - 判断：MMA 是奔驰「由中国定义、为全球输出」的第一套平台级落地——GLA EV 此前已录（WLTP 657km），AMG CLA 用性能守住豪华溢价，智驾仍靠 [[momenta]]（年内扩至 9 款车型）
+
+## 2026-10-22 更新：×英伟达深化合作 + AMG 纯电高性能 SUV 1169 马力
+- **×英伟达深化**：下一代智驾联手（L2+/L3）——在 [[momenta]]（中国方案）之外保留英伟达（全球方案）双线，德系豪华「中国智驾 + 全球算力」的双轨配置样本（[[nvidia]]、[[foreign-automakers-chinese-ad]]）
+- **AMG 纯电高性能 SUV**：三电机 **1169 马力**——性能叙事接棒 AMG CLA（纽北 7:32，10/12 已录）扩展到 SUV 品类
+- 判断：奔驰智驾「momenta 管中国、英伟达管全球」的分工比 [[bmw]]（momenta 深度共研）更明确的路线双轨；AMG 电动 SUV 用马力数字继续讲「性能豪华」故事（[[porsche]] 收缩燃油回归的对立面）

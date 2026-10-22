@@ -1,10 +1,10 @@
 ---
 title: 上汽通用 (SAIC-GM)
 created: 2026-08-06
-updated: 2026-10-10
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, oem-us, joint-venture]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 上汽通用 (SAIC-GM)
@@ -70,3 +70,9 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 | 凯迪拉克 XT5 | Q3 交付超 9,000辆，搭载 **Momenta R7** 世界模型智驾（[[momenta]]） |
 
 - 判断：新能源占比破 60% 但总盘回落——结构领先、总量失速的典型合资困境；XT5 上 Momenta R7 是通用「智驾外采中国方案」的又一个落地（[[foreign-automakers-chinese-ad]]）；别克/GL8/凯迪拉克三大支柱里，GL8/至境吃混动红利，XT5 赌智驾体验——通用在华边际改善靠「中国供应链+混动」双轮（对照 [[saic]] 集团视角）
+
+## 2026-10-22 更新：通用 Q3 财报 + 中国 8 连盈 + XT5 PHEV 首发 Momenta R7
+- **通用集团 Q3**：净收入 500 亿美元/净利 33 亿/EBIT 41 亿；全年指引上调 145-155 亿；追加 **200 亿美元回购**
+- **中国连续 8 季度盈利、新能源占比超 60% 创新高**——合资续约至 2047（8/5 已录）后经营面持续验证（[[saic-gm]] 视角下的上汽通用）
+- **凯迪拉克 XT5 PHEV = 首款交付即搭载 Momenta R7 世界模型的豪华混动 SUV**（大众 ID.ERA 8X 同款方案，[[momenta]]）——从 Q3 交付 9,000 辆的燃油/轻混 XT5 扩展出 PHEV + 世界模型版本
+- 判断：「美国血统 + 中国智驾」已成高端品牌中国卖车的默认路径；智驾外包 [[momenta]] 成行业标准配方（[[foreign-automakers-chinese-ad]]）；通用把中国盈利再投资于回购而非新工厂——中国核心资产的利润奶牛定位固化（对照 [[tesla]] Q3 同期）

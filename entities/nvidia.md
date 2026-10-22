@@ -1,10 +1,10 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-22
 type: entity
 tags: [chip, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 英伟达（NVIDIA）
@@ -40,3 +40,9 @@ AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[auton
 - [[humanoid-robot-industry]] - 具身智能赛道
 - [[tesla]] - 最大客户之一（HW/Dojo 自研转向的紧张关系）
 - [[horizon-robotics]] - 国产替代竞争对手
+
+## 2026-10-22 更新：GTC 柏林——AI 工厂 14 天 + 人形平台 2027 + 「车企终将接入共享出行」
+- **DSX POD AI 工厂**：部署周期从 6 个月压缩到 **14 天**——AI 算力基建的「标准化交付」叙事（对照 [[germany-nvidia-sovereign-ai-2026]] 慕尼黑 1 万 GPU 项目）
+- **Agile ONE SN 人形平台 2027**——人形机器人（[[humanoid-robot-industry]]）与车规供应链协同的英伟达版本
+- **黄仁勋：「车企终将接入共享出行车队」**——Robotaxi 终局判断，与 [[waymo-vs-tesla-robotaxi-2026]] 全球三方格局、[[native-robotaxi-2026]] 中国原生路线同频
+- 判断：GTC 柏林 = 英伟达从「卖芯片」到「卖 AI 工厂 + 机器人平台」的平台化跃迁；「14 天建厂」把算力门槛从资金问题变成供应链管理问题（[[ai-auto-cloud-market]]）

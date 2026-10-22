@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-10-21
+updated: 2026-10-22
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -147,4 +147,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **股价较历史高点腰斩**：市场对 2027 需求担忧（渗透率见顶 + 车企「去宁德化」）持续定价
 - **2027 起电池出口退税取消**（[[export-tax-rebate-cut-2026]]），正与客户协商分担——宁德出口占比较大的背景下，退税取消直接压缩毛利，是 2027 电池板块最大变量之一
 - 判断：带电量 +32% 是宁德对冲渗透率见顶的核心逻辑（大电池化/长续航/快充标配），但出口退税取消 + 车企自研电池（[[battery-white-box]]）双压下，「量增利稳」能否维持是明年最大悬念；协商分担 = 谁有定价权谁少让利（[[ronbay]] 钠电锁单显示材料端宁德仍是强买方）
+
+## 2026-10-22 更新：两大合作落地（干线换电 + 奇瑞二厂）
+- **×陕西交控**：骐骥换电共建**干线重卡换电网络** + 光储充换一体化——换电从乘用车场景延伸到干线物流（[[nev-battery-swap]]），重资产换电的 B 端确定性场景
+- **×奇瑞第二家合资电池厂**（增资扩产，[[chery]]）——继宜春合资后的绑定加深；在车企自研/「去宁德化」浪潮（[[battery-white-box]]）中，用合资锁住核心客户
+- 判断：宁德用「场景多元化（干线重卡）+ 客户锁定（合资）」对冲乘用车需求见顶；换电 vs 超充的路线之争（[[battery-swap-vs-ultra-fast-charging]]）在重卡场景出现新变量——干线换电的运营方（交控）自带路权与场站资源
 

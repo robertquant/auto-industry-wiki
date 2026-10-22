@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-22
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # Momenta (魔门塔)
@@ -94,3 +94,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **L3 研发启动，预计 2027 量产，奥迪首发**（[[l3-autonomous-driving]]）——奥迪加入 bmw/mercedes 的「Momenta 客户名单」，欧洲豪华 L3 周期再添一家
 - **ID.ERA 8X 全系标配 R7 世界模型**（10/17 上市，[[volkswagen]]）——量产世界模型第二节点
 - 判断：「中国智驾定义豪华品牌智能化」（10/7 已录）从合作叙事进入规模化兑现期——110 万台基盘 + 75% 毛利 = 数据飞轮与商业飞轮同步转动（[[data-moat]]）
+
+## 2026-10-22 更新：智驾摩尔定律 + 26 家车企/230 款定点 + 凯迪拉克 PHEV
+- **「智驾摩尔定律」**：四年百倍 → **每年十倍**能力跃迁（财联社 10/22）——把算力/模型迭代速度制度化
+- **FSD 订阅率 20% → 55%**（用户付费转化翻倍）；**26 家车企 / 110 万台 / 230 款定点**（110 万台 10/17 已录，本轮新增车企/车型数）；**R7 世界模型交付中**；**日仿真 1,000 万公里**（[[training-loop]] 基础设施规模战标杆）
+- **凯迪拉克 XT5 PHEV 首款交付即装 R7 世界模型的豪华混动 SUV**（[[saic-gm]]、[[gm-forward-2026]]）——与大众 ID.ERA 8X 同方案，交付即装 = 世界模型从「OTA 追加」走向「出厂标配」
+- 判断：「日仿真千万公里 + 年十倍」= 智驾竞争从功能进入基础设施军备赛；26 家车企的生态广度让所有非头部都有了「付费买代差」的选项（对照 [[byd]] 全栈自研、[[huawei-ads]] 生态）

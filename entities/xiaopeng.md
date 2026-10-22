@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-10
+updated: 2026-10-22
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -211,3 +211,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **出任 UNECE 相关职务（10/9）**：参与自动驾驶全球法规制定——从「合规跟随者」成为「规则参与者」，中国车企在[[un-autonomous-driving-regulation-2026]]框架下的话语权布局（该框架内 WP.29 DCAS 新规 2026 底欧盟强制落地，合规成本见 10/2 记录）
 - **G9L 巴黎车展全球上市，登陆 64 国 + 奥地利工厂投产**（10/10 盖世）：产品+合规双线出海——「卖车+卖标准话语权」组合拳成型（[[2026-paris-auto-show]]、[[china-tech-reverse-export]]）
 - 判断：小鹏从「智驾产品输出」升级为「产品+法规话语权」双输出；UNECE 任职是继卖技术（大众）、卖碳（保时捷）后第三条「非车变现」通道——出海叙事从销量维度切向规则维度
+
+## 2026-10-22 更新：何小鹏「跳过 L3，L4 2028 下半年」——路线分裂宣言
+- **何小鹏 WNEVC 口径**：跳过 L3，L4 技术能力 **2028 下半年**——与比亚迪杨冬生「限定场景 L3 2028 量产」（[[byd]]）、蔚来李斌「2027.7.1 法规下半场」（[[nio]]）构成智驾路线三分
+- 判断：小鹏把「L4 时间点」当估值锚——跳过 L3 = 不陪法规验证的游戏，直接赌技术终局（[[l3-autonomous-driving]]、[[vla-world-model]]）；风险是 2027 法规红利被蔚来/华为先吃，收益是定义「中国 L4 第一人」叙事（延续 [[mona-l05]] 算力批发路线）

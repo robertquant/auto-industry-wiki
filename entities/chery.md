@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -121,3 +121,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-10-17 更新：前三季出口 155.12 万辆（+65.6%）
 - **9 月出口破 20 万辆**（20.78 万创中国单月纪录，10/16 已录）、**前三季出口累计 155.12 万辆（+65.6%）**——出口王地位进一步固化
 - 语境：混动配额细节落地（2026年12月起 35 万辆/年，[[eu-hybrid-export-caps-2026]]）——奇瑞欧洲混动（瑞虎4 法国 23,990 欧起，[[2026-paris-auto-show]]）恰是配额封顶的最直接对象；中东/拉美/俄罗斯等新兴市场不受配额约束，是奇瑞对冲欧洲政策风险的底盘（[[chinese-oem-export]]）
+
+## 2026-10-22 更新：V2G 商业化落地 + 与宁德二厂增资
+- **V2G：芜湖首个规模化场站**——「谷充峰卖」实测年收益约 5,600 元/到手 3,000+；**风云A9 纯电 2027H1 首发 V2G**，目标 **2029 全球 2 万座**（详见 [[v2g-2026]]）；配套**迅龙秒充 1440kW/5 分钟 500 公里** + **犀牛电池 5000 次循环**
+- **×宁德时代第二家合资电池厂**（增资扩产，[[catl]]）——继宜春后绑定加深，对冲自研电池叙事
+- 判断：奇瑞「车网互动 + 超充 + 换电 + 合资电池」多路径押注 = 用供应链组合拳对冲单一路线风险；V2G 年收益 5600 元对 C 端吸引力有限，重卡/运营场景才是商业主战场

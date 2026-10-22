@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-20
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -175,3 +175,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **2027 年规划 5 款大车（30万+高端）冲盈利**（晨报口径）——换电网络（9,602 座，10/15 已录）+ 乐道/萤火虫走量之后，蔚来把盈利目标押注在高端大车单车毛利（对照 [[li-auto]] 增程基本盘盈利路径、[[zeekr]] 高端化样本）
 - 判断：前三季 30 万达成率仅 61-66%（10/8 已录）背景下，「大车冲盈利」= 从规模叙事转向毛利叙事；5 款大车与 [[geely-nio-swap-alliance]] 的换电联盟形成「高端+补能」双杠杆
+
+## 2026-10-22 更新：李斌定调 L3 节点「2027.7.1 强制法规 = 下半场标志」
+- **李斌 WNEVC 口径**：**2027-07-01 L3 强制法规落地 = 智驾下半场开启的标志**（与 [[l3-mandatory-standard]] 实施时点精确对表）
+- 蔚来智驾基盘数据：**95 万辆智驾车 / 91.4 亿公里 / 907 万次避免事故 / 1.25 亿段数据**——用存量里程背书安全叙事
+- 判断：李斌把「法规时间表」当作竞争坐标——智驾叙事从「功能比拼」转向「法规下长跑」；与何小鹏「跳过 L3」（[[xiaopeng]]）、杨冬生「限定场景 L3」（[[byd]]）构成新势力路线三分（[[l3-autonomous-driving]]）

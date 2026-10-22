@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-19
+updated: 2026-10-22
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -248,3 +248,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **李柯巴黎车展口径：建欧洲第二、第三工厂，法国为候选地**——匈牙利（[[byd-hungary-factory]]）之外产能阶梯扩容；2030 年欧洲本地员工超 4 万人（10/14 已录于 [[2026-paris-auto-show]]）
 - 巴黎动作：Shark 插混皮卡全球首发 + ATTO 8 欧洲推进（[[2026-paris-auto-show]]）
 - 判断：混动配额细节（2026年12月起 35 万辆/年，[[eu-hybrid-export-caps-2026]]）落地当周，比亚迪「本地制造换配额」路线确定性进一步加强
+
+## 2026-10-22 更新：杨冬生「限定场景 L3 2028 量产」——智驾路线定调
+- **杨冬生 WNEVC 口径**：**限定场景 L3 2028 量产**——比亚迪不追「跳过 L3」激进路线（[[xiaopeng]]），也不等 2027 强制法规窗（[[nio]]），按自身节奏推进
+- 语境：比亚迪智驾保有量超 352 万辆（[[tianshen-eye-5]]、[[byd-xuanji-a3]] 全栈自研基盘），量产节奏 = 规模验证优先
+- 判断：比亚迪、小鹏、蔚来的「L3 时间表三分」（[[l3-autonomous-driving]]）本质是三种商业模式的投射——规模平权派（比亚迪）以量换稳、激进定义派（小鹏）以技术叙事换估值、法规对齐派（蔚来）押注制度红利

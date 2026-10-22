@@ -1,10 +1,10 @@
 ---
 title: 十五五规划 (2026-2030) 智能网联新能源汽车产业规划
 created: 2026-09-16
-updated: 2026-10-06
+updated: 2026-10-22
 type: concept
 tags: [policy, trend, adas, strategy]
-sources: [daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md]
+sources: [daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, memory/2026-09-29.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 十五五规划 (2026-2030) 智能网联新能源汽车产业规划
@@ -91,3 +91,9 @@ L3/L4测试评价标准的建立将加速认证流程，持有路测牌照的玩
 ## 10/6 补充：世界智能网联汽车大会定档
 - **世界智能网联汽车大会 10/21-23 亦庄**——「十五五」规划发布后首个行业大会，政策细则落地观测窗
 - 配套：七部门《新型电池产业"十五五"规划》（9/28）为电池领域首个国家级专项（[[battery-fifteen-five-plan]]）
+
+## 10/22 补充：付炳锋「十五五」保量提质三大路径（WNEVC）
+- **① 核心技术攻关**：车规芯片 / OS / 固态电池 / 新型 EEA / 基础软件
+- **② 整零协同**：从「供应商关系」转向「生态共建」
+- **③ 出海体系化输出**：从整车出口转向体系化输出（产能/供应链/标准本地化）——与 [[export-tax-rebate-cut-2026]]、[[eu-hybrid-export-caps-2026]] 政策方向互证
+- 判断：「保量提质」= 承认渗透率高位后量增放缓（[[nev-penetration-60-percent]]），政策重心转向技术纵深与出海质量——与 [[faw]]「聚合智能」、[[dongfeng]] 全域安全白皮书构成央企对「十五五」的三种答题

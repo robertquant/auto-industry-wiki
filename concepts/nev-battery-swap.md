@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-10-20
+updated: 2026-10-22
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -115,4 +115,9 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 - **充电侧压力测试**：高速服务区排队最长 5h+、1%电量趴窝、湖北高速充电量同比 +40%——纯充线路在峰值的确定性短板暴露
 - **判断**：峰值运营数据是补能路线最硬的证据——换电（3-5分钟）在峰值吞吐上确定性完胜超充（排队+占位）；但换电网络扩张受限（城市/高速密度），超充联盟在「广覆盖」维度仍占优（见 [[ultra-fast-charging]]）
 - 关注：[[geely-nio-swap-alliance]] 统一标准后，2027 吉利首款换电车型接入对峰值的分担效应
+
+## 2026-10-22 更新：换电第三极落地干线——陕西交控 × 宁德骐骥
+- **陕西交控 × 宁德时代**：骐骥换电共建 **干线重卡换电网络** + 光储充换一体化（[[catl]]）
+- 意义：换电竞争从「乘用车标准战」（[[geely-nio-swap-alliance]] vs 宁德+引望）延伸到 **B 端干线物流**——重卡换电的运营方自带路权与场站土地资源，比乘用车网络更易闭环
+- 判断：换电 vs 超充之争（[[battery-swap-vs-ultra-fast-charging]]）在重卡场景天平倾向换电——干线运输对「5 分钟补能」的刚性需求远高于乘用车；宁德「乘用车标准 + 重卡网络」双线布局，与超充联盟（[[ultra-fast-charging]]）形成场景分工而非互斥
 
