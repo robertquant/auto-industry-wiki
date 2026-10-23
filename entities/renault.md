@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-19
+updated: 2026-10-23
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -321,3 +321,25 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **雷诺首次投资新芯航途（XHEART）**（10/16 披露，详见 [[xinhe-hangtu]]）：历史累计约 50 亿元战略轮的投资方，奇瑞追加、长鑫科技参投——欧洲OEM入股中国芯片的**直接资本绑定**案例
 - 与 ACDC 中国团队（<2年<2万欧标准化，10/17 已录）同构：欧洲不追赶中国芯片代差，**用资本锁定供应与定价权**（对照 [[foreign-automakers-chinese-ad]] 的纯技术合作模式）
 - 欧洲双线下注：雷诺买中国芯片（[[xinhe-hangtu]]）vs 德国主权基金买美国算力（[[germany-nvidia-sovereign-ai-2026]]）——欧洲智能化的双重依赖格局成型
+
+## 2026-10-23 更新：雷诺周报——「联盟做减法」+ 巴黎收官 + ACEA 数据
+
+### 战略：CEO Provost 定调「联盟做减法」（10/21，Automotive News Europe）
+- 专注让现有联盟（[[geely]]/[[nissan]]/福特）成功，**不再新增伙伴**；共享平台车型要求品牌差异化，避免 Micra EV 式「近亲套娃」——futuREady 进入执行期后最明确的战略表态
+- 判断：从「广结盟」进入「啃联盟」执行期，押注「吉利平台+中国供应链+欧洲本地组装」成本公式（对照 [[easytt-model]]、[[china-tech-reverse-export]]）
+
+### 巴黎车展收官（10/12-18）
+- **E-Space 概念车全球首发**：致敬 1984 初代，4.7m 纯电 MPV，二排 180° 旋转座椅（[[2026-paris-auto-show]]）
+- **Mégane E-Tech 换 67kWh LFP**：WLTP 500km、15-80% 快充 24min、引入谷歌 Gemini AI——主力车型磷酸铁锂化+AI 座舱「拿来主义」（对照 [[gm-forward-2026]] 的 Gemini 接入路线）
+- 官方口径：上市不是终点，OTA 让车持续进化
+
+### Twingo E-Tech R Pass 优先订购窗口收官（10/8-22）
+- €19,490 起、Novo Mesto 工厂生产；**公众订购将开放**——平价 EV 反制中国竞品的关键一役进入交付验证期（详见 [[twingo-e-tech]]）
+
+### 技术/市场
+- **LFP+CTP 向全系推广**；研发周期压缩至 **2 年**；上海电驱动 E2D23 电机 2027 春克莱昂工厂组装（CGT 工会对「零新增岗位」存疑虑）
+- **ACEA：欧洲前 9 月注册 +5.7%**，纯电份额 **22.7%**（去年同期 16.1%），燃油车 -19.1%（[[eu-ev-market-2026]]）
+- 雷诺 H1 电动化占欧洲乘用车销量 52%、纯电 18.8%；集团全球 **116.5 万辆（-0.4%）**
+
+### 财报节点
+- **Q3 财报 10/29 发布**（指引利润率约 5.5%）——试金石：Twingo 公众订购数据 + Q3 利润率；订单不及预期则「中国速度」叙事打折扣

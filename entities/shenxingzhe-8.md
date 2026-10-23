@@ -1,7 +1,7 @@
 ---
 title: 神行者8 (Shenxingzhe 8)
 created: 2026-09-28
-updated: 2026-10-19
+updated: 2026-10-23
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -21,6 +21,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-28.md, raw/art
 | 价格 | 30.99 - 45.99万元 |
 | 智驾 | 华为乾崑 ADS5 + 896线激光雷达 |
 | 合作方 | 奇瑞 + 捷豹路虎（联合打造） |
+
+## 2026-10-23 更新（WNEVC 2026 披露）
+- **上市 12 小时大定 5000 台**——三方合作模式的终端验证数据
+- 配置组合确认：**华为乾崑 ADS + 宁德电池 + 高通芯片**（[[huawei-ads]]/[[catl]]/[[qualcomm-auto]] 三方供应链）——「中国方案全家桶」式豪华车，与[[jaguar-land-rover]] 电动化短板互补逻辑一致（[[wnevc-2026]]）
 
 ## 行业意义
 - 捷豹路虎在中国通过合资合作方式复活经典子品牌（神行者），以中国供应链+华为智驾补齐自身智能化短板——与 [[jaguar-land-rover]] 电动化转型缓慢的困境互为印证。

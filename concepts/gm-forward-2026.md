@@ -1,7 +1,7 @@
 ---
 title: 通用GM Forward战略（2026）
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-23
 type: concept
 tags: [oem-us, adas, sw, strategy, ai]
 sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -29,6 +29,11 @@ sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily
 1. **软件欠账实锤**：35 倍 AI 算力 + Gemini 补课，说明通用承认软件栈落后中国/特斯拉一个代际——用「硬件堆料+外部生态」追赶（对照 [[cabin-driving-fusion]] 舱驾融合趋势、[[honda-china]] 反面教材）
 2. **2028 eyes-off 仍是 L2+/L3 边界试探**：首发 Escalade IQ 为高端旗舰——美系主流 OEM 唯一按表推进 L3 的路线（[[l3-autonomous-driving]]），核心变量是责任框架与 NHTSA 对接（[[safety-case]]）
 3. **Gemini 接入 = 欧美「外部大模型」路线**：与 [[renault]] R5 OTA 接 Gemini、[[mercedes-benz]] Momentum 分层架构同频——欧美车企座舱 AI 全部「拿来主义」（对照 [[cockpit-llm]] 中国自研/外采双轨、[[geely-super-eva]] 深度自研）
+
+## 2026-10-23 更新：GM 企业级 AI——开发周期减半目标（WNEVC 披露）
+- **整车开发周期减半目标**：通用以企业级 AI 重构研发流程（[[ai-in-automotive-rd]]）
+- **LMR 电池首样件前虚拟仿真 30 万方案**；**1 个月概念→获批**——虚拟验证前置到物理样件之前（对照 [[training-loop]] 的仿真上限逻辑、[[digital-twin-factory]]）
+- 判断：GM 虚拟仿真数字 = 海外传统车企 AI 工程化提速实证——「中国速度」叙事（[[automotive-rd-speed]]）正在被海外大厂用 AI 工具追平（与 [[momenta]] 智驾摩尔定律、[[siemens-xcelerator-ai-agents]] 工业软件 AI 化同频）
 
 ## 关联
 

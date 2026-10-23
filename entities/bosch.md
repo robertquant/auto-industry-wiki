@@ -1,7 +1,7 @@
 ---
 title: 博世
 created: 2026-05-08
-updated: 2026-05-19
+updated: 2026-10-23
 type: entity
 tags: [bosch, 供应商, 智驾, 德国]
 sources: [memory/2026-05-08.md, memory/2026-05-19.md]
@@ -26,6 +26,10 @@ sources: [memory/2026-05-08.md, memory/2026-05-19.md]
 - [[adas-self-develop]] - 车企智驾自研 vs 供应商模式
 - [[l3-autonomous-driving]] - L3自动驾驶供应商能力
 - [[data-loop]] - 智驾数据基础设施
+
+## 2026-10-23 更新：拟分拆汽车零部件业务
+- **盖世快讯（10/23）**：博世拟分拆汽车零部件业务——Tier 1 巨头重组求生潮再加一员（对照 [[tier1-mna-consolidation-2026]] 的系统级集成军备竞赛、[[ice-supplier-divergence]] 的燃油件供应商分化）
+- 判断：从「转型」走向「拆分母体」——汽车零部件重资产业务与高增长业务（家电/工业/氢能）估值分化，是欧洲 Tier 1 资本结构的普遍性出清动作
 
 ### 2026年5月：L3量产落地里程碑
 

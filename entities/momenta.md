@@ -1,7 +1,7 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-23
 type: entity
 tags: [tier1, adas, ai, system]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -11,6 +11,13 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 
 ## 概述
 中国头部智能驾驶方案商，欧洲豪华品牌智驾「外包」首选。2026 H1城市NOA装机量21.4万辆居行业第二，凭借端到端+纯视觉方案拿下[[bmw]]、[[mercedes-benz]]两大德国豪华品牌订单，成为中国智驾技术反向输出的标志性案例。
+
+## 2026-10-23 更新：神龙科技合作——从供应商到「共定义产品」
+- **9/24 神龙科技（东风×Stellantis 合资新公司，六方投资 82 亿，详见 [[dongfeng]]）全球战略合作**：依托 Momenta R7 世界模型联合开发高阶智驾，搭载标致/Jeep 全新量产车型，落地中国+欧洲+全球；**2027 年起投放四款全球新车**
+- **角色升级**：不再是单纯智驾供应商——深入神龙新车**产品定义阶段，联合开发、联合设计甚至联合营销**；继[[huawei-auto]]鸿蒙智行之后**第二家可参与整车定义/研发/营销的科技公司**（神龙科技总经理吕海涛：「跟着曹总就能一直站在迭代的第一代」）
+- **「在中国、为全球」0 到 1**：以往外资/合资合作多为「在中国，为中国」补齐短板，神龙模式把智能化从中国直接带向全球（区别于 [[bmw]]/[[mercedes-benz]] 的在华补课逻辑）
+- 申万宏源：目标价上调至 **408 港元**、维持「买入」
+- 判断：第三方方案商从「卖方案」走向「共定义产品」——AI 定义汽车时代话语权迁移的标志性案例（对照 [[battery-white-box]] 的车企穿透供应链，这里是被穿透方主动交权）
 
 ## 市场地位
 

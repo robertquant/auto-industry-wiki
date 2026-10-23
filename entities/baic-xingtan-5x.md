@@ -1,7 +1,7 @@
 ---
 title: 北汽星钽5X (BAIC Xingtan 5X)
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-23
 type: entity
 tags: [vehicle, oem-cn, adas, pricing]
 sources: [raw/articles/2026-10-22-daily-digest.md]
@@ -25,3 +25,4 @@ sources: [raw/articles/2026-10-22-daily-digest.md]
 - [[huawei-auto]] - 华为三种模式渗透
 - [[fangchengbao-ti9]] - 同期硬派/方盒子扩张样本
 - [[lidar-penetration]] - 智驾配置下放趋势
+- [[baic]] - 北汽集团（母公司，2026 自主销量破 80 万）

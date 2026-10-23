@@ -1,7 +1,7 @@
 ---
 title: 特斯拉2026年Q3财报 (Tesla Q3 2026)
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-23
 type: query
 tags: [tesla, sales, q3-2026, ai]
 sources: [raw/articles/2026-10-22-daily-digest.md]
@@ -23,6 +23,7 @@ sources: [raw/articles/2026-10-22-daily-digest.md]
 - **Cybercab Robotaxi 奥斯汀开始运营**——Robotaxi 叙事进入运营兑现期（对照 [[waymo-vs-tesla-robotaxi-2026]] 的「运营实绩 vs 规模叙事」框架）
 - **Optimus 弗里蒙特量产线投产**——人形机器人进入产线阶段（[[humanoid-robot-industry]]）
 - FSD 订阅 174 万（+67%）：订阅模式跑通，软件收入成为利润韧性来源（[[adas-model-distillation]] 蒸馏路线的商业端验证）
+- **FSD 入华仍无时间表**（Q3 电话会）：Q3 净利 -43% 背景下，中国落地叙事继续后置（[[tesla-fsd-china]]）——与[[byd]]/[[huawei-auto]] 的国内高阶智驾放量形成时间差窗口
 
 ## 判断
 「利润承压、叙事继续」：汽车业务量利双平，但毛利率回升 + FCF 回正 + FSD/机器人资本开支倾斜 = 特斯拉主动切换为「AI 公司」估值模型。与 [[tesla]] 中国动作（×支付宝生态签约）同框：美国收缩汽车叙事、全球扩张 AI/生态叙事——与中国监管「严禁未充分测试产品入市」（[[innovation-verification-regulation-2026]]）形成中美监管对照。

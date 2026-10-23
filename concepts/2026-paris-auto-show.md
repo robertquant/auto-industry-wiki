@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-23
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -141,6 +141,11 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **[[porsche]] 2035 战略「主动收缩」**：盈亏平衡压至年销 20 万以下、再裁 9000 人、出售 Rimac 股权——德系收缩叙事在车展主场正式化
 - **[[stellantis]] 8 品牌 60 余款 + 9 款概念车**——主打品牌历史守份额（与 22 家中国军团形成「守 vs 攻」镜像）
 - **收官判词**：BBA 在巴黎连官方智驾体验资格都没拿到（仅 [[tesla]]、[[xpeng]] 入选智驾实验室）——比销量数据更刺眼的智能化代差信号；刹车门（[[zunjie-brake-pedal-controversy]]）给合资递刀：验证标准从「速度」回摆到「可靠」
+
+## 10/23 补记：雷诺收官细节（雷诺周报）
+- **E-Space 概念车全球首发**：致敬 1984 初代，4.7m 纯电 MPV，二排 180° 旋转座椅（[[renault]]）
+- **Mégane E-Tech 换 67kWh LFP**：WLTP 500km、15-80% 快充 24min、引入谷歌 Gemini AI；雷诺官方口径「上市不是终点，OTA 让车持续进化」
+- 判断：欧洲本土防守主力（雷诺 50 车四品牌矩阵）用 LFP+AI 座舱补性价比与智能化双短板——与 22 家中国品牌（10/20 已录）的镜像收官
 
 ## 10/20 补记：展商占比定稿 + 入欧时间表
 

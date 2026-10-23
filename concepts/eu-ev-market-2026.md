@@ -1,7 +1,7 @@
 ---
 title: 欧洲EV市场2026
 created: 2026-07-02
-updated: 2026-10-21
+updated: 2026-10-23
 type: concept
 tags: [sales, trend, policy, prediction]
 sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-07-02-eu-carmakers.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
@@ -119,6 +119,10 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 - **9 月 BEV 占欧洲新车销量 33%**；法国渗透率 41.7% 创新高（油价外因，见 [[renault]] 10/7）
 - **每 3 辆 BEV 就有 1 辆来自中国品牌**——欧洲车企集体焦虑的根源量化
 - 判断：欧洲电动化的「中国助推」从份额数字进入产业心理层面——10/12 巴黎车展是正面碰撞现场（[[2026-paris-auto-show]]）
+
+## 2026-10-23 更新：ACEA 前 9 月数据（雷诺周报口径）
+- **欧洲前 9 月注册 +5.7%**；纯电份额 **22.7%**（去年同期 16.1%）；燃油车 **-19.1%**——纯电对燃油的结构性替代持续加速
+- 雷诺 H1 电动化占欧洲乘用车销量 52%、纯电 18.8%（[[renault]]）——欧洲本土 OEM 的电气化进度领先样本（对照 [[bba-ev-ranking-2026]]）
 
 ## 2026-10-09 更新：瑞银预测中国品牌年内份额或冲 20%
 - **瑞银：中国品牌年内欧洲份额或冲 20%**（8 月止 9.9% 口径）——关税加码（欧盟拟议对 EV 加税、英国拟跟进，见 [[eu-70x70-rule]]）前提下仍看翻倍

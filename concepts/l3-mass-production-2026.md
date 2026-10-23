@@ -1,7 +1,7 @@
 ---
 title: 2026年L3量产元年
 created: 2026-06-01
-updated: 2026-09-24
+updated: 2026-10-23
 type: concept
 tags: [policy, adas, trend, prediction]
 sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-24-daily-digest.md]
@@ -26,6 +26,10 @@ sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2
 - 从"技术可行"转向"法律合规"
 - 责任主体明确转向车企，智驾从"卖功能"变成"卖责任"
 - 后续车企L3商业化节奏将显著加速
+
+## 2026-10-23 更新：第二批准入推进中（WNEVC 郭守刚）
+- 工信部装备一司郭守刚（[[wnevc-2026]]）：长安/北汽首批 L3 附条件准入（2025.12）后，**第二批准入试点推进中**；定调「从能用向好用跨越」
+- 判断：L3 准入从「首发象征」进入「扩容常态化」——2027.7.1 强制国标（[[l3-mandatory-standard]]）前，准入批次是车企 L3 商业化节奏的提前量指标
 
 ## 2026年9月：牌照竞速（卡在强制国标前）
 

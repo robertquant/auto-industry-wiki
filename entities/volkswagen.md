@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-22
+updated: 2026-10-23
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -264,3 +264,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **66 万员工，2026Q4 起全球冻薪至 2030** + 削减浮动薪酬/福利/津贴；德国 13 万人 2024 年已推迟 5.5% 加薪；工会预计实际工资损失 10%+；**IG Metall 要求加薪 5% 开战**
 - 叠加「2030 未来计划」再裁 5 万岗位；四大降本线：**裁员 + 冻薪 + CARIAD 收缩（61 亿欧）+ 中国出口去产能**
 - 判断：双刃剑——冻薪加速软件人才流失，而大众最缺的正是软件人才（对照 [[ai-talent-auto-sector]]）；「西退东进」：钱从德国省出来投到合肥（[[infineon]]×VCTC 创新中心、[[xinhe-hangtu]] 上汽大众 ID.ERA 9X 等中国布局继续）
+
+## 2026-10-23 更新：CMP 平台首款量产车 ID.ERA 5X 下线（10/16 上汽大众）
+- **大众首个本土开发新能源平台 CMP 量产**：首款车 ID.ERA 5X 于 10/16 在上汽大众下线（盖世）——大众在华电动化从「引进来」转向「本地定义」（[[china-tech-reverse-export]]）
+- 与 CEA 首车「与众 07」（10/20 已录，大众安徽）并行：CMP（上汽大众）+ CEA（大众安徽）双轨本地化平台同年落地；捷达 M6（[[jetta-m6]]）另辟 10 万级以下纯电抓手

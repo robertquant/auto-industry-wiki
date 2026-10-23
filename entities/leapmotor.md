@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-20
+updated: 2026-10-23
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -202,3 +202,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **9 月交付 10.57 万辆，连续三个月破 10 万**——新势力一超格局稳固（对照 [[xiaomi-auto]] 首破 4 万、[[nio]] 前三季 30 万，见 [[new-forces-landscape-2026]]）
 - **Stellantis 评估西班牙萨拉戈萨工厂共线生产零跑 B10 与欧宝纯电 SUV**——继 B10 下线（10/15 已录）后，「西方大厂产中国车 + 中国车大厂共线」的产能共享再进一步：同一工厂、双品牌共线 = 平台级深度整合（[[leapmotor-stellantis]]）
 - 判断：10 万+月销的国内基本盘 + 萨拉戈萨共线的欧洲产能双线加固；共线生产若落地，B10 之于欧宝 = 零跑技术输出的欧洲样板间（对照 [[stellantis]] Smart Car 回血逻辑）
+
+## 2026-10-23 更新：B10 萨拉戈萨量产启动（10/16）
+- **零跑 B10 在西班牙萨拉戈萨工厂正式量产**（10/16 启动，盖世）——与 [[stellantis]] 战略合作首个产业化成果，**与欧宝 Corsa、标致 208 共线生产**（此前「评估共线」转正，[[leapmotor-stellantis]]）
+- 意义：欧洲本地化制造突破 = 配额制（[[eu-hybrid-export-caps-2026]]）下的合规产能落子；「西方大厂产中国车」从个案到共线量产

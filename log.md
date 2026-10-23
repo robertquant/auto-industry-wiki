@@ -1321,3 +1321,52 @@
 - **导航更新**：index.md - entities 130→134（+baic-xingtan-5x/dongfeng/li-auto-lianshan-battery/tesla-q3-2026）、concepts 176→177（+v2g-2026）；5个分类计数同步（车企34/产品18/政策数据15/市场趋势50）；Last updated 2026-10-22；Total pages 325→330
 - **索引完整性校验**：comm 输出为空（330 页全部注册，缺失 0；新增链接 0 broken）
 - **核心洞察**：①工信部准入新规=尊界事件制度性回声的升级版——从「管有没有」到「管验证够不够」，功能创新型新势力营销话术集体改写，验证体系完备的传统大厂（大众借势炮轰速成车）短期受益；②智驾路线三分成型：跳过L3（小鹏）vs 限定场景L3 2028（比亚迪）vs 法规对表2027.7.1（蔚来）——本质是三种商业模式的投射；③智驾竞争进入基础设施军备赛：Momenta日仿真1000万公里+英伟达14天建AI工厂成新标杆；④自研叙事蔓延到三电（理想连山），「自燃赔新车」=安全承诺法律级营销；⑤特斯拉Q3「利润承压、AI叙事继续」+×支付宝接中国生态，与辛国斌「严禁未充分验证产品入市」构成中美监管对照；⑥2026Q4主线="中国供应链全球化+监管规范化"，创新军备赛进入合规约束期
+
+## [2026-10-23 22:00] ingest | 每日整理（WICV闭幕日+雷诺周报+盖世晚报）
+
+### 原始素材（raw/articles/）
+- 2026-10-23-shenlong-momenta.md - 神龙「80亿重生」六方投资82亿+神龙科技×Momenta（盖世深挖）
+- 2026-10-23-battery-swap-2026.md - 换电「2026时刻」：引望入局细节/北汽/900亿市场/重卡渗透率（盖世深挖）
+
+### 新建页面（5个）
+- entities/yinwang.md - 华为引望：华为车BU独立运营实体（靳玉志CEO）；WNEVC披露L2+渗透率70%/国庆日均8000万公里/公开170亿公里；×宁德时代/时代电服换电生态（99秒全自动、首批五款2027上市）
+- entities/didi-auto.md - 滴滴自动驾驶×广汽埃安：33传感器平台全无人载客，广州/北京示范
+- entities/audi.md - 奥迪：11/1张俊任奥迪中国总裁（德系首位中国籍）——本土化决策到最高管理层
+- entities/baic.md - 北汽集团：1-9月自主破80万/新能源+43.2%；×宁德换电深化；星钽5X；首批L3准入
+- entities/jetta-m6.md - 捷达M6（7.98/8.98/9.98万）：35年国民神车新能源转身，CMP之外低价纯电抓手
+
+### 更新页面（19个）
+- entities/renault.md - 联盟做减法（Provost 10/21）+巴黎收官（E-Space/Mégane LFP/Gemini）+Twingo R Pass收官+LFP+CTP全系/2年研发周期/E2D23电机+ACEA前9月+Q3财报10/29预告
+- entities/twingo-e-tech.md - R Pass优先订购收官、公众订购将开放
+- entities/shenxingzhe-8.md - WNEVC：上市12h大定5000台；华为ADS+宁德电池+高通芯片配置确认
+- entities/huawei-auto.md - WNEVC引望数据（L2+70%/日均8000万公里/170亿公里）+link yinwang
+- entities/momenta.md - 神龙科技深度合作：从供应商到「共定义产品」（继鸿蒙智行后第二家）；「在中国、为全球」0到1；申万宏源408港元
+- entities/dongfeng.md - 神龙80亿重生：六方82亿+神龙科技成立+×Momenta全球战略合作
+- entities/bosch.md - 拟分拆汽车零部件业务（Tier1重组潮）
+- entities/geely.md - 前三季度300.3万辆创新高、新能源179.3万渗透率近六成
+- entities/leapmotor.md - B10萨拉戈萨工厂10/16量产启动（与欧宝Corsa/标致208共线）
+- auto-industry/leapmotor-stellantis.md - 生产栏更新：波兰组装→萨拉戈萨共线量产（10/16确认）；WSJ「最快年内」→量产落地
+- entities/volkswagen.md - CMP平台首款量产车ID.ERA 5X 10/16上汽大众下线（本地定义）
+- entities/xiaomi-auto.md - 雷军「同档最安全」+累计交付80万辆/均价26万+双矩阵确认
+- entities/tesla-q3-2026.md - FSD入华仍无时间表（Q3电话会）
+- entities/li-auto-lianshan-battery.md - Power Day补充：L8首发连山5C（430km/10分钟500km）+26.5亿入股欣旺达11.17%
+- entities/baic-xingtan-5x.md - 关联补[[baic]]
+- concepts/wnevc-2026.md - 闭幕日：商业闭环共识（赵福全/李斌/何小鹏3500人45亿/Momenta摩尔定律）+政策三连发（第二批准入/蓝绿灯强标/准入新规）+GM企业级AI+神行者8大定+滴滴×埃安
+- concepts/l3-mass-production-2026.md - 第二批准入试点推进中（郭守刚）
+- concepts/nev-battery-swap.md - 2026时刻确认：引望99秒/五款2027/北汽10-22/900亿市场/重卡破50%/盈利拐点未到
+- concepts/gm-forward-2026.md - 企业级AI：开发周期减半目标、LMR首样件前虚拟仿真30万方案、1个月概念→获批
+- concepts/eu-ev-market-2026.md - ACEA前9月：注册+5.7%、纯电份额22.7%、燃油-19.1%
+- concepts/2026-paris-auto-show.md - 雷诺收官细节（E-Space/Mégane LFP版）
+
+### 导航更新
+- index.md：entities 134→139（+yinwang/didi-auto/audi/baic/jetta-m6）；车企中国34→35、车企欧洲9→10、供应商21→23、产品18→19；Last updated 2026-10-23；Total pages 330→335
+
+### 索引完整性校验
+- comm 输出为空（335 页全部注册，缺失 0）；3 个 broken 均为预置子知识库链接（three-kingdoms/water-margin/taoism-deities index），非本次引入
+
+### 核心洞察
+- ①换电「2026时刻」实锤：技术（99秒）+场景（重卡渗透率单月破50%）+政策三变量到位，标准之争演进为「宁德+引望（华为系）」联盟——补能格局从超充vs换电走向联盟化
+- ②Momenta神龙合作 = 第三方方案商话语权分水岭：继鸿蒙智行后第二家进入整车定义/联合营销，「在中国、为全球」0到1——AI定义汽车时代供应商权力结构改写
+- ③雷诺「联盟做减法」+ACEA纯电份额22.7%：欧洲本土OEM从广结盟进入「啃联盟」执行期，10/29 Q3财报是试金石
+- ④政策制度化三连发（L3准入扩容/ADS标志灯/准入新规）+大佬路线分歧定格（小鹏跳过L3 vs 比亚迪L3门槛 vs 蔚来法规对表）——2027成为中国L3量产对表年
+- ⑤德系本土化提速双信号：奥迪首位中国籍总裁+大众CMP本地定义平台量产——「中国定义」从研发层延伸到管理层

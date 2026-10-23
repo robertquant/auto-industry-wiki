@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-23
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
@@ -10,6 +10,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 # 华为汽车生态 (Huawei Auto)
 
 ## 概述
+
+## 2026-10-23 更新：WNEVC 引望数据公开（靳玉志）
+- **L2+ 渗透率 70%**（大会官方口径 L2 70.5% 互证，见 [[wnevc-2026]]）；**国庆华为智驾日均 8000 万公里**（与 9 月安全报告「国庆 7 天 5.53 亿公里」口径一致）；**引望公开累计 170 亿公里智驾数据**
+- 补能：乾崑智驾已接入全国**百万个充电桩**，×宁德/时代电服换电合作打通车端站端云端（99 秒全自动换电、首批五款 2027 上市，详见 [[yinwang]]/[[nev-battery-swap]]）
 
 ## 2026-10-20 更新：引望×宁德时代换电合作签约——补能双轨成型
 

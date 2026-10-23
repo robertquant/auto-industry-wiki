@@ -1,7 +1,7 @@
 ---
 title: 零跑×Stellantis合作模式分析
 created: 2026-09-18
-updated: 2026-10-13
+updated: 2026-10-23
 type: entity
 tags: [comparison, oem-cn, oem-eu, export, strategy]
 sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md]
@@ -17,7 +17,7 @@ sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-
 | 股权结构 | **Stellantis 51% : 零跑 49%** |
 | 总部 | 荷兰阿姆斯特丹 |
 | 技术 | 零跑提供（四叶草架构、三电）|
-| 生产 | Stellantis波兰工厂组装 |
+| 生产 | Stellantis波兰工厂组装 → **2026-10-16 起西班牙萨拉戈萨工厂共线量产**（与欧宝Corsa、标致208共线，10/23 确认） |
 | 市场 | Stellantis负责欧洲、中东、非洲、美洲 |
 
 ---
@@ -150,7 +150,7 @@ sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-
 - 判断：共线 Corsa/208 = Stellantis 用零跑平台填 Smart Car 欧洲产能空缺的实证——「中国技术+欧洲制造」从个案变范式（对照第五节合作协议结构与 10/13 已录三电上菲亚特/欧宝/标致洽谈）
 
 ## 十、2026-10 更新：萨拉戈萨 B10 + 技术输出升级
-- **WSJ 10/10 报道**：Stellantis 萨拉戈萨（Zaragoza）工厂产零跑 **B10，最快2026年内投产**——**西方大厂首次向中国品牌开放欧洲制造**（此前仅波兰组装，见上表）
+- **WSJ 10/10 报道 → 10/16 量产落地**：Stellantis 萨拉戈萨（Zaragoza）工厂产零跑 **B10，2026-10-16 正式启动量产**（盖世确认）——**西方大厂首次向中国品牌开放欧洲制造**（从波兰组装升级为西班牙共线，见上表）
 - **技术输出升级**：另洽谈将零跑三电技术搭载于**菲亚特/欧宝/标致**车型——从「卖零跑的车」升级为「用零跑的技术」（[[china-tech-reverse-export]]）
 - **销量验证**：零跑 Lafa5 海外订单 4 个月破 **1.2万台**（刷新海外车型纪录）；9月出口超 2.7万台、欧洲网点破千（[[leapmotor]]）
 - **判断**：「中国技术+欧洲制造」模式从个案变范式——配额制（[[eu-hybrid-export-caps-2026]]）下本地化生产是唯一不占配额的通路，萨拉戈萨投产即抢跑

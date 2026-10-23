@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-23
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -217,3 +217,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **2027 进军加拿大**：借中加低关税 EV 配额（4.9 万辆/年）卡位北美合规缝隙（[[north-america-ev-trade-barriers-2026]]）
 - **与谷歌达成智能车载数字体验合作**（10/16 盖世）——座舱全球化绑定谷歌生态（对标 [[volcengine]] 系国内路线，[[geely-super-eva]] 之外的第二套座舱栈）
 - 判断：吉利 2026 出海 = 「欧洲（沃尔沃渠道+西班牙合资）+ 拉美（巴西）+ 北美（加拿大）」三线并进，混动/燃油双动力出海（对照 [[byd]] 纯电为主）；谷歌合作暗示海外座舱「去中国化」——出海越是全球化，供应链越是本地化
+
+## 2026-10-23 更新：前三季度 300.3 万辆创新高
+- **吉利控股前三季度销量 300.3 万辆创新高**，新能源 **179.3 万辆**、渗透率近六成（盖世 10/21）——全年破 400 万在望，新能源占比从 8 月 65% 继续爬升
+- 叠加换电网络合并（[[geely-nio-swap-alliance]]）与 [[yinwang]]（华为系）入局换电——2026 年补能格局「联盟化」叙事中，吉利×蔚来是乘用车换电标准的关键一极

@@ -1,7 +1,7 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-23
 type: entity
 tags: [oem-cn, vehicle, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
@@ -94,3 +94,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **商标矩阵**：SU7 LUX / **SU9 LUX** / YU9 / SU9 / SU8 / YU8 / SU7 GT / 小米 GT——SU 轿车线（7→8→9）+ YU SUV线 + GT 性能线 + LUX 豪华线四线铺开
 - **SU9 LUX 被解读对标 A6L/享界 S9/5 系/E 级**行政旗舰——小米从「SU7 打 Model 3」升级到「行政级向上」
 - 判断：55 万年目标未达（Q4 冲 25 万，10/3 已录）背景下，「用澎程冲 2026 的量（[[xiaomi-pengcheng]]），用 SU9 画 2027 的饼」——商标先行的产品矩阵化，是资本叙事与产能爬坡的时间差管理
+
+## 2026-10-23 更新：雷军「同档最安全」目标 + 双矩阵确认（10/21 盖世）
+- **累计交付突破 80 万辆、均价超 26 万元**（立项 4 年余）；上月澎程系列（N70/N90）与 SU7/YU7 形成**双矩阵**
+- 雷军目标：**小米做同档最安全的车**——安全叙事对冲新势力标签（对照 [[adas-liability-guarantee]] 的责任承诺竞争），高端均价（26 万+）是「同档最安全」定价基础

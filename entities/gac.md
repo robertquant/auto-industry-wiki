@@ -1,7 +1,7 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-10-11
+updated: 2026-10-23
 type: entity
 tags: [oem-cn, sales, export, policy]
 sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
@@ -31,6 +31,10 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 | 广汽丰田 | 丰田 | 南北整合后或将统一运营 |
 | 广汽本田 | 本田 | 销量大幅下滑，电动化转型承压（见 [[honda-china]]） |
 | 一汽丰田（拟收购50%） | 丰田×一汽 | 重组预案2026-09-28 |
+
+## 2026-10-23 更新：滴滴×广汽埃安全无人载客（WNEVC 披露）
+- 滴滴自动驾驶（[[didi-auto]]）× 广汽埃安推进**全无人载客**示范：**33 传感器硬件平台**，广州/北京示范运营——出行平台×主机厂的 Robotaxi 落地样本（[[wnevc-2026]]）
+- 判断：埃安从「卖车」延伸到「Robotaxi 运力供给」，与吉利系曹操出行（[[caocao-robotaxi]]）形成「主机厂×出行平台」双案例——2026 年 L4 商业化进入平台配对期（[[native-robotaxi-2026]]）
 
 ## 关系网络
 - [[toyota]] - 最大合资伙伴（南北丰田整合核心）

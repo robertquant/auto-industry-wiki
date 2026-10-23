@@ -1,7 +1,7 @@
 ---
 title: Twingo E-Tech
 created: 2026-06-25
-updated: 2026-10-17
+updated: 2026-10-23
 type: entity
 tags: [renault, europe, entry-ev, china-tech]
 sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md]
@@ -22,6 +22,10 @@ sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md]
 | 电池方案 | 宁德时代LFP |
 | 电驱系统 | 上海电驱动 |
 | 开发模式 | 中国研发+欧洲制造 |
+
+## 2026-10-23 更新：R Pass 优先订购窗口收官（10/8-22）
+- **€19,490 起**，Novo Mesto 工厂生产；优先订购窗口 10/22 收官后**公众订购将开放**（10/23 雷诺周报，[[renault]]）
+- 意义：平价 EV 反制中国竞品的关键一役从「发布/预售」进入**交付验证期**——公众订购数据是 10/29 雷诺 Q3 财报（[[renault]]）的胜负手之一
 
 ## 竞争力分析
 
