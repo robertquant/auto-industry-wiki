@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-23
+updated: 2026-10-24
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -206,3 +206,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-23 更新：B10 萨拉戈萨量产启动（10/16）
 - **零跑 B10 在西班牙萨拉戈萨工厂正式量产**（10/16 启动，盖世）——与 [[stellantis]] 战略合作首个产业化成果，**与欧宝 Corsa、标致 208 共线生产**（此前「评估共线」转正，[[leapmotor-stellantis]]）
 - 意义：欧洲本地化制造突破 = 配额制（[[eu-hybrid-export-caps-2026]]）下的合规产能落子；「西方大厂产中国车」从个案到共线量产
+
+## 2026-10-24 更新：9 月战报 + 意大利份额上修
+- **9 月交付 105,656 辆、连续 3 个月破 10 万**，海外销量居新势力第二——国内 10 万+基本盘 + 海外 [[stellantis]] 渠道双轮验证（[[leapmotor-stellantis]]）
+- **意大利纯电市占率上修至 29.4%**（原纪录 25%+，见上表）——首个突破性市场继续加深，[[italy-market-2026]]

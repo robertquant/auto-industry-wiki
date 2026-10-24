@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-23
+updated: 2026-10-24
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -343,3 +343,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 ### 财报节点
 - **Q3 财报 10/29 发布**（指引利润率约 5.5%）——试金石：Twingo 公众订购数据 + Q3 利润率；订单不及预期则「中国速度」叙事打折扣
+
+## 2026-10-24 更新：ACDC 模式成行业研究样本（robert 深度讨论）
+- 与 robert 深度讨论「谁在抄雷诺」：德系内部逐层级研究 ACDC 运转但未落地；[[nissan]] 只抄周期数字（项目级非制度级）；[[stellantis]] 喊 24 个月但走买作业路线；[[volkswagen]] VCTC 3000 人规模路线不复制 200 人组织——详见 [[renault-model-copiers]] 与 [[renault-acdc-model]]
+- 核心判断：**雷诺窗口期约 2 年（到 2028）**——组织革命已完成，对手还在研究怎么运转；雷诺模式对中国威胁 > Stellantis 模式（后者永远依赖中国供应链，雷诺在学会自己跑）
+- 一句话：让中国的 200 人当大脑、欧洲的 5000 人当身体——AI 时代跨国车企最优解，雷诺第一个想明白

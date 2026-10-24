@@ -1370,3 +1370,33 @@
 - ③雷诺「联盟做减法」+ACEA纯电份额22.7%：欧洲本土OEM从广结盟进入「啃联盟」执行期，10/29 Q3财报是试金石
 - ④政策制度化三连发（L3准入扩容/ADS标志灯/准入新规）+大佬路线分歧定格（小鹏跳过L3 vs 比亚迪L3门槛 vs 蔚来法规对表）——2027成为中国L3量产对表年
 - ⑤德系本土化提速双信号：奥迪首位中国籍总裁+大众CMP本地定义平台量产——「中国定义」从研发层延伸到管理层
+
+## [2026-10-24] ingest | 雷诺ACDC模式深度讨论 + 10/24日报数据补录
+- 来源：memory/2026-10-24.md → raw/articles/2026-10-24-daily-digest.md
+
+### 新建页面（2）
+- concepts/renault-acdc-model.md - ACDC模式：200人精兵=大脑/欧洲5000人=身体；护城河三要素（完整决策权/CTO直管/危机驱动）；前端×后端；AI杠杆；关键前提（雷诺不在中国卖车）；「雷诺式试点」预测+观察实锤标准
+- comparisons/renault-model-copiers.md - 谁在抄雷诺：德系观摩/日产抄数字/Stellantis买作业/大众规模采购四路线对比；结论（学结果不学原因/2年窗口期/雷诺模式对中国威胁更大）
+
+### 更新页面（10）
+- entities/renault.md - ACDC模式成行业研究样本（robert深度讨论）、窗口期2年判断
+- entities/nissan.md - 抄雷诺只抄到数字层（50→37/26个月，项目级非制度级）
+- entities/volkswagen.md - VCTC 3000人规模路线 vs 200人精兵对照，「雷诺式试点」前瞻
+- entities/stellantis.md - 「24个月」目标与买作业路线，「外包方天花板」
+- entities/bmw.md - Gen6圆柱电池沈阳量产（+20%/+30%）+ 新世代70%软件中国开发
+- entities/chery.md - 博世欧洲ADAS定点（6款/2028/五年80万台）+ 摩根大通首次覆盖增持
+- entities/leapmotor.md - 9月105,656连续3月破10万+意大利份额上修29.4%
+- entities/pony-ai.md - inDrive×小马智行哈萨克斯坦Robotaxi（NVIDIA Hyperion）
+- concepts/autonomous-driving-chips.md - H1城区NOA双强：英伟达39.43%/地平线22.82%（204.7万辆+70%），征程6 25+车企100+车型
+- concepts/auto-ai-cloud-market.md - 中移动牵头汽车AI基座（112.7 EFLOPS/6大智能体/10余家央国车企）
+- concepts/wnevc-2026.md - 车路云15→22城、2027 L2/L3强标、六大佬订阅制共识
+
+### 导航更新
+- index.md：Last updated 2026-10-24；Total pages 335→337（entities 139 / concepts 178 / comparisons 9 / auto-industry 10 / european-automakers 1）
+- 索引完整性校验：comm 输出为空（337 页全部注册，缺失 0）
+
+### 核心洞察
+- ①雷诺ACDC护城河是组织性的（决策权让渡+CTO直管+危机驱动），对手抄数字/抄产品/买作业，没有一个触达制度层——「学结果不学原因」
+- ②反直觉：雷诺模式对中国威胁 > Stellantis模式——Stellantis永远依赖中国供应链，雷诺在学会自己跑
+- ③窗口期约2年（到2028）：可观测实锤标准=「30-50人敏捷组直属集团CTO、24个月交付、欧洲工程师跟随学习」
+- ④AI时代最优解的表述：让中国的200人当大脑、欧洲的5000人当身体——雷诺第一个想明白

@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-19
+updated: 2026-10-24
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -105,3 +105,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 - **8 品牌 60 余款车 + 9 款概念车**参展，主打**品牌历史**守份额（RCZ Vision 全固态/1000V/线控概念车 10/13 已录 [[2026-paris-auto-show]]）——用「历史叙事+概念车」对冲中国 22 家军团攻势
 - **零跑 B10 萨拉戈萨投产确认**（[[leapmotor-stellantis]]）——「引进来」路线第一个欧洲量产节点兑现
 - 判断：Stellantis 战略重心 = 本土守份额 + 中国供应链补成本——巴黎车展的「历史牌」与西班牙产线的「中国牌」同步打
+
+## 2026-10-24 更新：雷诺模式对照——「24个月」目标与买作业路线
+- 喊出「**24 个月**」开发目标（≈[[renault]] Twingo 节奏），但落地走「**买作业**」路线——用 [[leapmotor]] 喂技术（B10 共线、三电装菲亚特/欧宝/标致洽谈）实现速度（[[leapmotor-stellantis]]）
+- 判断：目标是抄来的、手段是买来的——既无 ACDC 式权力让渡、也无危机驱动的组织革命（[[renault-acdc-model]]）；这条路线的问题在「外包方」天花板：中国研发永远是外购关系，抄不到方法论本身（[[renault-model-copiers]]）

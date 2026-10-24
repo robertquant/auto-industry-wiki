@@ -43,3 +43,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/
 - Robotaxi 商业化进入放量期：收入增速远超车队增速，单车运营效率改善
 - 相关：[[weRide]]（竞对）、[[city-noa-penetration]]
 
+## 2026-10-24 更新：inDrive×小马智行——哈萨克斯坦 Robotaxi（NVIDIA Hyperion）
+- **出行平台 inDrive × [[pony-ai]] 在哈萨克斯坦启动 Robotaxi**（10/24 报道），基于 NVIDIA Hyperion 平台——中亚市场首落子，中国 L4 公司出海版图从北美/中东/欧洲延伸到中亚
+- 判断：Hyperion 复用 = 与 [[mercedes-benz]]（MB.OS×Hyperion）同栈，硬件选型向「英伟达全家桶」收敛；哈萨克斯坦场景（地广人稀+合规友好）是 L4 出海的低成本验证地
+

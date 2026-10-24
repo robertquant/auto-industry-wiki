@@ -1,7 +1,7 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-09-22
+updated: 2026-10-24
 type: entity
 tags: [oem-jp, ev-tech, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md]
@@ -66,6 +66,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 - [[leapmotor]] - 中国新势力，研发效率对比
 - [[automotive-rd-speed]] - 研发周期概念
 - [[global-battery-market-2026]] - 电池供应链
+
+## 2026-10-24 更新：抄雷诺只抄到数字层（雷诺模式讨论）
+- 整车开发周期 50→37 个月、改款 50→30 个月、Skyline 立项到设计 26 个月（<现款 55 个月一半）——与 [[renault]] ACDC 的差距缩小到数字层面
+- 判断：**只抄数字、项目级非制度级**——改的是周期目标，没改权力结构与决策链；对照 [[renault-acdc-model]] 护城河三要素（完整决策权/CTO直管/危机驱动），一条都没触及（[[renault-model-copiers]]）
 
 ## 待观察
 - 改革能否持续兑现（26个月Skyline能否如期上市）

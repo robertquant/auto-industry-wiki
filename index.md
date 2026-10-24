@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-23 | Total pages: 335
+> Last updated: 2026-10-24 | Total pages: 337
 
-统计：entities 139 · concepts 177 · comparisons 8 · auto-industry 10 · european-automakers 1
+统计：entities 139 · concepts 178 · comparisons 9 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -333,6 +333,7 @@
 - [[eu-hybrid-export-caps-2026]] - 中欧混动出口协议（2026-10-09）：未来四年中国对欧混动/插混出口或减半（涉及数百万辆），基准/年度数量/监督办法未公布——两年多PHEV避税窗口进入关闭倒计时，出海最大变量落地第一步。
 - [[global-ice-below-50-2026]] - 全球纯燃油销量占比2026H1首破50%（49%，较2021年73%降24pct），中国是主要贡献者——电气化过半的历史拐点。
 - [[north-america-ev-trade-barriers-2026]] - 北美EV贸易壁垒三线收紧：美"永久禁止中国汽车"法案推迟至中期选举后、加拿大Unifor诉求100%附加税、英国评估加税；中加低关税EV配额（4.9万辆/年）成唯一合规缝隙（吉利2027卡位）。
+- [[renault-acdc-model]] - 雷诺ACDC模式：上海200人精兵团队当「大脑」、欧洲5000人当「身体」，护城河三要素（完整决策权/CTO直管/危机驱动），前端×后端分工，「雷诺式试点」预测与可观测实锤标准。
 - [[wnevc-2026]] - 2026世界智能网联汽车大会（10/21-23亦庄）：「十五五」规划后首个行业大会。官方口径L2渗透率70.5%/NOA 34.2%/牌照2万+/测试2.2亿km；各厂2027 L3、2028 L4时间表密集对齐。
 
 ### 工具/工程（21）
@@ -379,6 +380,7 @@
 - [[2026-09-china-sales-battle]] - 9月乘用车零售224.1万辆创历史纪录，新能源渗透率57.8%，燃油车企利润率1.5%近十年最低，新车投放超60款；比亚迪增量全由海外贡献，零跑超特斯拉中国
 - [[9-series-suv-battle]] - 2026年，C级SUV市场成为车企竞争焦点，多款"9系"旗舰SUV扎堆上市。一季度C级SUV逆势增长143.5%，高端大空间需求旺盛，但价格战不可避免。
 - [[korea-japan-automaker-divergence]] - 为什么同为东亚文化，韩国企业拼命进取，日本企业却"躺平"？
+- [[renault-model-copiers]] - 谁在抄雷诺：德系观摩/日产抄数字/Stellantis买作业/大众规模采购四路线对比——都在学「结果」没人学「原因」，雷诺窗口期约2年（到2028），反直觉结论：雷诺模式对中国威胁＞Stellantis模式。
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。
 - [[waymo-vs-tesla-robotaxi-2026]] - Waymo（~4000台/周50万单/15城）vs Tesla（奥斯汀44台+内华达5000台批文）——L4商业化「运营实绩 vs 规模叙事」的硬数据对照
 - [[battery-swap-vs-ultra-fast-charging]] - 补能路线之争2026：吉利×蔚来换电联盟 vs 比亚迪/宁德超充阵营，维度对比（时间/重资产/标准化/场景）+ 两大破局点与观察指标。

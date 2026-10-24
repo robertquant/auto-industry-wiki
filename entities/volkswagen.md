@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-23
+updated: 2026-10-24
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -268,3 +268,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-10-23 更新：CMP 平台首款量产车 ID.ERA 5X 下线（10/16 上汽大众）
 - **大众首个本土开发新能源平台 CMP 量产**：首款车 ID.ERA 5X 于 10/16 在上汽大众下线（盖世）——大众在华电动化从「引进来」转向「本地定义」（[[china-tech-reverse-export]]）
 - 与 CEA 首车「与众 07」（10/20 已录，大众安徽）并行：CMP（上汽大众）+ CEA（大众安徽）双轨本地化平台同年落地；捷达 M6（[[jetta-m6]]）另辟 10 万级以下纯电抓手
+
+## 2026-10-24 更新：雷诺模式对照——3000 人规模路线 vs 200 人精兵
+- 雷诺 ACDC 以「200 人+完整决策权」跑出 Twingo 22 个月，大众 VCTC（3000+ 工程师）走**规模路线**——学「中国方案采购」（[[xiaopeng]] CEA、[[horizon-robotics]] HS8），不复制 200 人组织（[[renault-acdc-model]]）
+- 判断：VCTC 要同时扛「中国交付+合资三条线+欧洲转移职能」三座大山，3000 人都不够用，无法精兵——精兵模式的前提是「无交付包袱+集团最高层背书」，大众短期无法复制（[[renault-model-copiers]]）
+- 前瞻：奥迪任命中国籍总裁已是本土化决策上移苗头（[[audi]]），若 VCTC 划出小敏捷团队直属集团 CTO，即进入「雷诺式试点」

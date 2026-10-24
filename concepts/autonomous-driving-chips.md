@@ -1,7 +1,7 @@
 ---
 title: 智驾芯片格局
 created: 2026-06-30
-updated: 2026-10-15
+updated: 2026-10-24
 type: concept
 tags: [chip, autonomous-driving, ai, chinese]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md]
@@ -164,3 +164,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 
 - **8 月智驾芯片装机：英伟达 30.2% vs 地平线 19.75%**（红星资本局 10/14）——差距从 35.8pp 缩至 10.4pp；地平线连续 6 个月环比正增长
 - 两条口径（4 月域控 50.9% vs 13.6%；8 月装机 30.2% vs 19.75%）共同指向：**英伟达主导地位以「月度可感知」的速度被侵蚀**，国产替代进入斜率最大区间（[[horizon-robotics]]、[[nvidia]]）
+
+## 2026-10-24 更新：H1 城区 NOA 双强格局——39.43% vs 22.82%
+- **2026 H1 城区 NOA 装机 204.7 万辆（+70%）**，英伟达 **39.43%** / 地平线 **22.82%**（双强合计 62%）——城区 NOA 口径下「双寡头」成型，与前两条口径（域控/装机）互相印证
+- **征程6 已获 25+ 车企、100+ 车型定点**（[[horizon-robotics]]）——国产旗舰芯片定点规模对新芯片厂商（[[blacksesame]] 武当系列等）构成事实壁垒；英伟达守住份额靠 Thor 迭代，但城区 NOA 装机增速 +70% 的增量盘正被国产分食

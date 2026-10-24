@@ -1,7 +1,7 @@
 ---
 title: 汽车AI云市场 (Auto AI Cloud Market)
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-24
 type: concept
 tags: [ai, ecosystem, supply-chain, trend, prediction]
 sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
@@ -45,3 +45,7 @@ sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily
 ## 开放问题
 - 753 亿口径是否含车企自建私有云？
 - 车端推理下沉后，云端训练需求会否见顶？
+
+## 2026-10-24 更新：国家队入局——中移动牵头汽车行业 AI 基座
+- **中移动发布汽车行业 AI 基座**（10/24 财联社）：**112.7 EFLOPS** 智能算力、**6 大智能体**、10 余家央国车企参与——算力供给侧的「国家队」变量
+- 判断：与沙利文 753 亿市场规模口径（2029）互为验证，车企自建 vs 租用公有云的天平进一步倾向运营商智算；观察点转为「央国企对自有数据上云的合规接受度」
