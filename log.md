@@ -1400,3 +1400,40 @@
 - ②反直觉：雷诺模式对中国威胁 > Stellantis模式——Stellantis永远依赖中国供应链，雷诺在学会自己跑
 - ③窗口期约2年（到2028）：可观测实锤标准=「30-50人敏捷组直属集团CTO、24个月交付、欧洲工程师跟随学习」
 - ④AI时代最优解的表述：让中国的200人当大脑、欧洲的5000人当身体——雷诺第一个想明白
+
+## [2026-10-25] ingest | 晨报+汽车AI日报+盖世晚报（10/25）
+- 来源：memory/2026-10-25.md → raw/articles/2026-10-25-daily-digest.md（盖世晚报已在 daily-news/2026-10-25-gasgoo-evening.md）
+
+### 新建页面（1）
+- entities/qianli-tech.md - 千里科技：吉利系智驾/AI公司，「千里2.0」智驾装机超100万台/激活率93.9%/AEB 240万次、超级Eva舱驾融合50万辆、2027 Q1个人助手+手车联动——智驾「规模化结算」样本
+
+### 更新页面（19）
+- entities/volkswagen.md - CMP量产+ID.ERA 5X下线（10/16）、ID.AURA T6预售破3万、年内第三次召回7.27万辆、冻结66万薪资至2030+再裁5万+IG Metall 11月劳资博弈
+- entities/bmw.md - Q3中国11.44万辆(-24.8%)，与大众同框「德系失血加速」
+- entities/stellantis.md - Q3出货130万(-1%)、北美-12%、法国工厂电池短缺停产（北伏连锁）
+- entities/tesla-q3-2026.md - 补Robotaxi无人监督322万公里(+8倍)、资本开支向AI倾斜
+- entities/catl.md - ×奇瑞芜湖合资细节（10/20注册、10亿），安徽双布局合计30亿
+- entities/chery.md - 累计出口破700万辆（中国首家）、神行者8大定12h破5000、×宁德芜湖合资
+- entities/changan.md - 1-9月出口72.7万(+56.3%)、规划22个海外基地
+- entities/great-wall.md - 1-9月出口47.6万、占比51.7%（累计口径过半第二家）
+- entities/xiaopeng.md - 9月出口首破万辆、MONA L03港/菲/澳交付——「技术输出」补上整车出口腿
+- entities/bosch.md - 分拆细节补充：德国6.25万员工转独立法人、2027/8/1运营
+- entities/infineon.md - ×Wolfspeed 200mm SiC多年期供货协议（居林工厂、150→200mm）
+- entities/snapdragon-8797.md - 18核~640TOPS规格、极狐T5早期方案智驾偶发不可用反馈（与8775首搭并存）
+- concepts/china-export-leaders-2026.md - 1-9月累计口径出口五强重排（吉利79.8万/长安72.7万/长城47.6万/奇瑞700万累计/零跑15万）
+- concepts/agentic-coding-capability-2026.md - Kimi K3.1 Pro Terminal-Bench 4.0 65.7%（距Claude仅0.7pct）
+- concepts/nev-battery-swap.md - 巧克力26号（800V/A0→C级）、超换共享网络联盟（长安/奇瑞/广汽/赛力斯）、2026换电市场900亿(+22%)
+- concepts/north-america-ev-trade-barriers-2026.md - 墨西哥「先建厂」免税（5年免10%关税、限11家已建厂车企）
+- concepts/export-tax-rebate-cut-2026.md - 南非收紧SKD（2035本土化率38→60%）
+- concepts/humanoid-robot-industry.md - 2026人形机器人出货6万台（中国5万）、液冷1147亿(+273%)
+- concepts/storage-chip-surge-2026.md - DDR 2025以来涨超300%
+
+### 导航更新
+- index.md：Last updated 2026-10-25；Total pages 337→338（entities 140 / concepts 178 / comparisons 9 / auto-industry 10 / european-automakers 1）；新增 [[qianli-tech]]
+- 索引完整性校验：comm 输出为空（338 页全部注册，缺失 0）；仅 3 个预置主题库链接（three-kingdoms/water-margin/taoism-deities），非本次引入
+
+### 核心洞察
+- ①德系中国失血加速进入「数据确认期」：大众 Q3 中国 -38.5% 已录 + 宝马 -24.8% + Stellantis 电池停产——Q4 本土化新车（CMP/ID.ERA 5X）是最后验证窗口，大众把中国失血的账算在欧美员工头上（冻结薪资至2030）
+- ②出海第二阶段三条路线数据齐活：吉利79.8万（体系出海）、长安72.7万+22基地（基地化）、长城47.6万/过半（燃油基盘）、奇瑞700万累计、零跑15万提前达标——出口竞争从单月纪录进入「累计里程碑+基地化」
+- ③「本地化或付费」政策分水岭扩散至新兴市场：墨西哥先建厂免税、南非收紧SKD——与欧盟配额/电池护照/70×70同构，SKD/CKD浅度组装退出
+- ④智驾「规模化结算」：千里100万台×93.9%激活率×240万次AEB = 装机量之外的真实价值度量；国产编程模型追平闭源（K3.1 Pro距Claude 0.7pct）

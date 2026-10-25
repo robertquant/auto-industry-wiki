@@ -1,10 +1,10 @@
 ---
 title: 高通骁龙8797 (Snapdragon 8797)
 created: 2026-09-24
-updated: 2026-10-10
+updated: 2026-10-25
 type: entity
 tags: [chip, cockpit, adas, tier1, platform]
-sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # 高通骁龙8797 (Snapdragon 8797)
@@ -52,3 +52,8 @@ sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-10-daily
 ## 2026-10-10 补充：理想 i6 定点（座舱）
 - **2026款理想 i6（10/28发布）座舱采用骁龙 8797**（[[li-auto]]）——继零跑 D19 全球首发双 8797 后，新势力第二家定点；理想「自研智驾芯片（马赫 M100）+ 外采高通座舱」的舱驾分域选型，与零跑 D19 的「双 8797 舱驾融合」形成两条路线对照（[[cabin-drive-integration]]）
 - 判断：8797 从「零跑独占」进入「多客户量产」阶段；理想选 8797 而非自研座舱芯片，说明舱驾融合主战场仍是高通/地平线等专业玩家——车企自研集中在智驾主控（[[auto-chip-self-develop]]）
+
+## 2026-10-25 补充：18 核 ~640 TOPS 规格 + 早期方案成熟度反馈
+- **8797 规格细化：18 核、~640 TOPS**（AI 日报口径）；对照地平线星空 6H/6P（500/650 TOPS，[[starry-sky-chip]]）——舱驾一体旗舰档算力咬合
+- **极狐 T5 反馈：8797 早期方案智驾偶发不可用**——与页面所录「8775 首搭极狐 T5」（[[snapdragon-8775]]）并存，说明舱驾一体早期平台成熟度风险（[[cabin-drive-integration]] 降本叙事的另一面）
+- 判断：舱驾一体单车降本 1,500-4,000 元（[[cabin-drive-integration]]）的代价是早期软件栈稳定性——2026 H2-2027 量产爬坡期「算力够、体验不够」是普遍风险；叠加 DDR 涨超 300%（[[storage-chip-surge-2026]]），单芯片成本优势被内存上行部分侵蚀

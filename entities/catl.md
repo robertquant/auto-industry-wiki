@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-10-22
+updated: 2026-10-25
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 宁德时代 (CATL)
@@ -152,4 +152,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **×陕西交控**：骐骥换电共建**干线重卡换电网络** + 光储充换一体化——换电从乘用车场景延伸到干线物流（[[nev-battery-swap]]），重资产换电的 B 端确定性场景
 - **×奇瑞第二家合资电池厂**（增资扩产，[[chery]]）——继宜春合资后的绑定加深；在车企自研/「去宁德化」浪潮（[[battery-white-box]]）中，用合资锁住核心客户
 - 判断：宁德用「场景多元化（干线重卡）+ 客户锁定（合资）」对冲乘用车需求见顶；换电 vs 超充的路线之争（[[battery-swap-vs-ultra-fast-charging]]）在重卡场景出现新变量——干线换电的运营方（交控）自带路权与场站资源
+
+## 2026-10-25 补充：×奇瑞芜湖合资细节——安徽双布局合计 30 亿
+- **宁德时代奇瑞（芜湖）新能源科技 10/20 注册成立，注册资本 10 亿元**；叠加 2 月合肥合资（20 亿），双方安徽动力电池布局合计 **30 亿元**——聚焦电芯到 PACK 研发制造，协同半固态电池、换电等前沿（[[chery]]、[[nev-battery-swap]]）
+- 判断：10/22 已录「×奇瑞第二家合资厂」从意向落地为实体——「车企×电池龙头股权绑定」取代单纯买卖关系，[[battery-white-box]] 浪潮下宁德的防守姿态再确认
 

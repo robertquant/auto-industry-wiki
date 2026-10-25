@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-22
+updated: 2026-10-25
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -215,3 +215,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-22 更新：何小鹏「跳过 L3，L4 2028 下半年」——路线分裂宣言
 - **何小鹏 WNEVC 口径**：跳过 L3，L4 技术能力 **2028 下半年**——与比亚迪杨冬生「限定场景 L3 2028 量产」（[[byd]]）、蔚来李斌「2027.7.1 法规下半场」（[[nio]]）构成智驾路线三分
 - 判断：小鹏把「L4 时间点」当估值锚——跳过 L3 = 不陪法规验证的游戏，直接赌技术终局（[[l3-autonomous-driving]]、[[vla-world-model]]）；风险是 2027 法规红利被蔚来/华为先吃，收益是定义「中国 L4 第一人」叙事（延续 [[mona-l05]] 算力批发路线）
+
+## 2026-10-25 更新：9 月出口首破万辆——「技术输出」补上「整车出口」腿
+- **9 月出口首破万辆**；**MONA L03 香港/菲律宾/澳大利亚交付**——巴黎车展（[[2026-paris-auto-show]]）后「技术输出」叙事叠加走量车型出口（[[mona-l03]]）
+- 判断：卖技术（大众）/卖碳（保时捷）/卖法规话语权（UNECE，10/9 已录）三条非车变现通道之外，整车出口补位——「技术输出 + 出口走量」双轮，出海叙事从规则维度回落到销量维度（[[china-tech-reverse-export]]）

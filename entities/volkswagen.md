@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-24
+updated: 2026-10-25
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -273,3 +273,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - 雷诺 ACDC 以「200 人+完整决策权」跑出 Twingo 22 个月，大众 VCTC（3000+ 工程师）走**规模路线**——学「中国方案采购」（[[xiaopeng]] CEA、[[horizon-robotics]] HS8），不复制 200 人组织（[[renault-acdc-model]]）
 - 判断：VCTC 要同时扛「中国交付+合资三条线+欧洲转移职能」三座大山，3000 人都不够用，无法精兵——精兵模式的前提是「无交付包袱+集团最高层背书」，大众短期无法复制（[[renault-model-copiers]]）
 - 前瞻：奥迪任命中国籍总裁已是本土化决策上移苗头（[[audi]]），若 VCTC 划出小敏捷团队直属集团 CTO，即进入「雷诺式试点」
+
+## 2026-10-25 更新：CMP 量产落地 + 薪资冻结至 2030 + 年内第三次召回
+- **CMP 平台量产、ID.ERA 5X 首辆下线**（10/16 上汽大众工厂）——大众在华电动化从「全球车改中国版」转向「为中国造车」；一汽-大众 ID.AURA L5 年底跟进（与 [[jetta-m6]] 构成双低价纯电抓手）
+- **ID.AURA T6 预售破 3 万**（[[horizon-robotics]] 征程6H 首搭合资车型的走量验证窗口，见 [[cabin-driving-fusion]]）
+- **年内第三次召回 7.27 万辆电动车**——德系 Q3 中国集体失血（[[bmw]] -24.8%、[[mercedes-benz]]）背景下的质量信任修复期样本
+- **拟冻结全球 66 万员工薪资至 2030 年** + 已批「2030 未来计划」再裁 5 万；IG Metall 要求加薪 5%，11 月劳资行动、明年 1 月或罢工——「生存重组」（9/20 已录）从管理层单方推进进入劳资博弈
+- 判断：Q3 中国 -38.5% 后，CMP/CEA 本土化量产是 Q4 唯一对冲；薪资冻结+裁员 = 把中国失血的账算在欧美员工头上——「欧洲止血、中国进攻」双轨在 2027 前不会逆转

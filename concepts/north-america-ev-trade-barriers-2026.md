@@ -1,10 +1,10 @@
 ---
 title: 北美EV贸易壁垒（2026）
 created: 2026-10-10
-updated: 2026-10-11
+updated: 2026-10-25
 type: concept
 tags: [policy, export, trend, oem-us]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md]
+sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 北美EV贸易壁垒（2026）
@@ -48,3 +48,7 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **吉利加拿大公司 10/9 设立完成并启动运营**，正搭建零售与服务网络，2027 交付首批——配额卡位从「官宣」进入「执行」，成为中加配额通道（4.9 万辆/年）的首个锁定玩家（[[geely]]）
 - **吉利 9 月新能源出口 7.3 万辆 +403%**——「新能源+出口」双引擎下，加拿大配额作为北美唯一合法入口的战略价值再抬升
 - 判断：若美「永久禁令」复活 + 加拿大 100% 附加税落地，吉利 2027 首批车型将成为中国 EV 北美唯一的「体面入场」案例（对照 [[tesla]] 抢配额、[[polestar-us-ban-2026]] 极星退出）
+
+## 2026-10-25 更新：墨西哥「先建厂」免税——第三国产能入场券
+- **墨西哥宣布未来 5 年对整车组装用零部件免征 10% 进口关税**，但**仅限已在墨设生产设施的 11 家轻型车企**（覆盖 SKD/CKD 套件），并要求逐步提高本土配套比例——「先建厂，才享关税红利」
+- 判断：尚未在墨建厂的中国车企难以直接受益——这与其说是关税减免，不如说是「本地化产能的入场券」；与美「永久禁令」推迟（[[polestar-us-ban-2026]]）、加拿大 100% 附加税诉求并读，北美三线收紧下的第三国产能缝隙被政策主动收窄（[[chinese-oem-export]]）

@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-24
+updated: 2026-10-25
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -155,3 +155,7 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **第六代（Gen6）圆柱电池在沈阳量产**：能量密度 **+20%**、充电续航 **+30%**——大圆柱路线（对照 [[tesla]] 4680）首次在中国落地量产（此前 10/23 已录 WNEVC 创新技术奖背书）
 - **新世代（Neue Klasse）车型 70% 的软件由中国团队开发**——「中国智能化」从采购（[[momenta]] 智驾）升格为软件开发主战场，本土化深度冠绝德系（对照 [[volkswagen]] VCTC 模式，[[renault-acdc-model]]）
 - 两条合读：沈阳 = 电池制造+软件研发的「宝马中国双中心」成型，[[china-tech-reverse-export]] 的德系最新注脚
+
+## 2026-10-25 更新：Q3 中国 -24.8% 至 11.44 万辆
+- **Q3 中国销量 11.44 万辆（-24.8%）**——与大众 Q3 中国 -38.5%（[[volkswagen]]）同框：德系双雄 2026 中国失血加速，Q4 本土化新车（ID.ERA 5X、新世代 i3）是最后验证窗口
+- 对照：Gen6 沈阳量产 + 新世代 70% 软件中国开发（10/24 已录）——「制造/软件押注中国、销量继续下滑」的错位期，投资领先于市场修复；[[china-tech-reverse-export]] 的德系注脚在数据侧继续积累

@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-24
+updated: 2026-10-25
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -130,3 +130,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-10-24 更新：博世欧洲 ADAS 定点 + 摩根大通首次覆盖
 - **× [[bosch]] 欧洲本土化 ADAS 定点**：**6 款新车、2028 年量产、五年超 80 万台**——中国方案商反向输出欧洲的又一单（ACDC/易捷特模式的供应商侧对应，[[china-tech-reverse-export]]）
 - **摩根大通首次覆盖给予「增持」**——外资投行对奇瑞「出口王+本土化产能」叙事的背书（[[chinese-oem-export]]、[[eu-hybrid-export-caps-2026]] 配额压力下的抗性定价）
+
+## 2026-10-25 更新：累计出口破 700 万辆（首家）+ 神行者 8 大定破 5000
+- **累计出口突破 700 万辆，中国车企首家**——「出口王」从月度/年度纪录进入累计里程碑（[[china-export-leaders-2026]]、[[chinese-oem-export]]）
+- **神行者 8 上市 12 小时大定破 5000 台**（[[shenxingzhe-8]]）——「中国主机厂×欧洲豪华品牌×华为智驾」三方合作模式的首个走量验证
+- **×宁德时代芜湖合资（10/20 注册、10 亿注册资本）**：安徽双布局合计 30 亿（[[catl]]）——从宜春到合肥到芜湖，与电池龙头绑定持续加深（[[battery-white-box]] 语境）

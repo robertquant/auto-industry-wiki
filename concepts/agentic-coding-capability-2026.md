@@ -1,10 +1,10 @@
 ---
 title: AI Coding能力边界更新2026
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-10-25
 type: concept
 tags: [ai-software-engineering, ai-r-and-d, aidv, tesla, geely, horizon]
-sources: [raw/articles/2026-05-29-daily-summary.md]
+sources: [raw/articles/2026-05-29-daily-summary.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # AI Coding 能力边界更新2026
@@ -51,3 +51,7 @@ sources: [raw/articles/2026-05-29-daily-summary.md]
 - 汽车之心《AI生产力，重塑下一代智能汽车》
 - 光庭信息SDW3.0发布会
 - 特斯拉技术分享
+
+## 2026-10-25 更新：国产开源编程模型追平闭源头部
+- **Kimi K3.1 Pro：Terminal-Bench 4.0 编程 65.7%**——超 GPT-6 Astra（58.2%），距 Claude Opus 5.5（66.4%）仅 0.7pct（[[deepseek]] 之外国产阵营的又一验证）
+- 判断：车企软件研发「AI 写代码」国产替代路径成立——研发工具链美元计价成本将被重塑（[[ai-r-and-d-toolchain]] 的国产化变量、[[ai-productivity-verification-gap]] 的应用侧约束）

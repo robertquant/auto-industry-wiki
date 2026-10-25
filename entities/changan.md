@@ -1,10 +1,10 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-25
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # 长安汽车 (Changan)
@@ -163,3 +163,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **10/16 公告**：朱华荣辞任长安汽车（上市公司）董事长，继续任中国长安党委书记/董事长；**赵非接任上市公司董事长**，**叶沛任总裁**，杨大勇任常务执行副总裁、邓承浩升执行副总裁——集团与上市公司权责厘清
 - **海外成为突围重点**：H1 海外交付 40.2 万辆（+35.1%）——换帅信号 = 为全球化/市场化运营让路（对照 [[geely]] 李书福→安聪慧交接的同一逻辑）
 - 判断：长安换帅与欧洲基地时间表（10/14 已录：2028 年 18 万辆产能）同频——「央企治理结构现代化 + 出海优先」双轨推进，[[chinese-oem-export]] 语境下自主头部新一轮组织升级样本
+
+## 2026-10-25 更新：1-9 月出口 72.7 万辆（+56.3%）、规划 22 个海外基地
+- **1-9 月出口 72.7 万辆（+56.3%）**——换帅（10/18 赵非）后的全球化主线数据兑现；**规划 22 个海外基地**（[[china-export-leaders-2026]]）
+- 判断：长安出海从「贸易出口」进入「基地化」阶段——与欧洲 2028 年 18 万辆产能时间表（10/14 已录）同构，央企「本地化产能换市场准入」的又一执行样本（[[export-tax-rebate-cut-2026]] 政策分水岭的受益侧）

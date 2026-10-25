@@ -2,9 +2,9 @@
 
 > 新能源汽车行业知识库索引。每个页面一行：wikilink + 摘要。
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
-> Last updated: 2026-10-24 | Total pages: 337
+> Last updated: 2026-10-25 | Total pages: 338
 
-统计：entities 139 · concepts 178 · comparisons 9 · auto-industry 10 · european-automakers 1
+统计：entities 140 · concepts 178 · comparisons 9 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -125,6 +125,7 @@
 - [[momenta]] - 中国头部智能驾驶方案商，欧洲豪华品牌智驾「外包」首选。2026 H1城市NOA装机量21.4万辆居行业第二，凭借端到端+纯视觉方案拿下bmw、mercedes-benz两大德国
 - [[ommov]] - 欧摩威（OmmoV），外资车载感知供应商：第三代卫星摄像头获中国首个量产定点（2027底量产）——外资感知硬件绑定中国车企出海样本。
 - [[pony-ai]] - 中国L4自动驾驶技术公司，由前Google、百度工程师创立，Robotaxi运营规模领先。
+- [[qianli-tech]] - 千里科技：吉利系智驾/AI公司（超级Eva与千里智驾运营主体），2026-10「千里科技2.0」：智驾累计搭载超100万台/16款、激活率93.9%、AEB 240万次；超级Eva舱驾融合装车超50万辆，2027 Q1个人助手+手车联动。
 - [[qingzhou]] - 中国智驾方案商，2026-10首个量产上市地平线单征程6M城市NOA方案（9款车型、10-20万价格带），NOA份额30.1%居前（2026Q1）、累计搭载破100万台。
 - [[stepfun]] - 中国AI大模型公司，专注多模态大模型，2026年实现端到端语音大模型量产上车。
 - [[valeo]] - 法国Tier1巨头，2026巴黎车展以VSS360（一体化单盒L1→L2+）+SCALA 3激光雷达（200米/130km/h）抢戏——供应商从幕后走向台前样本。

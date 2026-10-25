@@ -1,10 +1,10 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-25
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
 ---
 
 # 长城汽车 (Great Wall Motor)
@@ -46,3 +46,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 - 国内价格战下的利润弹性（H1 单车盈利）
 - 海外本地化建厂进度（俄罗斯/巴西/东南亚）
 - 智能化短板能否靠自研/PnP方案补位
+
+## 2026-10-25 更新：1-9 月出口 47.6 万辆、占比 51.7%
+- **1-9 月出口 47.6 万辆，海外销量占比 51.7%**——海外占比过半从 9 月单月（52.2%）扩展至累计口径；继奇瑞（71%）后第二家累计口径海外过半的自主头部（[[china-export-leaders-2026]]）
+- 判断：长城「SUV+皮卡+越野」差异化在海外（俄/拉美/澳非）复用度高，但新能源出口占比落后吉利系——燃油基盘出海 vs 新能源出海的分化样本（[[chinese-oem-export]]）

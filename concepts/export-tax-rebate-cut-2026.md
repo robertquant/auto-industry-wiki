@@ -1,10 +1,10 @@
 ---
 title: 新能源出口退税率下调（2027年4月 13%→9%）
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-25
 type: concept
 tags: [policy, export, trend, strategy]
-sources: [raw/articles/2026-10-14-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 新能源出口退税率下调（2027年4月）
@@ -39,3 +39,7 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 
 - **出口退税下调 + 欧盟本地化要求双叠加**：出海逻辑从「低价走量」转向「本地化+高附加值」——**低毛利平价车型未来一年最难受**（单车利润本就薄，退税减少直接侵蚀）
 - 受益侧：本地化产能（[[byd-hungary-factory]]、[[leapmotor-stellantis]]）与高价值车型（[[xpeng-g9l]] 74,990 欧起）——退税退坡对出口结构是「洗牌器」而非「刹车」
+
+## 2026-10-25 补充：南非收紧 SKD——「浅度组装换政策激励」终结
+- **南非贸易部长宣布逐步淘汰散件进口+本地组装模式**：停止为新 SKD 业务提供政策支持、收紧 CKD 法律认定、启动轻型商用车行业调查；**2035 年目标本土化率 38% → 60%**
+- 判断：南非与墨西哥（同日，[[north-america-ev-trade-barriers-2026]]）同构——「本地化或付费」政策分水岭从欧洲（配额/电池护照/70×70 规则）扩散到新兴市场；SKD/CKD 浅度组装退出，缺口只能靠真实产能填补（[[chinese-oem-export]] 语境下出海成本曲线再上移）

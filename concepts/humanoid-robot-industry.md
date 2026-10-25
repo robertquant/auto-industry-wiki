@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-09-24
+updated: 2026-10-25
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -126,3 +126,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - **英伟达拟追投 Figure 10 亿美元（投前估值 380 亿美元）**——AI 算力巨头直接下注具身智能标的（[[nvidia]]）
 - 英伟达过去数月完成逾 1400 亿美元交易、持近 1000 亿美元股权组合；投资重心=人形机器人+自动驾驶+端侧 AI
 - 判断：算力厂从「卖铲人」变「股东」——Figure 若绑定英伟达生态，机器人「大脑」芯片战争将先于本体量产爆发（对照 [[humanoid-talent-flow]] 人才迁移）
+
+## 2026-10-25 更新：零部件跨界数据——2026 人形机器人出货 6 万台
+- **2026 年全球人形机器人出货预计 6 万台、中国约 5 万台，较 2025 年增两倍以上**（盖世口径）——车企/零部件跨界（丝杠、减速器、液冷板）的第一波市场兑现
+- **AI 数据中心液冷 2026 全球预计 1147 亿元（+273%）**——液冷温控成汽车供应链第二曲线最先受益环节；博世 7 月已启动 AI 数据中心 SiC 固态变压器业务（[[bosch]]）
+- 判断：汽车供应链（热管理/精密件/功率器件）与 AI 基础设施（散热/供电）在「散热+供电」点位上重合——[[ice-supplier-divergence]] 的「第二曲线」具体化（[[tier1-mna-consolidation-2026]] 跨界并购的叙事支撑）

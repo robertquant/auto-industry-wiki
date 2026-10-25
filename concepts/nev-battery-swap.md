@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-10-23
+updated: 2026-10-25
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -128,4 +128,10 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 - **陕西交控 × 宁德时代**：骐骥换电共建 **干线重卡换电网络** + 光储充换一体化（[[catl]]）
 - 意义：换电竞争从「乘用车标准战」（[[geely-nio-swap-alliance]] vs 宁德+引望）延伸到 **B 端干线物流**——重卡换电的运营方自带路权与场站土地资源，比乘用车网络更易闭环
 - 判断：换电 vs 超充之争（[[battery-swap-vs-ultra-fast-charging]]）在重卡场景天平倾向换电——干线运输对「5 分钟补能」的刚性需求远高于乘用车；宁德「乘用车标准 + 重卡网络」双线布局，与超充联盟（[[ultra-fast-charging]]）形成场景分工而非互斥
+
+## 2026-10-25 更新：「超换共享网络」联盟 + 巧克力 26 号——换电 2026 时刻补完
+- **宁德发布适配 800V 架构的「巧克力 26 号」电池**，换电覆盖从 A0 级延伸至 C 级（[[800v-platform]] 语境下与超充同代际演进）
+- **「超换共享网络」联盟成立**：长安、奇瑞、广汽、赛力斯等首批接入——「宁德+引望」标准联盟（10/23 已录 [[yinwang]]）的成员端落地
+- **重卡换电节奏更新：2026 底 900 座 → 2027 年 2000 座 → 终局 1 万座**（「电电增程」首批签约 13000 台，10/23 已录）
+- **行业预测 2026 年换电市场规模突破 900 亿元（+22%）**——从技术/场景/政策三变量到位进入市场规模兑现叙事（[[battery-swap-vs-ultra-fast-charging]]）
 
