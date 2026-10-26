@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-10-25
+updated: 2026-10-26
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -114,6 +114,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - [[byd]] - 潜在制造场景与供应链协同
 - [[leapmotor]] - 零跑确认入局机器人
 - [[terra-robotics]] - 机器人芯片方案商
+
+## 2026-10-26 更新：启元机器人月下线 5000 台——制造能力外溢实证
+- **启元机器人（上纬新材 688585 旗下）月下线 5000 台、平均每 2.5 分钟一台**（10/25 披露）——消费级机器人从发布会舞台转向工厂流水线与门店货架
+- 判断：5000 台/月 = 汽车供应链的规模化制造能力大举外溢至具身智能的量化样本（呼应 10/25 零部件跨界出货 6 万台口径）——机器人量产瓶颈已不在制造而在定义与渠道（[[ice-supplier-divergence]] 第二曲线，[[tier1-mna-consolidation-2026]]）
 
 ## 待观察
 - 宇树科技商业化落地进度

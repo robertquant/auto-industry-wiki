@@ -1,10 +1,10 @@
 ---
 title: 座舱AI演化路径
 created: 2026-06-10
-updated: 2026-07-01
+updated: 2026-10-26
 type: concept
 tags: [cockpit, ai, strategy, china]
-sources: [memory/2026-06-10.md]
+sources: [memory/2026-06-10.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 # 座舱AI演化路径
@@ -68,6 +68,11 @@ sources: [memory/2026-06-10.md]
 - 认知座舱的商业化路径
 - 情感计算的隐私边界
 - 大模型上车后的算力与成本平衡
+
+## 2026-10-26 更新：座舱渗透率 87.5%——「标配之后拼什么」
+- **8 月国内乘用车智能座舱渗透率 87.5%**（盖世汽车研究院，2026 中国汽车供应链大会）；**10 万元以下车型座舱配置率从 52% 升至 70%**——座舱硬件进入「全价位标配」尾声
+- 竞争重心转移：从「配置清单」转向「体验重构」——跨域架构、平台复用、贯穿全生命周期的持续运营成为供应商分水岭（呼应本页「交互质量而非功能数量」判断，[[cockpit-interaction-quality]]）
+- 判断：渗透率见顶 = 座舱硬件军备竞赛结束，软件/服务/Agent 能力（[[cockpit-ai-capability-grading]]）成为唯一增量空间；「标准化硬件+差异化软件」格局将固化（[[cockpit-llm]]、[[cockpit-ai-barrier-layering]]）
 
 ## 关联页面
 - [[cockpit-llm]] - 座舱大模型格局

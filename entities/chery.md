@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-10-25
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -135,3 +135,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **累计出口突破 700 万辆，中国车企首家**——「出口王」从月度/年度纪录进入累计里程碑（[[china-export-leaders-2026]]、[[chinese-oem-export]]）
 - **神行者 8 上市 12 小时大定破 5000 台**（[[shenxingzhe-8]]）——「中国主机厂×欧洲豪华品牌×华为智驾」三方合作模式的首个走量验证
 - **×宁德时代芜湖合资（10/20 注册、10 亿注册资本）**：安徽双布局合计 30 亿（[[catl]]）——从宜春到合肥到芜湖，与电池龙头绑定持续加深（[[battery-white-box]] 语境）
+
+## 2026-10-26 更新：前三季营收首破 3000 亿
+- **营收首破 3000 亿元、海外占比超 70%**（晨报口径）——财务口径首次坐实「海外贡献七成」：全球化程度自主第一（10/11 海外收入近七成→本轮营收绝对值落地，[[china-export-leaders-2026]]）
+- 判断：3000 亿营收中海外过半 = 奇瑞的组织形态已从「中国车企做出口」变为「全球化车企以中国为母港」（[[chery-export-dependency]]）；与出口退税下调（[[export-tax-rebate-cut-2026]]）同框——高海外收入占比使奇瑞成为退税退坡的最大承压者之一，本地化（西班牙/巴西）对冲是关键

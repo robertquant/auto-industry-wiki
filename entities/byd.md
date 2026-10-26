@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-10-26
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -55,6 +55,12 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **王朝网第1,000万辆整车下线**：单销售网络千万辆里程碑
 - **闪充站目标上调确认**：2026底 2万座 → **2028年底建成 9万座**——闪充网络从「一二线覆盖」进入「全量下沉」阶段（见 [[ultra-fast-charging]]、[[battery-swap-vs-ultra-fast-charging]]）
 - **第36周销量**：9月首周比亚迪54,550辆，持续领跑。
+
+## 2026-10-26 更新：APEC官方用车 + 海狮06EV + 新海鸥定价
+- **官宣 2026 APEC 官方用车合作（10/16）**——国际会议背书高端化（政治/公共外交场景的品牌资产），与闪充技术牌（[[ultra-fast-charging]]）构成「高端背书+硬技术」双线
+- **海狮06EV：二代刀片电池 10%-70% 充电 5 分钟**（纯电版，区别于 10/8 已录的海狮06 DM-i，[[sealion-06-dmi]]）——二代刀片+闪充从旗舰（大汉/ATTO 8）下放到主流级（海洋网）
+- **新海鸥 6.29 万起**（二代海鸥 10/20 上市价确认，A0 级首次搭载激光雷达，10/19 已录产品信息、价格本轮补齐）——A0 级智驾内卷的定价锚点（对照 [[leapmotor]] A10 6.58 万起）
+- 判断：APEC 用车 = 出海高端化的「外交场景」首秀；海狮06EV 把「5 分钟闪充」叙事下探至 15-20 万级主流市场，闪充军备竞赛（[[ultra-fast-charging]]）进入「全价位覆盖」阶段
 
 ### 9月动态（中旬）
 - **海狮08正式上市**（22.99-27.99万）：搭载天神之眼5.0+云辇-A双腔空悬。原预售价22.98-29.98万，上市价略调。定位中大型六座SUV，竞品理想L8、问界M7/M8。

@@ -1,10 +1,10 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-26
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
@@ -152,6 +152,11 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **定位**：A00/A0级成本敏感车型
 - **对固态电池影响**：钠电先抢占低端市场，固态定位高端
 - **市场分层清晰**：钠电→LFP→半固态→全固态
+
+## 2026-10-26 更新：清陶动力 80 亿昆山一期投产——上汽绑定样本
+- **清陶动力固态电池项目（一期）10/21 昆山投产**：**总投资 80 亿、一期 10GWh**；由上汽华域汽车×清陶（昆山）能源合资设立，主要满足上汽新能源车型需求——「昆山研发生产、上海整车装车」跨区域闭环，**固态电池已上量产车**
+- **上汽对清陶订单 2026-2028 预计 6 万 / 50 万 / 78 万套**（招股书口径）——订单曲线三年 13 倍，从验证装车走向规模爬坡
+- 判断：清陶 = 「车企（上汽）深度绑定电池新势力」的固态样本（对照 [[gotion]] 大众绑定、[[catl]] 车企合资），与巨湾 GWh 产线（10/13，[[guangwan-jiyan]]）共同坐实「产线验证期（2026-27）」共识——固态竞争从发布会口径进入「订单+产线」双实证阶段（[[battery-fifteen-five-plan]] 2030 初步规模化时间表的中间态）；清陶半固态（固液混合）先行路线与 [[byd]] 硫化物全固态 2027（见本页）分层并行
 
 ## 待观察
 

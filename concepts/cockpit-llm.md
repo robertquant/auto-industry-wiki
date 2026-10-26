@@ -1,10 +1,10 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-09-25
+updated: 2026-10-26
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 # 座舱大模型格局 (Cockpit LLM)
@@ -108,6 +108,12 @@ robert 判断「座舱 AI 的编排/主动服务层壁垒很低、容易被抄�
 - [[di-di-xia]] - 比亚迪超级智能体（生态派代表）
 - [[cockpit-ai-barrier-layering]] - 座舱AI壁垒分层框架（本页讨论的延伸）
 - [[dicore]] - 比亚迪座舱OS中间件（下层真壁垒案例）
+
+## 2026-10-26 更新：科大讯飞星火智慧座舱 3.0——「全能底座」+ 标准化 BOX
+- **讯飞发布行业首个全模态类人交互座舱 SparkAuto Space 3.0**（10/21）：从架构/模型/硬件/工程/生态五层构筑 AI 原生汽车「智能底座」
+- **SparkAuto BOX**：承载端侧大模型的标准化盒子（**Lite 20TOPS 支持 4B 模型 / Ultra 200TOPS 搭载 35B**）——免逐车型定制，把大模型装进标准化硬件（对照 [[ai-box-independent-compute]]：Box 是重封装，内存带宽隔离才是本质；讯飞选择直接卖标准盒）
+- 继长安马自达 EZ-60「豆包+讯飞星火」双模型（10/16 已录）后，讯飞从「模型供应商」向「底座+硬件」双线扩张——座舱 AI 竞争从「堆功能」进入「落得实、用得好」下半场
+- 判断：讯飞 BOX 的「标准化」逻辑与车企自研（[[geely]] 超级 Eva、[[li-auto]] Mind GPT）路线对冲——标准化盒子赢「快与省」、自研赢「深与控」，2027 年座舱 AI 将出现「标准件 vs 自研件」的价格分层（[[cockpit-model-tiering]]）
 
 ## 待观察
 - DeepSeek份额是否见顶（传统品牌自研起步）

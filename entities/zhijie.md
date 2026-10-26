@@ -1,10 +1,10 @@
 ---
 title: 智界 (Luxeed)
 created: 2026-05-03
-updated: 2026-10-19
+updated: 2026-10-26
 type: entity
 tags: [oem-cn, adas, vehicle, policy]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 ## 概述
@@ -90,3 +90,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, raw/art
 - **工信部第 412 批公示独立造车资质**（10/16 公示、至 10/23），奇瑞工厂划转至智界
 - **内部确认计划独立上市**（财联社 10/19 早报）——继引望（2025 年引入战投）之后，华为智选车资产证券化第二波：品牌独立 + 资质独立 + 资本独立三同步
 - 判断：智界独立 = 华为智选车从「车企代工+华为主导」走向「品牌自持」的样板工程；奇瑞专心造车、华为退居 Tier1 赋能（与问界改由 [[seres]] 主导同向）——但独立上市后与华为的算力/智驾采购关系将成为新治理命题
+
+## 2026-10-26 更新：RX 全国大规模交付启动（10/25）
+- **智界RX 10/25 全国交付启动**：25.98-38.98 万、交付周期 4-6 周；**超 85% 大定用户选 L3 架构版**（交付口径，9 月预售时点占比 90%+）——L3 付费意愿从预售到交付全程验证（详见 [[zhijie-rx]]）
+- **四激光雷达 + L3 架构八大冗余 + 华为 ADS 5**——华为系 L3 硬件预埋的旗舰载体（[[huawei-ads]]、[[l3-mandatory-standard]]）
+- 判断：85% 选装率 = 消费者为冗余硬件付费的确定性信号；但在 L3 第二批准入试点（[[l3-mandatory-standard]]）落地前，功能释放仍受法规节奏约束，「硬件领先、功能待批」是华为系 L3 当前的共同形态

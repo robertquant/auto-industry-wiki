@@ -1,10 +1,10 @@
 ---
 title: L3强制国标 (GB 44721—2026)
 created: 2026-08-06
-updated: 2026-10-22
+updated: 2026-10-26
 type: concept
 tags: [adas, policy, regulation, oem-cn]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 # L3强制国标 (GB 44721—2026)
@@ -110,7 +110,13 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-09-28-daily
 |------|------|
 | 2026年7月30日/8月4日 | GB 44721—2026正式发布 |
 | 2026年9月16日 | 智界RX获L3路测牌照 |
+| 2026年10月22日 | 工信部郭守刚（WICV）官宣 L3 第二批准入试点进行中 |
 | 2027年7月1日 | 强制执行 |
+
+## 2026-10-26 更新：L3 第二批准入试点进行中（WICV 官宣）
+- **工信部郭守刚（10/22 WICV）官宣 L3 第二批准入试点进行中**——首批仅 2 款（深蓝 SL03/极狐阿尔法 S，10/1 已录）之后，第二批扩容进入流程：准入管上市（[[innovation-verification-regulation-2026]]）、标准管验证、强制国标管功能（2027/7/1）的监管三连闭环继续推进
+- 背景：智界RX 10/25 交付启动（[[zhijie-rx]]）85% L3 架构版选装率——硬件先行的市场与法规扩容的政策同频，L3 从「牌照验证」走向「批量准入」
+- 判断：第二批准入的名额与车型选择 = 2027 强标前最后的政策红利分配；华为系（[[huawei-auto]]）、[[byd]]（2028 限定场景）、[[nio]]（2027.7.1 下半场）三家节奏分化将随批次名单进一步实证（[[l3-autonomous-driving]]）
 
 ## 关系网络
 - [[autonomous-driving-chips]] - 智驾芯片格局
