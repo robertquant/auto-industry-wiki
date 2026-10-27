@@ -1,7 +1,7 @@
 ---
 title: 新能源渗透率60%里程碑 (2026年)
 created: 2026-05-13
-updated: 2026-10-20
+updated: 2026-10-27
 type: concept
 tags: [nev, penetration, milestone, 2026, china, sales]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
@@ -142,4 +142,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-n
 
 - **新车潮脉冲**：9/21-30 共 28 款新车上市，9/23 单日 9 款创年内纪录——集体卡位国庆黄金周
 - **判断**：渗透率新高不掩盖分化——四季度补贴/以旧换新退坡预期下「谁在裸泳」才见真章；比亚迪用固态+闪充锁定技术叙事、吉利靠技术平权抢主流价位、零跑用成本壁垒吃量（见 [[new-forces-landscape-2026]]）
+
+## 2026-10-27 更新：10 月预计 66.9%（乘联会预估）
+- **乘联分会预估 10 月新能源零售 107 万辆、渗透率 ~66.9%**（规模超燃油 2 倍），但全月大盘同比 -28.9%——总量收缩中的结构切换，车市整体仍在筑底
+- 前三季度国内新能源产销 1248.3/1247.2 万辆、新车占比 53.6%（[[nev-penetration-may-2026]] 链路的 2026 年坐标延续）
+- 判断：渗透率再创新高但增量空间收窄——66.9% 之后 Q4 竞争焦点转向燃油存量争夺，换代挤压（[[byd-qin-plus-dmi]]）是主力手段
 

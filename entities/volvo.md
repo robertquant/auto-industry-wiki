@@ -1,7 +1,7 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-14
+updated: 2026-10-27
 type: entity
 tags: [oem-eu, strategy, sales, export]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
@@ -100,3 +100,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 - **XC60 第三次改款巴黎车展亮相（插混 1240km）**——燃油/插混基盘续命（[[2026-paris-auto-show]]）
 - **2027 年起任领克欧洲独家经销商在巴黎车展正式官宣**（[[geely]]）——9 月协议的欧洲主场确认，「渠道变现」补偿收入路径落地（[[zeekr-lynk-co-merger]]）
 - 判断：在华失速（Q3 -40.6%）背景下，欧洲渠道资产成为吉利生态内沃尔沃的核心价值点
+
+## 2026-10-27 更新：Q3 由盈转亏（财报口径）
+- **Q3 营收 669 亿 SEK（-22.6%）、营业利润 -56 亿**（由盈转亏）、中国交付 20,284 辆（-40.6%），股价单日 -30%
+- **再裁 2500 人**；推 **7 款西方新车 + 6 款中国定制**，明确深化 [[geely]] 协同——「安全」溢价补不上智能化短板，吉利协同从口号变救命牌；欧洲豪华在华失速的极端样本（对照 [[mercedes-benz]]/[[bmw]] 的中国策略）

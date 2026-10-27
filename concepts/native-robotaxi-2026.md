@@ -1,7 +1,7 @@
 ---
 title: 原生Robotaxi路线（Native Robotaxi）
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-27
 type: concept
 tags: [trend, adas, strategy, prediction]
 sources: [raw/articles/2026-10-21-daily-digest.md]
@@ -35,3 +35,7 @@ sources: [raw/articles/2026-10-21-daily-digest.md]
 
 ## 来源
 - raw/articles/2026-10-21-daily-digest.md（晨报 + 盖世日报）
+
+## 2026-10-27 更新：小鹏悠游获广州 L4 示范运营资质
+- **10/26 悠游获批广州全域 L4 示范运营资格**——由技术验证进入商业运营验证阶段（[[xiaopeng-yoyo]]）
+- 「牌照口径」补位：L4 商业化资格从发布会叙事转向运营资质实据；原生前装路线（vs 改装）在资质与成本两侧的优势开始兑现

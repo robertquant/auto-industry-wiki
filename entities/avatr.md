@@ -1,7 +1,7 @@
 ---
 title: 阿维塔 (Avatr)
 created: 2026-06-13
-updated: 2026-10-14
+updated: 2026-10-27
 type: entity
 tags: [avatr, changan, huawei, china, ev, adas, export]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-06-13.md, raw/articles/2026-10-10-daily-digest.md]
@@ -78,3 +78,6 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-06-13.md, raw/art
 - 与 07L（纯电高端）构成「纯电+插混」双线；T09 是全球首发即亮相的欧洲第一印象车型
 ## 2026-10-14 补充：T09 概念版 50 万级定价区间浮出
 - 巴黎车展 T09 概念版（华为乾崑+三电机）**50 万级、2026 年内上市**（[[avatr-t09]]）——10/10 首秀后的定价与节奏落地
+
+## 2026-10-27 更新：巴黎车展收官 + 2027 进欧洲
+- 巴黎车展携 T09 概念版等三款车型亮相，**计划 2027 年进入欧洲**（[[2026-paris-auto-show]]）——中国高端品牌欧洲攻势的又一个 2027 玩家（对照 [[xpeng-g9l]] 的 64 国上市）

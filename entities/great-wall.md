@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -50,3 +50,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 ## 2026-10-25 更新：1-9 月出口 47.6 万辆、占比 51.7%
 - **1-9 月出口 47.6 万辆，海外销量占比 51.7%**——海外占比过半从 9 月单月（52.2%）扩展至累计口径；继奇瑞（71%）后第二家累计口径海外过半的自主头部（[[china-export-leaders-2026]]）
 - 判断：长城「SUV+皮卡+越野」差异化在海外（俄/拉美/澳非）复用度高，但新能源出口占比落后吉利系——燃油基盘出海 vs 新能源出海的分化样本（[[chinese-oem-export]]）
+
+## 2026-10-27 更新：魏牌二代蓝山首秀 + 关联方采购上修
+- **魏牌二代蓝山 10/27 首秀**；**2027 款坦克500 33.5 万起**——自主品牌「换代日」三连之一（另两连：[[byd-qin-plus-dmi]]、[[li-auto-i6]]），硬派+家用双线齐换代
+- **前三季向魏建军关联方（蜂巢为主）采购 88.43 亿元、全年上限上调至 169 亿**——电池自供体系关联交易规模持续加深（[[battery-white-box]] 的长城侧注脚）

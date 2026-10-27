@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-23
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
@@ -221,3 +221,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-23 更新：前三季度 300.3 万辆创新高
 - **吉利控股前三季度销量 300.3 万辆创新高**，新能源 **179.3 万辆**、渗透率近六成（盖世 10/21）——全年破 400 万在望，新能源占比从 8 月 65% 继续爬升
 - 叠加换电网络合并（[[geely-nio-swap-alliance]]）与 [[yinwang]]（华为系）入局换电——2026 年补能格局「联盟化」叙事中，吉利×蔚来是乘用车换电标准的关键一极
+
+## 2026-10-27 更新：星舰7优行版定价 + 谷歌全球座舱合作
+- **银河星舰7优行版 10.58 万**（1.5L 插混、纯电 130km）——10 万级插混锚点
+- **吉利控股 × 谷歌全球战略合作（10/16 官宣）**：在谷歌服务可覆盖海外市场共建数字座舱生态，首款搭载车型 2027H2 推出（官方认证谷歌汽车服务：Gemini AI 助手+谷歌地图+应用商店），逐步覆盖吉利/领克/宝腾/雷达/smart——出海座舱从自研单干转向借力谷歌生态（对照国内 [[volcengine]] 系路线，出海/国内双轨座舱生态）

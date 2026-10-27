@@ -1,7 +1,7 @@
 ---
 title: 2026世界智能网联汽车大会（WNEVC 2026）
 created: 2026-10-21
-updated: 2026-10-24
+updated: 2026-10-27
 type: concept
 tags: [trend, policy, adas, ecosystem]
 sources: [raw/articles/2026-10-21-daily-digest.md, concepts/fifteen-five-plan.md]
@@ -61,3 +61,6 @@ sources: [raw/articles/2026-10-21-daily-digest.md, concepts/fifteen-five-plan.md
 ## 2026-10-24 补充：官方数据细节
 - **车路云试点城市 15→22 城**扩容；**2027 年 L2/L3 强制标准落地预期**（WICV 现场口径，与 [[l3-mandatory-standard]] 的 GB 44721—2026 衔接：下一批强标瞄准 L2 组合辅助与 L3 有条件自动化）
 - **六大佬对话共识**（赵福全/李斌/何小鹏等）：订阅制与安全数据成为行业共识词——「商业闭环」替代「技术演示」成为 WICV 2026 主叙事（10/23 已录闭幕日共识）
+
+## 2026-10-27 更新：L3 量产时间表争鸣补录
+- 圆桌争鸣：量产时间集中 2027-2028，存在「L3 可能被跳过」观点（体验未变好/责任主体切换）；有嘉宾提醒城区辅助刚过「百公里接管一次」，每提升一个数量级方法论都要重来——规模化运营体系比技术更难的坎（[[l3-autonomous-driving]]）——与各厂 2027 L3/2028 L4 密集对齐的官方口径形成对照

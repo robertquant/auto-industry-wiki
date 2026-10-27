@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-26
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
@@ -259,3 +259,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **杨冬生 WNEVC 口径**：**限定场景 L3 2028 量产**——比亚迪不追「跳过 L3」激进路线（[[xiaopeng]]），也不等 2027 强制法规窗（[[nio]]），按自身节奏推进
 - 语境：比亚迪智驾保有量超 352 万辆（[[tianshen-eye-5]]、[[byd-xuanji-a3]] 全栈自研基盘），量产节奏 = 规模验证优先
 - 判断：比亚迪、小鹏、蔚来的「L3 时间表三分」（[[l3-autonomous-driving]]）本质是三种商业模式的投射——规模平权派（比亚迪）以量换稳、激进定义派（小鹏）以技术叙事换估值、法规对齐派（蔚来）押注制度红利
+
+## 2026-10-27 更新：第三代秦PLUS上市 + 1-9月全球销量
+- **第三代秦PLUS DM-i 10/27 上市**：4840mm/轴距2800mm（反超秦L）、第五代DM、亏电2.58L、满油满电2290km（[[byd-qin-plus-dmi]]）——Q4 换代挤压第一弹，10 万级插混锚点重置
+- **1-9 月全球 313.16 万辆（-3.94%）**；Q4 七款新车收官——年底冲量集中于换代车型

@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-25
+updated: 2026-10-27
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -159,3 +159,6 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 ## 2026-10-25 更新：Q3 中国 -24.8% 至 11.44 万辆
 - **Q3 中国销量 11.44 万辆（-24.8%）**——与大众 Q3 中国 -38.5%（[[volkswagen]]）同框：德系双雄 2026 中国失血加速，Q4 本土化新车（ID.ERA 5X、新世代 i3）是最后验证窗口
 - 对照：Gen6 沈阳量产 + 新世代 70% 软件中国开发（10/24 已录）——「制造/软件押注中国、销量继续下滑」的错位期，投资领先于市场修复；[[china-tech-reverse-export]] 的德系注脚在数据侧继续积累
+
+## 2026-10-27 更新：Gen6 大圆柱沈阳量产
+- **Gen6 大圆柱电芯沈阳量产**：能量密度 +20%、充电速度/续航 +30%——新世代（Neue Klasse）电芯底座国产落地（与 10/24「新世代 70% 软件中国开发」同框：制造+软件双押注中国，[[china-tech-reverse-export]] 数据侧继续积累）

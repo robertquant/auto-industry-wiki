@@ -1,7 +1,7 @@
 ---
 title: 北汽集团 (BAIC)
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, sales, strategy, policy]
 sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md]
@@ -24,3 +24,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entitie
 - [[catl]] - 换电/电池合作（10/22 深化协议）
 - [[faw]] - 央企/国企体系对照（一汽）
 - [[l3-mass-production-2026]] - L3 准入坐标
+
+## 2026-10-27 更新：张建勇「堆料→体验」周期论
+- **北汽董事长张建勇（WICV 10/21-23）**：行业从同质化堆料迈入差异化体验周期；1-9 月自主销量破 80 万辆、新能源 +43.2%
+- 落点智驾/座舱/底盘「三支阵地仗」；智驾开放合作+核心自研双轨，携华为、[[momenta]]、[[horizon-robotics]] 深耕「元镜」技术体系（对照 [[huawei-auto]] 合作面）

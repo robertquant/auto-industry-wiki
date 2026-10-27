@@ -1,7 +1,7 @@
 ---
 title: 小米汽车
 created: 2026-05-02
-updated: 2026-07-01
+updated: 2026-10-27
 type: entity
 tags: [xiaomi, china, suv, sedan, battery, adas]
 sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-27.md]
@@ -84,3 +84,7 @@ sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2
 - [[nio]] - 新势力竞品
 - [[world-model]] - 小米世界模型技术
 - [[vla-model]] - 小米反对的过渡技术路线
+
+## 2026-10-27 更新：纽北 Workshop + SU7 Ultra Extreme
+- **纽北 Workshop 启用**（雷军官宣）——「纽北验证」从营销事件升级为常设机构化测试基地（[[xiaomi-auto]]）
+- **SU7 Ultra Extreme（限量版）伪装车曝光**——Ultra 系列的进一步限量分化，性能叙事继续加码

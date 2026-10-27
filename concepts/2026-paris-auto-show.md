@@ -1,7 +1,7 @@
 ---
 title: 2026巴黎车展 (Paris Motor Show 2026)
 created: 2026-10-03
-updated: 2026-10-23
+updated: 2026-10-27
 type: concept
 tags: [trend, comparison, export, oem-cn, oem-eu]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -153,3 +153,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-07-daily
 - **问界 2027 秋入欧**：AITO 6-9 **四款车型获欧盟整车型式认证**（[[wenjie]]、[[seres]]）——华为智选车（[[huawei-auto]]）欧洲官宣时间表，晚于理想（2027 Q1，[[li-auto]]）/小鹏（G9L 已开订）
 - **比亚迪接触法国建厂**（[[byd-hungary-factory]]）——本地化产能竞赛（[[eu-hybrid-export-caps-2026]]）下一站
 - 判断：巴黎车展 = 「中国主场进攻/欧洲防守反击」镜像收官定格：22 家 vs 欧洲本土平价电动反攻（[[entry-ev-profit-crisis]]）；2027 配额时代（[[eu-hybrid-export-caps-2026]]）的竞争舞台从展台搬到产线
+
+## 2026-10-27 更新：中国品牌占展商 37.3%（收官口径）
+- **59 家整车展商中中国品牌 22 家（37.3%）**——比东道主法国+德国之和还多 5 家；宝马退展、日系集体缺席——中国品牌已成车展主力阵容而非「参展方」
+- BYD Shark 插混皮卡全球首发；[[avatr]] 携 T09 概念版等三款亮相并计划 2027 进欧洲——中国攻势收官定格（[[xpeng-g9l]] 64 国上市同场）

@@ -1,7 +1,7 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-10-13
+updated: 2026-10-27
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
@@ -76,3 +76,10 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - 世界智能网联汽车大会（北京亦庄）设「自动驾驶测试验证 / AI产业赋能」边会 + L3 体验环节
 - 背景：亦庄 40+ 企业、1500+ 台车、安全测试里程 6500万公里——政策+测试能力背书
 - 观察点：自动驾驶测试验证（[[ai-testing-automation]]、[[vectorcast-ai-testing]]）、L3 体验（[[l3-autonomous-driving]]）
+
+## 2026-10-27 更新：10 月工程化兑现数据（AI 日报口径）
+- **长安工艺大模型**：人力成本 -80%、导入周期 -15 天
+- **理想 27B 模型审 PPAP：5 小时 → 2 分钟**
+- **蔚来新桥工厂：建厂周期 36 → 20 个月、自动化率 90%**
+- 车百智库：AI 落地场景 239 个——工程化从单点试点进入场景矩阵
+- 判断：数字带 PR 口径，但方向明确——AI 价值兑现从「效率叙事」转向「时间×成本×人力」结构化压缩，与上文 9 月「工程化元年」判断衔接

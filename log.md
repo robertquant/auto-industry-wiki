@@ -1469,3 +1469,48 @@
 - ③固态电池「产线验证期」共识再添样本：清陶 80亿/10GWh 一期投产 + 上汽订单三年13倍（6→50→78万套），与巨湾 GWh 产线同框——竞争从发布会进入「订单+产线」双实证
 - ④锂价全年闭环：5月17.19万 → 10月跌破10万（-40%+），「需求好≠价格涨」供给主导逻辑完全验证
 - ⑤奥迪「南北分治」：豪华品牌首次按品牌切分双合资 = 德系在华合资关系结构性重构，与丰田系资产重组（广汽收购一汽丰田股权）构成两种路线
+
+## [2026-10-27] ingest | 晨报+汽车AI日报+盖世晚报（10/27）
+- 来源：memory/2026-10-27.md → raw/articles/2026-10-27-daily-digest.md（盖世晚报已在 daily-news/2026-10-27-gasgoo-evening.md）
+
+### 新建页面（2）
+- entities/byd-qin-plus-dmi.md - 第三代秦PLUS DM-i（10/27上市）：4840mm/轴距2800mm反超秦L、第五代DM、亏电2.58L、满油满电2290km
+- entities/li-auto-i6.md - 理想2026款i6（10/28上市）：96kWh连山5C+马赫M100全系标配、官方780km/实测811.4km（达成率104%）、29英寸6K屏
+
+### 更新页面（26）
+- entities/byd.md - 秦PLUS三代上市 + 1-9月全球313.16万辆(-3.94%)、Q4七款新车收官
+- entities/great-wall.md - 魏牌二代蓝山首秀、坦克500(2027款)33.5万起、关联方采购88.43亿/上限169亿
+- entities/geely.md - 星舰7优行版10.58万、谷歌全球座舱合作(2027H2首款/Gemini)
+- entities/li-auto.md - i6 10/28上市预告（马赫M100全系标配）
+- entities/xiaomi.md - 纽北Workshop启用、SU7 Ultra Extreme伪装车曝光
+- entities/audi.md - 佐治亚梅肯美国工厂（40亿美元/20万辆/年，关税政治学判断）
+- entities/bmw.md - Gen6大圆柱沈阳量产（能量密度+20%、续航/充电+30%）
+- entities/mercedes-benz.md - MB.DRIVE ASSIST PRO时间表 + 长轴GLE×Momenta R6
+- entities/leapmotor.md - B10萨拉戈萨10/16投产（规避30.7%关税）、B05确认同厂
+- entities/stellantis.md - B10投产、法国四厂临时关停
+- entities/volvo.md - Q3由盈转亏（营收-22.6%/营业利润-56亿/中国-40.6%、股价-30%）、裁员2500、7+6新车、深化吉利协同
+- entities/renault.md - Q3销量52.95万(+9.8%)、收入+6.8%、三季报10/29
+- entities/volkswagen.md - 合肥L3路测牌照（GAIA 2.0日仿真500万km）、CMP量产/ID.ERA 5X下线
+- entities/xiaopeng-yoyo.md - 获广州L4示范运营资质（全域、商业运营验证阶段）
+- entities/roewe-jiayue-07.md - 上市11.98万起、2分钟大定破万
+- entities/baic.md - 张建勇「堆料→体验」周期论、元镜技术体系
+- entities/chery.md - 前三季220.68万辆、出口155.12万(+65.6%)
+- entities/avatr.md - 巴黎车展收官、计划2027进欧洲
+- concepts/l3-autonomous-driving.md - 大众合肥牌照（牌照口径）+ WICV量产时间表争鸣（2027-2028、或「被跳过」）
+- concepts/wnevc-2026.md - L3时间表争鸣补录
+- concepts/innovation-verification-regulation-2026.md - 51项参数细化（41创新设计+10研发验证、截至11/10）
+- concepts/nev-penetration-60-percent.md - 10月预计107万/66.9%（乘联会预估）、前三季1248.3万辆
+- concepts/native-robotaxi-2026.md - 悠游获L4运营资质（牌照口径补位）
+- concepts/ai-engineering-2026.md - 10月工程化数据（长安-80%人力/理想PPAP 5h→2min/蔚来36→20个月）
+- concepts/cockpit-ai-barrier-layering.md - 座舱报告：1500亿→2029近3000亿、底座窗口期2026-2027
+- concepts/2026-paris-auto-show.md - 中国品牌占展商37.3%（22/59家）、宝马退展
+
+### 导航更新
+- index.md：Last updated 2026-10-27；Total pages 339→341（entities 141→143 / concepts 178 / comparisons 9 / auto-industry 10 / european-automakers 1）；产品/平台（20）→（24），新增 [[byd-qin-plus-dmi]]、[[li-auto-i6]]
+
+### 核心洞察
+- ①自主品牌「换代日」：秦PLUS上市+二代蓝山首秀+i6明日登场——Q4价格战从终端促销转向换代挤压，10-30万锚点连续重置
+- ②L3/L4 双牌照日：大众合肥L3路测+小鹏悠游L4示范运营同日落地——智驾从「宣传口径」进入「牌照口径」，A股当日涨停潮是该信号的定价
+- ③欧洲三线作战常态化：中国失速（沃尔沃-40.6%）、美国政治性建厂（佐治亚=关税政治学而非产能经济学）、本土裁员（大众10万人/沃尔沃2500人）——关税重写全球产能地图
+- ④沃尔沃Q3由盈转亏=欧洲豪华在华失速极端样本——「安全」溢价补不上智能化短板，吉利协同从口号变救命牌
+- ⑤智能座舱国产底座窗口期2026-2027（盖世报告）——国产芯片/OS最后的上车时间窗，与「约束层才是护城河」互证

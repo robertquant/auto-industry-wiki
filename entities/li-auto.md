@@ -1,7 +1,7 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-22
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
@@ -217,3 +217,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **「连山电池保障计划」**：自研电池因质量问题自燃/报废 → 赔同配置新车——安全承诺升级为法律级营销
 - **首搭车型理想 i6（10/28 上市，连山 5C 电池首发）**——新品发布与自研三电叙事捆绑
 - 判断：自研叙事从智驾芯片（[[li-auto-m100]]）蔓延到三电；对 [[catl]] 的第三次「叛逃」（蔚来/小鹏/理想全落地，[[battery-white-box]]）；1.5% 行业利润率下自研 = 估值故事 + 资本开支膨胀的双刃剑
+
+## 2026-10-27 更新：i6 明日上市（马赫M100全系标配）
+- **2026 款 i6 定档 10/28**：96kWh 连山 5C、官方 780km/环太湖实测 811.4km（达成率 104%）、马赫 M100 全系标配、29 英寸 6K 屏（[[li-auto-i6]]）——自研芯片全系标配的「算力平权」打法
+- 老款 i6 年交付 19 万+，换代即走量基盘；10/28 与大众合肥技术日撞日

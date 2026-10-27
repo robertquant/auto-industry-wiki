@@ -1,7 +1,7 @@
 ---
 title: 小鹏悠游（XPENG YOYO）
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-27
 type: entity
 tags: [adas, ai, strategy]
 sources: [raw/articles/2026-10-08-daily-digest.md]
@@ -41,3 +41,7 @@ sources: [raw/articles/2026-10-08-daily-digest.md]
 - [[waymo-vs-tesla-robotaxi-2026]] - L4 商业化对照
 - [[vla-mass-production]] - VLA 量产路线
 - [[byd-xuanji-a3]] - 自研芯片对照
+
+## 2026-10-27 更新：获广州 L4 示范运营资质
+- **10/26 获批广州市智能网联汽车应用示范运营资格**：广州全域 L4 示范运营——由技术验证进入商业运营验证阶段（[[native-robotaxi-2026]]）
+- 基于 GX 打造（中国首款全栈自研前装量产 Robotaxi）：4×自研图灵芯片 3000TOPS + 第二代 VLA，纯视觉（无激光雷达/无高精地图）；计划明年无安全员载客运营

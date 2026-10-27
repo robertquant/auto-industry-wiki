@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-25
+updated: 2026-10-27
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md]
@@ -139,3 +139,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-10-26 更新：前三季营收首破 3000 亿
 - **营收首破 3000 亿元、海外占比超 70%**（晨报口径）——财务口径首次坐实「海外贡献七成」：全球化程度自主第一（10/11 海外收入近七成→本轮营收绝对值落地，[[china-export-leaders-2026]]）
 - 判断：3000 亿营收中海外过半 = 奇瑞的组织形态已从「中国车企做出口」变为「全球化车企以中国为母港」（[[chery-export-dependency]]）；与出口退税下调（[[export-tax-rebate-cut-2026]]）同框——高海外收入占比使奇瑞成为退税退坡的最大承压者之一，本地化（西班牙/巴西）对冲是关键
+
+## 2026-10-27 更新：前三季销量/出口（盖世口径）
+- **前三季度销量 220.68 万辆、海外出口 155.12 万辆（+65.6%）**——出口占比 ~70% 的销量侧坐实（与营收侧 10/25 已录呼应）
+- 11/13 合肥全球技术创新中心将办「智汇高压·链启新能」高压产业链共创论坛（800V+轻量化线束、SiC 应用）——上游论坛化布局延续（[[chongqing-auto-forum-2026]] 语境外的高压垂直场）

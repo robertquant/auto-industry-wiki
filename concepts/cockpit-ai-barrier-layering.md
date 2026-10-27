@@ -1,7 +1,7 @@
 ---
 title: 座舱AI壁垒分层 (Cockpit AI Barrier Layering)
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-27
 type: concept
 tags: [cockpit, ai, strategy, sw, trend]
 sources: [raw/articles/2026-09-25-daily-digest.md]
@@ -63,3 +63,8 @@ sources: [raw/articles/2026-09-25-daily-digest.md]
 - [[iso-26262]] - 车规级 AI 安全认证基础
 - [[data-moat]] - 智驾数据壁垒对照（座舱无网络效应）
 - [[ai-box-independent-compute]] - 出海"合规即壁垒"同逻辑
+
+## 2026-10-27 更新：座舱市场空间 + 底座窗口期（盖世报告）
+- **《中国汽车零部件产业发展报告（2026）——智能座舱产业》**（中国汽车供应链大会发布）：智能座舱方案市场 2025 年超 1500 亿元 → 2029 年接近 3000 亿元（占全球近四成）
+- 格局：「强终端、强集成、平台加速、**底座待补**」——最大短板仍是高端芯片与基础软件，补短板窗口期 **2026-2027**
+- 判断：与本文「约束层才是护城河」判断互证——底座窗口期 = 国产芯片/OS 最后的上车时间窗（[[cockpit-chip]]、[[cockpit-llm]]）

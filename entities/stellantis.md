@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-25
+updated: 2026-10-27
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -113,3 +113,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-25 更新：Q3 出货 130 万辆（-1%）、法国工厂停产
 - **Q3 出货 130 万辆（-1%）**、北美 -12%；**法国工厂因电池短缺临时停产**——北伏（Northvolt）破产连锁反应的第一批受害者，欧洲本土电池缺口显性化（[[global-battery-market-2026]]）
 - 判断：欧洲「电池缺口」未解 = 中国电池产业链（[[catl]]、[[gotion]]）对欧议价权持续上升；对 Stellantis 而言，「买作业」路线（10/24 已录）的供应链侧依赖反而成为短期保供筹码
+
+## 2026-10-27 更新：零跑B10西班牙投产 + 法国四厂临时关停
+- **B10 萨拉戈萨投产（10/16）、B05 确认同厂**——「买作业」路线收割 [[leapmotor]] 欧洲增量（规避 30.7% 关税）
+- **法国索肖/雷恩/米卢斯/普瓦西四厂临时关停**——欧洲需求疲软+电池缺口的产能收缩延续（10/25 已录北伏连锁反应）

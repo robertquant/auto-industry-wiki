@@ -1,7 +1,7 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-27
 type: entity
 tags: [oem-eu, strategy, sales]
 sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
@@ -32,3 +32,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 - [[traditional-automaker-ai-transition]] - 欧美传统车企智驾追赶框架
 - [[gac-toyota]] - 双合资分治的另一路线参照（丰田系资产重组）
 - [[saic]] - 上汽奥迪另一方股东
+
+## 2026-10-27 更新：首座美国工厂落地佐治亚梅肯
+- **约 40 亿美元、年产能 20 万辆**（Q7/Q8/Q9），扩建南卡 Scout +2.5 万辆；特朗普官宣并谈「扩产换关税减免」
+- 判断：政治性建厂——关税政治学而非产能经济学（同期大众德国裁 10 万人，[[volkswagen]] 全球收缩）——美国关税墙正在重写豪华车全球产能地图（[[north-america-ev-trade-barriers-2026]]）
