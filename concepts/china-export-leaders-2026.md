@@ -1,7 +1,7 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-10-25
+updated: 2026-10-28
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]

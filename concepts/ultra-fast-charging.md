@@ -1,7 +1,7 @@
 ---
 title: 超快充技术军备竞赛
 created: 2026-05-03
-updated: 2026-10-14
+updated: 2026-10-28
 type: concept
 tags: [battery, charging, 800v, catl, byd, technology]
 sources: [memory/2026-05-03.md]

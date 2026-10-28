@@ -1,7 +1,7 @@
 ---
 title: 深蓝汽车 (Deepal)
 created: 2026-06-15
-updated: 2026-10-07
+updated: 2026-10-28
 type: entity
 tags: [changan, china, ev, erev, adas]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md, raw/articles/2026-10-07-daily-digest.md]
@@ -80,3 +80,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md, raw/art
 ## 2026-10-07 更新：S07/S05 确认参展巴黎车展
 - **深蓝 S07 / S05 确认参展巴黎车展**（10/12-18，7.1 馆长安展台）——长安系欧洲攻势落地，S07 AI 激光版（华为乾崑同源）代表中国智驾平权方案首次在巴黎展示（[[2026-paris-auto-show]]）
 - 判断：15 万级智驾平权产品出海欧洲 = 「性价比+智驾」组合拳；与 [[changan]] 启源双品牌欧洲布局协同
+
+## 2026-10-28 更新：埃及增程第一——绑定 GB Auto
+- **深蓝（长安系）在埃及增程市场排名第一**，绑定当地最大经销集团 **GB Auto**；**1-8 月埃及新能源市场份额 30%**——北非溢价市场「增程+本地渠道绑定」模式跑通
+- 判断：埃及 = 增程路线在欠发达充电基础设施市场的适配样板（增程无里程焦虑 + 渠道独占）；与 [[range-extender-trend]]「增程出海」主线互证，长安系中东/北非基地化（同比 [[chery]] 出口 72% 依赖中东非）再落一子

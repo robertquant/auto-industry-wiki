@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -117,3 +117,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-27 更新：零跑B10西班牙投产 + 法国四厂临时关停
 - **B10 萨拉戈萨投产（10/16）、B05 确认同厂**——「买作业」路线收割 [[leapmotor]] 欧洲增量（规避 30.7% 关税）
 - **法国索肖/雷恩/米卢斯/普瓦西四厂临时关停**——欧洲需求疲软+电池缺口的产能收缩延续（10/25 已录北伏连锁反应）
+
+## 2026-10-28 更新：Q3 财报——减亏 90% 但现金流未修复
+- **Q3 净亏损收窄至 4.53 亿欧（同比减亏约 90%）**；净营收 376.1 亿欧（+1.0%，欧洲/南美各 +3% 部分抵消北美 -3%）；调整后 OPM 0.7%（+50bp）
+- **工业自由现金流仍为 -40.1 亿欧**，重申全年指引，维持 2027 年工业 FCF 转正预期
+- 判断：减亏 90% = 运营侧企稳，但 -40.1 亿 FCF 说明北美修复尚未传导到现金流——「盈利改善 ≠ 现金健康」，2027 转正指引是全集团最大悬点；与 [[mercedes-benz]] 同日财报构成「中国失速 vs 北美修复滞后」两种失血模式的对照（[[mercedes-vs-stellantis-q3-2026]]）

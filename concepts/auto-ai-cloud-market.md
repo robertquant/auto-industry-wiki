@@ -1,7 +1,7 @@
 ---
 title: 汽车AI云市场 (Auto AI Cloud Market)
 created: 2026-09-24
-updated: 2026-10-24
+updated: 2026-10-28
 type: concept
 tags: [ai, ecosystem, supply-chain, trend, prediction]
 sources: [raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]

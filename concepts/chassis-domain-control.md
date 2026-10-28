@@ -1,7 +1,7 @@
 ---
 title: 底盘域控 (Chassis Domain Control)
 created: 2026-10-06
-updated: 2026-10-17
+updated: 2026-10-28
 type: concept
 tags: [ev-tech, trend, system]
 sources: [raw/articles/2026-10-06-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]

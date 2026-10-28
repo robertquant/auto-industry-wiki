@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -352,3 +352,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-27 更新：Q3 销量 +9.8%，三季报 10/29
 - **Q3 销量 52.95 万辆（+9.8%）、收入 +6.8%**、新车占比 30%（电动+混动），维持利润率 ~5.5% 指引——「本土防守+平价电动进攻」路线在销量侧继续验证（[[twingo-e-tech]]、[[rgev-platform]]）
 - ⏭️ **三季报 10/29 发布**——利润率兑现是下个观察点
+
+## 2026-10-28 更新：Viry-Châtillon F1 引擎基地出售——F1 引擎时代落幕
+- **Viry-Châtillon（雷诺 F1 引擎基地）已售予比利时 Dumarey**（[[horse-powertrain]] 系股东背景）；**Alpine 明年改用奔驰动力**——雷诺 40+ 年 F1 引擎自研史的产业句点
+- **欧洲 1-9 月销量稳居集团前三**（晨报口径）——本土基本盘稳固，与「引擎基地出售」同步：雷诺把火力收敛到民用车/电动车（[[twingo-e-tech]] ACDC 路线），赛事资产让位
+- 判断：F1 引擎基地出售 = 雷诺「赛事情怀让位于资产负债表」的资产再配置信号；Alpine 用奔驰动力后 F1 参赛成本结构改善，但品牌叙事从「自研引擎豪门」降格为「客户动力车队」——与集团「本土防守+平价电动进攻」（10/27 已录）的主线一致，10/29 三季报是下一个验证点

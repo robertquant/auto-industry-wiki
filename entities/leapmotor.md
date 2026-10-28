@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
@@ -188,6 +188,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 
 - **B10 本周在 Stellantis 西班牙萨拉戈萨工厂下线**——零跑首款欧洲量产车（2026 计划 9,000 台，供西/法/意市场）
 - 意义：从「10/1 欧洲网点 1,020 家/渠道布局」进入「**欧洲本地制造**」落地——在混动配额/关税挤压（[[eu-hybrid-export-caps-2026]]）下，本地化产能 = 免配额通路（[[leapmotor-stellantis]]、[[export-tax-rebate-cut-2026]]）
+
+## 2026-10-28 更新：欧洲 1-9 月 8.8 万辆（+424%）
+- **1-9 月欧洲销量 8.8 万辆（+424%）**——欧洲增速甩开所有中国对手（对照吉利 +14.5%、比亚迪 +134.6%），量级虽小但斜率最陡（[[china-export-leaders-2026]]）
+- 判断：+424% = «低基数×Stellantis 渠道红利» 的指数兑现期——B10 西班牙本地化（10/16 已录）叠加，零跑是欧盟本地化门槛（[[eu-industrial-accelerator-act]]）下最从容的中国玩家之一
 - 判断：9,000 台/年只是试水规模，验证「Stellantis 工厂代工 + 中国三电」模式的良品率与成本；跑通则复制到更多车型（对照 10/14 三电装菲亚特/欧宝/标致洽谈）
 
 ## 2026-10-20 更新：B10 量产官宣 + 全球新能源品牌第四 + 研发工具链

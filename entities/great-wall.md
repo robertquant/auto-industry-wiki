@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -54,3 +54,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 ## 2026-10-27 更新：魏牌二代蓝山首秀 + 关联方采购上修
 - **魏牌二代蓝山 10/27 首秀**；**2027 款坦克500 33.5 万起**——自主品牌「换代日」三连之一（另两连：[[byd-qin-plus-dmi]]、[[li-auto-i6]]），硬派+家用双线齐换代
 - **前三季向魏建军关联方（蜂巢为主）采购 88.43 亿元、全年上限上调至 169 亿**——电池自供体系关联交易规模持续加深（[[battery-white-box]] 的长城侧注脚）
+
+## 2026-10-28 更新：皮卡市占率腰斩 + 欧洲渠道空白
+- **国内皮卡市占率从近 50% 跌至 27%**——皮卡基本盘被竞品（含新能源皮卡）侵蚀，最赚钱的细分赛道失守（对照 10/25 口径：1-9 月出口 47.6 万辆、海外占比 51.7% 的「海外补国内」结构）
+- **9 月出口 6 万辆中俄罗斯占 31%**；**欧洲（除俄）仅 275 辆/月**——海外增量高度依赖俄/非/拉渠道，欧盟市场几乎空白
+- 判断：欧盟《工业加速器法案》本地化门槛（[[eu-industrial-accelerator-act]]）之下，无欧盟渠道+无本地化产能的长城是「渠道型出局风险」样本——与吉利（西班牙合资）、比亚迪（匈牙利）的本地化路线形成分化（[[china-export-leaders-2026]]）

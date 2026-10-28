@@ -1,7 +1,7 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-10-26
+updated: 2026-10-28
 type: concept
 tags: [ai, trend, ecosystem]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]

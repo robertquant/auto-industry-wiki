@@ -1,7 +1,7 @@
 ---
 title: 捷达M6 (Jetta M6)
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-28
 type: entity
 tags: [vehicle, oem-cn, pricing, sales]
 sources: [daily-news/2026-10-23-gasgoo-evening.md, concepts/cockpit-model-tiering.md]
@@ -29,3 +29,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, concepts/cockpit-model-tierin
 - [[faw]] - 一汽-大众合资体系
 - [[volkswagen]] - 大众在华战略
 - [[cockpit-model-tiering]] - 座舱模型分层（M6 三模型案例）
+
+## 2026-10-28 更新：上市 19 小时订单破万——顶配不到 10 万带高阶智驾
+- **10/22 上市后 19 小时订单破万**——10 万内顶配（555 Ultra 9.98 万）带高阶智驾的「价格+配置」组合首轮验证（晨报口径）
+- 直接对标 **零跑 B01**——大众合资体系用捷达品牌打 10 万级纯电，与零跑「性价比走量」短兵相接（[[leapmotor]]）；M6 顶配送高阶智驾 = 大众在华「低价纯电 + 智驾平权」双抓手补位（CMP 平台之外的第二条线）

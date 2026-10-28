@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-22
+updated: 2026-10-28
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -180,3 +180,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **李斌 WNEVC 口径**：**2027-07-01 L3 强制法规落地 = 智驾下半场开启的标志**（与 [[l3-mandatory-standard]] 实施时点精确对表）
 - 蔚来智驾基盘数据：**95 万辆智驾车 / 91.4 亿公里 / 907 万次避免事故 / 1.25 亿段数据**——用存量里程背书安全叙事
 - 判断：李斌把「法规时间表」当作竞争坐标——智驾叙事从「功能比拼」转向「法规下长跑」；与何小鹏「跳过 L3」（[[xiaopeng]]）、杨冬生「限定场景 L3」（[[byd]]）构成新势力路线三分（[[l3-autonomous-driving]]）
+
+## 2026-10-28 更新：ES8 车队 8045km 全程换电实证 + 网络总量
+- **四位用户驾驶一/二/三代 ES8：8045km / 13 天 / 10 省 60 市 / 79 座高速换电站，抵达霍尔果斯**——验证「从任意换电站出发可全程换电抵达全国所有省级行政区」（与 9/26 丝绸之路换电线西安—霍尔果斯 3605km 贯通同框，[[nio]] 换电网络从「量」进入「全国可达性验证」阶段）
+- **累计建成充换电站 9715 座（换电站 4202 座）**、高速换电站 1074 座、覆盖超 550 城
+- 判断：8045km 实证 = 换电「任意点可达」从宣传进入可验证事件；配合 [[geely-nio-swap-alliance]] 联盟叙事，换电标准战（[[battery-swap-vs-ultra-fast-charging]]）继续加码

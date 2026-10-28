@@ -1,10 +1,10 @@
 ---
 title: 理想 i6（2026款）
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [vehicle, oem-cn, ev-tech, battery-tech]
-sources: [raw/articles/2026-10-27-daily-digest.md]
+sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily-digest.md]
 ---
 
 # 理想 i6（2026款）
@@ -23,6 +23,11 @@ sources: [raw/articles/2026-10-27-daily-digest.md]
 
 - 自研叙事从智驾芯片蔓延到三电：马赫 M100 全系标配 = 智驾算力平权；连山 5C = 电芯自研+代工模式的首次旗舰落地
 - 与 [[li-auto]] 的「AI+汽车」战略呼应：2026 款 i6 是理想 10/28 上市日的双主角之一（另有 [[li-auto-m100]] 装车叙事）
+
+## 2026-10-28 更新：正式上市——自燃赔付承诺 + 过半销量占比
+- **10/28 当晚正式上市**——从定档（10/27）到兑现，马赫 M100 全系标配 + 连山 5C 首发叙事落地（[[li-auto-lianshan-battery]]）
+- **承诺电池自燃赔同级新车**——连山电池安全叙事从「技术参数」升级为「兜底承诺」（对照 [[adas-liability-guarantee]] 的赔付式营销逻辑）
+- **i6 占理想过半销量**——2026 款 i6 已从「旗舰」变为理想的基本盘车型，换代成败直接决定 Q4 集团销量与「AI+汽车」叙事的兑现度
 
 ## 相关
 - [[li-auto]] - 母公司战略（AI 研发投入 60 亿/年）

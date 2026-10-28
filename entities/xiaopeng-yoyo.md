@@ -1,7 +1,7 @@
 ---
 title: 小鹏悠游（XPENG YOYO）
 created: 2026-10-08
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [adas, ai, strategy]
 sources: [raw/articles/2026-10-08-daily-digest.md]

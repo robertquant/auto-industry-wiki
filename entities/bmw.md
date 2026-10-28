@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -162,3 +162,6 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 
 ## 2026-10-27 更新：Gen6 大圆柱沈阳量产
 - **Gen6 大圆柱电芯沈阳量产**：能量密度 +20%、充电速度/续航 +30%——新世代（Neue Klasse）电芯底座国产落地（与 10/24「新世代 70% 软件中国开发」同框：制造+软件双押注中国，[[china-tech-reverse-export]] 数据侧继续积累）
+
+## 2026-10-28 补录：8,000 人自愿离职细节——补偿最高 65 万欧
+- **德国自愿离职补偿最高 65 万欧（德系天花板）**，申请量过大导致 HR 系统被挤崩溃（10/28 晨报口径）——10/17 已录 8,000 人/10 亿欧机制的落地热度实证：德系豪华「黄金降落伞」仍是组织收缩的刚需工具（对照 [[volkswagen]] 10 万人、[[porsche]] 9000 人的收缩幅度）

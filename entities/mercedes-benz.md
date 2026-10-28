@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-27
+updated: 2026-10-28
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -251,3 +251,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-10-27 更新：MB.DRIVE ASSIST PRO 时间表 + 长轴GLE×Momenta R6
 - **MB.DRIVE ASSIST PRO（L2 城市领航）**：2026 年底斯图加特/慕尼黑试点、2027H1 德国开放订购——L2+ 产品化的德系侧落地（momenta 管中国/英伟达管全球双轨中，德系侧由自研承接）
 - **长轴 GLE 已搭载 Momenta R6**（[[momenta]]）——momenta 从智驾软件方案延伸到 SoC 装机，中国方案在奔驰旗舰车系落地再下一城
+
+## 2026-10-28 更新：Q3 财报——中国失速典型样本 + smart 精灵#2 定档
+- **Q3 财报（10/28）**：营收 307 亿欧（-4.4%）、调整后 EBIT 17.8 亿欧（-15%）；**乘用车部门 EBIT 从 11.4 亿欧腰斩至 5.6 亿欧**；全球交付 40.72 万辆（-8%），归因中国市场竞争加剧——**财报前一日将 2026 乘用车销售回报率指引从 3%-5% 下调至 2%-3%**（详细对照见 [[mercedes-vs-stellantis-q3-2026]]）
+- **smart 精灵#2 定档 11/5 上市**：奔驰设计 + [[geely]] SEA 平台、35.8kWh [[catl]] LFP、410km 续航、整备质量仅 1130kg——smart 合资路线的低成本小型化样本，奔驰侧输出设计与品牌、吉利侧输出平台与供应链
+- 判断：Q3 乘用车 EBIT 腰斩 + 指引下调 = 「中国失速直接吃掉豪华品牌利润弹性」的财务实证——此前 10/16「Q3 在华 9 万辆+」的利润侧传导确认，[[bba-ev-ranking-2026]] 语境下德系豪华 Q4 基调是止血而非反攻
