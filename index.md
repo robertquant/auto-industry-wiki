@@ -4,7 +4,7 @@
 > 先读此文件定位相关页面，再用 grep 搜索关键词。
 > Last updated: 2026-10-27 | Total pages: 341
 
-统计：entities 143 · concepts 178 · comparisons 9 · auto-industry 10 · european-automakers 1
+统计：entities 143 · concepts 179 · comparisons 10 · auto-industry 10 · european-automakers 1
 
 > 注：`mercedes.md`（旧重复页）已并入 `mercedes-benz.md`，旧页移至 `_archive/`。
 
@@ -335,6 +335,7 @@
 - [[germany-nvidia-sovereign-ai-2026]] - 德国×英伟达主权AI合作（10/19柏林官宣）：约10亿欧/慕尼黑工业AI云1万GPU 0.5 EFLOPS，物理AI底座，西门子/奥迪/Black Forest Labs参与——欧洲主权基金买美国算力，与雷诺入股中国芯片构成「欧洲双线下注」。
 - [[zunjie-brake-pedal-controversy]] - 尊界V800刹车踏板断裂事件（2026-10）：懂车帝实测100km/h刹停踏板支架断裂→官方「免费升级」→江淮两连跌停——华为系高端品牌首场质量危机，「安全溢价」叙事首次被负面定价。
 - [[eu-hybrid-export-caps-2026]] - 中欧混动出口协议（2026-10-09）：未来四年中国对欧混动/插混出口或减半（涉及数百万辆），基准/年度数量/监督办法未公布——两年多PHEV避税窗口进入关闭倒计时，出海最大变量落地第一步。
+- [[eu-industrial-accelerator-act]] - 欧盟《工业加速器法案》（2026推进中）：以「本地化比例」作补贴/准入门槛，德法2026-10达成共同立场，日系也不豁免——整车出口模式窗口收窄，CKD/建厂路线被验证踩对节奏。
 - [[global-ice-below-50-2026]] - 全球纯燃油销量占比2026H1首破50%（49%，较2021年73%降24pct），中国是主要贡献者——电气化过半的历史拐点。
 - [[north-america-ev-trade-barriers-2026]] - 北美EV贸易壁垒三线收紧：美"永久禁止中国汽车"法案推迟至中期选举后、加拿大Unifor诉求100%附加税、英国评估加税；中加低关税EV配额（4.9万辆/年）成唯一合规缝隙（吉利2027卡位）。
 - [[renault-acdc-model]] - 雷诺ACDC模式：上海200人精兵团队当「大脑」、欧洲5000人当「身体」，护城河三要素（完整决策权/CTO直管/危机驱动），前端×后端分工，「雷诺式试点」预测与可观测实锤标准。
@@ -378,12 +379,13 @@
 - [[rgev-platform]] - 雷诺下一代纯电平台，代号RGEV Medium 2.0，目标追平中国供应链效率。2026年5月披露技术规格。
 - [[sodium-ion-battery]] - 钠离子电池是以钠离子为载体的二次电池技术，2026年进入规模化量产元年。与锂离子电池相比，钠电池在低温性能、安全性、快充能力和资源自主性方面具有显著优势，能量密度略逊但对特定场
 
-## Comparisons（8）
+## Comparisons（10）
 
 - [[2026-08-china-sales-battle]] - | 维度 | 数据 |
 - [[2026-09-china-sales-battle]] - 9月乘用车零售224.1万辆创历史纪录，新能源渗透率57.8%，燃油车企利润率1.5%近十年最低，新车投放超60款；比亚迪增量全由海外贡献，零跑超特斯拉中国
 - [[9-series-suv-battle]] - 2026年，C级SUV市场成为车企竞争焦点，多款"9系"旗舰SUV扎堆上市。一季度C级SUV逆势增长143.5%，高端大空间需求旺盛，但价格战不可避免。
 - [[korea-japan-automaker-divergence]] - 为什么同为东亚文化，韩国企业拼命进取，日本企业却"躺平"？
+- [[mercedes-vs-stellantis-q3-2026]] - 奔驰 vs Stellantis 2026Q3同日财报对照：豪华品牌「中国失速」（乘用车EBIT腰斩、回报率指引下调至2-3%）vs 多品牌集团「北美修复滞后」（亏损减亏90%但FCF -40.1亿欧）——两种失血模式区分。
 - [[renault-model-copiers]] - 谁在抄雷诺：德系观摩/日产抄数字/Stellantis买作业/大众规模采购四路线对比——都在学「结果」没人学「原因」，雷诺窗口期约2年（到2028），反直觉结论：雷诺模式对中国威胁＞Stellantis模式。
 - [[three-electric-regional-comparison]] - 三电（电池、电机、电控）是新能源汽车核心竞争力。不同区域的能力差异决定了战略路径和供应链依赖关系。
 - [[waymo-vs-tesla-robotaxi-2026]] - Waymo（~4000台/周50万单/15城）vs Tesla（奥斯汀44台+内华达5000台批文）——L4商业化「运营实绩 vs 规模叙事」的硬数据对照
