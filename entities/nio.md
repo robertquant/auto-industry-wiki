@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -185,3 +185,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **四位用户驾驶一/二/三代 ES8：8045km / 13 天 / 10 省 60 市 / 79 座高速换电站，抵达霍尔果斯**——验证「从任意换电站出发可全程换电抵达全国所有省级行政区」（与 9/26 丝绸之路换电线西安—霍尔果斯 3605km 贯通同框，[[nio]] 换电网络从「量」进入「全国可达性验证」阶段）
 - **累计建成充换电站 9715 座（换电站 4202 座）**、高速换电站 1074 座、覆盖超 550 城
 - 判断：8045km 实证 = 换电「任意点可达」从宣传进入可验证事件；配合 [[geely-nio-swap-alliance]] 联盟叙事，换电标准战（[[battery-swap-vs-ultra-fast-charging]]）继续加码
+
+## 2026-10-29 更新：萤火虫定价落地 + 蔚来能源×中广核 V2G
+- **firefly 萤火虫上市定价 11.98-15.03 万（BaaS 7.98 万起）**——入门品牌价格带正式落定，首周订单 1.3 万；BaaS 下探 8 万内 = 「电池资产」叙事在 A0 级复用（[[nev-battery-swap]]）
+- **蔚来能源×中广核**：V2G 车网互动 + BaaS 电池资产综合利用合作——换电之外补「电网侧」故事：电池从「换电备件」升级为「电网调节资产」（[[v2g-2026]]）；核电央企入局 = V2G 从车企试水进入能源央企体系
+- 判断：萤火虫定价直接对抗 [[byd]] 海鸥/[[leapmotor]] T03 的双线（中国+欧洲）竞争；中广核合作 = 蔚来重资产（电池）的第三种变现通道（前两种：换电网络运营 + BaaS 复用），电池资产金融化叙事再进一步

@@ -1,7 +1,7 @@
 ---
 title: RGEV平台 (Renault Global Electric Vehicle)
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-29
 type: concept
 tags: [ev, platform, renault, europe, 800v]
 sources: [memory/2026-05-22.md]
@@ -63,3 +63,8 @@ sources: [memory/2026-05-22.md]
 ## 技术意义
 
 RGEV平台是雷诺"去中国供应链依赖"与"不得不依赖中国效率"矛盾的具体体现。技术规格追平中国，但量产时间落后2-3年，关键问题在于欧洲能否建立与中国等效的供应链生态。
+
+## 2026-10-29 更新：定档 2028 落地（帕伦西亚工厂 + LFP 成本 -40%）
+- **2028 落地确认**（晨报口径）：西班牙**帕伦西亚工厂**生产——与 9/26 已录的 6 亿欧元 Valladolid/Palencia 扩产线衔接（[[renault]]）
+- **LFP 成本 -40%**：在 800V / 增程 1400km（页首已录）之外新增「LFP 化降本」维度——追平中国供应链的路径 = 平台复用 + LFP 化学体系（[[fifth-gen-lfp-battery]]）
+- 判断：从「技术规格追平中国」到「成本结构追平中国」——RGEV 2.0 的价值锚从性能转向成本曲线；这是欧洲平价电动战役的弹药（[[eu-ev-market-2026]]），但 2028 量产 vs 中国 12-18 个月迭代周期的时间差仍然存在

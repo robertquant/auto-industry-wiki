@@ -1,7 +1,7 @@
 ---
 title: 德国×英伟达主权AI合作（2026-10）
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-29
 type: concept
 tags: [ai, strategy, trend, policy, oem-eu]
 sources: [raw/articles/2026-10-18-daily-digest.md]
@@ -43,3 +43,6 @@ sources: [raw/articles/2026-10-18-daily-digest.md]
 - 10/19 官宣的具体金额与GPU型号（B200? GB300?）
 - 德国联邦政府出资比例与产业伙伴出资结构
 - 慕尼黑工业AI云对欧洲车企（奥迪/宝马/奔驰）智驾训练的实际开放度
+
+## 2026-10-29 关联：韩国物理 AI 战略对照
+- 韩国 10/29 发布物理 AI 国家战略（5 万亿韩元/约 251 亿元，2030 前）——「买算力（德国）」 vs 「养生态（韩国）」的 AI 主权双路径对照（[[korea-physical-ai-strategy-2026]]）

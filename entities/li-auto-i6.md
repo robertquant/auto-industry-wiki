@@ -1,7 +1,7 @@
 ---
 title: 理想 i6（2026款）
 created: 2026-10-27
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [vehicle, oem-cn, ev-tech, battery-tech]
 sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily-digest.md]
@@ -33,3 +33,8 @@ sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily
 - [[li-auto]] - 母公司战略（AI 研发投入 60 亿/年）
 - [[li-auto-lianshan-battery]] - 连山电池体系与 5C 首发
 - [[byd-qin-plus-dmi]] - 同日同周价格带竞品（10-15 万换代潮背景）
+
+## 2026-10-29 更新：正式售价 24.98 万——25 万级成本战
+- **正式售价 24.98 万（首销权益 23.98 万）**——连山 5C 实测达成率 104% + 马赫 M100 双落地（10/28 已录）基础上价格补齐：**25 万级成本战**样本
+- **「上市一年近 19 万辆」**——年款即主力（10/28 已录 i6 占理想过半销量）；对照 [[byd-qin-plus-dmi]]（10 万级换代潮）、[[mona-l05]]（增程 1310km）——10-25 万价格带全线换代挤压中，理想用「双自研」保利润结构
+- 判断：24.98 万+首销 23.98 万 = 理想把纯电 i 系列拉回 25 万级主战场；连山 5C 达成率 104% 是「电芯自研+代工」模式（[[li-auto-lianshan-battery]]）的直接广告——「自研溢价」第一次以实测数据而非参数表呈现

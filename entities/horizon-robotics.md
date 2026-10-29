@@ -1,7 +1,7 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-29
 type: entity
 tags: [chip, adas, ai, tier1]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md]
@@ -103,4 +103,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **星空6P（BPU 650 TOPS）获工博会 CIIF 大奖**：智驾/座舱/仪表/车控**四域单芯片**，与新一代舱驾融合 OS 同获（[[starry-sky-chip]]、[[cabin-driving-fusion]]）——从 6/16 发布到国家级工业展奖项背书
 - **单征程6M 城市NOA 方案量产首发**（[[qingzhou]] 首发，9 款合作车型，10-20 万价格带，10/20 盖世）——征程6 系列走量兑现
 - 判断：「**征程走量、星空定调**」双线闭环成型：6M 吃掉 10-20 万平权红利（[[city-noa-penetration]]）、6P 卡位旗舰四域融合——与 [[blacksesame]] 武当C1296、[[snapdragon-8797]] 的舱驾融合竞争进入量产兑现阶段（[[cabin-drive-integration]]）
+
+## 2026-10-29 更新：德国总统合肥体验 + 酷睿程 HS8 全自研口径
+- **德国总统访问合肥体验地平线×大众酷睿程智驾**（Q3 起装大众在华 7 款纯电）——合资智驾获德国国家级背书（[[courizon]]、[[volkswagen]]）
+- **酷睿程 HS8 = 首款全自研 L2++**（10/28 技术日口径）——酷睿程叙事从「白盒基座授权」升级「自研」，独立技术人格增强（[[courizon]]）
+- 判断：地平线「征程走量、星空定调」之外新增「酷睿程自主叙事」维度——HS8 与征程 6 的产品梯度与内耗是后续观察点（[[autonomous-driving-chips]]）；国家级背书叠加 7 款装车 = 大众合资通道的「见证式营销」升级
 

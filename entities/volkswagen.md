@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-27
+updated: 2026-10-29
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
@@ -284,3 +284,11 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-10-27 更新：合肥 L3 路测牌照 + CMP 量产落地
 - **大众中国获合肥 L3 路测牌照（10/26）**：当前最严监管框架下真实道路测试+大规模数据采集；自研世界模型 **GAIA 2.0 日仿真 500 万公里**（目标 1000 万）、3000 万场景片段；C7H 预留 L4；**2027H2 L3 交付**（[[l3-autonomous-driving]]）——牌照落地 = 大众 L3 从宣传口径进入牌照口径，当日 A 股智驾板块涨停潮
 - **CMP 平台量产、ID.ERA 5X 10/16 下线**（上汽大众）：全系 CEA 架构+4nm 座舱芯片+激光雷达、酷睿程 Hyper Sense 8 端到端、**100 天/30 分钟 OTA**；一汽-大众同平台 ID. AURA L5 年底推出——Q4 对冲中国失血的本土化唯一抓手
+
+## 2026-10-29 更新：HS8 全自研技术日 + 再裁 1.2 万 + 电池召回扩至奥迪
+- **HS8 技术日（10/28）**：首款**全自研 L2++**（酷睿程，[[courizon]]）——年内装 3 家合资 7 款纯电；**GAIA 2.0 量化补录**：数据利用率 ×10、长尾收集 ×50（此前 500 万→1000 万 km/日、3000 万场景已录）——**合资首次公开世界模型工程指标**（[[training-loop]]）
+- **CEA 演进定盘**：2027 首升级 = 座舱智驾中央计算整合 + L3 就绪 + 智能体 AI 融合；**2029 CEA 3.0 赋能 L4**——外资唯一「本土全栈自研矩阵」（[[courizon]]）
+- **德国总统访问合肥体验地平线×酷睿程智驾**（Q3 起装大众在华 7 款纯电）——合资智驾获国家级背书（[[horizon-robotics]]）
+- **2030 前再裁 1.2 万人**（累计约 10 万）——「生存重组」追加；Q3 全球 -14.3%（10/13、10/20 已录）
+- **电池召回扩至奥迪**：85,402 辆（新增 12,734 辆 Q4 E-Tron）——年内召回序列（10/25 已录 7.27 万辆电动车）从大众品牌延伸到 [[audi]]
+- 判断：HS8/CEA/GAIA = 大众把「合肥软件」从叙事变成可量化指标；叠加再裁员+召回扩围，德系 Q4「裁员+召回」双重承压，「欧洲止血、中国进攻」双轨不变（[[euro-stoxx-50-exit]]）

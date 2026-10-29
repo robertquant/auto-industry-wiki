@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -59,3 +59,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 - **国内皮卡市占率从近 50% 跌至 27%**——皮卡基本盘被竞品（含新能源皮卡）侵蚀，最赚钱的细分赛道失守（对照 10/25 口径：1-9 月出口 47.6 万辆、海外占比 51.7% 的「海外补国内」结构）
 - **9 月出口 6 万辆中俄罗斯占 31%**；**欧洲（除俄）仅 275 辆/月**——海外增量高度依赖俄/非/拉渠道，欧盟市场几乎空白
 - 判断：欧盟《工业加速器法案》本地化门槛（[[eu-industrial-accelerator-act]]）之下，无欧盟渠道+无本地化产能的长城是「渠道型出局风险」样本——与吉利（西班牙合资）、比亚迪（匈牙利）的本地化路线形成分化（[[china-export-leaders-2026]]）
+
+## 2026-10-29 更新：保加利亚 SKD 绕税建厂——「渠道型出局」判断的正面回应
+- **保加利亚 SKD 工厂 2027Q1 投产欧拉 5（年产能 5 万）**——**绕欧盟 20.7% 反补贴税**的东欧卡位：直接回应 10/28「欧洲（除俄）仅 275 辆/月」的渠道空白——战术级验证失败后进入产能级布局
+- **GWM H7 米兰上市**——欧洲渠道从空白开始补点（南欧经销切入）
+- **判断修正（10/29）**：10/28「无欧盟渠道+无本地化产能=渠道型出局风险」被今日动作**部分推翻**——保加利亚 SKD（低成本绕税）而非吉利/比亚迪式全新建厂，是「欧盟关税墙下的最小成本入场券」；2027Q1 若兑现，长城从「渠道空白」升级为「东欧产能卡位」（[[eu-industrial-accelerator-act]] 语境下本地化含量仍是后续变量；对照 [[eu-70x70-rule]] 70×70 规则，SKD 的本地价值占比将决定其天花板）

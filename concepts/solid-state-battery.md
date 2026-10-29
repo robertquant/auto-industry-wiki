@@ -1,7 +1,7 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-26
+updated: 2026-10-29
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md]
@@ -212,3 +212,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **均胜电子固液混合电池近量产**：**300-600Wh/kg**、循环 **2000+ 次**、**30 分钟充 80%**、**热失控提前 30min-2h 预警**（硫化物路线）
 - 应用场景外溢：覆盖**人形机器人 / 机器狗 / AGV**——电池从车规向具身智能泛化（[[physical-ai]]、[[humanoid-robot-industry]]）
 - 判断：硫化物固液混合是「全固态前夜」的务实过渡——能量密度区间与全固态（巨湾 260-480Wh/kg）重叠，但用少量液态电解质换量产可行性；「热失控提前预警」把安全卖点从材料转向管理；Tier1（均胜）与电池厂的边界模糊化，见 [[tier1-mna-consolidation-2026]]
+
+## 2026-10-29 更新：蜂巢龙鳞甲半固态包量产——「半固态量产元年」信号
+- **蜂巢能源龙鳞甲半固态电池包量产**（[[svolt]]）：**100kWh / 900V / 6C**、12 分钟补能 500km
+- **杨红新（蜂巢董事长）：「混合固液长期主流」**——把半固态从「过渡路线」重新定义为「长期主流」：全固态仍卡循环寿命/界面阻抗，半固态以「成本可接受 + 性能跃迁」占住量产窗口
+- 判断：继 [[guangwan-jiyan]]（10/13 固态产线投产）后，10 月固态/半固态量产节点密集落地——**2026-2027 半固态量产元年窗口确认**；900V/6C 包级规格直接对齐 [[ultra-fast-charging]] 生态（12 分钟 500km ≈ 超充桩体验同频）——「混合固液长期主流」若兑现，全固态叙事将更多让位于「固液共存」

@@ -1,7 +1,7 @@
 ---
 title: 智己汽车
 created: 2026-05-08
-updated: 2026-06-23
+updated: 2026-10-29
 type: entity
 tags: [上汽, 智驾, end-to-end, 中国, l3]
 sources: [memory/2026-06-23.md]
@@ -43,3 +43,8 @@ sources: [memory/2026-06-23.md]
 - [[vla-model]] - Vision-Language-Action 模型
 - [[l3-autonomous-driving]] - L3自动驾驶量产
 - [[safety-case]] - 安全论证，L3量产新门槛
+
+## 2026-10-29 更新：全新 LS6 预售 20.99 万——线控下探 20 万级
+- **全新 LS6 预售 20.99 万起，45 分钟订单 8000**：线控转向 + 全线控底盘 + IM Claw 智能体**全系标配**（产品详情见 [[im-ls6]]）
+- 判断：线控转向（SBW）首次全系标配下探 20 万级 = L3 责任框架（[[l3-mandatory-standard]]）落地前的**执行域预埋**——智己继续「L2/L3/L4 量产能力三连」叙事（页首），把法规前的硬件冗余做成标配（[[chassis-domain-control]]）
+- 品牌状态：智己 2026 上半年销量平淡，LS6 是下半年翻盘的旗舰筹码——「全系标配线控」既是技术卡位也是差异化营销（[[saic]] 供应链整合打法的产品化，10/17 已录于 [[chassis-domain-control]]）

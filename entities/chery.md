@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md]
@@ -143,3 +143,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-10-27 更新：前三季销量/出口（盖世口径）
 - **前三季度销量 220.68 万辆、海外出口 155.12 万辆（+65.6%）**——出口占比 ~70% 的销量侧坐实（与营收侧 10/25 已录呼应）
 - 11/13 合肥全球技术创新中心将办「智汇高压·链启新能」高压产业链共创论坛（800V+轻量化线束、SiC 应用）——上游论坛化布局延续（[[chongqing-auto-forum-2026]] 语境外的高压垂直场）
+
+## 2026-10-29 更新：评估加拿大建厂
+- **奇瑞评估加拿大建厂**（晨报口径）——北美壁垒（[[north-america-ev-trade-barriers-2026]]：加拿大 Unifor 诉求 100% 附加税、中加 4.9 万辆/年 EV 配额缝隙）下的本地化对冲评估：与 [[geely]]（2027 卡位中加配额）同走「配额缝隙 + 本地化」路线
+- 判断：加拿大评估建厂 = 奇瑞从「出口王」向「本地化制造」延伸的北美试探——目前仍是「评估」而非「投资」，与欧洲节奏（出口+KD 为主）形成梯度（[[china-export-leaders-2026]]）；观察点：评估是否在 2027 中加配额窗口关闭前转为实质性投资

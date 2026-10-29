@@ -1,7 +1,7 @@
 ---
 title: 新芯航途 (XHEART)
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-29
 type: entity
 tags: [chip, ai, oem-eu, oem-cn, supply-chain]
 sources: [raw/articles/2026-10-18-daily-digest.md]
@@ -46,3 +46,8 @@ sources: [raw/articles/2026-10-18-daily-digest.md]
 - X7 量产时间表与 ID.ERA 9X 上市节奏
 - 雷诺持股比例及后续是否进入董事会级合作（对标 [[gotion]] 大众系深度绑定）
 - 下一代产品方向（机器人算力？）
+
+## 2026-10-29 更新：X7 Ultra——模型-芯片协同而非堆算力
+- **X7 Ultra：700 TOPS、NPU 利用率 98.7%**（盖世晚报）——算力绝对值不算高（对照 [[mahe-xintech]] 1280 TOPS 档），但 **98.7% 利用率指向模型-芯片协同设计**：智驾芯片竞争从「堆 TOPS」转向「每 TOPS 产出」（[[auto-chip-competitive-landscape]]）
+- **X7 → X7 Ultra 双档**：覆盖 L2++（页首 X7 定位）与高阶两档市场；首发上汽大众 ID.ERA 9X 的量产验证进行中（[[volkswagen]]）
+- 判断：98.7% 利用率是「为大模型需求设计芯片」（物理 AI 算力定位）的直接产物——与英伟达通用 GPU 的「利用率折损」形成路线差（[[physical-ai]]、[[nvidia]]）；若 ID.ERA 9X 实车验证达标，将是「模型-芯片协同」路线在合资体系内的首个量产样本

@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -165,3 +165,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 
 ## 2026-10-28 补录：8,000 人自愿离职细节——补偿最高 65 万欧
 - **德国自愿离职补偿最高 65 万欧（德系天花板）**，申请量过大导致 HR 系统被挤崩溃（10/28 晨报口径）——10/17 已录 8,000 人/10 亿欧机制的落地热度实证：德系豪华「黄金降落伞」仍是组织收缩的刚需工具（对照 [[volkswagen]] 10 万人、[[porsche]] 9000 人的收缩幅度）
+
+## 2026-10-29 更新：德系第五家大规模裁员 + 沈阳 Gen6 量产对冲
+- **全球裁员最多 8000 人确认**——**第五家大规模裁员的德国车企**（德系集体收缩序列：[[volkswagen]] 10 万、[[mercedes-benz]]、[[porsche]] 9000、[[bmw]] 8000）
+- **对冲动作**：沈阳 **Gen6 电池 10/15 量产**（能量密度 +20%、充电/续航 +30%，10/27 已录）+ **iX3 长轴 26.99 万 11 月交付**——「欧洲裁员（止血）+ 中国量产（造血）」并行：用中国供应链现金流补贴欧洲重组成本（[[china-tech-reverse-export]]）
+- 判断：宝马裁员幅度德系最小（8000 vs 大众 10 万），因其 iX3 长轴在华成功（订单逼近 10 万，页首已录）提供缓冲——「在中国赚的钱补贴欧洲转型阵痛」是德系 2026Q4 的普遍剧本（[[bba-ev-ranking-2026]]）

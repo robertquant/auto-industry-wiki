@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
@@ -357,3 +357,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Viry-Châtillon（雷诺 F1 引擎基地）已售予比利时 Dumarey**（[[horse-powertrain]] 系股东背景）；**Alpine 明年改用奔驰动力**——雷诺 40+ 年 F1 引擎自研史的产业句点
 - **欧洲 1-9 月销量稳居集团前三**（晨报口径）——本土基本盘稳固，与「引擎基地出售」同步：雷诺把火力收敛到民用车/电动车（[[twingo-e-tech]] ACDC 路线），赛事资产让位
 - 判断：F1 引擎基地出售 = 雷诺「赛事情怀让位于资产负债表」的资产再配置信号；Alpine 用奔驰动力后 F1 参赛成本结构改善，但品牌叙事从「自研引擎豪门」降格为「客户动力车队」——与集团「本土防守+平价电动进攻」（10/27 已录）的主线一致，10/29 三季报是下一个验证点
+
+## 2026-10-29 更新：巴西首车确认（巴拉那工厂）+ RGEV 2.0 定档 2028
+- **吉利-雷诺巴西首车：银河星舰7（EX5 EM-i）巴拉那工厂下线**——与 9/26「库里蒂巴下线」口径一致（库里蒂巴=巴拉那州首府）；⚠️ 与 9 月动态中「戈亚斯州」口径冲突，待核——「中国供应链借雷诺产能出海」范式落地：吉利平台 + 雷诺制造 + 拉美市场（[[chinese-oem-export]]）
+- **RGEV Medium 2.0 定档 2028 落地**：800V / 增程 1400km / **LFP 成本 -40%**，西班牙帕伦西亚工厂生产（[[rgev-platform]]）
+- **日产交叉持股维持 10%**（三季报口径）——联盟股权冻结在旧框架，协同走新通道（平台换标 Pixo/Twingo，见 [[nissan]]）
+- 判断：巴西首车 + RGEV 降本 = 雷诺「用中国供应链效率重塑全球制造」的连环落地；交叉持股 10% 不变说明联盟「名存而实转」——资本关系静止、业务协同深化（[[horse-powertrain]]、[[renault-acdc-model]]）

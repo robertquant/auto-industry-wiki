@@ -1,7 +1,7 @@
 ---
 title: 小米汽车
 created: 2026-05-02
-updated: 2026-10-27
+updated: 2026-10-29
 type: entity
 tags: [xiaomi, china, suv, sedan, battery, adas]
 sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-01.md, memory/2026-06-27.md]
@@ -88,3 +88,7 @@ sources: [memory/2026-05-21.md, raw/articles/2026-05-30-ai-panorama.md, memory/2
 ## 2026-10-27 更新：纽北 Workshop + SU7 Ultra Extreme
 - **纽北 Workshop 启用**（雷军官宣）——「纽北验证」从营销事件升级为常设机构化测试基地（[[xiaomi-auto]]）
 - **SU7 Ultra Extreme（限量版）伪装车曝光**——Ultra 系列的进一步限量分化，性能叙事继续加码
+
+## 2026-10-29 更新：累计交付破 80 万（29 个月）
+- **累计交付突破 80 万辆，用时 29 个月**（晨报口径，行业最快）——较页首「24 个月 65.5 万」（2026-04）斜率吻合（约 3 万/月）；⚠️ 与 [[xiaomi-auto]] 页「50 万/用时约 28.5 个月（2026-08）」口径冲突、无法同时成立，待核实（疑为单车型 vs 全品牌口径差）
+- 判断：80 万台阶后「规模叙事」翻篇——小米进入「月销 3 万+ 常态化 + 全生态（ [[xiaomi-pengcheng]] 增程）放量」的第二阶段，纽北 Workshop（10/27 已录）与交付基本盘并行

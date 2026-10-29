@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-28
+updated: 2026-10-29
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
@@ -263,3 +263,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-27 更新：第三代秦PLUS上市 + 1-9月全球销量
 - **第三代秦PLUS DM-i 10/27 上市**：4840mm/轴距2800mm（反超秦L）、第五代DM、亏电2.58L、满油满电2290km（[[byd-qin-plus-dmi]]）——Q4 换代挤压第一弹，10 万级插混锚点重置
 - **1-9 月全球 313.16 万辆（-3.94%）**；Q4 七款新车收官——年底冲量集中于换代车型
+
+## 2026-10-29 补充：10 月预测 44-47 万（花旗，含出口 18.8 万）
+- **10 月销量预测 44-47 万辆**（花旗口径，含出口 18.8 万）——区间中枢 45.5 万 vs 9 月 46.36 万（年内新高，10/19 已录）：换代潮（秦PLUS 等）托底但未放量
+- **前三季出口 133.8 万辆（+92%）**——出口占比持续抬升（已录 1-9 月 313.16 万/-3.94%，海外对冲国内下滑的结构未变，[[chinese-oem-export]]）
+- 判断：Q4 收官核心变量是**价格战烈度而非产品力**——10 月预测区间说明换代挤压（[[byd-qin-plus-dmi]] 等）正在重定价 10-15 万档，比亚迪以量换份额的策略未变

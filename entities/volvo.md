@@ -1,7 +1,7 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-27
+updated: 2026-10-29
 type: entity
 tags: [oem-eu, strategy, sales, export]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
@@ -104,3 +104,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-10-27 更新：Q3 由盈转亏（财报口径）
 - **Q3 营收 669 亿 SEK（-22.6%）、营业利润 -56 亿**（由盈转亏）、中国交付 20,284 辆（-40.6%），股价单日 -30%
 - **再裁 2500 人**；推 **7 款西方新车 + 6 款中国定制**，明确深化 [[geely]] 协同——「安全」溢价补不上智能化短板，吉利协同从口号变救命牌；欧洲豪华在华失速的极端样本（对照 [[mercedes-benz]]/[[bmw]] 的中国策略）
+
+## 2026-10-29 更新：CEO 定论——「在中国销售西方研发的汽车，可能性几乎消失」
+- **CEO 原话定调**：「在中国销售西方研发的汽车，可能性几乎消失」——欧洲豪华在华旧模式的终极判词
+- **口径补充**：累计裁员 5500 人（10/27 已录再裁 2500，累计口径）；大中华区 -41%（已录 -40.6%，口径微差）；股价单日 -26%（已录 -30%，疑为盘中/收盘口径差，两处并存待核）
+- 判断：CEO 这句话比财务数字更重——沃尔沃（乃至 [[mercedes-benz]]/[[bmw]]）的旧模式=「西方研发+中国销售」，若此路不通剩余只有「中国研发+中国销售」或退出；吉利协同（7 西方+6 中国定制、[[geely]]）是前者唯一路径（[[china-tech-reverse-export]]、[[zeekr-lynk-co-merger]]）
