@@ -1,10 +1,10 @@
 ---
 title: 日本汽车三座大山危机 (2026)
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-10-30
 type: concept
 tags: [strategy, japan, geopolitics, crisis, china, us, middle-east]
-sources: [memory/2026-06-26.md]
+sources: [memory/2026-06-26.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 日本汽车三座大山危机 (2026)
@@ -127,3 +127,7 @@ sources: [memory/2026-06-26.md]
 - [[byd]] - 颠覆者，2025年销量超日系三强总和
 - [[nev-penetration-may-2026]] - 中国新能源渗透率背景
 - [[global-battery-competition]] - 电池供应链格局
+
+## 2026-10-30 更新：在华产量 2008 年以来新低
+-**4-9 月丰田/本田/日产/马自达在华合计产量 102 万辆、同比 -32%**（2008 年以来新低），较 2020 年峰值约 280 万辆锐减 63%（本田 -60%、日产 -49%、丰田 -18%）
+-印证「中国市场失守」支柱：合资燃油基本盘退坡快于预期（对照 [[honda-china]]、[[japanese-sales-china-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 通用GM Forward战略（2026）
 created: 2026-10-14
-updated: 2026-10-23
+updated: 2026-10-30
 type: concept
 tags: [oem-us, adas, sw, strategy, ai]
-sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 通用GM Forward战略
@@ -53,3 +53,7 @@ sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-22-daily
 - **Q3 实绩**：净收入 500 亿美元 / 净利 33 亿 / EBIT 41 亿；全年指引上调 145-155 亿；追加 200 亿美元回购
 - **中国连续 8 季度盈利、新能源占比超 60% 创新高**；凯迪拉克 XT5 PHEV = **首款交付即搭载 Momenta R7 世界模型的豪华混动 SUV**（大众 ID.ERA 8X 同款方案，[[momenta]]）
 - 判断：GM Forward 的「中国执行层」= 智驾外采（[[foreign-automakers-chinese-ad]]）+ 混动本地化（[[saic-gm]] 视角）；200 亿美元回购表明中国利润流向股东而非新产能——通用中国核心资产的利润奶牛定位固化（对照 [[tesla-q3-2026]]）
+
+## 2026-10-30 更新：公开拒绝纯视觉
+-**CPO Sterling Anderson**（前特斯拉 Autopilot 负责人）明确：增强版 Super Cruise 采用雷达+激光雷达+摄像头多传感器融合，「放弃雷达是无视物理定律」
+-2028 款 Escalade IQ 首发：目标支持高速睡眠——约 10 分钟倒计时、未接管则自行驶出匝道停靠——**与特斯拉纯视觉路线正式分道**（见 [[tesla]]）

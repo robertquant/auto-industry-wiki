@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-28
+updated: 2026-10-30
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -225,3 +225,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-27 更新：星舰7优行版定价 + 谷歌全球座舱合作
 - **银河星舰7优行版 10.58 万**（1.5L 插混、纯电 130km）——10 万级插混锚点
 - **吉利控股 × 谷歌全球战略合作（10/16 官宣）**：在谷歌服务可覆盖海外市场共建数字座舱生态，首款搭载车型 2027H2 推出（官方认证谷歌汽车服务：Gemini AI 助手+谷歌地图+应用商店），逐步覆盖吉利/领克/宝腾/雷达/smart——出海座舱从自研单干转向借力谷歌生态（对照国内 [[volcengine]] 系路线，出海/国内双轨座舱生态）
+
+## 2026-10-30 更新：Q3 双创新高 + 欧洲前十
+- **Q3（10/29）**：收入 990 亿（+10%）、核心归母净利 52.1 亿（+32%）双创新高；表观净利仅 +7% 系汇兑亏损（核心口径 +41% 才是真实底色）
+- **前三季**：出口 79.8 万辆（+169%）、新能源 132.6 万、市占率 11.1%
+- **欧洲前三季销量榜升至第 8**（34.4 万，+14.5%）——首次两家中国车企同进欧洲前十（见 [[china-oem-europe-top10-2026]]）

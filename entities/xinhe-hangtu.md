@@ -1,10 +1,10 @@
 ---
 title: 新芯航途 (XHEART)
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [chip, ai, oem-eu, oem-cn, supply-chain]
-sources: [raw/articles/2026-10-18-daily-digest.md]
+sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 新芯航途 (XHEART)
@@ -51,3 +51,9 @@ sources: [raw/articles/2026-10-18-daily-digest.md]
 - **X7 Ultra：700 TOPS、NPU 利用率 98.7%**（盖世晚报）——算力绝对值不算高（对照 [[mahe-xintech]] 1280 TOPS 档），但 **98.7% 利用率指向模型-芯片协同设计**：智驾芯片竞争从「堆 TOPS」转向「每 TOPS 产出」（[[auto-chip-competitive-landscape]]）
 - **X7 → X7 Ultra 双档**：覆盖 L2++（页首 X7 定位）与高阶两档市场；首发上汽大众 ID.ERA 9X 的量产验证进行中（[[volkswagen]]）
 - 判断：98.7% 利用率是「为大模型需求设计芯片」（物理 AI 算力定位）的直接产物——与英伟达通用 GPU 的「利用率折损」形成路线差（[[physical-ai]]、[[nvidia]]）；若 ID.ERA 9X 实车验证达标，将是「模型-芯片协同」路线在合资体系内的首个量产样本
+
+## 2026-10-30 更新：X7 出货 20 万颗 + X9 预告 2027
+- **X7**：量产 8 个月出货 20 万颗、装车 10 款、订单 40+ 款——上车速度超出行业预期
+- **X9 预告**：3000 TOPS / 700GB/s（≈征程6P 算力 5 倍），2027 年
+- 生态侧：Momenta R7 Ultra 世界模型参数 ×5
+- **2027 三方会战**：X9 vs 征程7（J7P，对标 Thor-X，见 [[horizon-robotics]]）vs 特斯拉 AI5（见 [[tesla]]）

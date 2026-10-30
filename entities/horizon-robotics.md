@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -109,3 +109,5 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **酷睿程 HS8 = 首款全自研 L2++**（10/28 技术日口径）——酷睿程叙事从「白盒基座授权」升级「自研」，独立技术人格增强（[[courizon]]）
 - 判断：地平线「征程走量、星空定调」之外新增「酷睿程自主叙事」维度——HS8 与征程 6 的产品梯度与内耗是后续观察点（[[autonomous-driving-chips]]）；国家级背书叠加 7 款装车 = 大众合资通道的「见证式营销」升级
 
+## 2026-10-30 更新：端到端项目获特等奖
+-**端到端智驾项目获中汽学会年度唯一特等奖**（清华 + 长安 + 地平线 + 滴滴）——产学研联合端到端路线获行业最高学术认可

@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -363,3 +363,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **RGEV Medium 2.0 定档 2028 落地**：800V / 增程 1400km / **LFP 成本 -40%**，西班牙帕伦西亚工厂生产（[[rgev-platform]]）
 - **日产交叉持股维持 10%**（三季报口径）——联盟股权冻结在旧框架，协同走新通道（平台换标 Pixo/Twingo，见 [[nissan]]）
 - 判断：巴西首车 + RGEV 降本 = 雷诺「用中国供应链效率重塑全球制造」的连环落地；交叉持股 10% 不变说明联盟「名存而实转」——资本关系静止、业务协同深化（[[horse-powertrain]]、[[renault-acdc-model]]）
+
+## 2026-10-30 更新：Q3 财报超预期 + 巴西 GEA 产线
+- **Q3 财报（10/29）**：营收 116 亿欧（固定汇率 +1.4%）超预期、当日股价上涨；Q3 销量 49.78 万（-6.0%）——雷诺品牌 -2.9%（欧洲逆势 +4.6%）、[[dacia]] -12.8%、Alpine +58.4%
+- **纯电是唯一亮点**：Q3 纯电 +84.7%、占乘用车 25.8%；欧洲零售占比 64.8%（高出市场均值 20pct）——「价值优先于销量」成立
+- **维持全年指引**：营业利润率约 5.5%、FCF 约 10 亿欧；对照同日 [[volkswagen]] 把利润率指引砍到最高 1%——欧洲传统阵营内部分化显著
+- **巴西产线**：投 20 亿雷亚尔改造吉利 GEA 平台产线，EX5 已量产、EX2 锁定 12 月——中国平台在雷诺海外工厂落地（见 [[geely]]）
+- **Twingo**：上海 ACDC 主导、22 个月完成开发（见 [[renault-acdc-model]]）
+- **本周判断**：叙事从「转型故事」变「执行故事」；Q4 看巴西产能爬坡能否止血拉美、达契亚纯电能否接上，两块若 miss 则 5.5% 指引含金量存疑

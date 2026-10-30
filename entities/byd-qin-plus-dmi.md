@@ -1,10 +1,10 @@
 ---
 title: 比亚迪秦PLUS DM-i（第三代）
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-30
 type: entity
 tags: [vehicle, oem-cn, ev-tech]
-sources: [raw/articles/2026-10-27-daily-digest.md]
+sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 比亚迪秦PLUS DM-i（第三代）
@@ -27,3 +27,6 @@ sources: [raw/articles/2026-10-27-daily-digest.md]
 - [[byd]] - 集团销量与 Q4 新车节奏
 - [[dmi-technology]] - 第五代 DM 技术底座
 - [[li-auto-i6]] - 同周上市竞品（不同价位带）
+
+## 2026-10-30 更新：限时 7.69 万起
+-**10/30 限时促销 7.69 万起**（较上市价再下探）——10 万级插混价格锚点下移，Q4 换代挤压第一弹加码（见 [[byd]]、[[auto-price-hike-2026]] 反向：行业涨价潮中比亚迪反向走量）

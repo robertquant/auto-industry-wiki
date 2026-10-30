@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-eu, strategy, sales, export]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -109,3 +109,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 - **CEO 原话定调**：「在中国销售西方研发的汽车，可能性几乎消失」——欧洲豪华在华旧模式的终极判词
 - **口径补充**：累计裁员 5500 人（10/27 已录再裁 2500，累计口径）；大中华区 -41%（已录 -40.6%，口径微差）；股价单日 -26%（已录 -30%，疑为盘中/收盘口径差，两处并存待核）
 - 判断：CEO 这句话比财务数字更重——沃尔沃（乃至 [[mercedes-benz]]/[[bmw]]）的旧模式=「西方研发+中国销售」，若此路不通剩余只有「中国研发+中国销售」或退出；吉利协同（7 西方+6 中国定制、[[geely]]）是前者唯一路径（[[china-tech-reverse-export]]、[[zeekr-lynk-co-merger]]）
+
+## 2026-10-30 更新：二轮裁员 + EX60 首发
+- **二轮裁员约 2500 人**（约占员工总数 6%）——累计裁员规模扩大
+-**EX60 首发**（WLTP 810km）+ **扩大英伟达合作**——纯电矩阵补强、智驾绑定英伟达（对照 [[geely]] 体系内资源）

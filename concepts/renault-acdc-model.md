@@ -1,10 +1,10 @@
 ---
 title: 雷诺 ACDC 模式（中国精兵团队=大脑，欧洲=身体）
 created: 2026-10-24
-updated: 2026-10-24
+updated: 2026-10-30
 type: concept
 tags: [strategy, trend, prediction, oem-eu]
-sources: [raw/articles/2026-10-24-daily-digest.md]
+sources: [raw/articles/2026-10-24-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 雷诺 ACDC 模式
@@ -38,3 +38,6 @@ sources: [raw/articles/2026-10-24-daily-digest.md]
 - [[china-tech-reverse-export]] - 技术反向输出的更泛化形式
 - [[automotive-rd-speed]] - 研发周期竞赛背景
 - [[leapmotor-stellantis]] - 「买产品」路线对照
+
+## 2026-10-30 更新：Twingo 22 个月实证
+-**[[twingo-e-tech]] 由上海 ACDC 主导、22 个月完成开发**（对照欧洲传统 50 个月+，见 [[automotive-rd-speed]]）——「精兵团队 = 大脑」模式的提速实证落地

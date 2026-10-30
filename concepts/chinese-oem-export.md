@@ -1,10 +1,10 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-10-14
+updated: 2026-10-30
 type: concept
 tags: [export, strategy, trend, oem-cn]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 中国车企出海 (Chinese OEM Export)
@@ -87,3 +87,6 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **9 月乘用车出口 91.7 万辆（+73.7%）**：新能源占 **60.8%**；**增程出口暴涨 +478%**——增程从内销技术路线变成出口新引擎（[[range-extender-trend]]）
 - **10 月上旬零售同比 -24%**、新能源渗透率 **61.2%**——国内总量收缩 vs 出口高增的剪刀差延续
 - 判断：增程 +478% 与中欧混动配额（[[eu-hybrid-export-caps-2026]]）形成最尖锐对冲——增长最快的出口形态恰是配额封顶对象；出口退税下调（[[export-tax-rebate-cut-2026]]）同期落地，出口的「量叙事」见顶信号进一步确认（对照 10/10 判断）
+
+## 2026-10-30 更新：赵福全「从卖得多转向赚得到」
+-**赵福全**（10/30「中国拥抱世界」产业论坛）：出海必须从「卖得多」转向「赚得到」，构建新型全球化公司——与奇瑞「2030 海外生产占比七成」本地化路线互为印证（见 [[chery]]、[[china-oem-europe-top10-2026]]）

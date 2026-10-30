@@ -1,10 +1,10 @@
 ---
 title: 小马智行 (Pony.ai)
 created: 2026-05-04
-updated: 2026-09-28
+updated: 2026-10-30
 type: entity
 tags: [adas, l4, china]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/2026-06-16.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/2026-06-16.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 小马智行 (Pony.ai)
@@ -47,3 +47,5 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/
 - **出行平台 inDrive × [[pony-ai]] 在哈萨克斯坦启动 Robotaxi**（10/24 报道），基于 NVIDIA Hyperion 平台——中亚市场首落子，中国 L4 公司出海版图从北美/中东/欧洲延伸到中亚
 - 判断：Hyperion 复用 = 与 [[mercedes-benz]]（MB.OS×Hyperion）同栈，硬件选型向「英伟达全家桶」收敛；哈萨克斯坦场景（地广人稀+合规友好）是 L4 出海的低成本验证地
 
+## 2026-10-30 更新：T9 ROBOTRUCK 量产下线
+-**广汽领程 × 小马智行 L4 重卡 T9 ROBOTRUCK 首批量产下线**（10/29），2027 推进百台级——重卡 Robotruck 从示范进入量产交付（见 [[zhuoyu]] 磐行同日对照）

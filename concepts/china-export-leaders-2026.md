@@ -1,10 +1,10 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-10-28
+updated: 2026-10-30
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 中国出海5强格局（2026）
@@ -155,3 +155,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-11 更新：太仓口岸出口破百万——口岸级里程碑
 - **太仓口岸 1-9 月出口 108 万辆首破百万**；**9 月新能源出口 +110%**——单一口岸年出口百万辆级，新能源出口翻倍增长
 - 判断：口岸百万辆 = 出口由「车企总量」渗透到「口岸基建设施」维度；新能源出口 +110% 与 10/7「新能源出口占比连续三个月过半」互证——出口结构升级在口岸数据上同样成立（[[2026-09-china-sales-battle]]、[[chinese-oem-export]]）
+
+## 2026-10-30 更新：820.5 万 + 欧洲前十
+-前三季中国出口 **820.5 万辆（+65.8%）**，全年或破千万；奇瑞 155.1 万居第一
+-**首两家中国车企进欧洲前十**（吉利第 8、比亚迪第 9，见 [[china-oem-europe-top10-2026]]）——出口从「总量增长」进入「高端市场渗透」

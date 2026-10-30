@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -292,3 +292,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **2030 前再裁 1.2 万人**（累计约 10 万）——「生存重组」追加；Q3 全球 -14.3%（10/13、10/20 已录）
 - **电池召回扩至奥迪**：85,402 辆（新增 12,734 辆 Q4 E-Tron）——年内召回序列（10/25 已录 7.27 万辆电动车）从大众品牌延伸到 [[audi]]
 - 判断：HS8/CEA/GAIA = 大众把「合肥软件」从叙事变成可量化指标；叠加再裁员+召回扩围，德系 Q4「裁员+召回」双重承压，「欧洲止血、中国进攻」双轨不变（[[euro-stoxx-50-exit]]）
+
+## 2026-10-30 更新：薪资冻结 + 裁员 10 万 + Q3 亏损 66 亿美元
+- **薪资冻结至 2030**（66 万员工，2026Q4 生效）、**裁员目标翻倍至 10 万**、**4 座德国工厂或关停**——90 年来最大重组；IG Metall 11 月谈判或酝酿罢工
+- **Q3 营业亏损 66 亿美元**（柴油门以来最大单季亏损）：EV 利润率仍低于燃油车、前 9 月扣除特殊项目前销售回报率仅 3.8%，叠加保时捷持股减记 + 近 90 亿美元一次性费用；CFO Antlitz 称「必须迅速果断行动」
+- **利润率指引从 4-5.5% 砍到最高 1%**（10/29 财报会），对照 [[renault]] 守住 5.5%——欧洲传统阵营分化（延续 [[mercedes-vs-stellantis-q3-2026]] 的对照框架）

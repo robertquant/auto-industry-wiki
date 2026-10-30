@@ -1,10 +1,10 @@
 ---
 title: 小鹏MONA L05
 created: 2026-10-16
-updated: 2026-10-28
+updated: 2026-10-30
 type: entity
 tags: [vehicle, adas, ev-tech, pricing]
-sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md]
+sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 小鹏MONA L05
@@ -33,3 +33,8 @@ sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily
 - **品类修正**：L05 为 MONA 系列首款**大五座中型 SUV**（4870/1930/1636mm、轴距 2940mm，后备厢 702L/放倒 1913L），非轿车——10/16 页面初版「第二款轿车」描述有误，以 10/26-28 多源（汽车之家/新浪）修正
 - 配置细节：17.3 英寸后排娱乐屏、Master Agent 超级智能体、小鹏 NGP 图灵 AI 智驾、DCC 可变阻尼减振器、标配 102L 前备厢
 - 判断：大五座 SUV 品类 + 增程引入 = 小鹏用 MONA 品牌直接切 15-20 万家用 SUV 市场（对阵 [[deepal]] S07、[[li-auto]] 增程走量盘）；「产线 5000 台下线 → 次日上市」= 产能爬坡前置，上市即交付节奏
+
+## 2026-10-30 更新：正式上市 13.98 万起
+- **10/29 正式上市 13.98 万起**（预售 16.98-19.18 万）
+- **高阶智驾订单占比 91%**、每天超一半 MONA 车主使用智驾、与 Robotaxi 共享 L4 基座模型（见 [[xiaopeng-yoyo]]）——智驾从「选配」变「主销动机」
+- 出海：82 国全球车、660 台测试车、500 万公里路测

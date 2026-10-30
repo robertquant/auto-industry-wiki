@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -221,3 +221,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-29 更新：前三季海外近 15 万辆——中国车企第二
 - **前三季度海外销量近 15 万辆，中国车企中排名第二**（晨报口径）——B10 萨拉戈萨投产（10/16 已录）后的欧洲放量起点：本地化产能 + Stellantis 渠道双引擎（[[leapmotor-stellantis]]）
 - 判断：「零跑一超+多强」新格局（[[new-forces-landscape-2026]]）的出海侧验证：海外从「增量」变「结构件」；B05 同厂 + 意大利市占率上修（29.4%，页内已录）——欧洲本地化产品线（[[2026-paris-auto-show]] 口径 D19/A05）2027 将进一步抬升海外占比
+
+## 2026-10-30 更新：B10 萨拉戈萨量产 + 雪铁龙 2CV
+- **9 月交付 10.57 万**（连续三月破 10 万）、欧洲网点破 1000 家
+- **B10 在 [[stellantis]] 萨拉戈萨工厂量产**落地——中国车型欧洲本土制造
+- 与 Stellantis 共研 **E-Car 平台首款车 = 雪铁龙 2CV 概念**（约 1.5 万欧，2028 上市）——「中国技术嵌入全球平台」最激进样本，从「卖车」升级为「卖架构」

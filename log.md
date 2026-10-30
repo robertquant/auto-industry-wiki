@@ -1558,3 +1558,50 @@
 - ②竞争传导至利润表：德系裁员/降指引+沃尔沃CEO「可能性几乎消失」=中国竞争成本端显性化；中企解法=欧洲本土化产能
 - ③GAIA 2.0公开量化=仿真数据闭环获外资正式背书，「仿真替代实车测试」成行业基准
 - ④半固态量产元年信号：蜂巢900V/6C半固态包下线，「混合固液长期主流」共识强化
+
+## [2026-10-30] ingest | 四报合并整理（晨报07:00 + 雷诺周报13:00 + AI日报15:00 + 盖世晚报20:00）
+- 原始素材：raw/articles/2026-10-30-daily-digest.md（新建）；盖世晚报见 daily-news/2026-10-30-gasgoo-evening.md（当日已存）
+
+### 新建页面（5）
+- entities/yangwang-dingyao.md - 仰望鼎曜：200万级行政旗舰、首搭固态电池+璇玑A3 4nm——固态电池+自研芯片双首发的品牌顶端叙事
+- entities/dacia.md - 达契亚：Q3 -12.8% 成雷诺最大结构性拖累（中型遭中国品牌挤压/Spring未放量/土耳其-18%）
+- entities/tencent-tai.md - 腾讯TAI智能体：元宝上车三大智能体+跨端接续——座舱AI从对话走向可执行服务闭环
+- concepts/auto-industry-profit-2026.md - 汽车制造业利润危机：前三季-22.8% vs 工业+15.5%，利润向零部件/上游转移
+- comparisons/china-oem-europe-top10-2026.md - 吉利第8/比亚迪第9首进欧洲前十，福特/特斯拉出局——欧洲存量重构
+
+### 更新页面（30）
+- entities/renault.md - Q3财报超预期（116亿欧/+1.4%）、雷诺品牌欧洲+4.6% vs 达契亚-12.8%、守5.5%指引、巴西GEA产线EX5/EX2、Twingo 22个月
+- entities/volkswagen.md - 薪资冻结至2030+裁员10万+4厂或关停；Q3营业亏66亿美元（柴油门后最大）；指引砍至最高1%
+- entities/geely.md - Q3双创新高（990亿/核心52.1亿）、出口79.8万+169%、欧洲前十第8
+- entities/xinhe-hangtu.md - X7出货20万颗；X9预告3000TOPS/700GB/s 2027；三方会战（X9 vs 征程7 vs 特斯拉AI5）
+- entities/mona-l05.md - 上市13.98万起、高阶智驾订单91%、共享L4基座模型
+- entities/leapmotor.md - 9月10.57万连三月破10万、B10萨拉戈萨量产、雪铁龙2CV概念（1.5万欧/2028）
+- entities/toyota.md + entities/waymo.md - ×Waymo 2027日本bZ4X全无人出租（高冈量产线）；丰田前三季纯电+127.4%
+- entities/audi.md - 分家细则：四环标归一汽、AUDI标归上汽+ADP自研、2027底解决遗留
+- entities/volvo.md - 二轮裁员2500人、EX60首发（WLTP 810km）、扩大英伟达合作
+- entities/mercedes-benz.md - 新C级MB.OS+Momenta中国专属领航下探主销车型
+- entities/bmw.md - Momenta R7「人机共驾」全球首个物理AI世界模型量产方案
+- entities/byd.md / byd-qin-plus-dmi.md - 万座闪充站落成、秦PLUS限时7.69万、10月冲50万关
+- entities/chery.md - 前三季出口155.1万居第一
+- entities/zhuoyu.md / foton.md / pony-ai.md / gac.md - 卓驭「磐行」×七大商用车品牌；T9 ROBOTRUCK首批量产下线
+- entities/horizon-robotics.md - 端到端项目获中汽学会年度唯一特等奖
+- entities/stellantis.md - E-Car平台首款=雪铁龙2CV概念
+- entities/nio.md - 换电资产向央企/地方输出（中广核+长沙经开）
+- concepts/gm-forward-2026.md - 公开拒绝纯视觉（雷达+激光+摄像头融合），与特斯拉分道
+- concepts/ultra-fast-charging.md - 车企建站军备（比亚迪1万座/吉利2.2万/奇瑞2万）+公共桩利用率6.51%盈亏账
+- concepts/japanese-automaker-crisis-2026.md - 日系在华产量102万（-32%）2008年以来新低
+- concepts/china-export-leaders-2026.md - 出口820.5万+65.8%、全年或破千万
+- concepts/humanoid-robot.md - 摩比斯11月产Atlas执行器、2028商业供应
+- concepts/renault-acdc-model.md / entities/twingo-e-tech.md - Twingo上海ACDC主导22个月实证
+- concepts/chinese-oem-export.md - 赵福全「从卖得多转向赚得到」
+
+### 导航更新
+- index.md：Last updated 2026-10-30；Total pages 347→**352**（entities 146→149 / concepts 180→181 / comparisons 10→11）；车企欧洲(10→11)/供应商(24→25)/产品平台(25→26)/市场政策(51→52) 小节计数同步
+- 完整性校验：comm 输出为空 ✅（352 注册 = 352 实体，0 缺失）
+
+### 核心判断（跨四报）
+- ① 欧洲利润分化显性化：大众亏66亿美元+指引砍至1% vs 雷诺守5.5%——重组代价与执行力的对决，IG Metall 11月是变数
+- ② 出口定价权易主：中国车企首进欧洲前十（吉利第8/比亚迪第9）+出口破千万倒计时——全球价格体系被中国产能重构
+- ③ 中国供应链从备胎变主业：雷诺Twingo 22个月/巴西GEA产线、Stellantis用零跑架构造雪铁龙2CV——「卖架构」成新出口形态
+- ④ AI从旗舰溢价变全民标配：MONA L05高阶智驾订单91%、2027三方会战（X9/征程7/AI5）定L3+Agent决战
+- ⑤ 整车利润危机vs零部件/上游受益：汽车制造业-22.8% vs 工业+15.5%——利润转移而非消失

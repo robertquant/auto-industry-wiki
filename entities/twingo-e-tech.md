@@ -1,10 +1,10 @@
 ---
 title: Twingo E-Tech
 created: 2026-06-25
-updated: 2026-10-26
+updated: 2026-10-30
 type: entity
 tags: [renault, europe, entry-ev, china-tech]
-sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
+sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # Twingo E-Tech
@@ -96,3 +96,6 @@ sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/art
 ## 2026-10-17 更新：9月法国销量 4,992 辆——纯电榜第三
 - **法国 9 月销量 4,992 辆，纯电榜第三**（仅次于 Model Y、雷诺 5）——<2 万欧定价 + 法国本土品牌信任的组合验证
 - 语境：与雷诺 5 同门双车占据法国纯电榜前三两席；「中国研发+欧洲制造」模式（上海 eDrive/宁德 LFP）的欧洲市场接受度已过首考（[[renault]]、[[china-tech-reverse-export]]）
+
+## 2026-10-30 更新：上海 ACDC 主导 22 个月
+-**上海 ACDC 主导开发、22 个月完成**——「中国速度」压缩开发周期实证（见 [[renault-acdc-model]]、[[automotive-rd-speed]]），平价电动车的中国供应链开发范式

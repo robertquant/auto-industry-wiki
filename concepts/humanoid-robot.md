@@ -1,10 +1,10 @@
 ---
 title: 人形机器人
 created: 2026-05-01
-updated: 2026-06-15
+updated: 2026-10-30
 type: concept
 tags: [strategy, investment]
-sources: [memory/2026-05-01.md, memory/2026-05-04.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-06-15.md]
+sources: [memory/2026-05-01.md, memory/2026-05-04.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-06-15.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 人形机器人
@@ -86,3 +86,7 @@ sources: [memory/2026-05-01.md, memory/2026-05-04.md, raw/articles/2026-05-26-ai
 ## 来源
 - 2026-05-01 汽车AI应用全景动态 Cron 报告
 - 2026-05-04 汽车AI行业全景动态：车企跨界人形机器人最新进展
+
+## 2026-10-30 更新：摩比斯 Atlas 执行器
+-**现代摩比斯**：Q3 净利 -35.7%（传统业务失血但营业利润 +17.2%）；11 月在仪旺研究中心启动**波士顿动力 Atlas 执行器原型生产**、2028 商业供应，布局手部夹爪/感知模块/控制器；机器人团队翻倍、年度研发支出将首破 2 万亿韩元
+-零部件巨头第二曲线集体指向具身智能（对照 [[tier1-mna-consolidation-2026]] 整合潮）

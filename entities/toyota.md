@@ -1,10 +1,10 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-10-11
+updated: 2026-10-30
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 丰田 (Toyota)
@@ -152,3 +152,7 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 - 一汽/丰田/广汽 10/8 广州正式签约：广汽发行股份购一汽丰田 50%，一汽将成广汽重要战略股东；**一二丰研发/采购/生产/销售全面协同**（[[gac]]）
 - 签约 = 10/7「产销分离执行层讨论」落地：从传闻/预案/辟谣博弈进入**法律文件阶段**；丰田保留销售话语权（50:25:25 新销售公司）、让渡生产统筹权给广汽
 - 判断：日系在华从「双渠道内耗」转向「统一体收缩」的样本——丰田用股权换广汽的产能与电智化资源，是防守型整合的「最优解」而非「撤退」（[[japanese-automaker-crisis-2026]]）
+
+## 2026-10-30 更新：×Waymo 日本量产线 Robotaxi + 前三季数据
+- **10/30 官宣扩大 × [[waymo]] 合作**：2027 年在日本用 bZ4X 启动全无人驾驶 Robotaxi，随后拓展英国等右舵市场；高冈工厂量产线完成整车组装 + Waymo 硬件搭载——**日本首个基于本土量产车的全无人出租服务**（对照：广汽丰田 2 月已为 [[pony-ai]] 量产 bZ4X Robotaxi）
+- **前三季全球销量 -3.4%**（9 月 86 万辆、-2.2%，连续三月下滑），但纯电动 +127.4%——在华失速由电动化增量部分对冲，多路径战略进入结构切换期

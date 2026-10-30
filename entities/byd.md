@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -268,3 +268,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **10 月销量预测 44-47 万辆**（花旗口径，含出口 18.8 万）——区间中枢 45.5 万 vs 9 月 46.36 万（年内新高，10/19 已录）：换代潮（秦PLUS 等）托底但未放量
 - **前三季出口 133.8 万辆（+92%）**——出口占比持续抬升（已录 1-9 月 313.16 万/-3.94%，海外对冲国内下滑的结构未变，[[chinese-oem-export]]）
 - 判断：Q4 收官核心变量是**价格战烈度而非产品力**——10 月预测区间说明换代挤压（[[byd-qin-plus-dmi]] 等）正在重定价 10-15 万档，比亚迪以量换份额的策略未变
+
+## 2026-10-30 更新：万座闪充站 + 10 月冲 50 万
+-**第 1 万座闪充站落成**（年底目标 2 万座）——超充网络军备赛（见 [[ultra-fast-charging]]）
+-第三代 [[byd-qin-plus-dmi]] 限时 7.69 万起 + [[byd-han]] 上市——Q4 换代挤压组合拳，10 月冲 50 万辆关口
+-同日欧洲对照：大众亏 66 亿美元、雷诺守 5.5% 指引——中国走量 vs 欧洲保利的利润分化（见 [[auto-industry-profit-2026]]）

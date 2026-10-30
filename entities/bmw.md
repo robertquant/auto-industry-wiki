@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -170,3 +170,6 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **全球裁员最多 8000 人确认**——**第五家大规模裁员的德国车企**（德系集体收缩序列：[[volkswagen]] 10 万、[[mercedes-benz]]、[[porsche]] 9000、[[bmw]] 8000）
 - **对冲动作**：沈阳 **Gen6 电池 10/15 量产**（能量密度 +20%、充电/续航 +30%，10/27 已录）+ **iX3 长轴 26.99 万 11 月交付**——「欧洲裁员（止血）+ 中国量产（造血）」并行：用中国供应链现金流补贴欧洲重组成本（[[china-tech-reverse-export]]）
 - 判断：宝马裁员幅度德系最小（8000 vs 大众 10 万），因其 iX3 长轴在华成功（订单逼近 10 万，页首已录）提供缓冲——「在中国赚的钱补贴欧洲转型阵痛」是德系 2026Q4 的普遍剧本（[[bba-ev-ranking-2026]]）
+
+## 2026-10-30 更新：Momenta R7「人机共驾」
+- 增量：**Momenta R7「人机共驾」**——全球首个物理 AI 世界模型量产方案（见 [[world-model]]）；iX3 新世代 11 月交付（10/29 已记）——物理 AI 从演示进量产

@@ -1,10 +1,10 @@
 ---
 title: 卓驭科技
 created: 2026-06-06
-updated: 2026-10-09
+updated: 2026-10-30
 type: entity
 tags: [adas, strategy, export]
-sources: [memory/2026-06-06.md, raw/articles/2026-10-09-daily-digest.md]
+sources: [memory/2026-06-06.md, raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 卓驭科技
@@ -42,3 +42,7 @@ sources: [memory/2026-06-06.md, raw/articles/2026-10-09-daily-digest.md]
 - [[huawei-ads]] - 华为智驾方案，技术路线对比
 - [[volkswagen]] - 大众汽车，卓驭核心合作方
 - [[l3-autonomous-driving]] - L3自动驾驶与算力需求
+
+## 2026-10-30 更新：商用车技术品牌「磐行」
+-**10/29 发布商用车技术品牌「磐行」**：×徐工/陕汽/中国重汽/一汽解放/福田/东风/宇通七大商用车品牌
+-继承乘用车 30 亿公里数据 + 4 亿帧重卡专属数据；数百辆陕汽德龙 X5000 已投入快递干线运输——商用车智驾从「路测演示」进入「交付规模」竞争（对照 [[pony-ai]] 重卡量产、[[foton]] 合作）

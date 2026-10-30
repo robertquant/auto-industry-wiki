@@ -1,10 +1,10 @@
 ---
 title: Waymo
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-30
 type: entity
 tags: [oem-us, adas, trend, export]
-sources: [raw/articles/2026-10-09-daily-digest.md, comparisons/waymo-vs-tesla-robotaxi-2026.md]
+sources: [raw/articles/2026-10-09-daily-digest.md, comparisons/waymo-vs-tesla-robotaxi-2026.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # Waymo
@@ -41,3 +41,7 @@ Alphabet 旗下 L4 自动驾驶公司，全球 Robotaxi 运营实绩的绝对领
 - 欧洲/日本落地城市与监管路径（日本 2026 年 L4 法规框架）
 - 债务融资后单位经济能否随规模改善
 - 与 Tesla 全天运营（10 月起）+ 内华达 5,000 台批文爬坡的差距变化
+
+## 2026-10-30 更新：入局日本（×丰田 bZ4X）
+- **10/30 官宣 × [[toyota]]**：2027 年日本 bZ4X 全无人出租，后拓英国等右舵市场；高冈工厂量产线装 Waymo 硬件——日本首个本土量产车全无人出租
+-扩张路线图更新：美国 15 城 + 欧洲 + 日本——「市场扩张竞赛」继续（见 [[waymo-vs-tesla-robotaxi-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-10-30
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -261,3 +261,6 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **2026 乘用车销售回报率指引 2%-3%**（原 3%-5%）——10/28 财报前下调口径的晨报再确认；Q3 -8% 中国为主要拖累（财报细节 10/28 已录）
 - **Momenta 智驾合作从纯电车型扩展至全系**——继迈巴赫/CLA/GLE/纯电 GLC 之后，[[momenta]] 方案覆盖奔驰全动力矩阵：中国智驾方案商从「电动化补课」升级为「奔驰全系标配」逻辑（[[foreign-automakers-chinese-ad]]）
 - 判断：利润率 2-3% = 豪华品牌「以利润换中国时间」；Momenta 全系化 = 智能化外包程度再加深，与 [[bmw]]（iX3 长轴 26.99 万）构成豪华「中国化双轨」（[[bba-ev-ranking-2026]]）
+
+## 2026-10-30 更新：新 C 级 MB.OS + Momenta 中国专属领航
+- **新 C 级上 MB.OS + [[momenta]] 中国专属领航**——MB.OS 与 Momenta 组合从旗舰（纯电 GLC）下探主销车型，中国智驾方案进入奔驰销量基盘

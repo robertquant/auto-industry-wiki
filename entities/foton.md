@@ -1,10 +1,10 @@
 ---
 title: 福田汽车 (Foton)
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-30
 type: entity
 tags: [oem-cn, adas, strategy]
-sources: [raw/articles/2026-10-09-daily-digest.md]
+sources: [raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
 ---
 
 # 福田汽车 (Foton)
@@ -36,3 +36,6 @@ sources: [raw/articles/2026-10-09-daily-digest.md]
 ## 待观察
 - 量产时间表与首发车型（重卡/轻卡优先？）
 - 「价格洼地」能否复制乘用车「智驾平权」的放量曲线
+
+## 2026-10-30 更新：磐行七大伙伴之一
+-卓驭「磐行」商用车方案**七大伙伴之一**（徐工/陕汽/中国重汽/一汽解放/福田/东风/宇通）——10/08 战略签约落地为生态（见 [[zhuoyu]]）
