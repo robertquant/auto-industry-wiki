@@ -1,10 +1,10 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-10-30
+updated: 2026-10-31
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 中国出海5强格局（2026）
@@ -159,3 +159,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-30 更新：820.5 万 + 欧洲前十
 -前三季中国出口 **820.5 万辆（+65.8%）**，全年或破千万；奇瑞 155.1 万居第一
 -**首两家中国车企进欧洲前十**（吉利第 8、比亚迪第 9，见 [[china-oem-europe-top10-2026]]）——出口从「总量增长」进入「高端市场渗透」
+
+## 2026-10-31 补充：出口排名完整口径 + 奇瑞欧洲运营中心
+- **1-9 月出口排名**：奇瑞 155 万居首、比亚迪 134 万、上汽 117 万、吉利 80 万、长安 73 万；比亚迪出口占比 42.9%、海外 +91%（Q3 财报口径，[[q3-2026-earnings-season]]）
+- **奇瑞设巴塞罗那首个海外区域运营中心** + 评估法国建厂（[[chery]]）——头部出口商从「卖车」转向「区域运营」
+- 判断：破千万在即，出口竞争从「量」转向「本地化深度」——运营中心/建厂（[[china-oem-europe-top10-2026]]）是下一阶段分水岭

@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -264,3 +264,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 
 ## 2026-10-30 更新：新 C 级 MB.OS + Momenta 中国专属领航
 - **新 C 级上 MB.OS + [[momenta]] 中国专属领航**——MB.OS 与 Momenta 组合从旗舰（纯电 GLC）下探主销车型，中国智驾方案进入奔驰销量基盘
+
+## 2026-10-31 更新：Q3 财报 + 下调 2026 展望 + 纯电 E 级「全华链」
+- **Q3 财报**：营收 307 亿欧（-4.4%）、EBIT 17.7 亿欧（+136%）；10/27 下调 2026 全年展望，拖累宝马/大众/Stellantis 股价齐跌（[[volkswagen]]、[[bmw]]）
+- **康林松确认纯电 E 级 2027 下半年上市，中国版几乎全部本土采购**——奔驰「全华链」首款：从智驾外包（[[momenta]]）延伸到硬件供应链全面本地化（[[china-tech-reverse-export]]）
+- 判断：EBIT +136% 与下调展望并存 = 降本跑不赢需求下滑；「全华链」E 级是豪华品牌成本重构模板——若跑通将复制到 C 级/GLC 主销线（[[q3-2026-earnings-season]]）

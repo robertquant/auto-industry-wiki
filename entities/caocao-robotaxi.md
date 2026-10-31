@@ -1,10 +1,10 @@
 ---
 title: 曹操出行×吉利原生Robotaxi（Eva Cab）
 created: 2026-10-21
-updated: 2026-10-28
+updated: 2026-10-31
 type: entity
 tags: [vehicle, adas, strategy, oem-cn]
-sources: [raw/articles/2026-10-21-daily-digest.md]
+sources: [raw/articles/2026-10-21-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 曹操出行×吉利原生Robotaxi（Eva Cab）
@@ -29,6 +29,10 @@ sources: [raw/articles/2026-10-21-daily-digest.md]
 - **曹操出行落地苏州「物理AI」样板**：Robotaxi + Robovan（无人配送/物流）+ 智能通行岛（车路协同交通设施）组合——出行平台把 Robotaxi 从「单车运营」扩为「城市空间运营」
 - **第二代 Robotaxi 铺 6 城 200+ 辆**；与 [[geely]] 合作的**第三代原生 Robotaxi 2027 量产**（与 Eva Cab 2027 时间线一致）
 - 判断：苏州样板 = 「运营场景多元化 + 车路协同」的物理 AI 城市试验场，与 [[xiaopeng-yoyo]] 纯视觉技术路线、[[physical-ai]] 底座叙事同框——2027 年原生 Robotaxi 量产节点临近，运营牌照+场景验证成为下一阶段竞争门槛
+
+## 2026-10-31 更新：乌镇主驾无人亮相
+- **签约乌镇道路测试 + 本地调度体系，主驾无人 Robotaxi 亮相互联网大会**——文旅场景落地，[[native-robotaxi-2026]]「场景先行验证」样本：Eva Cab 2027 量产前先跑通运营闭环
+- 判断：乌镇 = 有路权 + 客流 + 政府背书的样板间，「城市复制」逻辑的第一站
 
 ## 来源
 - raw/articles/2026-10-21-daily-digest.md（晚间盖世日报）

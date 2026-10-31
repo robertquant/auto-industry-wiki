@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -193,3 +193,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 ## 2026-10-30 更新：换电资产向央企/地方输出
 -**蔚来能源连签中广核新能源 + 长沙经开首批换电站交付**——换电资产从自营向央企/地方政府输出的模式成型（见 [[geely-nio-swap-alliance]] 双巨头平台化）
+
+## 2026-10-31 补充：前三季 30.03 万辆
+- **前三季交付 30.03 万（+49.2%）**，但 9 月仅 +7.7%——乐道切换拖累单月增速
+- 判断：全年增长大盘无虞，但单月增速从 +40% 区间回落到个位数——多品牌（乐道/萤火虫）爬坡期波动显性化（[[q3-2026-earnings-season]]）

@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-25
+updated: 2026-10-31
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -219,3 +219,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-25 更新：9 月出口首破万辆——「技术输出」补上「整车出口」腿
 - **9 月出口首破万辆**；**MONA L03 香港/菲律宾/澳大利亚交付**——巴黎车展（[[2026-paris-auto-show]]）后「技术输出」叙事叠加走量车型出口（[[mona-l03]]）
 - 判断：卖技术（大众）/卖碳（保时捷）/卖法规话语权（UNECE，10/9 已录）三条非车变现通道之外，整车出口补位——「技术输出 + 出口走量」双轮，出海叙事从规则维度回落到销量维度（[[china-tech-reverse-export]]）
+
+## 2026-10-31 补充：G9L 右舵发运 + 机器人固态电池下线
+- **G9L 右舵版发运澳洲**（[[xpeng-g9l]]）+ 巴黎车展（[[2026-paris-auto-show]]）——出口产品线补右舵市场
+- **小鹏机器人固态电池量产下线**（非车规）——「机器人固态先行、车规后随」：产线逻辑与车规共享，为 2027 车用固态（[[solid-state-battery]]）预演（[[xiaopeng-yoyo]]）

@@ -1,10 +1,10 @@
 ---
 title: 超快充技术军备竞赛
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-10-31
 type: concept
 tags: [battery, charging, 800v, catl, byd, technology]
-sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 ## 概述
@@ -88,3 +88,9 @@ sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-n
 -**车企建站军备**：比亚迪第 1 万座闪充站落成（年底目标 2 万座）、吉利 2027 底规划 2.2 万座、奇瑞 2029 年 2 万座「秒充+V2G」
 -**盈亏账**：9 月全国公共桩功率利用率仅 6.51%（低于 8-10% 盈亏平衡线）、超 80% 运营商亏损、头部场站每度电净利一度仅 4 分钱
 -判断：车企建站本质是**卖车叙事 + 能源资产**，不是充电生意（对照 [[v2g-2026]] 商业化上限）
+
+## 2026-10-31 更新：10C 走向集团级联合开发
+- **10/29 东风 × 宁德时代集团级战略合作**：联合开发 10C 及以上超充（约 6 分钟满充，岚图/猛士首发）——10C 从车企单点（比亚迪兆瓦闪充）走向「电池厂 + 主机厂」联合开发（[[dongfeng]]、[[catl]]）
+- **比亚迪闪充站 12,165 座**、年内冲 2 万座（10/30 已录第 1 万座）
+- **吉利 AI 智充 2.2MW 亮相 SAECCE**（2250kW 单枪工程化，[[geely]]）
+- 判断：超充军备从「桩端参数」进入「集团级生态绑定」——电池厂深度参与建站标准，补能成为整车销售叙事的标配组件（对照利用率 6.51% 的盈亏账，10/30 已录）

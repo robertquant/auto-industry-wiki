@@ -1,10 +1,10 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [chip, adas, ai, tier1]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 地平线 (Horizon Robotics)
@@ -111,3 +111,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 
 ## 2026-10-30 更新：端到端项目获特等奖
 -**端到端智驾项目获中汽学会年度唯一特等奖**（清华 + 长安 + 地平线 + 滴滴）——产学研联合端到端路线获行业最高学术认可
+
+## 2026-10-31 更新：HSD 切天神之眼 B + 余凯 TOPS 口径炮轰
+- **HSD 切入比亚迪天神之眼 B 版**（蓝鲸独家/凤凰网 10/30）：继 C 版征程 6M 后，大算力芯片 + HSD 进 B 版，11 月首款车上市（腾势/汉/海洋网高端）；B 版现普遍单 Orin-X 254TOPS，知情人士称英伟达供应「预计或越来越小」；华兴证券 9 月研报：C 版月出货 8-10 万颗回升
+- **捷达 M6（7.98 万起）上征程 6M + HSD（酷睿程）**——HSD 在比亚迪 + 大众系双线扩量（[[volkswagen]]、[[courizon]]）
+- **余凯 10/30 晚微博炮轰算力虚标**：英伟达口径 = 稠密 ×2（Orin X 127→254TOPS），行业「等效算力」吹到稠密 6-7 倍；地平线今后双标——征程 6P NV 算力 560TOPS + 「等效算力（吹牛算力）」1960TOPS（详见 [[tops-spec-war-2026]]）
+- 判断：HSD 软硬一体闭环在比亚迪 + 大众两大体系同时放大，英伟达在中国最核心出货盘（比亚迪）被挤压；炮轰时点 = 商业博弈 + 话语权争夺，芯片竞争从数字战转「含金量战」

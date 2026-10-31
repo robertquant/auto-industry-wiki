@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -273,3 +273,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 -**第 1 万座闪充站落成**（年底目标 2 万座）——超充网络军备赛（见 [[ultra-fast-charging]]）
 -第三代 [[byd-qin-plus-dmi]] 限时 7.69 万起 + [[byd-han]] 上市——Q4 换代挤压组合拳，10 月冲 50 万辆关口
 -同日欧洲对照：大众亏 66 亿美元、雷诺守 5.5% 指引——中国走量 vs 欧洲保利的利润分化（见 [[auto-industry-profit-2026]]）
+
+## 2026-10-31 更新：Q3 净利破百亿 + 宋 Ultra「双兜底」
+- **Q3 财报**：营收 2215 亿（+14%）、净利 100 亿（+28%）、净利率升至 4.52%；1-9 月海外销量 134 万辆（+91%）、出口占比 42.9%——内需大盘 -22% 下靠海外 + 高端化企稳（[[q3-2026-earnings-season]]、[[china-export-leaders-2026]]）
+- **闪充站 12,165 座**、年内冲 2 万座（10/30 已录第 1 万座落成，[[ultra-fast-charging]]）
+- **宋 Ultra DM-i 上市**（12.99-15.99 万，见 [[song-ultra-dmi]]）：行业首创「双兜底」赔付（[[adas-liability-guarantee]]）、首搭「迪迪虾」AI 智能体、璇玑 2.0 中央大脑时延 8μs
+- 判断：Q4 换代组合拳（秦PLUS/海狮06/宋Ultra/唐三代官图）全线就位，10 月冲 50 万关口（10/30 已录）；利润端「海外 + 高端化」对冲内需收缩的结构在 Q3 财报首次完整验证

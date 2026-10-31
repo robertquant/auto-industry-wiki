@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -126,3 +126,7 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-30 更新：雪铁龙 2CV 概念（E-Car 平台首款）
 -与 [[leapmotor]] 共研 **E-Car 平台首款车 = 雪铁龙 2CV 概念**（约 1.5 万欧，2028 上市）；零跑 B10 萨拉戈萨量产
 -「中国技术嵌入全球平台」最激进样本——从「用零跑车」升级为「用零跑架构造自家车」（延续 [[china-tech-reverse-export]] 主线）
+
+## 2026-10-31 补充：北美止血拆解 + VCP 再降本
+- Q3 拆解（总数据 10/28 已录）：北美止血见效为减亏 90% 主因；扩欧利润率同比 -340bp；Q4 靠 VCP 再降本
+- 判断：「北美修复 + 欧洲失血」双轨并行，2027 工业 FCF 转正指引（10/28 已录）仍是最大悬点；与 [[volkswagen]] 的德国重组、[[mercedes-benz]] 的全华链构成欧洲三种降本路线（[[mercedes-vs-stellantis-q3-2026]]）

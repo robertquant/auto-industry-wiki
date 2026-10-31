@@ -1605,3 +1605,45 @@
 - ③ 中国供应链从备胎变主业：雷诺Twingo 22个月/巴西GEA产线、Stellantis用零跑架构造雪铁龙2CV——「卖架构」成新出口形态
 - ④ AI从旗舰溢价变全民标配：MONA L05高阶智驾订单91%、2027三方会战（X9/征程7/AI5）定L3+Agent决战
 - ⑤ 整车利润危机vs零部件/上游受益：汽车制造业-22.8% vs 工业+15.5%——利润转移而非消失
+
+## [2026-10-31 22:00] ingest | 每日整理（晨报07:02 + AI日报15:00 + 盖世晚报20:05）
+- 原始素材：raw/articles/2026-10-31-daily-digest.md（新建）；盖世晚报见 daily-news/2026-10-31-gasgoo-evening.md（当日已存）
+
+### 新建页面（3）
+- concepts/tops-spec-war-2026.md - TOPS算力口径战：余凯炮轰等效算力虚标（英伟达稠密×2/行业×6-7），征程6P双标560/1960TOPS——璇玑A3/X7 Ultra 700TOPS口径存疑
+- concepts/q3-2026-earnings-season.md - Q3财报季：比亚迪净利100亿(+28%)/海外+91% vs 奔驰下调2026展望/大众亏66亿美元/Stellantis减亏90%——增长引擎切换确认
+- entities/song-ultra-dmi.md - 比亚迪宋Ultra DM-i：12.99-15.99万、行业首创双兜底赔付、迪迪虾AI智能体、璇玑2.0中央大脑8μs
+
+### 更新页面（21）
+- entities/horizon-robotics.md - HSD切天神之眼B（11月首款车）+捷达M6征程6M+余凯TOPS炮轰——英伟达比亚迪出货盘被挤压
+- entities/byd.md - Q3营收2215亿/净利100亿/净利率4.52%、海外134万+91%出口占比42.9%、闪充站12165座
+- entities/byd-xuanji-a3.md - 璇玑2.0中央大脑8μs首发 + 700TOPS口径需重新对账
+- entities/mercedes-benz.md - Q3营收307亿欧(-4.4%)/EBIT+136%、下调2026展望、纯电E级2027H2全华链首款
+- entities/stellantis.md - 北美止血拆解、扩欧利润率-340bp、Q4靠VCP再降本
+- entities/volkswagen.md - 前三季601.1万(-9%)/BEV 67.9万、VEGA中国技术日（CEA明年5款/合肥周期-30%成本-50%）、AURA T6锁单3.3万+（激光雷达版90%）、C-Brain效率16-24x
+- entities/catl.md - ×东风集团级10C+换电合作、全固态20Ah试制2027小批量、引望×时代电服智能换电
+- entities/dongfeng.md - ×宁德集团级战略合作（10C超充岚图/猛士首发+乘商全系换电）
+- entities/leapmotor.md - 1-9月出口15万+提前达标
+- entities/xiaopeng.md - G9L右舵发运澳洲、机器人固态电池量产下线（非车规）
+- entities/geely.md - 曹操乌镇Robotaxi主驾无人亮相、AI智充2.2MW SAECCE
+- entities/chery.md - 巴塞罗那首个海外区域运营中心+评估法国建厂、VLA测试方法专利CN123011718A
+- entities/nio.md - 前三季30.03万(+49.2%)但9月仅+7.7%（乐道切换拖累）
+- entities/xiaomi-auto.md - 传2027目标80万（1-9月28.6万仅完成55万目标52%）
+- entities/li-auto.md - i6上市当月9月交付3.18万同环比双降
+- entities/xinhe-hangtu.md - X7 Ultra/X9 700/3000TOPS口径卷入口径战
+- entities/caocao-robotaxi.md - 签约乌镇道路测试+主驾无人亮相互联网大会
+- concepts/solid-state-battery.md - 宁德20Ah试制2027小批量+小鹏机器人固态下线——2027固态元年共识成型
+- concepts/adas-liability-guarantee.md - 比亚迪双兜底（城市领航刮擦赔付+保费不上涨+泊车终生）行业首创
+- concepts/china-export-leaders-2026.md - 出口排名完整口径（奇瑞155/比亚迪134/上汽117/吉利80/长安73）+奇瑞巴塞罗那运营中心
+- concepts/ultra-fast-charging.md - 东风×宁德10C联合开发、比亚迪闪充站12165座、吉利AI智充2.2MW
+
+### 导航更新
+- index.md：Last updated 2026-10-31；Total pages 352→**355**（entities 149→150 / concepts 181→183）；产品/平台(26→27)/技术(92→93)/市场趋势政策(52→53) 小节计数同步
+- 完整性校验：comm 输出为空 ✅（355 注册 = 355 实体，0 缺失）
+
+### 核心判断
+- ① TOPS口径战争开打：余凯把行业PPT算力贬值3-7倍，芯片竞争从数字战转含金量战
+- ② HSD软硬一体在比亚迪+大众双体系放大，英伟达中国核心出货盘被挤压
+- ③ 智驾营销进入责任战：比亚迪双兜底条款化赔付 vs 广丰罗生门话术兜底
+- ④ Q3财报季确认格局切换：中国增长引擎切海外、欧洲集体以华制华——关税挡得住整车，挡不住架构/电池/智驾方案出海
+- ⑤ 固态电池时间表趋同：宁德20Ah试制+比亚迪2027装车+巨湾产线+蜂巢半固态——2027固态元年共识成型

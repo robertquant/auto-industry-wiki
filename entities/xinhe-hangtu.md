@@ -1,10 +1,10 @@
 ---
 title: 新芯航途 (XHEART)
 created: 2026-10-18
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [chip, ai, oem-eu, oem-cn, supply-chain]
-sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 新芯航途 (XHEART)
@@ -57,3 +57,6 @@ sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily
 - **X9 预告**：3000 TOPS / 700GB/s（≈征程6P 算力 5 倍），2027 年
 - 生态侧：Momenta R7 Ultra 世界模型参数 ×5
 - **2027 三方会战**：X9 vs 征程7（J7P，对标 Thor-X，见 [[horizon-robotics]]）vs 特斯拉 AI5（见 [[tesla]]）
+
+## 2026-10-31 补充：700TOPS 口径卷入口径战
+- **余凯炮轰「等效算力」后**，X7 Ultra 700TOPS（及 X9 预告 3000TOPS）宣传口径需按「NV 算力 vs 等效算力」重新对账（[[tops-spec-war-2026]]）——2027 三方会战（X9 vs 征程7 vs 特斯拉 AI5）的参数对标基础被重置

@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -150,3 +150,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 
 ## 2026-10-30 更新：前三季出口 155.1 万居第一
 -前三季出口 **155.1 万辆居中国车企第一**；全行业出口 820.5 万辆（+65.8%），全年或破千万（见 [[china-export-leaders-2026]]、[[china-oem-europe-top10-2026]]）——「出口王」地位加固
+
+## 2026-10-31 更新：巴塞罗那欧洲首个区域运营中心 + VLA 专利
+- **设巴塞罗那首个海外区域运营中心**，李柯称评估法国建厂——欧洲布局从「出口 + KD」向区域运营升级（[[china-oem-europe-top10-2026]]）
+- **VLA 测试方法专利（CN123011718A，10/30）**：推理链路→测试场景映射，解决长尾覆盖——VLA 测试方法论专利化（[[vla-model]]、[[vla-world-model]]）
+- 判断：出口王叙事从「产能资产」转向「运营资产」；VLA 专利 = 技术出海（[[china-tech-reverse-export]]）的专利护城河建设

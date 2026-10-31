@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-10-27
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -221,3 +221,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 ## 2026-10-27 更新：i6 明日上市（马赫M100全系标配）
 - **2026 款 i6 定档 10/28**：96kWh 连山 5C、官方 780km/环太湖实测 811.4km（达成率 104%）、马赫 M100 全系标配、29 英寸 6K 屏（[[li-auto-i6]]）——自研芯片全系标配的「算力平权」打法
 - 老款 i6 年交付 19 万+，换代即走量基盘；10/28 与大众合肥技术日撞日
+
+## 2026-10-31 补充：i6 上市当月 9 月交付 3.18 万同环比双降
+- **9 月交付 3.18 万，同环比双降**——i6 2026 款（10/28 上市，24.98 万起，96kWh 连山 5C / CLTC 780km / 马赫 M100 全系标配，10/27 已录）上市当月尚未放量
+- 判断：换代切换期（老款退坡 + 新款爬坡）+ 纯电转型阵痛叠加，Q4 看 i6 爬坡斜率（[[li-auto-i6]]、[[q3-2026-earnings-season]]）

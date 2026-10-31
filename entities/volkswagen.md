@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -297,3 +297,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **薪资冻结至 2030**（66 万员工，2026Q4 生效）、**裁员目标翻倍至 10 万**、**4 座德国工厂或关停**——90 年来最大重组；IG Metall 11 月谈判或酝酿罢工
 - **Q3 营业亏损 66 亿美元**（柴油门以来最大单季亏损）：EV 利润率仍低于燃油车、前 9 月扣除特殊项目前销售回报率仅 3.8%，叠加保时捷持股减记 + 近 90 亿美元一次性费用；CFO Antlitz 称「必须迅速果断行动」
 - **利润率指引从 4-5.5% 砍到最高 1%**（10/29 财报会），对照 [[renault]] 守住 5.5%——欧洲传统阵营分化（延续 [[mercedes-vs-stellantis-q3-2026]] 的对照框架）
+
+## 2026-10-31 更新：前三季交付 + VEGA 中国技术日
+- **前三季交付 601.1 万辆（-9%）**、BEV 67.9 万——Q3 亏 66 亿美元（10/30 已录）后全年指引最高 1%
+- **中国技术日发布本土自研矩阵 VEGA**（平台 + CEA + 智驾）：CEA 明年覆盖 5 款国产纯电；合肥研发周期缩短 30%、成本最高降 50%——「把中国研发变成全球资产」（[[courizon]]、[[q3-2026-earnings-season]]）
+- **ID. AURA T6 首月锁单 3.3 万+（激光雷达版占 90%）**——10/25 预售破 3 万兑现为锁单，征程 6H + HSD 装车走量验证（[[horizon-robotics]]）
+- **C-Brain 效率数字完整披露**：功能测试 2-3 天→2-3 小时（约 16-24x）、诊断闭环 2 周→20 分钟（数百倍）；GAIA 2.0 日仿真 500 万 km（10/28 已录）
+- 判断：VEGA = 「以华制华」集团级定盘——中国研发从降本工具升级为全球车型定义源；AURA T6 激光雷达版占 90% 说明合资走量车智驾配置已中国化（对照 [[gac-toyota]] 静默换芯反例）

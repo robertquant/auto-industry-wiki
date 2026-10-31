@@ -1,10 +1,10 @@
 ---
 title: 东风汽车 (Dongfeng)
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, adas, ai, trend]
-sources: [raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 东风汽车
@@ -21,6 +21,10 @@ sources: [raw/articles/2026-10-22-daily-digest.md]
 - **一段式端到端 + 强化学习**：2027 年新品落地——东风加入「端到端+RL」主流技术栈（对照 [[momenta]] 强化学习装车、[[vla-world-model]] 路线）
 - **《具身智能时代的汽车全域安全白皮书》发布**：安全从「整车功能安全」扩维到「具身智能全域」——与 [[physical-ai]] 外溢趋势同频，车企把机器人/物理AI安全话语权前置
 - 判断：央企在智驾叙事上从「跟随」转向「定调」——冯长军口径与 [[changan]] 赵非（2027 L3/2028 L4）、[[faw]] 刘亦功（聚合智能）共同构成央企 2027 时间表对齐
+
+## 2026-10-31 更新：×宁德时代集团级战略合作
+- **10/29 与宁德时代在武汉签署集团级战略合作**：联合开发 10C 及以上超充产品（约 6 分钟满充，岚图/猛士首发）；共研乘商全系换电架构，覆盖乘用车与商用车补能场景（[[catl]]、[[ultra-fast-charging]]、[[nev-battery-swap]]）
+- 判断：央企整合（[[central-soe-restructuring-2026]]）背景下用「绑定电池龙头 + 补能基建卡位」换电动化话语权；10C 首发压岚图/猛士 = 高端/越野线先吃技术红利
 
 ## 关联
 - [[dongfeng-openvan]] - L4 无人物流产品线

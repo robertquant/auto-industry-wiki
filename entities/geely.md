@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-30
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -230,3 +230,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Q3（10/29）**：收入 990 亿（+10%）、核心归母净利 52.1 亿（+32%）双创新高；表观净利仅 +7% 系汇兑亏损（核心口径 +41% 才是真实底色）
 - **前三季**：出口 79.8 万辆（+169%）、新能源 132.6 万、市占率 11.1%
 - **欧洲前三季销量榜升至第 8**（34.4 万，+14.5%）——首次两家中国车企同进欧洲前十（见 [[china-oem-europe-top10-2026]]）
+
+## 2026-10-31 更新：曹操乌镇 Robotaxi + AI 智充 2.2MW
+- **曹操出行签约乌镇道路测试 + 本地调度体系，主驾无人 Robotaxi 亮相互联网大会**——[[native-robotaxi-2026]] 文旅场景落地：Eva Cab 2027 量产（10/21 已录）前的场景先行验证（[[caocao-robotaxi]]）
+- **吉利 AI 智充 2.2MW 亮相 SAECCE**——2250kW 单枪（10/2 已录）的工程化披露（[[ultra-fast-charging]]）
+- 判断：Robotaxi 走「场景单点 → 城市复制」而非一次性全域开城——乌镇 = 有路权、有客流、有政府背书的样板间

@@ -1,10 +1,10 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-10-31
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
@@ -217,3 +217,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **蜂巢能源龙鳞甲半固态电池包量产**（[[svolt]]）：**100kWh / 900V / 6C**、12 分钟补能 500km
 - **杨红新（蜂巢董事长）：「混合固液长期主流」**——把半固态从「过渡路线」重新定义为「长期主流」：全固态仍卡循环寿命/界面阻抗，半固态以「成本可接受 + 性能跃迁」占住量产窗口
 - 判断：继 [[guangwan-jiyan]]（10/13 固态产线投产）后，10 月固态/半固态量产节点密集落地——**2026-2027 半固态量产元年窗口确认**；900V/6C 包级规格直接对齐 [[ultra-fast-charging]] 生态（12 分钟 500km ≈ 超充桩体验同频）——「混合固液长期主流」若兑现，全固态叙事将更多让位于「固液共存」
+
+## 2026-10-31 更新：宁德 20Ah 试制 + 「2027 固态元年」共识成型
+- **宁德全固态推进至 20Ah 试制，2027 小批量**（盖世 10/30）——龙头时间表细化到工程里程碑（[[catl]]）
+- **小鹏机器人固态电池量产下线**（非车规）——机器人固态先行、车规后随，产线逻辑共享（[[xiaopeng]]）
+- 判断：宁德 2027 小批量 + 比亚迪 2027 装车（9/29 已录）+ 巨湾吉瓦时级产线（10/13 已录）+ 蜂巢半固态量产（10/29 已录）= **「2027 车用固态元年」行业共识成型**——竞争焦点从「谁先发布」转向「谁先过产线良率关」

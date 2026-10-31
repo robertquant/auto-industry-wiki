@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-10-23
+updated: 2026-10-31
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -98,3 +98,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-23 更新：雷军「同档最安全」目标 + 双矩阵确认（10/21 盖世）
 - **累计交付突破 80 万辆、均价超 26 万元**（立项 4 年余）；上月澎程系列（N70/N90）与 SU7/YU7 形成**双矩阵**
 - 雷军目标：**小米做同档最安全的车**——安全叙事对冲新势力标签（对照 [[adas-liability-guarantee]] 的责任承诺竞争），高端均价（26 万+）是「同档最安全」定价基础
+
+## 2026-10-31 补充：传 2027 目标 80 万
+- **市场消息：2027 目标 80 万辆**（未官宣）；1-9 月累计 28.6 万，仅完成 55 万年度目标 52%——2026 目标大概率落空，2027 翻倍预期押注 [[xiaomi-pengcheng]]（N70/N90）走量 + SU7/YU7 双矩阵（10/23 已录）
+- 判断：80 万 = 产能/交付爬坡的资本市场锚——真实约束是产能而非订单（[[xiaomi]]）

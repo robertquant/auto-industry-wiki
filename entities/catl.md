@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-10-25
+updated: 2026-10-31
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -157,3 +157,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **宁德时代奇瑞（芜湖）新能源科技 10/20 注册成立，注册资本 10 亿元**；叠加 2 月合肥合资（20 亿），双方安徽动力电池布局合计 **30 亿元**——聚焦电芯到 PACK 研发制造，协同半固态电池、换电等前沿（[[chery]]、[[nev-battery-swap]]）
 - 判断：10/22 已录「×奇瑞第二家合资厂」从意向落地为实体——「车企×电池龙头股权绑定」取代单纯买卖关系，[[battery-white-box]] 浪潮下宁德的防守姿态再确认
 
+## 2026-10-31 更新：×东风集团级合作 + 全固态 20Ah 试制
+- **10/29 ×东风集团级战略合作（武汉）**：联合开发 10C 及以上超充（约 6 分钟满充，岚图/猛士首发）+ 共研乘商全系换电架构（[[dongfeng]]、[[ultra-fast-charging]]、[[nev-battery-swap]]）
+- **全固态推进至 20Ah 试制，2027 小批量**（盖世 10/30）——龙头时间表坐实「2027 固态元年」共识（[[solid-state-battery]]）
+- **引望 × 宁德 × 时代电服智能换电**——供应链侧换电联盟再扩容（[[battery-swap-vs-ultra-fast-charging]]）
+- 判断：集团级 10C 合作 = 超充从「车企自建站」走向「电池厂 + 主机厂联合开发」，宁德从卖电池升级为补能标准输出方；固态 20Ah 试制 = 工程里程碑细化（电芯级 → 小批量）
