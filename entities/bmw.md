@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 宝马 (BMW)
@@ -173,3 +173,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 
 ## 2026-10-30 更新：Momenta R7「人机共驾」
 - 增量：**Momenta R7「人机共驾」**——全球首个物理 AI 世界模型量产方案（见 [[world-model]]）；iX3 新世代 11 月交付（10/29 已记）——物理 AI 从演示进量产
+
+## 2026-11-01 更新：iX3 入围 2027 欧洲年度车七强
+- **iX3 入围 2027 欧洲年度车（COTY）七强**——63 年来首次全纯电阵容入围（晨报口径）
+- 意义：欧洲年度车评审从燃油基准转向纯电基准；iX3 长轴以「900km + 26.99 万起」已在华验证（页首），欧洲版承接 Neue Klasse 口碑（[[2026-paris-auto-show]]）
+- 判断：全纯电七强 = 欧洲汽车媒体对电动化终局的表态；对宝马是品牌修复资产——2026 中国 -24.8%（10/25 已录）与欧洲口碑形成反差，豪华电动化叙事仍需产品力兑现

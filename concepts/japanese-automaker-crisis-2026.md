@@ -1,10 +1,10 @@
 ---
 title: 日本汽车三座大山危机 (2026)
 created: 2026-06-26
-updated: 2026-10-30
+updated: 2026-11-01
 type: concept
 tags: [strategy, japan, geopolitics, crisis, china, us, middle-east]
-sources: [memory/2026-06-26.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [memory/2026-06-26.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 日本汽车三座大山危机 (2026)
@@ -131,3 +131,8 @@ sources: [memory/2026-06-26.md, raw/articles/2026-10-30-daily-digest.md, daily-n
 ## 2026-10-30 更新：在华产量 2008 年以来新低
 -**4-9 月丰田/本田/日产/马自达在华合计产量 102 万辆、同比 -32%**（2008 年以来新低），较 2020 年峰值约 280 万辆锐减 63%（本田 -60%、日产 -49%、丰田 -18%）
 -印证「中国市场失守」支柱：合资燃油基本盘退坡快于预期（对照 [[honda-china]]、[[japanese-sales-china-2026]]）
+
+## 2026-11-01 补充：研判 10 强化——本田最惨样本 + 烨 GT 跳票
+- **本田较峰值 -90%、烨 GT 无限期推迟**（[[honda-china]]，11/1 研判周报口径）——4-9 月 -32% 的底座上，本田是跌幅最深的单品牌样本（与页首 -60% 口径并存，基线差异待核）
+- **研判 10（日系在华失守）持续正确（强化）**：纯电转型旗舰两次跳票 = 日系「燃油基盘萎缩 + 纯电无法接棒」的结构性死结坐实；合并谈判（[[nissan]]）成为唯一结构性出路
+- 30 天倒计时并线：欧盟混动配额 12/1 生效（[[eu-hybrid-export-caps-2026]]）将压缩日系在华产能转出口的备选路径

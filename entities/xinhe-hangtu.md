@@ -1,10 +1,10 @@
 ---
 title: 新芯航途 (XHEART)
 created: 2026-10-18
-updated: 2026-10-31
+updated: 2026-11-01
 type: entity
 tags: [chip, ai, oem-eu, oem-cn, supply-chain]
-sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 新芯航途 (XHEART)
@@ -60,3 +60,7 @@ sources: [raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-30-daily
 
 ## 2026-10-31 补充：700TOPS 口径卷入口径战
 - **余凯炮轰「等效算力」后**，X7 Ultra 700TOPS（及 X9 预告 3000TOPS）宣传口径需按「NV 算力 vs 等效算力」重新对账（[[tops-spec-war-2026]]）——2027 三方会战（X9 vs 征程7 vs 特斯拉 AI5）的参数对标基础被重置
+
+## 2026-11-01 补充：Momenta 发布会侧首提「大模型定义芯片」
+- **10/29 X7 Ultra 发布会，Momenta 首提「大模型定义芯片」**（腾讯新闻 10/31 报道）——为「700TOPS 口径待自证」（10/31 已录）提供正面回应框架：芯片按模型需求设计（见 [[momenta]]），利用率即证据
+- 判断：新芯航途 + Momenta 的「芯片-算法」绑定 = 对余凯口径战（[[tops-spec-war-2026]]）的叙事反击——从「算力数字」战场转向「模型-芯片协同」战场；X9（3000TOPS）2027 量产时，衡量标准可能已不是 TOPS 而是「每 TOPS 的有效产出」

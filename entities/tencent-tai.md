@@ -1,7 +1,7 @@
 ---
 title: 腾讯 TAI 智能体
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [system, cockpit, ai, ecosystem]
 sources: [raw/articles/2026-10-30-daily-digest.md]
@@ -23,3 +23,8 @@ sources: [raw/articles/2026-10-30-daily-digest.md]
 
 ## 相关
 - [[volcengine]] · [[in-cabin-ai-agent]] · [[cockpit-llm]] · [[cockpit-ai-evolution]]
+
+## 2026-11-01 补充：AI 组织效能方案（10/30 大会完整口径）
+- 大会另一主线：**AI 组织效能方案**——研发工具链（CodeBuddy/WorkBuddy）从「效率工具」升级为「组织级效能方案」：近九成国内车企采用（新浪财经 10/30）
+- 与 [[ai-engineering-2026]] 的「AI WORLD 浅水区警示」（83.7% 车企 AI Agent 投入办公/客服）互为镜像：腾讯的「办公/客服」工具链恰恰是浅水区主力——平台方赚浅水区的钱，深水区（研发/生产/供应链）留给 [[momenta]]/[[zhuoyu]] 等垂直玩家
+- 判断：座舱/办公 AI 是「流量生意」，研发/制造 AI 是「效率生意」——腾讯卡位前者（2000 万辆装机底座），后者暂无互联网平台级玩家

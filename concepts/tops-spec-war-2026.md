@@ -1,10 +1,10 @@
 ---
 title: 智驾芯片TOPS算力口径战
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 type: concept
 tags: [controversy, chip, adas, strategy]
-sources: [raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 智驾芯片TOPS算力口径战
@@ -38,3 +38,7 @@ sources: [raw/articles/2026-10-31-daily-digest.md]
 ## 相关概念
 - [[autonomous-driving-chips]] - 智驾芯片格局
 - [[byd]] - 最大客户侧的两种口径并存（自研璇玑 + 外购地平线/英伟达）
+
+## 2026-11-01 补充：Momenta 反方框架——「大模型定义芯片」
+- **10/29 新芯航途 X7 Ultra 发布会，[[momenta]] 首提「大模型定义芯片」**（腾讯新闻 10/31 报道）——不接余凯的算力口径战，直接换赛道：芯片按模型需求设计，衡量标准从 TOPS 换成「每 TOPS 的有效产出」（NPU 利用率 98.7%，见 [[xinhe-hangtu]]）
+- 判断：口径战的下一回合不是「谁的数字真」，而是「谁的定义被采纳」——英伟达（[[nvidia]]）代表通用算力、地平线（[[horizon-robotics]]）代表等效算力、Momenta/新芯航途代表模型定义算力，三方叙事将决定 2027 芯片选型的「标尺」

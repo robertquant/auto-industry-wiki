@@ -1,10 +1,10 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-11-01
 type: concept
 tags: [policy, export, europe, strategy, trend]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 中欧混动出口协议（2026-10）
@@ -82,3 +82,8 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **中欧贸易投资磋商机制下达成共识，官方定调「基于事实、非歧视、合规」三原则**（10/14 磋商、10/18 晚报披露）——比「减半数字」更重要的是**合规框架先于细则落地**：配额将按合规/事实核查而非政治配额执行
 - **表态车企扩容**：[[chery]]、[[byd]]、[[bmw]]（聂科维首访华）、[[changan]]、[[leapmotor]] 密集表态支持；**零跑已在欧洲 36 国建立超 1000 家网点并进入本地化制造**——「渠道先行+本地化」成为配额时代中国车企的标准姿势（[[leapmotor-stellantis]]）
 - 判断：三原则 = 给「减半」留出执行弹性——合规能力（碳足迹/溯源/事实核查，呼应 [[battery-passport-2026]]）成为配额谈判中的软筹码；本地化网点密度（零跑 1000+ 家）是配额外的第二战场
+
+## 2026-11-01 补充：12/1 生效确认 + 出口量级测算
+- **配额 12/1 正式生效**（首年 35 万辆，承接 10/17「12 月启动」口径）——政策检验点进入 30 天倒计时（[[forecast-tracker]] 研判 9）
+- **量级对比**：2026 年 7 月中国对欧混动/插混单月出口 5.04 万辆（年化约 60 万）= 首年配额 35 万的 **1.7 倍**——配额约束强度远超 BEV 关税（打价格 vs 封顶量），2027 年对欧混动出口将首次真正撞墙
+- 判断：年底两个月是配额内抢跑窗口（10/17 已录），本地化产能（[[byd-hungary-factory]]、[[leapmotor-stellantis]]、吉利-福特西班牙）爬坡速度直接决定 2027 配额内份额

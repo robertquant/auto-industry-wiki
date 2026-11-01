@@ -1,10 +1,10 @@
 ---
 title: 2026年Q3财报季：增长引擎切换
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 type: concept
 tags: [sales, strategy, trend, comparison]
-sources: [raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 2026年Q3财报季：增长引擎切换
@@ -35,6 +35,11 @@ sources: [raw/articles/2026-10-31-daily-digest.md]
 - 奔驰「全华链」首款（纯电 E 级中国版几乎全部本土采购）
 - Stellantis 靠零跑架构补欧洲电动化短板（[[leapmotor-stellantis]]）
 - **判断：关税挡得住整车，挡不住架构、电池和智驾方案出海**（[[china-tech-reverse-export]]）
+
+## 2026-11-01 补充：八大车企量利倒挂——利润增长极只剩出海与高端化
+- **Q3 仅比亚迪（净利 100.2 亿，+28%）、吉利（净利 48.4 亿，+28%，与上表核心净利 52.1 亿口径并存）、奇瑞（正增长）三家利润正增长**——价格战侵蚀利润，多数车企「量增利不增」甚至量利双降
+- **沃尔沃 Q3 净亏 37 亿克朗**（[[volvo]]）、**捷豹 9 月在华仅 6 辆（-99.7%）**（[[jaguar-land-rover]]）——欧洲二线豪华的失血样本加入财报季全景
+- 判断：量利倒挂 = 中国价格战（[[auto-price-hike-2026]]）+ 欧洲需求疲软双杀；**出海 + 高端化是少数增长极**（比亚迪海外 +91%、吉利高端化，[[china-export-leaders-2026]]）——Q4 价格战更惨烈，利润修复推迟到 2027 配额时代（[[eu-hybrid-export-caps-2026]]）
 
 ## 对照
 - 欧洲内部利润分化见 [[mercedes-vs-stellantis-q3-2026]]（奔驰 vs Stellantis 两种失血模式）

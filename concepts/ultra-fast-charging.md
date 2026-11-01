@@ -1,10 +1,10 @@
 ---
 title: 超快充技术军备竞赛
 created: 2026-05-03
-updated: 2026-10-31
+updated: 2026-11-01
 type: concept
 tags: [battery, charging, 800v, catl, byd, technology]
-sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 ## 概述
@@ -94,3 +94,8 @@ sources: [memory/2026-05-03.md, raw/articles/2026-10-30-daily-digest.md, daily-n
 - **比亚迪闪充站 12,165 座**、年内冲 2 万座（10/30 已录第 1 万座）
 - **吉利 AI 智充 2.2MW 亮相 SAECCE**（2250kW 单枪工程化，[[geely]]）
 - 判断：超充军备从「桩端参数」进入「集团级生态绑定」——电池厂深度参与建站标准，补能成为整车销售叙事的标配组件（对照利用率 6.51% 的盈亏账，10/30 已录）
+
+## 2026-11-01 补充：逸安启焕新——豪华充电网三方合资
+- **逸安启焕新：宝马 / 问界 / 奔驰 各 33.3%**（详见 [[yianqi]]）——800kW 液冷超充、619 站 / 3404 桩、2027 目标 1000 站
+- 意义：超充网络从车企自建（比亚迪 12,165 座、吉利 2.2 万）走向**跨品牌豪华合资**；问界（华为智选车体系）以平股入局 = 中国品牌首次参与欧洲豪华的补能基建标准共建
+- 判断：豪华充电网卷向 800kW 旗舰规格（对照行业利用率 6.51% 盈亏账）——豪华品牌的补能是「服务体验资产」而非「充电生意」，与车企自建站军备（页首）形成两种商业逻辑

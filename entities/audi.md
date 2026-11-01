@@ -1,10 +1,10 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 奥迪 (Audi)
@@ -27,6 +27,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 
 ## 关联
 - [[volkswagen]] - 母集团（在华战略）
+- [[yianqi]] - 奥迪未入股；对照宝马/奔驰×问界三方充电合资
 - [[bmw]] - 德系豪华对照（×Momenta 深度共研）
 - [[mercedes-benz]] - 德系豪华对照（中国定义全球输出）
 - [[traditional-automaker-ai-transition]] - 欧美传统车企智驾追赶框架
@@ -39,3 +40,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 
 ## 2026-10-30 更新：分家细则（ADP 平台自研）
 - **10/28 细化**：四环标归一汽奥迪、AUDI 字母标归上汽奥迪自建渠道 + **ADP 平台自研**，2027 年底前解决同平台遗留问题——双品牌双合作伙伴战略进入执行层（承接 10/26 官宣）
+
+## 2026-11-01 补充：美关税减免承诺确认（15%→约10%）
+- **美方承诺对奥迪关税从 15% 降至约 10%**（10/31 晨报口径）——10/27 佐治亚建厂（40 亿美元/20 万辆）的「扩产换关税减免」兑现为具体税率承诺
+- 判断：「关税换产能」在德系豪华身上第一次闭环——美国关税墙正在把欧洲产能往本土逼（[[north-america-ev-trade-barriers-2026]]），欧洲裁员压力与建厂投资同步放大（对照 [[volkswagen]] 德国裁员）

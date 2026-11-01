@@ -1,10 +1,10 @@
 ---
 title: 铃木 (Suzuki)
 created: 2026-05-27
-updated: 2026-10-12
+updated: 2026-11-01
 type: entity
 tags: [oem-jp, strategy, export, ev-tech]
-sources: [memory/2026-05-27.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [memory/2026-05-27.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 铃木 (Suzuki)
@@ -81,3 +81,7 @@ sources: [memory/2026-05-27.md, raw/articles/2026-10-12-daily-digest.md]
 - 电动化转型速度
 - 能否守住印度市场绝对优势
 - 与丰田协同效应能否兑现
+
+## 2026-11-01 补充：9 月印度零售份额跌破 40% 关口
+- **9 月零售份额 39.59%（跌破 40%）**（研判周报口径）——但失血主角是**塔塔（本土品牌，非中国品牌）**：比亚迪在印度仅 0.1%——「中国 EV 被政策性锁死」（[[japanese-india-strategy]]）的防守逻辑未被证伪，威胁来自本土对手而非中国
+- 判断：40% 心理关口失守 = Maruti 绝对统治的缓慢侵蚀开始；塔塔借混动/电动产品线蚕食，铃木的「混动优先」回应（10/12 已录 e-Sky）节奏是否够快待观察

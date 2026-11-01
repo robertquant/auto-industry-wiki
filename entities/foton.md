@@ -1,10 +1,10 @@
 ---
 title: 福田汽车 (Foton)
 created: 2026-10-09
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [oem-cn, adas, strategy]
-sources: [raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 福田汽车 (Foton)
@@ -25,6 +25,10 @@ sources: [raw/articles/2026-10-09-daily-digest.md, raw/articles/2026-10-30-daily
 ## 战略判断
 - 商用车高阶智驾（干线物流 NOA、港口/矿区无人驾驶）是继乘用车城市 NOA（[[city-noa]]）之后的下一个放量场景
 - 与乘用车路线（华为乾崑、[[momenta]]）相比，商用车更吃「成本 + 场景适配」，正中卓驭性价比路线靶心
+
+## 2026-11-01 补充：磐行发布——战略签约的落地兑现
+- **10/29 卓驭发布商用车技术品牌「磐行」**（行业首个量产重卡端到端大模型）：30 亿公里乘用车数据 + 4 亿帧重卡专属场景，合作覆盖**93% 份额的重卡 TOP6**（详见 [[zhuoyu]]）——10/8 福田×卓驭签约（页首）的首个行业级落地，商用车端到端从「定点」进入「量产交付」
+- 判断：福田作为 TOP6 之一承接磐行首批适配，重卡干线物流高阶智驾的规模化窗口打开（对照 [[pony-ai]] 重卡量产路线）
 - 竞品对照：华为乾崑亦有商用车布局；地平线（[[horizon-robotics]]）在商用车芯片侧渗透
 
 ## 关系网络

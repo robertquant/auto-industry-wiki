@@ -1,10 +1,10 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-10-10
+updated: 2026-11-01
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
-sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-10-daily-digest.md]
+sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 ## 概述
@@ -116,3 +116,7 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
 ### 2026年10月：Type 01 纽约首发
 - **捷豹 Type 01 纽约首发**——纯电超豪华转型旗舰落地（6月「10月首发」承诺兑现）：纯电超豪华 GT 定位，承接品牌「弃油转电、上探超豪」叙事
 - 判断：Type 01 是 JLR「电动化=高端化」策略的成败赌注（对比 Range Rover Electric 反复跳票）——选纽约而非欧洲首发，瞄准超豪华客户群与舆论高地；市场表现不及预期则捷豹品牌转型窗口彻底关闭（对照 [[mercedes-benz]] 高端化、[[bba-ev-ranking-2026]]）
+
+### 2026年11月补充：9月在华仅售6辆——主动清库赌2027
+- **捷豹品牌 9 月在华仅售 6 辆（-99.7%）**（晨报口径）——停产后主动清库，官方口径为战略收缩而非崩盘
+- 判断：清库 = 把存量折价出清、为 Type 01 / 揽胜 GT 2027 上市腾品牌心智；但 6 辆的量级意味着捷豹在华渠道事实上停摆——「豪赌 2027」窗口期内中国豪华叙事（[[bba-ev-ranking-2026]]）继续被 [[byd-han]] 等国产旗舰收割

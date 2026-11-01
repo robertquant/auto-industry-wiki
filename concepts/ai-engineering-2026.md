@@ -1,10 +1,10 @@
 ---
 title: 2026年汽车行业AI工程化
 created: 2026-09-19
-updated: 2026-10-27
+updated: 2026-11-01
 type: concept
 tags: [ai, trend, oem-cn, sw, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 2026年汽车行业AI工程化
@@ -83,3 +83,7 @@ AI在汽车行业正经历类似于2020-2021年「电动化从概念到量产」
 - **蔚来新桥工厂：建厂周期 36 → 20 个月、自动化率 90%**
 - 车百智库：AI 落地场景 239 个——工程化从单点试点进入场景矩阵
 - 判断：数字带 PR 口径，但方向明确——AI 价值兑现从「效率叙事」转向「时间×成本×人力」结构化压缩，与上文 9 月「工程化元年」判断衔接
+
+## 2026-11-01 更新：AI WORLD 年会——「钱投错层」警示
+- **83.7% 车企 AI Agent 投入在办公/客服「浅水区」**；研发/生产/供应链等纵深场景仅 **16.3%**（央广网 10/30 口径）——工程化「元年」的另一面：投入结构仍集中在轻场景
+- 判断：浅水区（办公/客服）是「流量生意」（对照 [[tencent-tai]] 工具链底座），深水区（研发/制造/供应链）是「效率生意」但门槛高——车企 AI 预算的 80% 以上押在低壁垒场景，说明工程化从「有没有」到「深不深」还有一整个组织周期（[[organization-friction]]）；16.3% 的纵深投入正是 [[ai-auto-rnd-whitepaper]] 白皮书主张的错位所在

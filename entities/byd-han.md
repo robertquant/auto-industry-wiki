@@ -1,10 +1,10 @@
 ---
 title: 比亚迪大汉（2026款）
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-01
 type: entity
 tags: [vehicle, oem-cn, ev-tech, pricing]
-sources: [raw/articles/2026-10-14-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 比亚迪大汉（2026款）
@@ -16,13 +16,14 @@ sources: [raw/articles/2026-10-14-daily-digest.md]
 
 | 维度 | 内容 |
 |------|------|
-| 起售价 | **23.59 万元**（预售 24.99-29.99 万，上市价下探 1.4 万） |
+| 价格带 | **23.59-27.59 万元**（预售 24.99-29.99 万，上市价下探 1.4 万） |
 | 续航 | CLTC 最高 **1008 km** |
-| 电池 | 二代刀片电池（[[gen-2-blade-battery]]） |
+| 电池 | **102.3kWh** 二代刀片电池（[[gen-2-blade-battery]]） |
 | 快充 | 兆瓦闪充（[[ultra-fast-charging]] 网络配套） |
-| 底盘 | **云辇-A** 智能底盘 |
+| 底盘 | **云辇-A + 双腔空悬全系标配** |
 | 转向 | **后轮转向全系标配** |
-| 尺寸 | D级行政（轴距 3,130mm） |
+| 智驾 | 激光雷达全系标配 |
+| 尺寸 | D级行政（5.2 米 / 轴距 3,130mm） |
 | 平台 | 全栈 800V（[[800v-platform]]） |
 
 ## 战略意义

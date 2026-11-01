@@ -1,10 +1,10 @@
 ---
 title: 2026碳酸锂价格暴涨
 created: 2026-05-13
-updated: 2026-10-26
+updated: 2026-11-01
 type: concept
 tags: [battery, supply-chain, cost, policy]
-sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 2026碳酸锂价格暴涨
@@ -93,3 +93,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-
 
 - **赣锋锂业前三季营收 361.59 亿（+147.24%）、归母净利 50.12 亿（+19540.5%）**（10/16 盖世）——业绩爆发主因 **锂价回升 + 锂盐量价齐升**，储能需求与新能源车出口带动
 - 判断：「需求好≠价格涨」的供给主导逻辑（10/13 已录）反向成立：价格涨则上游利润弹性极大（195 倍）；但 10/12 单日暴跌 11.79% 表明价格波动仍是主导——赣锋暴利是「期货式行情」的报表兑现，不是产业趋势的确认（[[battery-fifteen-five-plan]] 政策托底 vs 供给过剩博弈延续）
+
+## 2026-11-01 更新：10 万关口失守（期货 8.8 万）——研判 6 连续第二次落空
+- **碳酸锂现货跌破 10 万关口，期货跌至 8.8 万**（研判周报 11/1 口径）——从 10/12 的 10.89 万继续下探，5 月 17.19 万高点以来下行通道未改
+- **诚实复盘**（[[forecast-tracker]] 研判 6）：5 月初判「价格可能降」方向其实对了，被纠正后一路修向「高位震荡/企稳」——预期连续第二次落空，供给过剩主导（9/29 库存上修 17.5 万吨坐实）与「期货式行情」判断仍是主线
+- 影响：锂价低位 = 电池厂成本红利延续、价格战弹药充足（[[auto-price-hike-2026]] 涨价逻辑持续逆转）；上游矿端减产挺价博弈开启（[[battery-fifteen-five-plan]] 政策托底）

@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-10-31
+updated: 2026-11-01
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -223,3 +223,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-31 补充：G9L 右舵发运 + 机器人固态电池下线
 - **G9L 右舵版发运澳洲**（[[xpeng-g9l]]）+ 巴黎车展（[[2026-paris-auto-show]]）——出口产品线补右舵市场
 - **小鹏机器人固态电池量产下线**（非车规）——「机器人固态先行、车规后随」：产线逻辑与车规共享，为 2027 车用固态（[[solid-state-battery]]）预演（[[xiaopeng-yoyo]]）
+
+## 2026-11-01 更新：10 月交付 5.02 万创新高 + Robotaxi 内测订单
+- **10 月交付 5.02 万创新高**；其中**海外 1.33 万（+166%）**——出口从 9 月首破万辆（10/25 已录）加速为结构性第二增长极（[[china-export-leaders-2026]]）
+- **二代 VLA 量产 Robotaxi 完成 2000+ 次内测订单**（凤凰网 11/1）——「前装量产+软硬一体」Robotaxi 路线（[[xiaopeng-yoyo]]）从资质（10/26 广州全域 L4 批文）进入订单验证阶段
+- 判断：5.02 万 = 多车型矩阵 + 海外双轮兑现；Robotaxi 内测订单是「L4 第一人」叙事的可量化证据（10/22 何小鹏 L4 2028 口径，[[vla-world-model]]）

@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -371,3 +371,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **巴西产线**：投 20 亿雷亚尔改造吉利 GEA 平台产线，EX5 已量产、EX2 锁定 12 月——中国平台在雷诺海外工厂落地（见 [[geely]]）
 - **Twingo**：上海 ACDC 主导、22 个月完成开发（见 [[renault-acdc-model]]）
 - **本周判断**：叙事从「转型故事」变「执行故事」；Q4 看巴西产能爬坡能否止血拉美、达契亚纯电能否接上，两块若 miss 则 5.5% 指引含金量存疑
+
+## 2026-11-01 更新：晨报口径 + 联盟十年协议到期
+- **晨报口径**：Q3 营收 116 亿欧（+1.5%）但销量 -2.2%，「提价保利润」定性——与 10/30 已录（固定汇率 +1.4%、销量 -6.0%）并存：口径差异（名义 vs 固定汇率、集团 vs 零售）待核，但「价值优先于销量」主线一致
+- **联盟松散化再进一步：三菱×日产十年合作协议到期**（承接 10/16 三菱转购富士康 EV）——雷诺-日产-三菱三角关系只剩雷诺-日产双核，雷诺独立转型 + 吉利/福特合作方向不变（[[horse-powertrain]]、[[nissan]]）
+- 判断：Q4 价格战更惨烈背景下，雷诺需吉利式伙伴摊薄成本（[[geely]] GEA 巴西产线已落地），否则被中国品牌 + 特斯拉两头挤压；5.5% 利润率指引的含金量看达契亚纯电接棒（[[dacia]]）

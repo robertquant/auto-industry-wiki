@@ -1647,3 +1647,45 @@
 - ③ 智驾营销进入责任战：比亚迪双兜底条款化赔付 vs 广丰罗生门话术兜底
 - ④ Q3财报季确认格局切换：中国增长引擎切海外、欧洲集体以华制华——关税挡得住整车，挡不住架构/电池/智驾方案出海
 - ⑤ 固态电池时间表趋同：宁德20Ah试制+比亚迪2027装车+巨湾产线+蜂巢半固态——2027固态元年共识成型
+
+## [2026-11-01 22:00] ingest | 每日整理（晨报07:00 + AI日报15:00 + 研判追踪周回顾）
+- 原始素材：raw/articles/2026-11-01-daily-digest.md（新建；本日无外链原文，按记忆汇总）
+
+### 新建页面（2）
+- entities/wenjie-m8.md - 问界新M8（11/13发布 38.98万起）：乾崑ADS 5+全系L3架构+四激光雷达——L3架构标配预埋，为2027强制国标提前交作业
+- entities/yianqi.md - 逸安启（2026-11焕新）：宝马/问界/奔驰各33.3%三方超充合资，800kW液冷、619站/3404桩、2027目标1000站——中国品牌平股入局豪华充电网
+
+### 更新页面（21）
+- entities/audi.md - 美关税减免承诺确认15%→约10%（佐治亚换关税闭环）
+- entities/byd-han.md - 价格带23.59-27.59万、102.3kWh二代刀片、双腔空悬+激光雷达全系标配
+- entities/bmw.md - iX3入围2027欧洲年度车七强（63年来首次全纯电阵容）
+- entities/volvo.md - Q3净亏37亿克朗口径确认（营业利润-56亿已录）
+- entities/jaguar-land-rover.md - 9月在华仅售6辆（-99.7%）清库赌2027
+- entities/renault.md - 晨报口径Q3营收116亿欧+1.5%/销量-2.2%；三菱×日产十年协议到期、联盟松散化
+- entities/xiaopeng.md - 10月交付5.02万创新高（海外1.33万+166%）+ Robotaxi内测订单2000+
+- entities/xiaopeng-yoyo.md - 二代VLA量产Robotaxi完成2000+次内测订单
+- entities/li-auto.md - OTA 9.2（马赫VLA 2.5+座舱Agent）+ 10月交付2.9万/累计186.3万
+- entities/momenta.md - 首提「大模型定义芯片」（X7 Ultra发布会）
+- entities/xinhe-hangtu.md - 大模型定义芯片=对口径战的叙事反击
+- entities/tencent-tai.md - AI组织效能方案补充（浅水区镜像）
+- entities/foton.md - 磐行发布=10/8战略签约落地兑现
+- entities/suzuki.md - 9月印度零售份额39.59%跌破40%（主角是塔塔非中国）
+- entities/honda-china.md - 烨GT无限期推迟+较峰值-90%口径
+- concepts/tops-spec-war-2026.md - Momenta反方框架「大模型定义芯片」
+- concepts/ai-engineering-2026.md - AI WORLD：83.7%投入浅水区/纵深仅16.3%
+- concepts/q3-2026-earnings-season.md - 八大车企量利倒挂（仅比亚迪/吉利/奇瑞正增长）
+- concepts/ultra-fast-charging.md - 逸安启三方合资豪华充电网
+- concepts/lithium-price-surge-2026.md - 碳酸锂现货破10万/期货8.8万（研判6连续第二次落空，诚实复盘）
+- concepts/eu-hybrid-export-caps-2026.md - 12/1生效首年35万辆，7月对欧单月出口5.04万=配额1.7倍
+- concepts/japanese-automaker-crisis-2026.md - 本田烨GT跳票、研判10强化
+
+### 导航更新
+- index.md：Last updated 2026-11-01；Total pages 355→**357**（entities 150→152）；供应商/方案商(25→26)/产品平台(27→28) 小节计数同步；新增 [[wenjie-m8]]、[[yianqi]] 及14处摘要更新
+- 完整性校验：comm 输出为空 ✅（357 注册 = 357 实体，0 缺失）
+
+### 核心判断
+- ① Q3量利倒挂坐实：利润增长极只剩出海+高端化，Q4价格战更惨烈
+- ② 芯片话语权战升级：余凯「算力含金量」vs Momenta「大模型定义芯片」——谁的定义被采纳决定2027选型标尺
+- ③ 关税换产能闭环：奥迪15%→10%确认，「到美国建厂」从叙事变税率
+- ④ 12/1混动配额倒计时30天：7月单月出口5.04万=配额1.7倍，2027首次撞墙
+- ⑤ 补能合资新模式：逸安启三方33.3%——中国品牌首次平股参与欧洲豪华充电基建标准

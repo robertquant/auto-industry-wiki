@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-01
 type: entity
 tags: [oem-eu, strategy, sales, export]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -113,3 +113,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-10-30 更新：二轮裁员 + EX60 首发
 - **二轮裁员约 2500 人**（约占员工总数 6%）——累计裁员规模扩大
 -**EX60 首发**（WLTP 810km）+ **扩大英伟达合作**——纯电矩阵补强、智驾绑定英伟达（对照 [[geely]] 体系内资源）
+
+## 2026-11-01 补充：净亏 37 亿克朗口径确认
+- **Q3 净亏损 37 亿克朗（SEK）**（晨报口径）——页首 10/27「营业利润 -56 亿 SEK 由盈转亏」的净利口径补充；股价单日 -26%（与已录 -30% 并存，疑盘中/收盘口径差，见 10/29 记录）
+- 大中华区 -40.6% 无改善 + 再裁 2500 人（10/27 已录）——「西方研发+中国销售」模式判词（10/29 CEO 原话）的报表侧印证（[[china-tech-reverse-export]]、[[geely]]）
