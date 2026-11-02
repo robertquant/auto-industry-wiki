@@ -1,0 +1,24 @@
+---
+title: 欣旺达动力（Sunwoda）
+created: 2026-11-02
+updated: 2026-11-02
+type: entity
+tags: [battery, oem-cn, supply-chain]
+sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-02-gasgoo-evening.md, entities/li-auto-lianshan-battery.md]
+---
+
+# 欣旺达动力
+
+欣旺达电子（消费电池龙头）旗下动力电池业务主体，车企资本入股的「电池代工+技术合作」热门标的。2026 年内先后获理想、小米两家新势力入股。
+
+## 关键事实
+- **2026-11-02：小米集团 17 亿入股欣旺达动力，成为第三大股东**（盖世汽车晚间晚报）——小米产业链在电池环节的股权卡位（[[xiaomi-auto]]）
+- **2026 年内：理想汽车斥 26.5 亿元入股欣旺达（持股约 11.17%）**——与 [[li-auto-lianshan-battery]]「电芯自研 + 欣旺达/中创新航代工」的轻资产垂直整合路线配套（对比 [[catl]] 整包采购、[[byd]] 全链自产）
+- 定位：消费电池巨头延伸出的动力电池产能方——「代工产能 + 车企深度绑定」模式代表，车企穿透式管理（[[battery-white-box]]）的典型合作对象
+
+## 含义
+- 小米、理想相继入股 = 新势力绕开宁德时代绑定逻辑下的「第二电池体系」建设：不追求全栈自研，而是用股权锁定优质代工产能
+- 欣旺达模式与 [[catl]] 的整车厂合资（奇瑞/东风等）构成电池供应链两种绑定范式：龙头输出标准 vs 代工厂被车企控股渗透
+
+## 相关
+- [[xiaomi-auto]] · [[li-auto-lianshan-battery]] · [[catl]] · [[battery-white-box]] · [[byd]]
