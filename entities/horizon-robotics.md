@@ -1,7 +1,7 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [chip, adas, ai, tier1]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -117,3 +117,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **捷达 M6（7.98 万起）上征程 6M + HSD（酷睿程）**——HSD 在比亚迪 + 大众系双线扩量（[[volkswagen]]、[[courizon]]）
 - **余凯 10/30 晚微博炮轰算力虚标**：英伟达口径 = 稠密 ×2（Orin X 127→254TOPS），行业「等效算力」吹到稠密 6-7 倍；地平线今后双标——征程 6P NV 算力 560TOPS + 「等效算力（吹牛算力）」1960TOPS（详见 [[tops-spec-war-2026]]）
 - 判断：HSD 软硬一体闭环在比亚迪 + 大众两大体系同时放大，英伟达在中国最核心出货盘（比亚迪）被挤压；炮轰时点 = 商业博弈 + 话语权争夺，芯片竞争从数字战转「含金量战」
+
+## 2026-11-03 更新：整车智能体入选世界互联网大会 20 大成果（11/2 乌镇）
+- **整车智能体入选世界互联网大会「20 大领先成果」**（11/2 乌镇）——中国 L4/具身智能集中展示的一环（[[l4-global-race-2027]]）
+- 同台口径：**征程 BPU 累计出货 1,500 万套**（约每 3 台智能车 1 台）、星空舱驾融合、HSD 一段式端到端量产；**40+ 车企、200+ 伙伴生态**
+- 判断：乌镇成果 = 「征程走量、星空定调、酷睿程自主叙事」（10/29 已录）之外的第四层：**国家级奖项背书**——与德国总统合肥体验（10/29）、中汽学会特等奖（10/30）连成 10 月下旬的国家级认可连击；物理 AI 平台战（[[ecarx]] 同日 ×Arm 备忘录）下，地平线用「成果清单 + 生态规模」对打「平台叙事」

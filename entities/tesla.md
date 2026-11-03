@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-11-03
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -115,3 +115,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **Q3（10/21 发布）**：营收 280.5 亿美元持平、GAAP 净利 7.87 亿（-43%）、交付 48.65 万辆（-2%）；但**毛利率回升 19.6%、FCF 转正 15.3 亿**；FSD 北美活跃订阅 **174 万（+67%）**；Cybercab 奥斯汀运营、Optimus 弗里蒙特量产线投产；capex 指引 250→200 亿美元向 AI/机器人倾斜（详见 [[tesla-q3-2026]]）
 - **×支付宝**：车载助手智慧停车、车机直接付停车费——**首次正式签约中国生态**而非单点适配
 - 判断：「美国收缩汽车叙事、中国接入生态」——不在中国建生态就接中国的生态（[[tesla-fsd-china]] 后第二个本土化妥协）；「利润承压、AI 叙事继续」与辛国斌「严禁未充分测试产品入市」（[[innovation-verification-regulation-2026]]）构成中美监管对照
+
+## 2026-11-03 更新：Robotaxi 扩至美 8 城
+- **Robotaxi 扩至美国 8 城**：新增得州沃斯堡，覆盖 TX/FL/CA 三州——从奥斯汀单点（[[tesla-q3-2026]]）到多州铺开，与内华达 5,000 台批文（10/6 已录）爬坡形成「批文 → 开城」节奏
+- **10 月欧洲注册量大涨**：瑞典 +248%、西班牙 +271%、挪威 +131%（盖世 11/3）
+- 判断：Robotaxi 进入「扩城叙事」阶段——城市数量逼近 Waymo 15 城（[[waymo-vs-tesla-robotaxi-2026]]），但车队密度/单量差距仍在数量级；欧洲注册量爆发 = FSD 欧洲路演（10/10 已录）后的购车转化，「智驾叙事带动销量」的实证（[[l4-global-race-2027]]）

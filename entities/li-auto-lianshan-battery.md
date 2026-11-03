@@ -1,7 +1,7 @@
 ---
 title: 理想连山电池体系 (Li Auto Lianshan Battery)
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-03
 type: entity
 tags: [battery, ev-tech, oem-cn, vehicle]
 sources: [raw/articles/2026-10-22-daily-digest.md]
@@ -35,3 +35,7 @@ sources: [raw/articles/2026-10-22-daily-digest.md]
 - [[catl]] - 被「叛逃」的电池龙头
 - [[battery-white-box]] - 车企穿透供应链趋势
 - [[li-auto-m100]] - 自研芯片先例
+
+## 2026-11-03 补充：连山电机——三电自研闭环（晨报口径）
+- 晨报口径「理想发布自研连山电池/连山电机」——连山体系从电池（5C 三元锂，[[li-auto-i6]] 首发）延伸到电机，完成「电池 + 电机 + 电控」三电自研叙事（对照 [[byd]] 刀片电池 + 弗迪动力的全栈三电）
+- 判断：电芯代工（欣旺达/中创新航）+ 电机自研的组合继续验证「苹果式设计 + 代工」模式（10/23 已录）——车企自研从智驾芯片（[[li-auto-m100]]）蔓延到三电全链，[[battery-white-box]] 趋势的最完整样本之一

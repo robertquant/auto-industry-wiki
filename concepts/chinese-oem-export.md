@@ -1,7 +1,7 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-11-03
 type: concept
 tags: [export, strategy, trend, oem-cn]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
@@ -90,3 +90,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 
 ## 2026-10-30 更新：赵福全「从卖得多转向赚得到」
 -**赵福全**（10/30「中国拥抱世界」产业论坛）：出海必须从「卖得多」转向「赚得到」，构建新型全球化公司——与奇瑞「2030 海外生产占比七成」本地化路线互为印证（见 [[chery]]、[[china-oem-europe-top10-2026]]）
+
+## 2026-11-03 更新：海外售后短板反噬——出海进入「下半场」
+- **盖世专题：中国车海外越卖越多，海外售后却暴露隐患**——备件供应、维修网络、服务响应等短板开始反噬品牌（11/2）；杨云桐提出「前店—中脑—后厂」模式（门店网络 + 数字化中枢 + 本地工厂）推动供应链群体性出海
+- **零部件企业跟随整车落地**：浩思动力巴西库里蒂巴新铸造厂开业——「就近配套」随整车出海节奏加速
+- 判断：出口「量」叙事见顶（10/10 已录）之后，**售后体系 = 出海下一道必答题**——赵福全「赚得到」（10/30）的运营侧落地：残值、口碑、复购全部押在售后网络上（对照 [[dealer-margin-crisis]] 国内教训的海外重演风险；与 [[leapmotor]]/[[stellantis]] 借渠道出海形成「自建 vs 借用」两种售后路径）

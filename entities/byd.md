@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -279,3 +279,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **闪充站 12,165 座**、年内冲 2 万座（10/30 已录第 1 万座落成，[[ultra-fast-charging]]）
 - **宋 Ultra DM-i 上市**（12.99-15.99 万，见 [[song-ultra-dmi]]）：行业首创「双兜底」赔付（[[adas-liability-guarantee]]）、首搭「迪迪虾」AI 智能体、璇玑 2.0 中央大脑时延 8μs
 - 判断：Q4 换代组合拳（秦PLUS/海狮06/宋Ultra/唐三代官图）全线就位，10 月冲 50 万关口（10/30 已录）；利润端「海外 + 高端化」对冲内需收缩的结构在 Q3 财报首次完整验证
+
+## 2026-11-03 更新：10月 49.02万——50万关口差一口气
+- **10 月集团销量 49.02 万辆（+11%）**——花旗预测区间上沿（44-47万，10/29 已录）兑现，但 50 万关口（10/30 已录「10 月冲 50 万」）差一口气
+- **纯电乘用车 30.57 万辆创纪录**；**出口 +102.8%**——纯电+出口双引擎（[[china-export-leaders-2026]]）
+- 判断：总量新高+出口翻倍之下，国内插混红利见顶信号（[[2026-10-china-sales-battle]]）意味着 Q4 增量只能靠纯电+海外；「金九银十消失年」里比亚迪是唯一靠出口翻倍对冲内需走弱的头部（对照 [[geely]] 同口径结构）

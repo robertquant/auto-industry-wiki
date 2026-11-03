@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -64,3 +64,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 - **保加利亚 SKD 工厂 2027Q1 投产欧拉 5（年产能 5 万）**——**绕欧盟 20.7% 反补贴税**的东欧卡位：直接回应 10/28「欧洲（除俄）仅 275 辆/月」的渠道空白——战术级验证失败后进入产能级布局
 - **GWM H7 米兰上市**——欧洲渠道从空白开始补点（南欧经销切入）
 - **判断修正（10/29）**：10/28「无欧盟渠道+无本地化产能=渠道型出局风险」被今日动作**部分推翻**——保加利亚 SKD（低成本绕税）而非吉利/比亚迪式全新建厂，是「欧盟关税墙下的最小成本入场券」；2027Q1 若兑现，长城从「渠道空白」升级为「东欧产能卡位」（[[eu-industrial-accelerator-act]] 语境下本地化含量仍是后续变量；对照 [[eu-70x70-rule]] 70×70 规则，SKD 的本地价值占比将决定其天花板）
+
+## 2026-11-03 更新：10月 12.04万（-15.9%）——国内失速加深
+- **10 月销量 12.04 万辆（-15.9%）**——9 月 11.5 万（-14%）后跌幅继续扩大；海外占比过半结构未变（52.2%，9 月口径，[[china-export-leaders-2026]]）
+- 判断：国内 SUV/皮卡基本盘拖累加深（皮卡市占率 27%，10/28 已录），出口（俄/非/拉）仍是唯一增长极——「出海撑量、国内失血」在长城身上比 [[geely]] 更极端（吉利国内 -23.6% 但总量新高，长城连总量都保不住）

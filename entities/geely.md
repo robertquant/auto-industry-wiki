@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -235,3 +235,10 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **曹操出行签约乌镇道路测试 + 本地调度体系，主驾无人 Robotaxi 亮相互联网大会**——[[native-robotaxi-2026]] 文旅场景落地：Eva Cab 2027 量产（10/21 已录）前的场景先行验证（[[caocao-robotaxi]]）
 - **吉利 AI 智充 2.2MW 亮相 SAECCE**——2250kW 单枪（10/2 已录）的工程化披露（[[ultra-fast-charging]]）
 - 判断：Robotaxi 走「场景单点 → 城市复制」而非一次性全域开城——乌镇 = 有路权、有客流、有政府背书的样板间
+
+## 2026-11-03 更新：10月 31.02万首破 30万——国内 -23.6% 的「出海撑量」
+- **10 月总销量 310,183 辆创年内新高（首破 30 万）**，连续 8 个月同环比双增；但**国内 -23.6%**——增量全部来自海外/出口
+- **银河 153,385 辆创单月新高**，星愿累计破 100 万（平均 55 秒下线一辆）
+- **出口 107,153 辆（+158%）**，其中**新能源出口 82,565 辆（+506%）、占出口比重 77%**——出口结构彻底电动化
+- 与 [[renault]] 巴西 GEA 新车 2026H2 投放（11/3 晨报）衔接：拉美本地化进入产品投放期（[[china-oem-europe-top10-2026]]、[[chinese-oem-export]]）
+- 判断：国内 -23.6% + 总量新高 = 「出海成基本盘」的最强实证——吉利是第一个用海外增量完整覆盖国内下滑的自主头部（对照 [[great-wall]] 国内失血无对冲、[[byd]] 出口翻倍结构）

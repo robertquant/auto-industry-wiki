@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -197,3 +197,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-31 补充：前三季 30.03 万辆
 - **前三季交付 30.03 万（+49.2%）**，但 9 月仅 +7.7%——乐道切换拖累单月增速
 - 判断：全年增长大盘无虞，但单月增速从 +40% 区间回落到个位数——多品牌（乐道/萤火虫）爬坡期波动显性化（[[q3-2026-earnings-season]]）
+
+## 2026-11-03 更新：10月 3.42万 + Q3 中国终端首超 BBA
+- **10 月交付 3.42 万辆**（同环比下滑——「零小小」格局（[[new-forces-landscape-2026]]）下承压方之一）
+- **Q3 中国终端销量 11.16 万辆，首超 BBA（10 月中旬数据）**——高端纯电在中国终端的结构性信号：奔驰/宝马/奥迪在华盛时（对照 [[mercedes-benz]] 中国失速、[[jaguar-land-rover]] 在华崩塌），蔚来用纯电在销量口径第一次越线
+- 判断：终端超 BBA ≠ 盈利超 BBA，但「中国高端纯电品牌销量越过德系豪华」是品牌心智拐点；叠加雷克萨斯 2027 国产（[[lexus]]）、德系本地化补课，豪华市场进入「中国定义」阶段（[[mercedes-benz]]「由中国定义、为全球输出」同向）

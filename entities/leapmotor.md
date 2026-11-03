@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -230,3 +230,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-31 补充：出口 15 万+ 提前达标
 - **1-9 月出口 15 万+，提前达成全年出口目标**（晨报口径）——连续三月破 10 万（10/30 已录）之上的第二条成长曲线（[[china-export-leaders-2026]]）
 - 判断：出口提前达标 = 欧洲本地化（B10 萨拉戈萨）+ 海外渠道（网点破 1000 家）双轮兑现，「出海从增量变结构件」的量化验证（[[q3-2026-earnings-season]]）
+
+## 2026-11-03 更新：10月 10.61万 连续4月破10万——「断层领跑」坐实
+- **10 月全球交付 106,127 台（+51%）**，连续 4 个月破 10 万；**单月量 ≈ 深蓝+极氪+理想三家之和**（盖世 11/3 口径）
+- **累计交付超 190 万台**，11 月将迎第 200 万台整车下线；稳居中国新能源品牌前三、全球前四
+- 判断：10.6 万/月已成常态而非峰值——[[new-forces-landscape-2026]]「零小小」格局的第一极；Stellantis 渠道（B10 萨拉戈萨 + 欧洲网点 1000+，[[leapmotor-stellantis]]）把「性价比出海」跑成第二增长曲线

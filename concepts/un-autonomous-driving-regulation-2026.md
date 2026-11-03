@@ -1,7 +1,7 @@
 ---
 title: 联合国自动驾驶法规获批（2026年6月）
 created: 2026-06-28
-updated: 2026-10-20
+updated: 2026-11-03
 type: concept
 tags: [policy, regulation, l3, autonomous-driving]
 sources: [memory/2026-06-28.md]
@@ -83,3 +83,9 @@ sources: [memory/2026-06-28.md]
 ## 来源
 
 - memory/2026-06-28.md 盖世汽车日报
+
+## 2026-11-03 更新：日本拟立无方向盘 L4/L5 安全标准（国别跟进）
+- **日本正考虑修订安全认证标准，将无方向盘、无制动踏板的 L4/L5 自动驾驶汽车纳入统一监管**（盖世 11/3）——为 Robotaxi 规模化扫清制度障碍；联合国 ADS 法规（2026/6/24，页首）之下，各主要市场进入「国别标准细化」阶段
+- 直接受益：[[toyota]] × [[waymo]] 2027 日本 bZ4X 全无人 Robotaxi（无方向盘形态的方向标，见 [[l4-global-race-2027]]）；对照中国 GB 44721-2026（[[l3-mandatory-standard]]）与欧盟 ADS 法规推进
+- 判断：全球框架之后，日/中/欧各自的「国别实施细则」决定 Robotaxi 商用节奏——日本把「无方向盘」单独立标 = 明确给 L4 形态松绑，与联合国 WP.29 互认框架（页首）衔接
+- 来源：daily-news/2026-11-03-gasgoo-evening.md

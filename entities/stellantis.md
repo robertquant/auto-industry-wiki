@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -130,3 +130,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-10-31 补充：北美止血拆解 + VCP 再降本
 - Q3 拆解（总数据 10/28 已录）：北美止血见效为减亏 90% 主因；扩欧利润率同比 -340bp；Q4 靠 VCP 再降本
 - 判断：「北美修复 + 欧洲失血」双轨并行，2027 工业 FCF 转正指引（10/28 已录）仍是最大悬点；与 [[volkswagen]] 的德国重组、[[mercedes-benz]] 的全华链构成欧洲三种降本路线（[[mercedes-vs-stellantis-q3-2026]]）
+
+## 2026-11-03 更新：2027 起欧洲扩 LFP 应用
+- **计划 2027 年起在欧洲多款车型扩大 LFP 电池应用**（降电池成本、提升入门电动车竞争力），**供应或来自与 [[catl]] 合作的西班牙电池工厂**（盖世 11/3）
+- **芯片短缺正影响意大利菲亚特车型生产**，供应问题或延续至 12 月
+- 判断：欧洲扩 LFP = 入门电动车的成本再战（对照 [[entry-ev-profit-crisis]]）；西班牙工厂绑定 = 宁德对欧产能从「供应方」变「联合体」（[[global-battery-market-2026]]）；菲亚特停产 = 欧洲本土供应链韧性仍是硬伤（承接 10/25 北伏连锁反应）

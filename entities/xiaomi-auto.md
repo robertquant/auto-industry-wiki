@@ -1,7 +1,7 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-10-31
+updated: 2026-11-03
 type: entity
 tags: [oem-cn, vehicle, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -102,3 +102,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-10-31 补充：传 2027 目标 80 万
 - **市场消息：2027 目标 80 万辆**（未官宣）；1-9 月累计 28.6 万，仅完成 55 万年度目标 52%——2026 目标大概率落空，2027 翻倍预期押注 [[xiaomi-pengcheng]]（N70/N90）走量 + SU7/YU7 双矩阵（10/23 已录）
 - 判断：80 万 = 产能/交付爬坡的资本市场锚——真实约束是产能而非订单（[[xiaomi]]）
+
+## 2026-11-03 更新：10月首破 5万 + 2027 进欧洲
+- **10 月交付首破 5 万辆**（晨报口径）——与 [[xiaopeng]]（5.02万）并驾组成新势力第二梯队
+- **2027 年进入欧洲市场**（晨报口径）——欧洲节奏浮出水面：SU7/YU7 + 澎程增程的产品矩阵进欧，直面 [[eu-industrial-accelerator-act]] 本地化门槛与 [[eu-70x70-rule]] 本地价值规则
+- 判断：5 万/月 = 9 月首破 4 万（10/1 已录）之后的第二个台阶，「零小小」格局（[[new-forces-landscape-2026]]）确立；欧洲是 2027 年「产能 vs 合规」的新考试（对照 [[china-oem-europe-top10-2026]] 先行者路径）
