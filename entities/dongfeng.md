@@ -1,7 +1,7 @@
 ---
 title: 东风汽车 (Dongfeng)
 created: 2026-10-22
-updated: 2026-10-31
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, adas, ai, trend]
 sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -31,3 +31,6 @@ sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily
 - [[mengshi-x700]] - ×华为乾崑合作 2.0 首款车（猛士）
 - [[central-soe-restructuring-2026]] - 三大央企整合
 - [[wnevc-2026]] - 世界智能网联汽车大会
+## 2026-11-04 更新：岚图欧洲 + 神龙×Momenta
+- **Stellantis 拟在欧洲设合资公司（51:49）运营岚图欧洲销售**——「东风出技术产品、Stellantis 出渠道」的技术互换模式（[[stellantis]]）；神龙科技×[[momenta]] 基于 R7 世界模型共研高阶智驾，将搭载标致/Jeep 全球车型
+- 判断：央企整合期（[[central-soe-restructuring-2026]]）东风把「技术+产品」变成对欧筹码；欧洲关税节奏仍是变数

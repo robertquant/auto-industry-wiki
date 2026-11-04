@@ -1,7 +1,7 @@
 ---
 title: 第五代磷酸铁锂电池
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-11-04
 type: concept
 tags: [battery, lfp, technology]
 sources: [memory/2026-05-24.md]
@@ -60,3 +60,5 @@ sources: [memory/2026-05-24.md]
 - [[byd]] - 比亚迪，刀片电池代表
 - [[solid-state-battery]] - 固态电池，中长期技术路线
 - [[ultra-fast-charging]] - 超快充技术
+## 2026-11-04 更新：锰基锂电池首进乘用车公示
+- **第 413 批工信部公示：荣威家越06 申报锰基锂电池选项**——锰基路线首次进入乘用车申报，继高镍三元、LFP、钠电之后的又一路线信号（[[sodium-ion-battery]]、[[global-battery-competition]]）

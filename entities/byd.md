@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -284,3 +284,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **10 月集团销量 49.02 万辆（+11%）**——花旗预测区间上沿（44-47万，10/29 已录）兑现，但 50 万关口（10/30 已录「10 月冲 50 万」）差一口气
 - **纯电乘用车 30.57 万辆创纪录**；**出口 +102.8%**——纯电+出口双引擎（[[china-export-leaders-2026]]）
 - 判断：总量新高+出口翻倍之下，国内插混红利见顶信号（[[2026-10-china-sales-battle]]）意味着 Q4 增量只能靠纯电+海外；「金九银十消失年」里比亚迪是唯一靠出口翻倍对冲内需走弱的头部（对照 [[geely]] 同口径结构）
+
+## 2026-11-04 更新：自研算法量产节点 + 出口结构
+- **自研智驾算法最快 11 月量产**（新浪汽车 11/3）：明年目标 10 万级高阶智驾上车；自研芯片「从中低阶起步」——与 [[byd-xuanji-a3]]（4nm 璇玑A3）形成「算法+芯片」双自研节奏
+- **乘用车1-9月出口TOP10：巴西 227,356 辆居首**（盖世研究院口径），目的地进一步多元化、约旦新进榜单（[[chinese-oem-export]]）
+- 贝莱德增持比亚迪 H 股至 7.08%（花絮级资方信号）

@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-10-31
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -155,3 +155,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **设巴塞罗那首个海外区域运营中心**，李柯称评估法国建厂——欧洲布局从「出口 + KD」向区域运营升级（[[china-oem-europe-top10-2026]]）
 - **VLA 测试方法专利（CN123011718A，10/30）**：推理链路→测试场景映射，解决长尾覆盖——VLA 测试方法论专利化（[[vla-model]]、[[vla-world-model]]）
 - 判断：出口王叙事从「产能资产」转向「运营资产」；VLA 专利 = 技术出海（[[china-tech-reverse-export]]）的专利护城河建设
+
+## 2026-11-04 更新：1-10月新能源近百万辆、出口占比超六成
+- **10月新能源 140,893 辆（+27.7%）**，连续 7 个月单月破 10 万；**1-10 月累计 999,417 辆（+43.2%）**
+- **出口 614,065 辆（+130.4%）**——每 10 辆就有超 6 辆销往海外；1-8 月全球新能源份额 5.5%、跻身全球车企前五
+- **尹同跃警告**：警惕低价内卷重蹈摩托车出海覆辙，「出海变填海」——出口王对「以价换量」路线的自我设限（[[china-export-leaders-2026]]）

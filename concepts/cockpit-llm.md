@@ -1,7 +1,7 @@
 ---
 title: 座舱大模型格局 (Cockpit LLM)
 created: 2026-09-09
-updated: 2026-10-28
+updated: 2026-11-04
 type: concept
 tags: [cockpit, ai, trend, ecosystem]
 sources: [memory/2026-09-09.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md]
@@ -128,3 +128,6 @@ robert 判断「座舱 AI 的编排/主动服务层壁垒很低、容易被抄�
 
 - **长安马自达 EZ-60 引入「豆包+讯飞星火」双大模型（39ms 响应）**（10-16 汽车AI日报）——座舱从「选一家模型」转向「双模型并行/冗余」：一家主交互、一家备援/分工（豆包 = [[volcengine]]生态、星火 = 讯飞）
 - 判断：双模型冗余 = 车企对单一模型供应商的避险（能力/商务双向），与 9/25 记录的「DeepSeek 45.2% 一家独大」形成对冲——模型层「去单点依赖」与 [[cockpit-model-tiering]] 的端云分层叠加，座舱 AI 竞争焦点进一步移向「编排层」（[[cockpit-ai-barrier-layering]]、[[dicore]]）
+
+## 2026-11-04 更新：马自达EZ-60 双大模型（合资反攻样本）
+- **马自达 EZ-60**：全球首发 4nm 车规芯片 + 豆包/讯飞星火双大模型，响应 39ms（新浪观潮横评 11/4）——合资品牌座舱 AI 反攻代表；豆包侧接 [[volcengine]]

@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -135,3 +135,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 - **计划 2027 年起在欧洲多款车型扩大 LFP 电池应用**（降电池成本、提升入门电动车竞争力），**供应或来自与 [[catl]] 合作的西班牙电池工厂**（盖世 11/3）
 - **芯片短缺正影响意大利菲亚特车型生产**，供应问题或延续至 12 月
 - 判断：欧洲扩 LFP = 入门电动车的成本再战（对照 [[entry-ev-profit-crisis]]）；西班牙工厂绑定 = 宁德对欧产能从「供应方」变「联合体」（[[global-battery-market-2026]]）；菲亚特停产 = 欧洲本土供应链韧性仍是硬伤（承接 10/25 北伏连锁反应）
+
+## 2026-11-04 更新：×东风技术互换 + 萨拉戈萨投产共振
+- **×东风从「在华卖车」转向「技术互换」**：拟在欧洲设合资公司（Stellantis 51:49）运营岚图欧洲销售——「东风出技术产品、Stellantis 出渠道网络」；9月神龙科技已×[[momenta]] 基于 R7 世界模型共研高阶智驾，将搭载标致、Jeep 全球车型（[[dongfeng]]）
+- 关卡：欧洲关税 + 标致/雪铁龙在华年销不足 10 万辆的基本盘
+- **萨拉戈萨 B10 已投产**（晨报口径），零跑欧洲今年目标冲 10 万辆——反向合资进入产能兑现期（[[leapmotor]]、[[leapmotor-stellantis]]）

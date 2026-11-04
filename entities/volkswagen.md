@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-10-31
+updated: 2026-11-04
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
@@ -304,3 +304,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **ID. AURA T6 首月锁单 3.3 万+（激光雷达版占 90%）**——10/25 预售破 3 万兑现为锁单，征程 6H + HSD 装车走量验证（[[horizon-robotics]]）
 - **C-Brain 效率数字完整披露**：功能测试 2-3 天→2-3 小时（约 16-24x）、诊断闭环 2 周→20 分钟（数百倍）；GAIA 2.0 日仿真 500 万 km（10/28 已录）
 - 判断：VEGA = 「以华制华」集团级定盘——中国研发从降本工具升级为全球车型定义源；AURA T6 激光雷达版占 90% 说明合资走量车智驾配置已中国化（对照 [[gac-toyota]] 静默换芯反例）
+
+## 2026-11-04 更新：土耳其组装评估 + 砍电动Golf + ID.AURA T6 首搭CEA
+- **评估在土耳其组装中国研发车型**（「在中国，为世界」镜像版）：因中国相关资产减记转亏，暂停电动 Golf 开发（3 亿欧成本缺口）
+- **ID.AURA T6 首搭 CEA 架构**（合资座舱横评 11/4）：ECU 减 30%、1200+ 接口、5-30 分钟无感 OTA——CEA 从「已出海中东中亚」转向国内量产兑现（[[courizon]]、[[huawei-auto]]）

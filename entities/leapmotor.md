@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -235,3 +235,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **10 月全球交付 106,127 台（+51%）**，连续 4 个月破 10 万；**单月量 ≈ 深蓝+极氪+理想三家之和**（盖世 11/3 口径）
 - **累计交付超 190 万台**，11 月将迎第 200 万台整车下线；稳居中国新能源品牌前三、全球前四
 - 判断：10.6 万/月已成常态而非峰值——[[new-forces-landscape-2026]]「零小小」格局的第一极；Stellantis 渠道（B10 萨拉戈萨 + 欧洲网点 1000+，[[leapmotor-stellantis]]）把「性价比出海」跑成第二增长曲线
+
+## 2026-11-04 更新：欧洲冲10万辆 + 毛利隐忧
+- **B10 萨拉戈萨已投产**，**零跑欧洲今年目标冲 10 万辆**——Stellantis 渠道 + 本地化产能双引擎进入兑现期（[[leapmotor-stellantis]]）
+- **隐忧**：A 系列占交付近四成但毛利率降至 11.7%；全年净利指引从 50 亿下调至 30 亿——性价比路线的量利平衡命题（[[new-forces-landscape-2026]]）

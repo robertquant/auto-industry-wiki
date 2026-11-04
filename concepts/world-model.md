@@ -1,7 +1,7 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-09-29
+updated: 2026-11-04
 type: concept
 tags: [adas, l4, world-model]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
@@ -161,3 +161,8 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 - 判断：世界模型从「头部旗舰炫技」变成「10万级标配」，2026下半年竞争焦点转向数据闭环效率与接管率
 - 相关：[[vla-world-model]]、[[li-auto]]、[[xiaopeng]]
 
+
+## 2026-11-04 更新：百度 Apollo World + 「2+3」标准
+- **百度 Apollo 发布世界模型 Apollo World** 及「2+3」评价标准：「2」= 因果性、交互性基础门槛；「3」= 物理准确性、持久性、实时性
+- 虚拟城市中车辆行人均为可交互 AI 智能体，可实时生成相机画面与激光雷达点云；已应用于萝卜快跑全球化测试（覆盖 28 城、全无人驾驶里程超 2.4 亿公里）
+- 判断：国内世界模型从「演示」进入「标准 + 量产仿真工具」阶段（[[training-loop]]、[[pony-ai]] 对照）

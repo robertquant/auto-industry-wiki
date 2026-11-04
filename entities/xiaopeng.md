@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-01
+updated: 2026-11-04
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
@@ -228,3 +228,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **10 月交付 5.02 万创新高**；其中**海外 1.33 万（+166%）**——出口从 9 月首破万辆（10/25 已录）加速为结构性第二增长极（[[china-export-leaders-2026]]）
 - **二代 VLA 量产 Robotaxi 完成 2000+ 次内测订单**（凤凰网 11/1）——「前装量产+软硬一体」Robotaxi 路线（[[xiaopeng-yoyo]]）从资质（10/26 广州全域 L4 批文）进入订单验证阶段
 - 判断：5.02 万 = 多车型矩阵 + 海外双轮兑现；Robotaxi 内测订单是「L4 第一人」叙事的可量化证据（10/22 何小鹏 L4 2028 口径，[[vla-world-model]]）
+
+## 2026-11-04 更新：GroundingPI 具身感知基座模型
+- **联合北大、港大发布 GroundingPI**（约 40 亿参数）：34 项公开感知基准综合第一（73.68 分，高于 GPT-6 Astra 的 71.54）——走「感知优先」路线，训练不依赖带动作标签的机器人数据；以其为视觉底座仅用 50% 示教数据即超过对比模型 75% 数据的成功率；代码与权重已开源，定位具身「快系统」底座
+- 判断：小鹏从智驾（[[vla-model]]）向具身智能（[[physical-ai]]）复用技术资产——感知基座开源是生态卡位

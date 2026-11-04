@@ -1,7 +1,7 @@
 ---
 title: 汽车研发周期 (Automotive R&D Speed)
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-11-04
 type: concept
 tags: [strategy, trend, sw]
 sources: [daily-news/2026-08-09-gasgoo-evening.md]
@@ -69,3 +69,5 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md]
 - 传统车企能否进一步缩短差距
 - 研发周期缩短是否影响质量
 - 监管层面是否介入管理
+## 2026-11-04 更新：凯捷Pulse 数据点
+- **46% 车企将 10-20% 研发预算投向 AI，87% 高管计划加投**（凯捷 Pulse 报告）；**中国新势力研发周期 24 个月 vs 传统车企 40-50 个月**——研发周期差与 AI 投入强度同源（[[ai-engineering-2026]]、[[ai-in-automotive-rd]]）

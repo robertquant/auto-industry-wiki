@@ -1,7 +1,7 @@
 ---
 title: 上汽集团 (SAIC)
 created: 2026-07-04
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [saic, china, soe, export, new-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/articles/2026-10-19-daily-digest.md]
@@ -114,3 +114,6 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/art
 - **新能源 1-10 月 164.7 万辆（+27.7%）**，10 月单月 25.9 万辆（+25.1%）；**海外 1-10 月 132.8 万辆（+54%）**；**自主品牌占比升至 73.7%**
 - 分品牌：上汽乘用车 1-10 月 +43.8%、智己 +21.2%、上汽大通 +37.2%
 - 判断：「换血」完成度再确认——合资依赖度持续下降、自主+新能源+海外三线同增（[[chinese-oem-export]]）；10 月 43 万 = 金九银十缺席年（[[2026-10-china-sales-battle]]）中的逆势新高
+
+## 2026-11-04 更新：从产品出海到体系出海
+- 上汽研发总院总监成居正（汽车与环境创新论坛）：出海思路正从产品输出转向研发、供应链、渠道的体系化输出（[[chinese-oem-export]]）

@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
@@ -381,3 +381,6 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **穆迪将雷诺升级至投资级 Baa3**（11/3 晨报）——三季报（10/29，[[q3-2026-earnings-season]]）后的信用侧确认：扭亏 + 5.5% 指引 + 现金流改善的评级背书
 - **雷诺×吉利：巴西 2026H2 投放 GEA 平台新车**（晨报口径；衔接 10/29 已录 EX5 下线、10/30 已录 20 亿雷亚尔产线改造）——中国平台在雷诺产线的产品投放期开启
 - 判断：投资级回归 = 资本成本下降，为电动化投入（RGEV 2.0，[[rgev-platform]]）续弹；「吉利 GEA 平台 + 雷诺制造 + 拉美市场」三角从单车型（EX5）走向产品线（对照 [[china-tech-reverse-export]]）
+
+## 2026-11-04 更新：巴西合资第二款车 + 2027 共享平台
+- **吉利-雷诺巴西合资第二款车年内投放**（[[geely]]）；2027 年共享平台新车投产——南美本地化产品线进入投放节奏（对照 [[china-tech-reverse-export]]）

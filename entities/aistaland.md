@@ -1,7 +1,7 @@
 ---
 title: 启境汽车 (AISTALAND)
 created: 2026-05-13
-updated: 2026-08-17
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, ev-tech, adas, vehicle]
 sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gasgoo-evening.md]
@@ -99,3 +99,6 @@ sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gas
 - GX7鸿蒙座舱6用户体验
 - 广汽能否转化埃安/昊铂用户积累到启境品牌
 - 非智选车模式下广汽独立品牌建设能力
+## 2026-11-04 更新：GX7/GT7 预售 22.99 万起——L3 架构预埋样车
+- **启境 GX7/GT7（22.99 万起）**：预埋 L3 架构 + 华为乾崑 ADS 5 + 四激光雷达，等 2027.7.1 L3 国标实施后 OTA 解锁（[[huawei-ads]]、[[l3-mandatory-standard]]）
+- 与 [[wenjie-m8]] 同期「提前交作业」——L3 硬件预埋成 2026-27 政策窗口期标准动作（[[ads-light-standard-2026]]）

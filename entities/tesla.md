@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-04
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
@@ -120,3 +120,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **Robotaxi 扩至美国 8 城**：新增得州沃斯堡，覆盖 TX/FL/CA 三州——从奥斯汀单点（[[tesla-q3-2026]]）到多州铺开，与内华达 5,000 台批文（10/6 已录）爬坡形成「批文 → 开城」节奏
 - **10 月欧洲注册量大涨**：瑞典 +248%、西班牙 +271%、挪威 +131%（盖世 11/3）
 - 判断：Robotaxi 进入「扩城叙事」阶段——城市数量逼近 Waymo 15 城（[[waymo-vs-tesla-robotaxi-2026]]），但车队密度/单量差距仍在数量级；欧洲注册量爆发 = FSD 欧洲路演（10/10 已录）后的购车转化，「智驾叙事带动销量」的实证（[[l4-global-race-2027]]）
+
+## 2026-11-04 更新：10月中国产销 + 进博会 + 韩国FSD争议
+- **10月中国产电动车 67,829 辆（+10.3% YoY）**，连续12个月同比正增长，但环比 -28.9%（乘联分会，含出口）；欧洲多国注册量走高，韩国占上海工厂出口约 1/5；同日将全年资本开支预期下调五分之一
+- **进博会（11/4）**：Cybercab 已承担实际出行任务（配合 [[l4-global-race-2027]] 叙事）+ 新一代机器人亮相
+- **韩国消费者团体拟投诉 FSD 误导**：仅约 20% 韩版车可用、单次收费 6,726 美元——FSD 付费模式在新市场水土不服（对照 [[tesla-fsd-china]]）

@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-10-25
+updated: 2026-11-04
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-25-daily-digest.md]
@@ -167,3 +167,6 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 ## 2026-10-25 更新：1-9 月出口 72.7 万辆（+56.3%）、规划 22 个海外基地
 - **1-9 月出口 72.7 万辆（+56.3%）**——换帅（10/18 赵非）后的全球化主线数据兑现；**规划 22 个海外基地**（[[china-export-leaders-2026]]）
 - 判断：长安出海从「贸易出口」进入「基地化」阶段——与欧洲 2028 年 18 万辆产能时间表（10/14 已录）同构，央企「本地化产能换市场准入」的又一执行样本（[[export-tax-rebate-cut-2026]] 政策分水岭的受益侧）
+
+## 2026-11-04 更新：10月海外再破10万
+- **10 月海外销量 102,400 辆（+77.3%）**——海外已成长安最强增长极（[[chinese-oem-export]]）
