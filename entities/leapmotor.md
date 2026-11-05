@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-04
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -239,3 +239,6 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-11-04 更新：欧洲冲10万辆 + 毛利隐忧
 - **B10 萨拉戈萨已投产**，**零跑欧洲今年目标冲 10 万辆**——Stellantis 渠道 + 本地化产能双引擎进入兑现期（[[leapmotor-stellantis]]）
 - **隐忧**：A 系列占交付近四成但毛利率降至 11.7%；全年净利指引从 50 亿下调至 30 亿——性价比路线的量利平衡命题（[[new-forces-landscape-2026]]）
+
+## 2026-11-05 补录：欧洲注册用户达 200 万（晨报口径）
+- **零跑欧洲注册用户达 200 万**（La Stampa 10/21，晨报口径）——欧洲从「卖车市场」向「用户生态」积累：Stellantis 渠道（[[leapmotor-stellantis]]）+ 本地化产能（B10 萨拉戈萨，[[italy-market-2026]]）之外的用户侧资产

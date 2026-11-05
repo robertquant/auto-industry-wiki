@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-01
+updated: 2026-11-05
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 宝马 (BMW)
@@ -176,5 +176,10 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 
 ## 2026-11-01 更新：iX3 入围 2027 欧洲年度车七强
 - **iX3 入围 2027 欧洲年度车（COTY）七强**——63 年来首次全纯电阵容入围（晨报口径）
+
+## 2026-11-05 更新：i3 50L 实测 1213km（CLTC 达成率 118%）+ G58 首落新世代设计
+- **i3 50L 一次充电实测 1,213km**（中国真实道路挑战，11/4 Electric Cars Report）：CLTC 标称 1,028km 的 **118%**；平均电耗 **8.8kWh/100km**（113.4kWh 电池包）；高速/国道/乡村/城市混合路况、完成时剩 1% 电量——**创宝马电动车单次行驶距离纪录**，详见 [[bmw-i3-50]]
+- **G58（第八代 3 系长轴版）现身工信部第 413 批公示**：首次落地新世代（Neue Klasse）设计语言——3 系基盘同步切换新世代风格，与 i3 50L 同属新世代平台期产品（[[bmw-i3-50]]）；同日同批公示锰基锂电池、三电机独立驱动密集亮相
+- 判断：宝马用「中国路况实测 + 电耗做减法」对冲德系效率叙事短板；与 [[mercedes-benz]] 同日发布的 800V 恒压转换器（[[800v-platform]]）同周出现——德系双雄的「效率牌」集中在能耗与功率电子两端
 - 意义：欧洲年度车评审从燃油基准转向纯电基准；iX3 长轴以「900km + 26.99 万起」已在华验证（页首），欧洲版承接 Neue Klasse 口碑（[[2026-paris-auto-show]]）
 - 判断：全纯电七强 = 欧洲汽车媒体对电动化终局的表态；对宝马是品牌修复资产——2026 中国 -24.8%（10/25 已录）与欧洲口碑形成反差，豪华电动化叙事仍需产品力兑现

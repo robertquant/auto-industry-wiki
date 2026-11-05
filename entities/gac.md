@@ -1,10 +1,10 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, sales, export, policy]
-sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 广汽集团 (GAC)
@@ -66,6 +66,11 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 
 - **广汽自研因湃电池第 30 万套下线**（10/16 盖世）：2011 年电池系统/BMS 研发起步，走通材料-电芯-PACK 全栈自研自产，弹匣电池技术迭代，已适配埃安 i60/N60/UT 等——整车央企中少有的电池全环节自主可控样本（[[battery-white-box]] 白盒化趋势）
 - 判断：因湃产能爬坡 = 广汽在「合资整合（一汽丰田股权）+ 自主电池」双线加注；30 万套规模 vs [[catl]]/[[byd]] 仍是自供角色，但对埃安成本曲线是实打实的下探（[[auto-price-hike-2026]] 语境）
+
+## 2026-11-05 更新：因湃泰国 PACK 工厂投产——首个海外电池配套基地
+- **因湃（Inpai）泰国春武里府 PACK 工厂投产**（11/3 盖世）：广汽**首个海外动力电池 PACK 工厂**；一期年产能 7,000 套电池包 → 二期达产 2 万套；**配套当地生产的埃安 Y Plus**（[[aion-ray7]]）
+- 投产前夕因湃第 30 万套电池在广州下线（10/16 已录）——国内爬坡 + 海外配套双线并行
+- 判断：中国车企海外制造从整车组装向核心零部件本地化延伸（[[chinese-oem-export]]）；直接对冲泰国 EV 进口消费税 35% 加征（[[thailand-ev-import-tax-2027]]）的「本地化含量」要求——电池本地化是东南亚市场准入分水岭上的关键筹码
 
 ## 2026-10-30 更新：领程 T9 ROBOTRUCK 量产下线
 -**广汽领程 × [[pony-ai]] L4 重卡 T9 ROBOTRUCK 首批量产下线**（10/29）、2027 推进百台级——广汽商用车板块智驾突破（对照 [[zhuoyu]] 磐行同日发布）

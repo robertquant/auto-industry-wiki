@@ -1,10 +1,10 @@
 ---
 title: 2026年10月中国车企销量战报
 created: 2026-11-02
-updated: 2026-11-04
+updated: 2026-11-05
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
-sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md]
+sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 2026年10月中国车企销量战报
@@ -47,3 +47,8 @@ sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md]
 - **蔚来 3.42 万、理想 2.90 万**（持续被新势力头部拉开）、**长安海外 10.24 万（+77.3%）**
 - **零跑**：A 系列占交付近四成、毛利率降至 11.7%，全年净利指引 50 亿→30 亿——「断层领跑」另一面是量利再平衡（[[leapmotor]]）
 - **小鹏 5.02 万**增量几乎全来自海外（1.33 万台，+166%）——出海已从边际增量变核心引擎（[[chinese-oem-export]]）
+
+## 2026-11-05 补充：行业大盘——10 月新能源批发 180 万辆（+12%）
+- **乘联分会（11/4）：10 月新能源乘用车批发预估 180 万辆（+12%）**——重回复苏通道，增速显著跑赢大盘
+- 驱动三件套：**「两新」补贴 12 月底截止**（抢装）+ 双 11 促销 + 金九银十旺季；比亚迪 10 月 49 万居首、前 10 月累计 362 万辆
+- 判断：180 万批发 = 全年冲量的最后一个旺季窗口；12 月底补贴退坡前的「政策末班车」为 Q4 提供基本盘支撑，也是 2027 年销量基数的透支项（对照 [[nev-penetration-60-percent]]、[[q3-2026-earnings-season]]）

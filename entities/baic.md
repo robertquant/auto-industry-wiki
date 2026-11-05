@@ -1,10 +1,10 @@
 ---
 title: 北汽集团 (BAIC)
 created: 2026-10-23
-updated: 2026-11-04
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, sales, strategy, policy]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 北汽集团 (BAIC)
@@ -29,5 +29,6 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entitie
 - **北汽董事长张建勇（WICV 10/21-23）**：行业从同质化堆料迈入差异化体验周期；1-9 月自主销量破 80 万辆、新能源 +43.2%
 - 落点智驾/座舱/底盘「三支阵地仗」；智驾开放合作+核心自研双轨，携华为、[[momenta]]、[[horizon-robotics]] 深耕「元镜」技术体系（对照 [[huawei-auto]] 合作面）
 
-## 2026-11-04 更新：10月销量
-- **10 月整车销量超 14.8 万辆（环比 +11%）**；1-10 月累计超 131.6 万辆，自主品牌与海外市场同比双增
+## 2026-11-05 更新：10月销量明细
+- **10 月整车销量超 14.8 万辆（环比 +11%）**；1-10 月累计超 131.6 万辆，自主品牌与海外市场同比双增（11/4 已录）
+- **10 月明细（盖世 11/4）**：自主 11.2 万+（环比 +12%）、海外 3.2 万+（+28%）；北汽新能源 3.25 万（环比 +34.98%），其中极狐 2.63 万、享界 6,174 辆（[[xiangjie]]）

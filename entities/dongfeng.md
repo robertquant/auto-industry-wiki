@@ -1,10 +1,10 @@
 ---
 title: 东风汽车 (Dongfeng)
 created: 2026-10-22
-updated: 2026-11-04
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, adas, ai, trend]
-sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 东风汽车
@@ -24,6 +24,7 @@ sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily
 
 ## 2026-10-31 更新：×宁德时代集团级战略合作
 - **10/29 与宁德时代在武汉签署集团级战略合作**：联合开发 10C 及以上超充产品（约 6 分钟满充，岚图/猛士首发）；共研乘商全系换电架构，覆盖乘用车与商用车补能场景（[[catl]]、[[ultra-fast-charging]]、[[nev-battery-swap]]）
+- **11/1 盖世口径补充**：该合作系双方**第三次五年期合作（「十五五」集团级）**，并依托海外资源共建售后网络与就近供货体系——补能合作从产品层延伸到海外服务网络
 - 判断：央企整合（[[central-soe-restructuring-2026]]）背景下用「绑定电池龙头 + 补能基建卡位」换电动化话语权；10C 首发压岚图/猛士 = 高端/越野线先吃技术红利
 
 ## 关联

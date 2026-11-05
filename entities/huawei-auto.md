@@ -1,10 +1,10 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-10-23
+updated: 2026-11-05
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 华为汽车生态 (Huawei Auto)
@@ -114,6 +114,12 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-n
 - **10/5 与 [[qualcomm-auto]] 官宣多年期专利大和解**：交叉许可覆盖 5G/计算/AI/网络，高通收购华为部分美国专利，高通为净支出方（详见 [[huawei-qualcomm-settlement-2026]]）
 - 华为 2024 专利许可收入 6.3 亿美元、27 亿台 5G 设备获许可——标准必要专利组合获西方主流玩家价值背书
 - 判断：IP 战清场、产品战升温——华为车端竞争（乾崑 vs 高通舱驾）回归产品力；专利收入模式为华为生态提供现金流第二曲线（[[auto-chip-competitive-landscape]]）
+
+## 2026-11-05 更新：乾崑 ADS 运行数据全景——172.7 亿公里 / 月活 95.2%
+- **累计辅助驾驶里程 172.7 亿公里**（截至 10/31，当月新增 14.8 亿）；**月度活跃占比 95.2%**——乾崑 ADS 从「演示智驾」变成「日用智驾」的运营实证
+- **安全实证**：ADS 状态下严重碰撞前平均安全里程 **1,082.7 万公里 ≈ 人类司机推算值的 6 倍**——「安全里程密度」成为智驾新度量（[[data-moat]]）
+- **规模**：9 月搭载量突破 200 万辆；合作品牌超 25 个、车型超 60 款；2026 智驾研发投入预计超 180 亿元（[[huawei-ads]]、[[yinwang]]）
+- 判断：华为把智驾竞争从「装机量第一」（H1 城市 NOA 32.3 万辆，页首已录）拉进「运行数据第一」——存量运营叙事与 L2+ 渗透率 70%（[[yinwang]]）同频，数据飞轮厚度（[[data-loop]]）继续加码
 
 ## 2026-10-11 更新：智选车模式风险分析（承接尊界事件）
 - **「品牌前置＝反噬前置」**：智选车实际承担 OEM 职责（产品定义/品牌/渠道/站台），出事时责任直指华为而非制造商——尊界事件全网骂华为而非江淮（[[zunjie-brake-pedal-controversy]]）

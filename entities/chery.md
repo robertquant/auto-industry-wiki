@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-04
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -160,3 +160,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - **10月新能源 140,893 辆（+27.7%）**，连续 7 个月单月破 10 万；**1-10 月累计 999,417 辆（+43.2%）**
 - **出口 614,065 辆（+130.4%）**——每 10 辆就有超 6 辆销往海外；1-8 月全球新能源份额 5.5%、跻身全球车企前五
 - **尹同跃警告**：警惕低价内卷重蹈摩托车出海覆辙，「出海变填海」——出口王对「以价换量」路线的自我设限（[[china-export-leaders-2026]]）
+
+## 2026-11-05 补录：欧洲 1-9 月新能源 14.6 万辆（+251%）
+- **1-9 月欧洲新能源销售 14.6 万辆（+251%）**（盖世 11/4）——欧洲成奇瑞新能源出海第一增量市场：混动配额「向上安排」（[[eu-hybrid-export-caps-2026]]）窗口期内的放量，新能源在发达市场首次打开规模（对照 [[china-oem-europe-top10-2026]]）
+- 判断：+251% 增速的绝对基数仍小（14.6 万），但结构信号强于总量——奇瑞新能源出海从「新兴市场为主」开始向欧洲渗透，新能源出口结构（六成出海，11/4 已录）的地域集中度在上升

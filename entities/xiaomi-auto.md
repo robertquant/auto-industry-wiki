@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-11-03
+updated: 2026-11-05
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -107,3 +107,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **10 月交付首破 5 万辆**（晨报口径）——与 [[xiaopeng]]（5.02万）并驾组成新势力第二梯队
 - **2027 年进入欧洲市场**（晨报口径）——欧洲节奏浮出水面：SU7/YU7 + 澎程增程的产品矩阵进欧，直面 [[eu-industrial-accelerator-act]] 本地化门槛与 [[eu-70x70-rule]] 本地价值规则
 - 判断：5 万/月 = 9 月首破 4 万（10/1 已录）之后的第二个台阶，「零小小」格局（[[new-forces-landscape-2026]]）确立；欧洲是 2027 年「产能 vs 合规」的新考试（对照 [[china-oem-europe-top10-2026]] 先行者路径）
+
+## 2026-11-05 补录：双线布局初步跑通（盖世 11/1 口径）
+- **SU7 站稳 20 万元以上纯电轿车市场**；**澎程系列增程 SUV 产能爬坡后成为增量核心**（[[xiaomi-pengcheng]]）——「纯电+增程」双线布局初步跑通，10 月超 5 万台（11/3 已录）的结构支撑
+- 对照 [[xiaopeng]]（5.02 万）：新势力第二梯队十月答卷都指向「结构（澎程增程/海外）> 总量」——产能给到谁、谁是下阶段增量引擎
