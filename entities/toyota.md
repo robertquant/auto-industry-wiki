@@ -1,10 +1,10 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-10-30
+updated: 2026-11-06
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 丰田 (Toyota)
@@ -156,3 +156,9 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 ## 2026-10-30 更新：×Waymo 日本量产线 Robotaxi + 前三季数据
 - **10/30 官宣扩大 × [[waymo]] 合作**：2027 年在日本用 bZ4X 启动全无人驾驶 Robotaxi，随后拓展英国等右舵市场；高冈工厂量产线完成整车组装 + Waymo 硬件搭载——**日本首个基于本土量产车的全无人出租服务**（对照：广汽丰田 2 月已为 [[pony-ai]] 量产 bZ4X Robotaxi）
 - **前三季全球销量 -3.4%**（9 月 86 万辆、-2.2%，连续三月下滑），但纯电动 +127.4%——在华失速由电动化增量部分对冲，多路径战略进入结构切换期
+
+## 2026-11-06 更新：中国换帅——「中国 ONE TOYOTA」治理落地关键一步
+- **上田达郎卸任中国本部本部长转任 Senior Fellow，太田资大接任，2027/1/1 生效**——被视为落地「中国 ONE TOYOTA」治理体系、消除南北丰田双股东内耗的关键信号（对照 [[gac-toyota]] 双合资格局）
+- **雷克萨斯金山工厂确认 2027 年秋季投产**：首款国产纯电 SUV、初期年产能 10 万辆、集整车与电池工厂于一体（详见 [[lexus]]）
+- **FY2026 上半财年**：营收 26.96 万亿日元（+9.5%）、归母净利 2.23 万亿日元（+26%）、电气化车型占比 55.6%
+- 判断：中国业务从「双渠道内耗」走向「统一体收缩」（承接 10/30 广汽整合）——换帅+独资豪华产能（雷克萨斯）=丰田在华「治理统一 + 高端本地化」双线落地；日系在华结构性收缩（[[japanese-automaker-crisis-2026]]）中丰田用「管理集中」对抗份额流失

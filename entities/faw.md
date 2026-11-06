@@ -1,10 +1,10 @@
 ---
 title: 一汽集团 (FAW)
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-11-06
 type: entity
 tags: [oem-cn, adas, ai, strategy]
-sources: [raw/articles/2026-10-21-daily-digest.md]
+sources: [raw/articles/2026-10-21-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 一汽集团 (FAW)
@@ -29,3 +29,8 @@ sources: [raw/articles/2026-10-21-daily-digest.md]
 
 ## 来源
 - raw/articles/2026-10-21-daily-digest.md
+
+## 2026-11-06 更新：一汽-大众签约进口奥迪 + 合资整车出口（盖世 11/6）
+- **进博会期间，一汽-大众与大众集团签署进口整车与零部件合作备忘录**：2027 年起进口部分零部件及**奥迪整车**（承接奥迪分家：四环标归一汽奥迪，见 [[audi]]）
+- 同步推动**合资品牌整车出口**——形成「进口+出口」双向布局；9 月 ID. AURA T6、10 月捷达 M6 相继上市补强新能源阵容（[[jetta-m6]]）
+- 判断：合资体系从「单向引入」转向「双向贸易」——进口奥迪补一汽奥迪产品线缺口、出口消化合资过剩产能；与中央车企整合（[[central-soe-restructuring-2026]]）背景下的「盘活存量」逻辑一致（对照 [[saic]] 换血路径）

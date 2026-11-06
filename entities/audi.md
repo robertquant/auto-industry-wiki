@@ -1,10 +1,10 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-11-01
+updated: 2026-11-06
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 # 奥迪 (Audi)
@@ -44,3 +44,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 ## 2026-11-01 补充：美关税减免承诺确认（15%→约10%）
 - **美方承诺对奥迪关税从 15% 降至约 10%**（10/31 晨报口径）——10/27 佐治亚建厂（40 亿美元/20 万辆）的「扩产换关税减免」兑现为具体税率承诺
 - 判断：「关税换产能」在德系豪华身上第一次闭环——美国关税墙正在把欧洲产能往本土逼（[[north-america-ev-trade-barriers-2026]]），欧洲裁员压力与建厂投资同步放大（对照 [[volkswagen]] 德国裁员）
+
+## 2026-11-06 更新：上海创新技术中心开业——AUDI「AI定义汽车」
+- **奥迪上海创新技术中心开业**（11/6），AUDI 品牌定调「**AI定义汽车**」——上奥合作从品牌/渠道层面进入研发实体化阶段（承接 10/26 官宣、10/30 分家细则：AUDI 字母标归上汽奥迪、ADP 平台自研）
+- 判断：在「四环归一汽、AUDI 归上汽」分家后，上海创新中心 = AUDI 的「中国大脑」——补上 ADP 自研平台（10/30 已录）的上海研发支点；「AI定义汽车」与 [[aidv]]（AI-Defined Vehicle）范式同频，德系豪华在华首次把 AI 提到产品定义层（对照 [[chinese-oem-ai-methodology]]：中国车企的 AI 方法论正在被德系「反向学习」）

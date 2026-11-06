@@ -1813,3 +1813,49 @@
 ### 备注
 - AI日报（15:00 cron）本次输出异常未成稿：进博会 eVTOL/安波福/小鹏汇天、智元/开普勒具身智能素材留存于 raw 文件待复用；建议检查该 cron 模型输出
 - 已排除重复项：泰国EV关税35%（11-04）、锰基锂公示（11-04）、奇瑞固态2027/迅龙秒充（10-15/10-22）、东风×宁德主体（10-31）、长城/吉利10月（11-03）、大众Q3+裁10万（10-30）
+
+## [2026-11-06 22:00] ingest | 每日整理（雷诺周报 + AI日报 + 盖世晚间 11-06）
+
+### 原始素材
+- raw/articles/2026-11-06-daily-digest.md（新建：雷诺周报 Forefront UGV + AI日报5条 + 盖世晚报衔接清单）
+- daily-news/2026-11-06-gasgoo-evening.md（盖世晚报，cron 20:00 已生成）
+
+### 新建页面（3）
+- entities/forefront-ugv.md - 雷诺×John Cockerill Forefront 军用无人地面车（11/3）：四驱四转向、双电机、~400km可增程、1吨载重、法军参与、数周内军试——雷诺「防务攻势」延续
+- entities/langu-xinnengyuan.md - 蓝固新能源：近2亿B+轮加码固态电解质，溧阳万吨级氧化物线投产+遂宁千吨级全固态线启动
+- concepts/battery-digital-id-2026.md - 工信部动力电池「数字身份证」征求意见（2027施行）：24位国标编码唯一索引，欧盟电池护照的「中国镜像」
+
+### 更新页面（实体 14）
+- entities/renault.md - Forefront UGV 发布（第二条增长曲线：国防/特种车）+ 一带一路重发巴西旧闻澄清 + Q3窗口外余波
+- entities/tesla.md - 进博会 Robotaxi 实绩：无安全员500万km/气囊零弹出/本土化率98%
+- entities/geely.md - AI Coding 60%生成率/30%提效（2300人）+ 银河战略收缩聚焦爆款（淦家阅）+ 甲醇电混三能源混动星耀6
+- entities/seres.md - 备战L3、魔方平台支持L3架构（衔接 wenjie-m8 全系L3、2027.7.1国标）
+- entities/audi.md - 上海创新技术中心开业、AUDI「AI定义汽车」
+- entities/toyota.md - 中国换帅太田资大（中国ONE TOYOTA）、FY26 H1（营收26.96万亿日元+9.5%/净利2.23万亿+26%）
+- entities/lexus.md - 金山工厂2027秋投产确认：初期10万辆、整车+电池一体化
+- entities/nissan.md - 进博会「在中国，向全球」：锋坦/N7出海节奏 + 零部件出口27亿美元/550家供应商
+- entities/byd.md - 闪充站12,165座（年底2万/海外6000）——补能「第三次跃迁」战略资产化
+- entities/nio.md - 李斌「Robotaxi有边界的生意」：城市容量上限第三维度 + 对照数据
+- entities/volcengine.md - 豆包汽车技术负责人苏杰离职
+- entities/sunwoda.md - 电池护照提前两年交卷（GBA试点/CirPass对接/覆盖率70%）
+- entities/faw.md - 一汽-大众签约进口奥迪整车及零部件（2027）+ 合资整车出口
+- entities/infineon.md - ×高通共同开发中央车载计算机（AURIX MCU+高通SoC捆绑）
+
+### 更新页面（概念 6）
+- concepts/battery-passport-2026.md - 欣旺达案例 + 工信部数字身份证对照（双轨合规新成本项）
+- concepts/ultra-fast-charging.md - 补能第三次跃迁：67%渗透率/购车决策权重1/3/四阵营规模对照
+- concepts/geely-nio-swap-alliance.md - 2030年1万座目标 + 引望×宁德/时代电服乾崑智驾接入巧克力换电
+- concepts/vla-mass-production.md - VLA车型盘点表（小鹏/理想/长城/大众安徽四家，10-50万全覆盖）
+- concepts/tier1-mna-consolidation-2026.md - 马瑞利新CEO Laurent Favre + Chapter 11重组（第二种整合形态）
+- concepts/north-america-ev-trade-barriers-2026.md - IEA：美国渗透率10% vs 中国53%，需求侧弱化维度
+
+### 导航更新
+- index.md：Last updated 2026-11-06；Total pages 369→**372**（entities 158→160、concepts 188→189）；产品/平台 29→30、电池厂商 6→7、市场/趋势/政策 55→56
+- 完整性校验：comm 输出为空 ✅（372 注册 = 372 实体，0 缺失；多出 3 链接为三个主题分库 index，属预期）
+
+### 核心判断
+- ① 雷诺开辟第二条增长曲线（国防/特种车）：从泰雷兹无人机（零部件级）到 Forefront UGV（整车级）——产能过剩时代 OEM 把制造能力二次定价出售给防务部门，「防务攻势」是民用电动承压期的对冲叙事
+- ② 补能进入「第三次跃迁」：补能焦虑占购车决策权重 1/3 被量化——网络密度直接兑换购车决策；引望入局巧克力换电 = 换电标准之争升级为「生态战争」
+- ③ 电池合规数字化成为竞争力分水岭：工信部数字身份证（2027）+ 欧盟电池护照（2027/2）双轨并行，欣旺达提前两年布局 = 把合规周期变成竞争时间差
+- ④ 吉利银河「多生孩子好打架」公开失效——行业从扩品竞赛转入质量竞赛，头部首次承认车海战术边际效应递减
+- ⑤ 李斌给 Robotaxi 泼冷水补上行业第三维度：单城容量上限决定重资产生意估值，不是软件式赢家通吃

@@ -1,7 +1,7 @@
 ---
 title: 电池护照 (Battery Passport)
 created: 2026-10-12
-updated: 2026-10-18
+updated: 2026-11-06
 type: concept
 tags: [policy, battery, supply-chain, export, trend]
 sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
@@ -42,3 +42,8 @@ sources: [raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-
 - 欧盟是否在 2027/2 前发布碳足迹阈值计算方法（影响中国电芯碳强度评级）
 - 护照数据互认（中国电池护照试点与欧盟的衔接）
 - 再生材料含量比例目标的具体数值与过渡期安排
+
+## 2026-11-06 补充：欣旺达案例 + 工信部「数字身份证」对照
+- **欣旺达（[[sunwoda]]）提前两年布局样本**：2023/11 组建护照专项团队 → 2024 两个 LFP 项目入选 GBA 十大试点 → 2026 与理想/岚图联合体参与 GBA 运营试验、6 月完成欧盟 CirPass 注册库系统级对接，数据采集覆盖率超 70%
+- **工信部《动力电池数字身份证管理暂行规定（征求意见稿）》（11/6，截止 12/6）**：国标 24 位编码唯一索引，串联设计→回收全环节；车企须上传编码并向车主披露电池关键信息，**2027 施行**；2030 年废旧电池预计超 100 万吨；出口企业须同时满足国内编码+欧盟护照两套数据（详见 [[battery-digital-id-2026]]）
+- 判断：数字身份证 = 欧盟电池护照的「中国镜像」——把回收端纳入强制数据链，为 2030 退役潮做制度准备；**双轨数据合规成为出口企业新成本项**，合规能力开始分化电池厂竞争力（对照 [[catl]] GBA 全勤、欣旺达早鸟）

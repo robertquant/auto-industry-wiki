@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-04
+updated: 2026-11-06
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -384,3 +384,19 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 
 ## 2026-11-04 更新：巴西合资第二款车 + 2027 共享平台
 - **吉利-雷诺巴西合资第二款车年内投放**（[[geely]]）；2027 年共享平台新车投产——南美本地化产品线进入投放节奏（对照 [[china-tech-reverse-export]]）
+
+## 2026-11-06 更新：雷诺周报——Forefront 军用 UGV（第二条增长曲线）
+
+### 本周核心：Renault × John Cockerill 发布 Forefront Concept UGV（11/3）
+- **军用无人地面车概念**：四驱四转向、双电机、~400km 续航（可增程）、1 吨载重；**法国军方参与开发，数周内进入军事试验**（详见 [[forefront-ugv]]）
+- Automotivenews（11/4）定性为雷诺「防务攻势」延续——与泰雷兹无人机（月产 1000 架，10/6 已录）同构：汽车制造能力外溢军工从「零部件级」升到「整车级防务产品」
+
+### ⚠️ 澄清陷阱
+- **一带一路网 11 月初重发「吉利雷诺巴西首车下线」旧闻**——实为 9/17 人民网事件（URL: world.people.com.cn/n1/2026/0917/），勿当新进展（巴西首车早已录入 9/26、10/29 条目）
+
+### 窗口外参考：Q3 三季报余波
+- 10/29 发布（超本周 7 天窗口）：Q3 营收 €11.596B（+1.5%）、EV +84.7% 占比 25.8%、指引维持 ~5.5%——已录于 10/30-11/01 条目，本周媒体余波无新增事实
+
+### 判断
+- 雷诺转向**第二条增长曲线（国防/特种车）**——与「本土防守+平价电动进攻」主线并行（对照 [[ice-supplier-divergence]]「产能二次定价」）
+- 关注：Forefront 军试结果 + ACEA 10 月欧洲注册数据（11 月中）

@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-03
+updated: 2026-11-06
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -242,3 +242,18 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **出口 107,153 辆（+158%）**，其中**新能源出口 82,565 辆（+506%）、占出口比重 77%**——出口结构彻底电动化
 - 与 [[renault]] 巴西 GEA 新车 2026H2 投放（11/3 晨报）衔接：拉美本地化进入产品投放期（[[china-oem-europe-top10-2026]]、[[chinese-oem-export]]）
 - 判断：国内 -23.6% + 总量新高 = 「出海成基本盘」的最强实证——吉利是第一个用海外增量完整覆盖国内下滑的自主头部（对照 [[great-wall]] 国内失血无对冲、[[byd]] 出口翻倍结构）
+
+## 2026-11-06 更新：AI Coding + 银河战略收缩 + 甲醇电混
+
+### AI Coding 成绩单（汽车之心盘点，11/6）
+- **60% 代码生成率 / 30% 提效**，2300 人规模（[[ai-coding-tools-2026]]）——吉利是自主头部里 AI 工程化最激进样本之一，与「AI 定义汽车」组织路线（[[chinese-oem-ai-methodology]]）互相印证
+
+### 银河主动踩刹车：从「多生孩子」转向聚焦爆款（盖世 11/6）
+- **CEO 淦家阅 Q3 业绩会明确**：减少新车型数量、集中资源打造明星产品——**尽管 10 月银河 15.3 万辆创历史新高**
+- 管理层判断「多生孩子好打架」边际效应递减：2026 年车型数量持续增加但**单车型平均销量同比下降**——行业从扩品竞赛转入**质量竞赛**
+- 判断：这是头部首次公开承认「车海战术」失效——与吉利此前「产品项目削减 20% 以上」（页首组织调整）一脉相承，银河从数量扩张转向单款爆品深度
+
+### 新一代甲醇电混：全球首个醇/油/电三能源混动（11/5）
+- **五大行业首发技术**攻克低温启动（-40℃一次点火）、材料腐蚀、标准验证三大难关；**同一加注口支持任意比例混合加注**
+- 首搭 **银河星耀6 E-fuel** 同步上市：限时 7.68 万起、纯电 230km、综合续航 1880km、百公里醇耗约 20 元
+- 甲醇路线累计投入超百亿元、专利 400 余项——吉利多能源技术树的第三极（[[dmi-technology]] 对照比亚迪插混路线）

@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-03
+updated: 2026-11-06
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 蔚来 (NIO)
@@ -202,3 +202,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **10 月交付 3.42 万辆**（同环比下滑——「零小小」格局（[[new-forces-landscape-2026]]）下承压方之一）
 - **Q3 中国终端销量 11.16 万辆，首超 BBA（10 月中旬数据）**——高端纯电在中国终端的结构性信号：奔驰/宝马/奥迪在华盛时（对照 [[mercedes-benz]] 中国失速、[[jaguar-land-rover]] 在华崩塌），蔚来用纯电在销量口径第一次越线
 - 判断：终端超 BBA ≠ 盈利超 BBA，但「中国高端纯电品牌销量越过德系豪华」是品牌心智拐点；叠加雷克萨斯 2027 国产（[[lexus]]）、德系本地化补课，豪华市场进入「中国定义」阶段（[[mercedes-benz]]「由中国定义、为全球输出」同向）
+
+## 2026-11-06 更新：李斌给 Robotaxi 泼冷水——「有边界的生意」（盖世 11/6）
+- **李斌**：自动驾驶最大意义是解放精力、减少事故，**而非抢司机饭碗**；Robotaxi **不像软件是无边界生意**——单城运营车辆容量有限
+- 对照数据：小马智行车队 1,975 辆（年底目标 3,500+）、文远知行 1,800+、萝卜快跑累计订单 2,300 万单；**苏州网约车单车日均订单仅 12.72 单、日均营收 292 元**——低价市场天花板明显
+- L3/L4 强制国标 2027/7/1 实施划定合规底线（[[l3-mandatory-standard]]）
+- 判断：Waymo 周 50 万单（[[waymo-vs-tesla-robotaxi-2026]]）的「运营实绩叙事」之外，李斌补上第三维度——**城市容量上限**：Robotaxi 是重资产生意，单城天花板决定估值逻辑，不是软件式赢家通吃；与蔚来换电重资产路线（[[geely-nio-swap-alliance]]）一致：蔚来只做资产与能源网络，不做运力（对照 [[chinese-oem-ai-methodology]] 的「边界感」）

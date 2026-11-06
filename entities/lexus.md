@@ -1,10 +1,10 @@
 ---
 title: 雷克萨斯 (Lexus)
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-06
 type: entity
 tags: [oem-jp, ev-tech, strategy]
-sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-evening.md]
+sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 雷克萨斯 (Lexus)
@@ -14,6 +14,10 @@ sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-
 
 ## 2026-11-03 更新：国产纯电 SUV 定档 2027（上海金山独资工厂）
 - **首款国产纯电 SUV：2027 年于上海金山独资工厂发布**（盖世晚报 11/3 口径）
+
+## 2026-11-06 补充：金山工厂投产细节确认（盖世 11/6）
+- **2027 年秋季投产**：首款国产纯电 SUV、**初期年产能 10 万辆**、**集整车与电池工厂于一体**——投产时间、产能、形态三要素补齐（承接 11/3 定档）
+- 判断：初期 10 万辆 = 克制的试水产能（对照豪华国产化常规体量），「整车+电池一体化」= 复用中国电池供应链的本地化补课（[[battery-white-box]]）；与丰田中国换帅（「中国 ONE TOYOTA」，见 [[toyota]]）同周落地——治理统一 + 豪华本地化双线并进
 - **独资工厂**（非传统合资模式）= 丰田在华资产布局的新形态，与南北丰田整合（[[toyota]]、[[gac]]）、广汽丰田收缩（[[gac-toyota]]）形成对照：量产品类收缩的同时，高端纯电环节选择「全资掌控」
 - 背景：蔚来中国终端销量首超 BBA（[[nio]]）、中国品牌高端化挤压豪华基本盘——雷克萨斯国产 = 对中国高端纯电市场的「本地化补课」
 

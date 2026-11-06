@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-04
+updated: 2026-11-06
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -125,3 +125,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **10月中国产电动车 67,829 辆（+10.3% YoY）**，连续12个月同比正增长，但环比 -28.9%（乘联分会，含出口）；欧洲多国注册量走高，韩国占上海工厂出口约 1/5；同日将全年资本开支预期下调五分之一
 - **进博会（11/4）**：Cybercab 已承担实际出行任务（配合 [[l4-global-race-2027]] 叙事）+ 新一代机器人亮相
 - **韩国消费者团体拟投诉 FSD 误导**：仅约 20% 韩版车可用、单次收费 6,726 美元——FSD 付费模式在新市场水土不服（对照 [[tesla-fsd-china]]）
+
+## 2026-11-06 更新：进博会 Robotaxi 运行实绩（新浪科技 11/5）
+- **无安全员运行 500 万 km**、**安全气囊零弹出**、**本土化率 98%**——进博会展示口径（承接 11/4 已录「Cybercab 承担实际出行任务」）
+- 判断：**本土化率 98%** = 特斯拉中国供应链深度本地化的量化背书（对照 [[byd]] 同域竞争）；「无安全员 500 万 km + 气囊零弹出」是 Robotaxi 安全叙事的硬数据——直接回应 NHTSA 调查（9 月，页首）以来的安全质疑
+- 意义：进博会 = 特斯拉对中国「智驾安全」监管环境的正面公关，与 FSD 入华推进（[[tesla-fsd-china]]）节奏吻合；Robotaxi 竞争进入「安全里程数据」维度（对照 [[waymo-vs-tesla-robotaxi-2026]]）

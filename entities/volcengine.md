@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-09-28
+updated: 2026-11-06
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 # 火山引擎
@@ -83,4 +83,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/
 - 字节（豆包座舱）**正式入局车载AI技术方案商**角色——从「提供模型」升级为「提供方案」
 - **深蓝S07 AI激光版**与火山引擎豆包大模型共创（见 [[deepal]]）
 - 判断：字节以「模型+云+方案」三件套切入，与华为、百度构成座舱AI新三国
+
+## 2026-11-06 更新：豆包汽车技术负责人苏杰离职（36氪 11/5 晚）
+- **字节「豆包汽车」技术负责人苏杰离职**，原因未披露——豆包汽车是字节车联网/AI 上车业务的核心（火山引擎豆包大模型车端落地的业务主体，[[volcengine]] 自家产品线）
+- 判断：字节上车战略进入调整信号期——关注继任者与业务方向是否收缩；座舱 AI 方案商格局（[[cockpit-llm]]）竞争白热化背景下，关键人物变动可能影响豆包座舱的客户拓展节奏（对照 [[stepfun]] 端到端语音量产上车、DeepSeek 份额 45.2% 的「开源分流」压力）
 

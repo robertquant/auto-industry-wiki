@@ -1,10 +1,10 @@
 ---
 title: 欣旺达动力（Sunwoda）
 created: 2026-11-02
-updated: 2026-11-05
+updated: 2026-11-06
 type: entity
 tags: [battery, oem-cn, supply-chain]
-sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-02-gasgoo-evening.md, entities/li-auto-lianshan-battery.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-02-gasgoo-evening.md, entities/li-auto-lianshan-battery.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 欣旺达动力
@@ -22,3 +22,8 @@ sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-02-gasgoo-
 
 ## 相关
 - [[xiaomi-auto]] · [[li-auto-lianshan-battery]] · [[catl]] · [[battery-white-box]] · [[byd]]
+
+## 2026-11-06 更新：欧盟电池护照提前两年交卷
+- **2023/11 即组建电池护照专项团队**（国内最早自研护照平台的企业之一）；2024 两个 LFP 项目入选全球电池联盟（GBA）十大试点；**2026 与理想、岚图组成联合体参与 GBA 运营试验，6 月完成欧盟 CirPass 注册库系统级对接**
+- 平台数据智能采集覆盖率超 70%，以 **AIoT + 区块链存证 + 零知识证明**兼顾中欧数据跨境合规——直面 2027/2/18 欧盟强制实施节点（[[battery-passport-2026]]）
+- 判断：代工产能之外的另一层护城河——**合规数字化能力**；与工信部「数字身份证」（[[battery-digital-id-2026]]，2027 施行）叠加，欣旺达是少数「双轨数据合规」已就位的电池厂——提前两年布局 = 把合规周期变成竞争时间差

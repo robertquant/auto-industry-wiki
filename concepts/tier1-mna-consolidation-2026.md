@@ -1,7 +1,7 @@
 ---
 title: 外资Tier1并购整合潮（2026-10）
 created: 2026-10-11
-updated: 2026-10-17
+updated: 2026-11-06
 type: concept
 tags: [supply-chain, trend, tier1]
 sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
@@ -56,3 +56,7 @@ sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-
 - **通信模组龙头广和通 × 汽车电子 Tier1 航盛电子重组完成**：航盛借力加速**泰国、欧洲产能布局**、广和通补**AI 算力+通信能力**，构建**舱驾融合软硬一体化**能力（[[cabin-drive-integration]]）
 - 判断：中外并购同屏——欧系卖资产补现金/中资买技术（本页交易清单）之外，**国产 Tier1 之间的横向整合**同步提速，指向同一结论：Tier1 竞争门槛从单一零部件升维到「系统级集成 + 全球交付」
 - 呼应：[[chassis-domain-control]]、[[ice-supplier-divergence]]
+
+## 2026-11-06 更新：马瑞利新 CEO + Chapter 11 重组
+- **马瑞利官宣 Laurent Favre 即日起任 CEO**（前彼欧集团 CEO，历任蒂森克虏伯、采埃孚、本特勒高管）——**首要任务是完成美国《破产法》第 11 章重组**；重组完成后拟由前奥迪 CEO **Bram Schot 出任董事会主席**
+- 判断：2026-10 并购潮（页首交易清单）之外的**第二种整合形态——破产重组中换帅**：欧洲 Tier1 的资本重组与权力交接从「并购换手」深化到「司法重组 + 管理层大换血」；全球 Tier1 洗牌不止于资产易主，管理权也在向「扭亏职业经理人」集中（对照 [[aptiv]] 第二曲线转型与 [[ice-supplier-divergence]] 的分化命题）

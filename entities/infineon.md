@@ -1,10 +1,10 @@
 ---
 title: 英飞凌 (Infineon)
 created: 2026-10-21
-updated: 2026-10-25
+updated: 2026-11-06
 type: entity
 tags: [chip, tier1, supply-chain, oem-eu]
-sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 英飞凌 (Infineon)
@@ -33,3 +33,7 @@ sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md
 ## 2026-10-25 更新：× Wolfspeed 200mm SiC 多年期供货协议
 - **与 Wolfspeed 签署 200mm SiC 晶圆多年期供货协议**：供货关系由 150mm 衬底转向 200mm，直接支撑英飞凌 200mm 碳化硅大规模制造转型——**马来西亚居林工厂剑指全球最大 SiC 基地**（电动车、光伏与 AI 数据中心需求交汇，单位衬底成本曲线是下一轮竞争焦点）
 - 判断：SiC 衬底代际切换（150→200mm）与 IGBT 国产化（[[power-module-market-2026]] 比亚迪半导体 19.2% 登顶）同步发生——英飞凌用「大尺寸衬底锁定」对冲中国功率模块份额追赶；200mm 产能爬坡速度决定 2027-28 SiC 价格战走向
+
+## 2026-11-06 更新：×高通共同开发中央车载计算机（盖世芯片快讯 11/6）
+- **与高通合作开发中央车载计算机**——典型分工：英飞凌 AURIX MCU（功能安全/实时控制）+ 高通 SoC（AI 算力）——中央计算+区域控制（[[cabin-driving-fusion]]）架构下的标准卡位组合
+- 判断：芯片厂在给 2027-28 中央计算节点（[[courizon]] CEA 2027 中央计算/L3 已录）提前锁定「MCU+SoC」捆绑方案；与 RISC-V 下一代 MCU（[[risc-v-automotive]]）并行——英飞凌同时押注「高通绑定」与「RISC-V 自主」两条线，对冲架构风险（[[qualcomm-auto]]）

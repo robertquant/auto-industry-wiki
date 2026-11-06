@@ -1,10 +1,10 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-10-19
+updated: 2026-11-06
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 # 赛力斯 (Seres)
@@ -85,3 +85,7 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 - **9/30 双方深圳签约**，联合组建问界业务专属团队，「专属专营」升级问界业务；产品定义、渠道零售、服务体系已移交赛力斯主导（承接 10/6 记录）
 - **问界用户突破 120 万**；续签背后是鸿蒙智行「五界」资源分配的治理命题（[[huawei-auto]]、[[zunjie]]、[[xiangjie]]、[[zhijie]]、[[shangjie]]）
 - 判断：华为「包办→赋能」退位路径确认，问界进入赛力斯自主造血验证期（[[wenjie]]）
+
+## 2026-11-06 更新：备战 L3——魔方平台支持 L3 架构（IT之家 11/4-5）
+- **赛力斯备战 L3**：魔方平台支持 L3 架构——从整车平台层面为高阶智驾做架构预埋
+- 判断：与华为系「L3 架构标配化」节奏同频——[[wenjie-m8]]（11/13 发布，乾崑 ADS 5 + 全系 L3 架构）是 HW 智选体系的第一落点，赛力斯在平台层跟进 = 为 **2027.7.1 L3 强制国标**（[[l3-mandatory-standard]]）提前「交作业」的华为系集团动作；赛力斯作为问界制造方，平台级 L3 能力是其区别于「华为贴牌」质疑的技术自证（[[huawei-auto]]）

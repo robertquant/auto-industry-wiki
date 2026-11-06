@@ -1,7 +1,7 @@
 ---
 title: 吉利×蔚来换电联盟 (2026)
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-11-06
 type: concept
 tags: [ecosystem, strategy, ev-tech, trend]
 sources: [memory/2026-09-28.md, memory/2026-09-29.md, daily-news/2026-09-28-gasgoo-evening.md, daily-news/2026-09-29-gasgoo-evening.md]
@@ -42,3 +42,8 @@ sources: [memory/2026-09-28.md, memory/2026-09-29.md, daily-news/2026-09-28-gasg
 - [[catl]] - 宁德时代巧克力换电（竞争路线）
 - [[ultra-fast-charging]] - 超充阵营（竞争路线）
 - [[battery-swap-vs-ultra-fast-charging]] - 补能路线之争对比
+
+## 2026-11-06 更新：2030 万座目标 + 引望入局巧克力换电（盖世 11/6）
+- **目标 2030 年 1 万座换电站**——9/28 结盟后的首个规模化量化目标（承接页首交叉持股结构）
+- **引望（[[yinwang]]）联合宁德时代、时代电服，将乾崑智驾接入巧克力换电网络**——华为生态入局换电：换电标准之争从「蔚来系 vs 宁德巧克力」演化为**生态战争**（华为智驾 × 巧克力换电 vs 蔚来/吉利标准）
+- 背景：9 月新能源渗透率 67% 创新高、补能焦虑占购车决策权重约 1/3——补能进入「第三次跃迁」（[[ultra-fast-charging]]）：从配套到战略资产，换电联盟是「资产化」叙事的乘用车侧代表
