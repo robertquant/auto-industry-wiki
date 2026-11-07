@@ -1,10 +1,10 @@
 ---
 title: QNX Hypervisor
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-11-07
 type: concept
 tags: [technology, cockpit, adas]
-sources: [memory/2026-04-30.md]
+sources: [memory/2026-04-30.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # QNX Hypervisor
@@ -16,6 +16,10 @@ sources: [memory/2026-04-30.md]
 - **基础**：QNX Neutrino RTOS作为Type 1 Hypervisor
 - **功能**：单芯片上创建多个隔离的虚拟机（VM）
 - **典型配置**：QNX（智驾）+ Android（座舱）或 Linux（智驾）
+
+## 2026-11-07 更新：法雷奥前视摄像头平台集成 QNX OS for Safety
+- **[[valeo]] 新一代前视摄像头平台集成 QNX OS for Safety**（进博会 11/6）：支持车辆/行人/标线/交通标识检测，**已获多家中国车企定点**、2026 年内投产——QNX 从座舱虚拟化（Android+Linux 共存）延伸到**前视摄像头功能安全域**
+- 判断：QNX 的「Type 1 Hypervisor + 功能安全 OS」双产品线，正把座舱统治力复制到智驾传感器域（对照 [[cockpit-chip]]、[[iso-26262]] 功能安全要求）
 
 ## 核心优势
 

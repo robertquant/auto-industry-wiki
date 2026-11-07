@@ -1,10 +1,10 @@
 ---
 title: RISC-V 车规化
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-11-07
 type: concept
 tags: [chip, trend, supply-chain]
-sources: [raw/articles/2026-10-08-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # RISC-V 车规化
@@ -20,6 +20,10 @@ RISC-V 开放指令集架构在汽车芯片领域的规模化应用进程。2026
 ## 2026-10-09 更新：紫荆半导体车规 RISC-V 破千万颗
 - **紫荆半导体 RISC-V 车规芯片累计出货破 1,000 万颗**（盖世）——国产车规 RISC-V 首次进入千万级规模，从「补链叙事」进入「出货验证」
 - 结合英飞凌下一代 MCU 采用 RISC-V：国外巨头跟进 + 国产规模化，双线验证 RISC-V 车规化从边缘切入走向主流（对照 [[storage-chip-surge-2026]] 供应链背景）
+
+## 2026-11-07 更新：英飞凌 AURIX RC1——首个 RISC-V 车规 MCU 系列
+- **[[infineon]] 发布 AURIX RC1**（11/6）：首个基于 RISC-V 架构的车规 MCU 系列，打破车规 MCU 长期绑定专有内核的格局——从「透露下一代采用 RISC-V」（10/8 已录）到**产品发布落地**
+- 判断：RISC-V 车规化完成「工具链/功能安全认证可行性」验证，进入产品化阶段；国产（[[auto-chip-self-develop]] 紫荆破千万颗）+ 国际（英飞凌）双线并进，[[storage-chip-surge-2026]] 背景下的开放架构叙事再获主流背书
 
 ## 开放问题
 

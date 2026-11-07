@@ -1,10 +1,10 @@
 ---
 title: 英飞凌 (Infineon)
 created: 2026-10-21
-updated: 2026-11-06
+updated: 2026-11-07
 type: entity
 tags: [chip, tier1, supply-chain, oem-eu]
-sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 英飞凌 (Infineon)
@@ -18,6 +18,11 @@ sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md
 - 意义：传统「芯片厂-车企」买卖关系 → 联合定义关系；外资 Tier1/芯片厂绑定中国合资研发体系的又一例
 
 **判断**：英飞凌在合肥与「CARIAD中国+VCTC」双研发中心绑定 = 欧洲芯片巨头对「中国定义、全球输出」（对照 [[mercedes-benz]] 战略）的直接下注。与 [[xinhe-hangtu]]（雷诺/奇瑞投中国芯片）互为镜像：欧洲巨头两头下注——既投中国本土芯片，也把自家芯片嵌入中国研发链。
+
+## 2026-11-07 更新：首个 RISC-V 车规 MCU 系列 AURIX RC1
+- **发布首个基于 RISC-V 架构的车规 MCU 系列 AURIX RC1**（11/6）——打破车规 MCU 长期绑定专有内核格局，为下一代电子电气架构提供开放生态选项（[[risc-v-automotive]]）
+- 与 11/6「×高通共同开发中央车载计算机」呼应：AURIX MCU 存量（专有内核）+ RC1（RISC-V 增量）+ 高通 SoC 捆绑——英飞凌「双架构并行 + 捆绑外援」策略进入产品落地期
+- 判断：AURIX 是车规 MCU 事实标准，RC1 若放量 = RISC-V 车规化从「边缘切入」进入「主流替换」临界（[[storage-chip-surge-2026]] 背景下开放架构/国产替代双叙事）
 
 ## 相关页面
 - [[volkswagen]] - 大众 CEA 架构与合肥 VCTC

@@ -1,10 +1,10 @@
 ---
 title: 智驾芯片格局
 created: 2026-06-30
-updated: 2026-10-24
+updated: 2026-11-07
 type: concept
 tags: [chip, autonomous-driving, ai, chinese]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 智驾芯片格局
@@ -168,3 +168,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-10-24 更新：H1 城区 NOA 双强格局——39.43% vs 22.82%
 - **2026 H1 城区 NOA 装机 204.7 万辆（+70%）**，英伟达 **39.43%** / 地平线 **22.82%**（双强合计 62%）——城区 NOA 口径下「双寡头」成型，与前两条口径（域控/装机）互相印证
 - **征程6 已获 25+ 车企、100+ 车型定点**（[[horizon-robotics]]）——国产旗舰芯片定点规模对新芯片厂商（[[blacksesame]] 武当系列等）构成事实壁垒；英伟达守住份额靠 Thor 迭代，但城区 NOA 装机增速 +70% 的增量盘正被国产分食
+
+## 2026-11-07 更新：1-9月智驾域控芯片——Orin-N 仍压昇腾610，差距缩至 6.9 万颗
+- **1-9月智驾域控芯片装机**（盖世口径）：英伟达 Orin-N **92.9 万颗 / 15.6%** 居首，华为昇腾610 **86.0 万颗 / 14.4%** 紧随——**差距缩至 6.9 万颗**
+- 昇腾610（[[huawei-auto]] 昇腾系列）从「生态玩家」逼近英伟达存量基本盘；叠加 8 月装机口径（30.2% vs 19.75%）、H1 城区 NOA（39.43% vs 22.82%），三条口径一致指向：**英伟达守擂、华为追赶的关键窗口期**（[[nvidia]]、[[horizon-robotics]]）
+- 判断：Orin-N 是英伟达「旧架构打价格战」的主力（算力够用+成本下探），昇腾610 靠国产化 + ADS 生态捆绑上量——2027 年 L3 国标（[[l3-mandatory-standard]]）落地后，「预埋车型」上的国产份额优势可能转化为装机反超

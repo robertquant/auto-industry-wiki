@@ -1,10 +1,10 @@
 ---
 title: 理想 i6（2026款）
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-07
 type: entity
 tags: [vehicle, oem-cn, ev-tech, battery-tech]
-sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily-digest.md]
+sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 理想 i6（2026款）
@@ -28,6 +28,11 @@ sources: [raw/articles/2026-10-27-daily-digest.md, raw/articles/2026-10-28-daily
 - **10/28 当晚正式上市**——从定档（10/27）到兑现，马赫 M100 全系标配 + 连山 5C 首发叙事落地（[[li-auto-lianshan-battery]]）
 - **承诺电池自燃赔同级新车**——连山电池安全叙事从「技术参数」升级为「兜底承诺」（对照 [[adas-liability-guarantee]] 的赔付式营销逻辑）
 - **i6 占理想过半销量**——2026 款 i6 已从「旗舰」变为理想的基本盘车型，换代成败直接决定 Q4 集团销量与「AI+汽车」叙事的兑现度
+
+## 2026-11-07 更新：11 月初开启交付 + 马赫 M100 取代 Thor-U
+- **11 月初开启交付**（盖世 11/7）：96kWh 连山 5C + 马赫 M100 全系标配兑现（[[li-auto-m100]]、[[li-auto-lianshan-battery]]）
+- **马赫 M100 取代英伟达 Thor-U**——理想智驾芯片从「Orin-X 并行」走向「自研替换」节点（[[nvidia]]、[[autonomous-driving-chips]]）
+- 判断：i6 交付斜率 = 自研芯片规模上量的第一个观测窗口；Q4 放量决定「AI+汽车」叙事的量价兑现（[[li-auto]]）
 
 ## 相关
 - [[li-auto]] - 母公司战略（AI 研发投入 60 亿/年）

@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-11-01
+updated: 2026-11-07
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md]
 ---
 
 # Momenta (魔门塔)
@@ -18,6 +18,11 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **「在中国、为全球」0 到 1**：以往外资/合资合作多为「在中国，为中国」补齐短板，神龙模式把智能化从中国直接带向全球（区别于 [[bmw]]/[[mercedes-benz]] 的在华补课逻辑）
 - 申万宏源：目标价上调至 **408 港元**、维持「买入」
 - 判断：第三方方案商从「卖方案」走向「共定义产品」——AI 定义汽车时代话语权迁移的标志性案例（对照 [[battery-white-box]] 的车企穿透供应链，这里是被穿透方主动交权）
+
+## 2026-11-07 更新：上汽×Momenta 合资公司（注册资本 3 亿元）
+- **上汽与 Momenta 成立合资公司**（21 财经 11/5-6）：注册资本 **3 亿元**——从「供应商-客户」到「资本绑定」的又一升级（[[saic]]）
+- 与 10/23 神龙合作并列：第三方方案商「共定义产品」路线再落一子；上汽自主（[[im-ad]] 智己端到端路线）智驾战略从外采走向深度绑定
+- 判断：Momenta 同时绑定 [[bmw]]/[[mercedes-benz]]（欧洲）、神龙（合资）、上汽（国内国企）——「多点资本绑定」取代单一客户依赖，是对抗车企自研（[[auto-chip-self-develop]]）的护城河策略
 
 ## 市场地位
 

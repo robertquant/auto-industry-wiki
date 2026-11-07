@@ -1,11 +1,16 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-10-13
+updated: 2026-11-07
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
-sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md]
+sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
+
+## 2026-11-07 更新：乾崑 ADS 里程数据——172.7 亿公里 / 月活 95.2%
+- **截至 10/31**（盖世 11/7）：乾崑 ADS 累计辅助驾驶里程 **172.7 亿公里**（当月 14.8 亿公里）、搭载用户**月活使用率 95.2%**；辅助驾驶状态下严重碰撞前平均安全里程 **1082.7 万公里**
+- 对照：2026 年 5 月破 100 亿公里 → 10 月底 172.7 亿公里——**5 个月 +72.7 亿公里**，数据飞轮斜率加快（[[data-moat]]、[[data-loop]]）
+- 判断：月活 95.2% + 平均安全里程 1082.7 万公里 = 「高频使用 + 低事故率」双指标，是 [[l3-mandatory-standard]] 落地前华为智驾责任叙事的关键数据底牌
 
 ## 概述
 

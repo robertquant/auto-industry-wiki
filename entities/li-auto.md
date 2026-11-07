@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-11-01
+updated: 2026-11-07
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -230,3 +230,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **OTA 9.2 本月推送**：马赫 VLA 2.5 + 座舱 Agent 升级——自研芯片（[[li-auto-m100]]）+ VLA 迭代的「软件周期」叙事延续，OTA 版本号即产品节奏表（[[ai-in-automotive-rd]]）
 - **10 月交付 2.9 万、累计 186.3 万**（公告 11/1）——i6 2026 款爬坡 + 换代切换期（10/31 已录 9 月同环比双降），Q4 看 i6 放量斜率（[[li-auto-i6]]）
 - 判断：座舱 Agent + VLA 双升级 = 「AI+汽车」战略的交付侧兑现（页首 120 亿研发/AI 占比 50%）；但 2.9 万月交付仍在换代阵痛区，纯电转型红利未到账
+
+## 2026-11-07 更新：OTA 9.2.0 推送 + i6 交付启动
+- **OTA 9.2.0 正式推送**（车家号 11/7）：马赫 VLA 新增**三类特种车感知**（救护车/消防车/警车等）+ 座舱**三 Agent** 升级——11/1 预告的 OTA 9.2 兑现为 9.2.0，VLA 从「通用场景」向「特种场景」扩展（[[vla-model]]）
+- **2026 款 i6 11 月初开启交付**：96kWh 连山 5C + 马赫 M100 全系标配兑现（[[li-auto-i6]]）；马赫 M100 **取代英伟达 Thor-U**——自研芯片从「与 Orin-X 并行」走向「替换」节点（[[nvidia]]、[[autonomous-driving-chips]]）
+- 判断：特种车感知 = VLA 场景差异化竞争（[[world-model]]）；i6 交付斜率决定 Q4「AI+汽车」叙事的量价兑现（[[q3-2026-earnings-season]]）

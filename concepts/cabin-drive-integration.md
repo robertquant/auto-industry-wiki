@@ -1,10 +1,10 @@
 ---
 title: 舱驾融合 (Cabin-Drive Integration)
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-11-07
 type: concept
 tags: [chip, adas, cockpit, trend, supply-chain]
-sources: [memory/2026-09-09.md]
+sources: [memory/2026-09-09.md, memory/2026-11-07.md]
 ---
 
 # 舱驾融合 (Cabin-Drive Integration)
@@ -25,6 +25,12 @@ sources: [memory/2026-09-09.md]
 | 星空6/星空6P | [[horizon-robotics]] | 5nm（中国首颗舱驾融合） | 650 TOPS | 最快2026 Q3量产 |
 | SA8797 | 高通 | 4nm | **1280 TOPS**（此前640→翻倍） | 零跑D19首发双芯=2560 TOPS |
 | 龍鹰二号 | 芯擎 | 5nm | 200 TOPS | 量产 |
+| AC8035 | [[navinfo-ac8035]]（四维图新/杰发） | - | 内存减半（对标双芯片方案） | 2027 Q1 样片 |
+
+## 2026-11-07 更新：四维图新 AC8035 入局 + 杰发出货破 1 亿颗
+- **四维图新 AC8035 舱驾融合 SoC**：2027 Q1 出样片、内存减半（对照「座舱+智驾」双芯片方案）——地图/位置服务商切入舱驾芯片（[[navinfo-ac8035]]）
+- 旗下杰发科技车规 SoC 累计出货破 1 亿颗——「导航地图数据 + 车规芯片」双资产卡位
+- 判断：舱驾融合从「头部芯片商游戏」（[[blacksesame]] 武当 C1296 / [[horizon-robotics]] 星空 / [[qualcomm-auto]] 8797）扩散到二线玩家；2027 年样片潮后价格战可期
 
 ### 高通 SA8797「必选项」地位
 - **客户清单**：理想L9、轻舟、元戎、文远、零跑D19、卓驭

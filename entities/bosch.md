@@ -1,10 +1,10 @@
 ---
 title: 博世
 created: 2026-05-08
-updated: 2026-10-25
+updated: 2026-11-07
 type: entity
 tags: [bosch, 供应商, 智驾, 德国]
-sources: [memory/2026-05-08.md, memory/2026-05-19.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [memory/2026-05-08.md, memory/2026-05-19.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 博世 (Bosch)
@@ -20,6 +20,10 @@ sources: [memory/2026-05-08.md, memory/2026-05-19.md, daily-news/2026-10-25-gasg
 
 - 与 [[momenta]]、[[huawei-ads]] 等中国智驾方案商竞争
 - 与 [[horizon]]、[[blacksesame]] 等国产芯片商合作与竞争并存
+
+## 2026-11-07 更新：博世×奇瑞欧洲 ADAS 定点（80 万台）
+- **进博会官宣获 [[chery]] 欧洲项目 ADAS 定点**：覆盖 **6 车型、约 80 万台**、**2028 年量产**（网通社 11/7）——中国车企出海放量带来的欧洲本土 Tier1 订单
+- 判断：中国 OEM 欧洲扩张（[[china-oem-europe-top10-2026]]）正把智驾订单「反向输出」给欧洲 Tier1；博世在智驾方案竞争中被 [[momenta]]/[[huawei-ads]] 挤压后，以「欧洲本地化交付能力」重新卡位（对照 [[valeo]] QNX 前视摄像头同思路）
 
 ## 相关概念
 

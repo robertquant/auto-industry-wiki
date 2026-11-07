@@ -1,13 +1,17 @@
 ---
 title: 2026年10月中国车企销量战报
 created: 2026-11-02
-updated: 2026-11-05
+updated: 2026-11-07
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
-sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 2026年10月中国车企销量战报
+
+## 11/7 乘联分会口径补充：10 月新能源批发约 180 万辆（+12%）
+- **批发口径**：10 月新能源乘用车批发约 **180 万辆，同比 +12%、环比 +8%**——行业确认回到复苏通道（零售口径各家战报见下表）
+- 与战报互证：[[byd]] 49 万恢复同比正增长、[[leapmotor]] 连续 4 月破 10 万、小鹏/小米站上 5 万——头部规模分化加剧（[[nev-penetration-60-percent]]）
 
 ## 10月交付/销量一览
 

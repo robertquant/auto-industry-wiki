@@ -1,10 +1,10 @@
 ---
 title: 法雷奥（Valeo）
 created: 2026-10-13
-updated: 2026-10-17
+updated: 2026-11-07
 type: entity
 tags: [tier1, adas, ev-tech]
-sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 法雷奥（Valeo）
@@ -15,6 +15,10 @@ sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-
 ## 2026巴黎车展亮点（10/12-18）
 - **VSS360 智能安全系统**：一体化单盒架构，覆盖 L1/L2 并可升级 L2+ 高速 NOA——「一个盒子打天下」的低成本智驾路线
 - **SCALA 3 激光雷达**：面向 L3/L4，探测距离 200 米、支持 130km/h 自动驾驶——法雷奥激光雷达三代迭代
+
+## 2026-11-07 更新：×QNX 新一代智能前视摄像头（进博会）
+- **QNX OS for Safety 集成至法雷奥新一代前视摄像头平台**（11/6 进博会）：支持车辆/行人/标线/交通标识检测，**已获多家中国车企定点**、具备量产条件、**2026 年内投产**（[[qnx-hypervisor]]）
+- 判断：外资 Tier1 用「功能安全 OS（QNX）+ 成熟感知硬件」组合抢中国 L2/L2+ 走量市场——与 [[momenta]]/[[huawei-ads]] 高阶方案错位竞争（[[bosch]] VSS360 同思路）
 
 ## 行业含义
 Tier1 在车展戏份加重：智能化时代传感器/系统供应商需要直接面向 OEM 甚至消费者建立品牌认知（对照 [[bosch]] 软件定义转型、[[hesai]] 进入奔驰 L3 供应链）。

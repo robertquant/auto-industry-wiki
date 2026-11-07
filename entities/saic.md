@@ -1,16 +1,20 @@
 ---
 title: 上汽集团 (SAIC)
 created: 2026-07-04
-updated: 2026-11-04
+updated: 2026-11-07
 type: entity
 tags: [saic, china, soe, export, new-energy]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/articles/2026-10-19-daily-digest.md, memory/2026-11-07.md]
 ---
 
 # 上汽集团 (SAIC)
 
 ## 概述
 上汽集团是中国最大的汽车集团，2026年上半年销量204.5万辆，全国唯一突破200万辆的车企。经历合资品牌崩塌后，自主品牌和出海业务成功补位，完成"换血"但利润率承压。
+
+## 2026-11-07 更新：×Momenta 成立合资公司（注册资本 3 亿元）
+- **上汽与 [[momenta]] 成立合资公司**（21 财经 11/5-6）：注册资本 3 亿元——上汽智驾从外采走向资本绑定（[[im-ad]] 智己端到端路线延续）
+- 判断：国企集团 + 头部方案商合资，是继 [[bmw]]/[[mercedes-benz]] 深度共研后 Momenta 资本网络的又一节点（[[china-tech-reverse-export]]）
 
 ## 关键数据
 

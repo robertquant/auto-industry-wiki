@@ -1859,3 +1859,11 @@
 - ③ 电池合规数字化成为竞争力分水岭：工信部数字身份证（2027）+ 欧盟电池护照（2027/2）双轨并行，欣旺达提前两年布局 = 把合规周期变成竞争时间差
 - ④ 吉利银河「多生孩子好打架」公开失效——行业从扩品竞赛转入质量竞赛，头部首次承认车海战术边际效应递减
 - ⑤ 李斌给 Robotaxi 泼冷水补上行业第三维度：单城容量上限决定重资产生意估值，不是软件式赢家通吃
+
+## [2026-11-07] update | 每日整理：AI日报+盖世晚报知识点入库
+- 新建 entities/navinfo-ac8035.md（四维图新AC8035舱驾融合SoC：2027Q1样片、内存减半、杰发出货破1亿颗）
+- 更新实体页 12：li-auto（OTA 9.2.0特种车感知+三Agent/i6交付）、li-auto-i6（11月初交付/马赫M100取代Thor-U）、momenta（上汽合资3亿）、bosch（奇瑞欧洲ADAS 6车型80万台2028）、chery（博世欧洲定点）、valeo（QNX前视摄像头2026投产）、infineon（AURIX RC1 RISC-V MCU）、huawei-ads（172.7亿公里/月活95.2%）、gac（因湃泰国PACK工厂）、volkswagen（进博会VEGA上车）、toyota（独立机器人事业部）、saic（×Momenta合资）
+- 更新概念页 5：autonomous-driving-chips（1-9月Orin-N 92.9万vs昇腾610 86.0万差6.9万颗）、ai-coding-tools-2026（Qoder×吉利60%代码）、cabin-drive-integration（AC8035入局）、qnx-hypervisor（法雷奥集成案例）、risc-v-automotive（AURIX RC1产品化）
+- 更新对比页 1：2026-10-china-sales-battle（乘联口径10月新能源批发180万辆+12%）
+- index.md：Last updated 2026-11-07；Total pages 372→**373**（entities 160→161）；芯片厂商 19→20
+- 完整性校验：comm 输出为空 ✅（373 注册 = 373 实体，0 缺失；3 个额外链接为独立分库 index，属预期）

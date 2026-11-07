@@ -1,10 +1,10 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-11-05
+updated: 2026-11-07
 type: entity
 tags: [oem-cn, sales, export, policy]
-sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 广汽集团 (GAC)
@@ -23,6 +23,10 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 | 行业意义 | 传统合资体系从「各自为战」转向**资产、产能、渠道重新整合**；「南北丰田产销分离」 |
 
 **判断**：日系合资在华衰退期（见 [[japanese-sales-china-2026]]、[[honda-china]]），广汽反向加码丰田资产——本质是**用股权整合锁定合资残值**，与 [[saic-gm]] 续约至2047形成对照：一个是「抱紧外资续命」，一个是「主动收编产能」。丰田体系整合后，广汽将成为中国最大的日系合资运营方。
+
+## 2026-11-07 更新：因湃电池泰国 PACK 工厂投产
+- **因湃电池泰国工厂首套动力电池 PACK 下线投产**（11/6）——广汽首个海外动力电池工厂，就近配套广汽海外整车基地
+- 判断：出海从「整车出口」向「整车+电池本地化制造」纵深推进（[[chinese-oem-export]]）；电池本地化是规避欧洲/东南亚贸易壁垒（[[battery-passport-2026]]、[[thailand-ev-import-tax-2027]]）的产能侧解法，与 [[byd-hungary-factory]] 同构
 
 ## 合资版图（2026年）
 

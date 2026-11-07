@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-05
+updated: 2026-11-07
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -27,6 +27,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 - 全价值链出海： CKD散件组装 + 本地化生产基地（巴西、埃及、印尼等）
 - 覆盖市场以新兴市场为主，避开欧洲高强度竞争
 - 与[[chinese-oem-export]]趋势对照：比亚迪攻欧洲/东南亚，奇瑞深耕新兴市场
+
+## 2026-11-07 更新：博世欧洲 ADAS 定点（6 车型/80 万台/2028 量产）
+- **博世进博会官宣获奇瑞欧洲 ADAS 定点**：6 车型、约 80 万台、2028 量产（网通社 11/7）——奇瑞欧洲放量的智驾供应链提前锁定（[[bosch]]）
+- 与 10/20 全球创新大会（原生 L4 Robotaxi + CheryMind 物理 AI）呼应：奇瑞「新兴市场走量 + 欧洲高阶智驾」双线并进（[[china-oem-europe-top10-2026]]）
 
 ## 电池技术路线（9/26）
 - **全固态电池**：2027 上车验证

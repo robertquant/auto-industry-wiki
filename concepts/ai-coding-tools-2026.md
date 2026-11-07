@@ -1,10 +1,10 @@
 ---
 title: AI编程工具爆发（2026）
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-11-07
 type: concept
 tags: [ai, coding, r&d, automation]
-sources: [memory/2026-06-27.md]
+sources: [memory/2026-06-27.md, memory/2026-11-07.md]
 ---
 
 # AI编程工具爆发（2026）
@@ -27,6 +27,10 @@ sources: [memory/2026-06-27.md]
 - **瓶颈**：信任而非能力
 
 详见 [[agentic-coding-capability-2026]]
+
+## 2026-11-07 更新：Qoder×吉利——AI 生成 60% 代码
+- **阿里 Qoder × [[geely]] 落地案例**（科学网 11/5）：AI 生成约 **60% 代码**；一次生成 **5-6 版座舱方案**供选择；AI 编写单元测试——从「辅助写码」到「方案生成 + 测试代写」的全链路
+- 判断：60% 代码占比 = Agentic Coding 从试点进入规模量产证据（[[agentic-coding-capability-2026]]）；车企研发效率叙事从「研发周期缩短」（[[automotive-rd-speed]]）细化到「代码占比」硬指标
 
 ## 行业影响
 
