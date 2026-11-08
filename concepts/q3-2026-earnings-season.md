@@ -1,10 +1,10 @@
 ---
 title: 2026年Q3财报季：增长引擎切换
 created: 2026-10-31
-updated: 2026-11-01
+updated: 2026-11-08
 type: concept
 tags: [sales, strategy, trend, comparison]
-sources: [raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 2026年Q3财报季：增长引擎切换
@@ -48,3 +48,8 @@ sources: [raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily
 ## 开放问题
 - 净利率 4.52% 的比亚迪 vs 大众砍至 1% 指引——中外利润率曲线何时交叉？
 - 出口破千万后（[[china-export-leaders-2026]]），关税防线（[[eu-hybrid-export-caps-2026]]）如何重塑格局
+## 2026-11-08 补充：长安 Q3 净亏 7.58 亿 + 赛力斯 280.8 亿/14.2 亿——财报季收尾确认
+- **长安 Q3 净亏 7.58 亿**（[[changan]]）——合资崩塌（福特/马自达）+ 新能源价格战双杀下的央企样本，与页首「八大车企量利倒挂」互证：**Q3 利润正增长只剩比亚迪/吉利/奇瑞**（11/1 已录）
+- **赛力斯 Q3 营收 280.8 亿、净利 14.2 亿**（[[seres]]）——问界基本盘（[[wenjie]]）持续盈利但增速放缓；华为智选车模式后续利润兑现需新品接棒（新 M8 11/13 发布，[[wenjie-m8]]）
+- **广汽前三季 751.56 亿（+12.29%）**（晨报口径）——日系合资连跌（[[gac-toyota]] 6-9 月四连跌）压力下，增长来源转向自主与出海（[[gac]]）
+- 判断：三例共同点 = **海外与自主高端化仍是 Q3 唯一利润来源**（承接页首「增长引擎切换」主线）；长安净亏提示央企整合（[[central-soe-restructuring-2026]]）的财务紧迫性

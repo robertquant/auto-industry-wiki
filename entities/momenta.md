@@ -1,10 +1,10 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-11-07
+updated: 2026-11-08
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md, memory/2026-11-08.md]
 ---
 
 # Momenta (魔门塔)
@@ -117,3 +117,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **10/29 新芯航途 X7 Ultra 发布会首提「大模型定义芯片」**（腾讯新闻 10/31 报道）——与余凯 TOPS 算力炮轰（[[tops-spec-war-2026]]）正面撞车：一方说「算力含金量」，一方说「按模型设计芯片」
 - 语境：X7 Ultra 700TOPS / NPU 利用率 98.7%（见 [[xinhe-hangtu]]）——「高利用率」是「模型-芯片协同设计」的量化证据，直接回应「700TOPS 口径待自证」的质疑
 - 判断：Momenta 把芯片叙事从「TOPS 军备」转向「模型定义」——算法方第一次给芯片定标准；若 X7 Ultra 实测利用率坐实，则 [[nvidia]]/[[horizon-robotics]] 的「算力/口径」框架都会被重估（[[auto-chip-competitive-landscape]]）
+
+## 2026-11-08 更新：×奔驰 R7 世界模型量产交付——12 个月从立项到量产
+- **R7 世界模型在奔驰完成量产交付**（网通社 11/7）：**车位到车位首个豪华品牌**；**L2 立项到量产 12 个月**——承接 10/22「R7 世界模型交付中」，头部豪华客户交付闭环坐实（[[mercedes-benz]]）
+- 迈巴赫 S 端侧多模态由中国团队主导 = Momenta 能力从智驾域延伸到端侧多模态算法
+- 判断：**12 个月交付周期 = 第三方方案商「工程化效率」的可量化卖点**，比传统研发周期快一个数量级（[[automotive-rd-speed]]）；奔驰案例将成为 Momenta 全球化谈判的样板间，与神龙「共定义产品」（10/23）、上汽合资（11/7）并列为「方案商主权化」路线的交付实证

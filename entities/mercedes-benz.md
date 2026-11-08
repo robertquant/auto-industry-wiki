@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-05
+updated: 2026-11-08
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -271,3 +271,9 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - 判断：EBIT +136% 与下调展望并存 = 降本跑不赢需求下滑；「全华链」E 级是豪华品牌成本重构模板——若跑通将复制到 C 级/GLC 主销线（[[q3-2026-earnings-season]]）
 
 ## 2026-11-05 更新：800V 恒压 Power Converter——软件定义功率电子
+
+## 2026-11-08 更新：×Momenta R7 世界模型量产交付——车位到车位首个豪华品牌
+- **奔驰×Momenta R7 世界模型量产交付**（网通社 11/7 进博会聚合）：**车位到车位功能首个豪华品牌落地**；**从 L2 立项到量产仅 12 个月**——跨国豪华品牌的本地化智驾节奏被压缩到中国新势力级（对照 [[automotive-rd-speed]] 的 37-50 个月传统周期）
+- **迈巴赫 S 端侧多模态由中国团队主导**——奔驰把最贵车型的端侧 AI 定义权交给中国团队，[[china-tech-reverse-export]] 从供应链渗透到算法定义层
+- **奔驰虚拟助手接入豆包**（[[volcengine]]）——座舱 AI 生态「由字节定义」在豪华旗舰上的落地样本（[[cockpit-llm]]）
+- 判断：R7 交付 + 12 个月周期 = Momenta「世界模型规模化量产」的最硬核背书（承接 10/22「R7 世界模型交付中」）；奔驰在智驾（[[momenta]]）/座舱（豆包）双线「中国化外包」加深，德系豪华「由中国定义」进入交付验证期

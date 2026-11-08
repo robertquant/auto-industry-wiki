@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-05
+updated: 2026-11-08
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md]
 ---
 
 # 宝马 (BMW)
@@ -183,3 +183,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - 判断：宝马用「中国路况实测 + 电耗做减法」对冲德系效率叙事短板；与 [[mercedes-benz]] 同日发布的 800V 恒压转换器（[[800v-platform]]）同周出现——德系双雄的「效率牌」集中在能耗与功率电子两端
 - 意义：欧洲年度车评审从燃油基准转向纯电基准；iX3 长轴以「900km + 26.99 万起」已在华验证（页首），欧洲版承接 Neue Klasse 口碑（[[2026-paris-auto-show]]）
 - 判断：全纯电七强 = 欧洲汽车媒体对电动化终局的表态；对宝马是品牌修复资产——2026 中国 -24.8%（10/25 已录）与欧洲口碑形成反差，豪华电动化叙事仍需产品力兑现
+
+## 2026-11-08 更新：新世代 iX3 中国 11 月起交付——26.99 万起 / 919km / 800V
+- **新世代 iX3 中国 11 月起开交付**（晨报口径）：**26.99 万起、CLTC 919km、800V**、[[momenta]] 智驾——Neue Klasse 首款中国量产车从「发布/预售」进入交付兑现（承接 10/5 沈阳量产确认、10/15 订单逼近 10 万）
+- **919km** = 此前「CLTC 超 900km」口径的精确值；26.99 万起 = 页首「欧洲品牌在华电动化标杆价」的交付确认
+- 判断：iX3 交付斜率 = 宝马「中国智驾 + 欧洲底盘」公式的终端验证期开始；与 [[mercedes-benz]]（纯电 GLC 703km）、[[volkswagen]]（ID.ERA）构成德系三强在华纯电交付竞赛（[[bba-ev-ranking-2026]]）

@@ -1867,3 +1867,12 @@
 - 更新对比页 1：2026-10-china-sales-battle（乘联口径10月新能源批发180万辆+12%）
 - index.md：Last updated 2026-11-07；Total pages 372→**373**（entities 160→161）；芯片厂商 19→20
 - 完整性校验：comm 输出为空 ✅（373 注册 = 373 实体，0 缺失；3 个额外链接为独立分库 index，属预期）
+
+## [2026-11-08] update | 每日整理：晨报+汽车AI日报+盖世晚报入库
+- 新建 entities/foxconn.md（富士康 MIH 三款参考车型 MODEL A+/K+/K + Lin Yin 1150 亿日元收购三菱电机移动 50% 股权——ODM 路线生死线判断）
+- 新建 raw/articles/2026-11-08-daily-digest.md（Layer 1 原始素材：晨报三季报/10月销量汇总、汽车AI日报 4 条增量、盖世晚报节选）
+- 更新实体页 14：audi（11/7 双品牌落定：一汽=四环/上汽=AUDI 字母标、ADP 2.0 四款车 2028 首发）、bmw（iX3 11 月起交付：919km/26.99 万/800V）、yangwang-dingyao（中东首发：定金30万/限399台/最高208万/2027 Q2）、xpeng-g9l（中国预售 23.18 万起：800V+5C 9 分钟 450km）、mercedes-benz（×Momenta R7 量产交付：车位到车位首个豪华品牌/12 个月）、momenta（奔驰 R7 交付背书）、nvidia（FY2026 汽车业务 23.49 亿美元+39%；8 月域控 30.2%/19.8%/14.8%；Cosmos+AlpaSim 开放；FP4 量化 32→16GB 反哺全球版）、volcengine（开招汽车大模型算法团队负责人+AUDI 共研座舱+AIDV）、weRide（×Tada 新加坡小巴 2027 初试点；tags 修复为 SCHEMA 合规）、li-auto（10 月 29,025 -8.6% + i6 第 20 万台下线）、im-ad（LS8 NEO 上市 23.98 万起）、lexus（金山工厂主体封顶 113 万㎡）、q3-2026-earnings-season（长安 Q3 净亏 7.58 亿/赛力斯 280.8 亿 14.2 亿/广汽前三季 751.56 亿）、autonomous-driving-chips（华为 14.8% 入列+差距 35.8pp→10.4pp）
+- 更新概念页 2：autonomous-driving-chips、q3-2026-earnings-season（见上）
+- index.md：Last updated 2026-11-08；Total pages 373→**374**（entities 161→162）；供应商/方案商 27→28；更新 blurb 8 条（audi/bmw/yangwang-dingyao/xpeng-g9l/weRide/nvidia/momenta/新增 foxconn）
+- 完整性校验：comm 输出为空 ✅（374 注册 = 374 文件，0 缺失；3 个额外链接为独立分库 index，属预期）
+- 10 月销量/三季报主体数据此前已录（11/1-11/7 各页），本轮仅补增量；雷诺无重大动态未新建页面

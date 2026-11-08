@@ -1,10 +1,10 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-11-06
+updated: 2026-11-08
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 奥迪 (Audi)
@@ -48,3 +48,8 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 ## 2026-11-06 更新：上海创新技术中心开业——AUDI「AI定义汽车」
 - **奥迪上海创新技术中心开业**（11/6），AUDI 品牌定调「**AI定义汽车**」——上奥合作从品牌/渠道层面进入研发实体化阶段（承接 10/26 官宣、10/30 分家细则：AUDI 字母标归上汽奥迪、ADP 平台自研）
 - 判断：在「四环归一汽、AUDI 归上汽」分家后，上海创新中心 = AUDI 的「中国大脑」——补上 ADP 自研平台（10/30 已录）的上海研发支点；「AI定义汽车」与 [[aidv]]（AI-Defined Vehicle）范式同频，德系豪华在华首次把 AI 提到产品定义层（对照 [[chinese-oem-ai-methodology]]：中国车企的 AI 方法论正在被德系「反向学习」）
+
+## 2026-11-07 更新：双品牌落定（中国经济网）——分家细则的最终确认
+- **奥迪双品牌边界正式落定**：**一汽奥迪 = 四环标**（燃油 + 智能豪华 NEV），**上汽奥迪 = AUDI 字母标**（纯电智能网联）；**上汽奥迪 2027 年底前仍可销售四环产品**、售后平稳过渡——10/26 官宣、10/30 分家细则之后的官方定论
+- 盖世 11/5 补充（与 11/6 上海创新中心开业同源）：奥迪×上汽将依托 **ADP 2.0 平台联合开发四款 AUDI 车型，首款 2028 年上市**——AUDI 合作从「车型导入」升级为「整车联合研发」
+- 判断：AUDI 首款 2028 = 分家后字母标有约两年产品空窗，**四环（一汽）仍是奥迪在华销量基本盘**；「四环守燃油+豪华NEV、字母标攻纯电」= 用最小代价完成电动化叙事切割（对照 [[saic-gm]] 合资续约的另一种资产处置）

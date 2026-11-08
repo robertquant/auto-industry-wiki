@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-11-06
+updated: 2026-11-08
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 火山引擎
@@ -88,3 +88,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/
 - **字节「豆包汽车」技术负责人苏杰离职**，原因未披露——豆包汽车是字节车联网/AI 上车业务的核心（火山引擎豆包大模型车端落地的业务主体，[[volcengine]] 自家产品线）
 - 判断：字节上车战略进入调整信号期——关注继任者与业务方向是否收缩；座舱 AI 方案商格局（[[cockpit-llm]]）竞争白热化背景下，关键人物变动可能影响豆包座舱的客户拓展节奏（对照 [[stepfun]] 端到端语音量产上车、DeepSeek 份额 45.2% 的「开源分流」压力）
 
+
+## 2026-11-08 更新：苏杰离职后续——开招「汽车大模型算法团队负责人」+ AUDI 共研座舱
+- **字节开招「汽车大模型算法团队负责人」**（网通社 11/7）：覆盖**座舱交互 / 智驾视觉 / 多模态**——苏杰离职（11/6 已录）后的组织补位，字节「重仓汽车 AI」方向不变（供应商 + [[saidou]] 整车双线）
+- **AUDI × 火山引擎共研座舱 + AIDV**（[[audi]]、[[aidv]]）——字母标品牌座舱明确绑定豆包系，AUDI「AI定义汽车」叙事的技术底座落在字节生态（对照 [[mercedes-benz]] 虚拟助手×豆包）
+- 判断：字节在汽车侧从「模型供应商」向「座舱智能化总包」演进；「算法团队负责人」级招聘 = 从项目合作转向长期建制投入（[[ai-engineering-2026]]）——苏杰离职不是收缩信号，而是「换打法」的换挡

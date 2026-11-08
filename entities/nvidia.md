@@ -1,10 +1,10 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-08
 type: entity
 tags: [chip, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 英伟达（NVIDIA）
@@ -46,3 +46,8 @@ AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[auton
 - **Agile ONE SN 人形平台 2027**——人形机器人（[[humanoid-robot-industry]]）与车规供应链协同的英伟达版本
 - **黄仁勋：「车企终将接入共享出行车队」**——Robotaxi 终局判断，与 [[waymo-vs-tesla-robotaxi-2026]] 全球三方格局、[[native-robotaxi-2026]] 中国原生路线同频
 - 判断：GTC 柏林 = 英伟达从「卖芯片」到「卖 AI 工厂 + 机器人平台」的平台化跃迁；「14 天建厂」把算力门槛从资金问题变成供应链管理问题（[[ai-auto-cloud-market]]）
+## 2026-11-08 更新：物理AI路线复盘——汽车业务 FY2026 前三季 23.49 亿美元（+39%）
+- **财联社 11/8 物理AI路线复盘**：**FY2026 汽车业务 23.49 亿美元（+39%）**；**8 月域控芯片份额：英伟达 30.2% / 地平线 19.8% / 华为 14.8%**——对第二名（地平线）的领先差距从年初 **35.8pp 收窄至 10.4pp**（[[autonomous-driving-chips]]）
+- **开放 Cosmos + AlpaSim 物理AI基座/仿真**：把「起步周期缩短 1 年+」做成生态卖点——国产替代加速下用「开放」换客户锁定（对照 [[horizon-robotics]] 征程生态）
+- **中国团队 FP4 量化成果反哺全球版本**：域控内存 **32→16GB**、砍雷达处理芯片方案——英伟达首次把中国工程化能力写进全球主软件版本，中国团队从「本地适配」升级为「全球基线贡献者」
+- 判断：领先差距半年收窄约 25pp 是结构性信号——域控芯片「英伟达主导但不再垄断」；「开源工具链 + 中国工程化反哺」= 英伟达的防守性开放（[[auto-chip-competitive-landscape]]）

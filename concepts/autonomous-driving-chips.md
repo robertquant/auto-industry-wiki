@@ -1,10 +1,10 @@
 ---
 title: 智驾芯片格局
 created: 2026-06-30
-updated: 2026-11-07
+updated: 2026-11-08
 type: concept
 tags: [chip, autonomous-driving, ai, chinese]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md, memory/2026-11-08.md]
 ---
 
 # 智驾芯片格局
@@ -173,3 +173,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **1-9月智驾域控芯片装机**（盖世口径）：英伟达 Orin-N **92.9 万颗 / 15.6%** 居首，华为昇腾610 **86.0 万颗 / 14.4%** 紧随——**差距缩至 6.9 万颗**
 - 昇腾610（[[huawei-auto]] 昇腾系列）从「生态玩家」逼近英伟达存量基本盘；叠加 8 月装机口径（30.2% vs 19.75%）、H1 城区 NOA（39.43% vs 22.82%），三条口径一致指向：**英伟达守擂、华为追赶的关键窗口期**（[[nvidia]]、[[horizon-robotics]]）
 - 判断：Orin-N 是英伟达「旧架构打价格战」的主力（算力够用+成本下探），昇腾610 靠国产化 + ADS 生态捆绑上量——2027 年 L3 国标（[[l3-mandatory-standard]]）落地后，「预埋车型」上的国产份额优势可能转化为装机反超
+
+## 2026-11-08 更新：8 月域控芯片三强格局细化——华为 14.8%，差距收窄斜率坐实
+- **财联社 11/8 口径（2026 年 8 月，乘用车域控芯片）**：**英伟达 30.2% / 地平线 19.8% / 华为 14.8%**——英伟达对第二名（地平线）领先差距从年初 **35.8pp 收窄至 10.4pp**（约半年缩窄 25pp）
+- 与 11/7 已录的「1-9 月 Orin-N 92.9 万 vs 昇腾610 86.0 万颗、差 6.9 万颗」互证：**三条口径（全年整合 50.9%、8 月域控、1-9 月装机）一致指向英伟达守擂、国产追赶**
+- 判断：若按 10.4pp 的收窄斜率，**2027 年英伟达域控份额或跌破 25%**——「英伟达主导但不再垄断」的转折点数据（[[auto-chip-competitive-landscape]]、[[nvidia]]）；华为昇腾从「生态玩家」进入第一梯队（[[huawei-auto]]）

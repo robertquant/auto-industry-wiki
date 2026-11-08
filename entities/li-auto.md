@@ -1,10 +1,10 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-11-07
+updated: 2026-11-08
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md, daily-news/2026-11-08-gasgoo-evening.md, memory/2026-11-08.md]
 ---
 
 # 理想汽车 (Li Auto)
@@ -235,3 +235,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 - **OTA 9.2.0 正式推送**（车家号 11/7）：马赫 VLA 新增**三类特种车感知**（救护车/消防车/警车等）+ 座舱**三 Agent** 升级——11/1 预告的 OTA 9.2 兑现为 9.2.0，VLA 从「通用场景」向「特种场景」扩展（[[vla-model]]）
 - **2026 款 i6 11 月初开启交付**：96kWh 连山 5C + 马赫 M100 全系标配兑现（[[li-auto-i6]]）；马赫 M100 **取代英伟达 Thor-U**——自研芯片从「与 Orin-X 并行」走向「替换」节点（[[nvidia]]、[[autonomous-driving-chips]]）
 - 判断：特种车感知 = VLA 场景差异化竞争（[[world-model]]）；i6 交付斜率决定 Q4「AI+汽车」叙事的量价兑现（[[q3-2026-earnings-season]]）
+
+## 2026-11-08 更新：10 月交付 29,025（-8.6%）+ i6 第 20 万台下线
+- **10 月交付 29,025 辆（同比 -8.6%）**（晨报口径）——连续负增长，「AI+汽车」转型期的量价压力延续（[[2026-10-china-sales-battle]] 已有并表）
+- **理想 i6 第 20 万台下线**（盖世 11/8）：96kWh 连山 5C（[[li-auto-lianshan-battery]]）+ 马赫 M100（[[li-auto-m100]]）取代英伟达 Thor-U——自研芯片/电池从旗舰（i6）下放 25 万级主流价位（承接 11/7 i6 交付启动）
+- **新一代理想 L6 十月零售 10,666 辆破万**——增程基本盘补位，对冲 i6 交付爬坡期的纯电空窗
+- 判断：i6 用自研芯替换 Thor-U = 车企自研从「旗舰证明」进入「主流替换」阶段（[[auto-chip-self-develop]]）；20 万台节奏验证 i6 走量能力

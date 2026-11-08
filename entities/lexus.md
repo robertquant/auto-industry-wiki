@@ -1,10 +1,10 @@
 ---
 title: 雷克萨斯 (Lexus)
 created: 2026-11-03
-updated: 2026-11-06
+updated: 2026-11-08
 type: entity
 tags: [oem-jp, ev-tech, strategy]
-sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-08-gasgoo-evening.md]
 ---
 
 # 雷克萨斯 (Lexus)
@@ -37,3 +37,6 @@ sources: [raw/articles/2026-11-03-daily-digest.md, daily-news/2026-11-03-gasgoo-
 - 金山工厂建设进度与产能规划
 - 国产车型智驾/电池供应链选择
 - 上市定价与国产化降本幅度（对 BBA 电动化的价格挤压）
+## 2026-11-08 补充：金山工厂主体车间封顶（进博会口径）——建设进度确认
+- **丰田进博会（11/8）披露**：雷克萨斯上海金山工厂（占地 **113 万㎡**）**主体车间已封顶**，按计划 **2027 年秋投产**首款国产纯电（纯电整车 + 电池一体、初期年产能 10 万辆）——承接 11/6 投产细节，建设进度从「计划」进入「施工兑现」
+- 判断：主体封顶 = 国产化项目不可逆信号——日系豪华本地化的「进攻性动作」进入建厂冲刺期（对照 [[honda-china]] 收缩路线，[[japanese-automaker-crisis-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 小鹏G9L (XPeng G9L)
 created: 2026-10-14
-updated: 2026-10-19
+updated: 2026-11-08
 type: entity
 tags: [vehicle, oem-cn, adas, export]
-sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 小鹏G9L (XPeng G9L)
@@ -45,3 +45,7 @@ sources: [raw/articles/2026-10-14-daily-digest.md, raw/articles/2026-10-19-daily
 - 欧洲订单转化与 NGP 2027 交付兑现
 - 64 国渠道铺设与售后体系
 - 与特斯拉 FSD 欧洲实测的长期口碑对比
+## 2026-11-08 更新：中国预售 23.18 万起——800V+5C「9 分钟 450km」
+- **G9L 中国预售 23.18 万起**（11/8 晨报口径）：**800V + 5C 超充，9 分钟补能 450km**——国内档位拉满的补能数据，5C 军备竞赛（[[ultra-fast-charging]]）落到「分钟级可感知里程」
+- 定价结构：欧洲 74,990 欧起（约 58 万人民币）vs 国内 23.18 万起——约 2.5 倍价差再次验证「中国价格锚定 + 欧洲溢价」出海模型（[[xpeng]]）
+- 判断：国内 23.18 万起直插 20-25 万纯电 SUV 主力区间——G9L「国内走量、欧洲立品牌」的双线定价成型；与法国 64 国上市（10/12 已录）构成同一车型的全球双轨节奏

@@ -1,10 +1,10 @@
 ---
 title: 仰望鼎曜（Yangwang Dingyao）
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-08
 type: entity
 tags: [vehicle, battery-tech, chip, oem-cn]
-sources: [raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-10-30-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 仰望鼎曜（Yangwang Dingyao）
@@ -24,3 +24,8 @@ sources: [raw/articles/2026-10-30-daily-digest.md]
 
 ## 相关
 - [[byd]] · [[byd-xuanji-a3]] · [[solid-state-battery]] · [[zunjie]]
+## 2026-11-08 更新：中东全球首发——定金 30 万、限 399 台、最高约 208 万（车东西）
+- **仰望鼎曜中东首发**（11/8 车东西）：**定金 30 万**、**137 颗宝石 + 金标**定制、**全球限量 399 台**、**最高约 208 万**，**2027 Q2 交付**
+- 解读：中东 = 中国超豪华品牌出海第一站（石油资本 × 稀缺性叙事）；**399 台限量 = 稀缺定价而非走量逻辑**，与页首「象征意义大于销量」判断互相印证
+- **208 万上限**抬升国产行政旗舰天花板（对比 [[zunjie]] V800 百万级、尊界 S800）——「最贵国产车」叙事在中东找到现实买家，验证比亚迪品牌溢价出海的可行性（[[byd]]）
+- 首发地选中东而非国内：超豪华品类「先海外立标、再国内收割」的定价策略，与 [[baic-xingtan-5x]] 等走量车型的出海逻辑相反
