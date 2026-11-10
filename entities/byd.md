@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-06
+updated: 2026-11-10
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 比亚迪 (BYD)
@@ -294,3 +294,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **闪充站已达 12,165 座**（年底目标 **2 万座**、海外再建 **6,000 座**）；对照：特斯拉在华超充站突破 2,500 座、吉利×蔚来换电联盟目标 2030 年 1 万座（[[geely-nio-swap-alliance]]）
 - 背景：9 月新能源零售渗透率 67% 创新高，油转电用户补能焦虑约占购车决策权重三分之一——补能从「卖车配套」升级为**战略资产**（[[ultra-fast-charging]]）
 - 判断：比亚迪=超充网络规模王（自建站+桩数断层领先），「闪充站数量」成为其销量之外的第二规模叙事；但盈利模型与换电标准之争尚未收敛——补能资产化时代，网络密度直接兑换成购车决策（[[battery-swap-vs-ultra-fast-charging]]）
+
+## 2026-11-10 更新：第 1900 万辆新能源下线——62 天/100 万的产能加速度（盖世 11/9）
+- **11/9 第 1900 万辆新能源车在西安工厂下线**，下线车型即方程豹钛 9（同日开启全国预订，见 [[fangchengbao-ti9]]）——里程碑与新车发布捆绑，产能叙事=新品叙事
+- **节奏量化：1700 万（7/8）→ 1900 万（11/9）仅 124 天，平均 62 天新增 100 万辆**——产能爬坡仍在加速段
+- 判断：1900 万 = 「以量换稳」路线的规模底座再夯实；62 天/百万意味着 2027 年价格战弹药（国内基盘对冲能力）继续加厚——对手比的是「销量差」，比亚迪比的是「产能加速度差」（[[2026-10-china-sales-battle]]、[[chinese-oem-export]]）

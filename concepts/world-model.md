@@ -1,10 +1,10 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-11-04
+updated: 2026-11-10
 type: concept
 tags: [adas, l4, world-model]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 世界模型
@@ -166,3 +166,11 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 - **百度 Apollo 发布世界模型 Apollo World** 及「2+3」评价标准：「2」= 因果性、交互性基础门槛；「3」= 物理准确性、持久性、实时性
 - 虚拟城市中车辆行人均为可交互 AI 智能体，可实时生成相机画面与激光雷达点云；已应用于萝卜快跑全球化测试（覆盖 28 城、全无人驾驶里程超 2.4 亿公里）
 - 判断：国内世界模型从「演示」进入「标准 + 量产仿真工具」阶段（[[training-loop]]、[[pony-ai]] 对照）
+
+## 2026-11-10 更新：百度 Apollo World——「2+3」标准把世界模型验收标准摆上台面（盖世 11/10）
+- **百度深圳 AI Day 发布全模态世界模型 Apollo World**（运营载体见 [[luobo-kuaipao]]）：
+  - **入场券（2）**：因果性、交互性——缺一条不配叫世界模型
+  - **能力衡量（3）**：物理准确性、持久性、实时性
+  - **定位**：「验证无人驾驶安全的考官」而非「生成视频的画师」——明确拒绝文生视频式世界模型叙事
+- 产业语境：萝卜快跑 28 城/3.5 亿公里提供独占训练数据；L4 验证从回放式仿真转向**可交互生成式仿真**（[[training-loop]]）
+- 判断：与 [[courizon]] GAIA 2.0（日仿真 500 万 km）、[[momenta]] R7（量产交付）同框——2026 世界模型竞赛从「生成效果」转向「安全验证可用性」；「2+3」可视为行业首个公开的世界模型评测框架（[[vla-world-model]] 是架构之争，这里是验证侧标准之争）

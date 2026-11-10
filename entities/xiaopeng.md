@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-04
+updated: 2026-11-10
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 小鹏汽车
@@ -232,3 +232,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-11-04 更新：GroundingPI 具身感知基座模型
 - **联合北大、港大发布 GroundingPI**（约 40 亿参数）：34 项公开感知基准综合第一（73.68 分，高于 GPT-6 Astra 的 71.54）——走「感知优先」路线，训练不依赖带动作标签的机器人数据；以其为视觉底座仅用 50% 示教数据即超过对比模型 75% 数据的成功率；代码与权重已开源，定位具身「快系统」底座
 - 判断：小鹏从智驾（[[vla-model]]）向具身智能（[[physical-ai]]）复用技术资产——感知基座开源是生态卡位
+
+## 2026-11-10 更新：二代 VLA 攻欧——「明年成首个欧洲上线智驾的中国品牌」
+- **何小鹏口径（凤凰科技）**：**2027 年成为首个在欧洲上线智驾功能的中国品牌**，**2027 H1 争取欧盟监管许可**——欧洲智驾上线从「规划」进入「时间表」阶段
+- 语境：G9L 已欧洲 64 国上市（[[xpeng-g9l]]）+ 二代 VLA 量产 Robotaxi 内测（11/1 已录）——欧洲是 VLA 能力出海的「付费验证场」（智驾选装付费意愿高于中国）
+- 判断：恰逢欧洲 L3 集体撤退（奔驰/宝马取消 L3 选装，[[l3-autonomous-driving]]）——豪华品牌让出的「智驾心智空位」正是中国方案商的进攻窗口；含金量取决于 2027 H1 欧盟监管许可（[[un-autonomous-driving-regulation-2026]] WP.29 框架）能否兑现——兑现则与华为系出海节奏拉开时间差（[[vla-model]]、[[china-tech-reverse-export]]）

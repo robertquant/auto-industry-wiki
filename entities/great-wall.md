@@ -1,10 +1,10 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-10
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 长城汽车 (Great Wall Motor)
@@ -68,3 +68,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 ## 2026-11-03 更新：10月 12.04万（-15.9%）——国内失速加深
 - **10 月销量 12.04 万辆（-15.9%）**——9 月 11.5 万（-14%）后跌幅继续扩大；海外占比过半结构未变（52.2%，9 月口径，[[china-export-leaders-2026]]）
 - 判断：国内 SUV/皮卡基本盘拖累加深（皮卡市占率 27%，10/28 已录），出口（俄/非/拉）仍是唯一增长极——「出海撑量、国内失血」在长城身上比 [[geely]] 更极端（吉利国内 -23.6% 但总量新高，长城连总量都保不住）
+## 2026-11-10 更新：H10 11 月保 18000 台冲 20000 台——产能爬坡进入放量期（盖世 11/10）
+- **魏建军微博（11/10）**：H10 产能已大幅提升，11 月力保 18,000 台、挑战 20,000 台，并现身工厂「帮用户催单」
+- 数据背景：H10 8 月上市、24h 大定 31,826 台、首月交付 10,178 台、交付周期曾排至 4-6 周——11 月保 18,000 = 较首月交付提升约七成，产能瓶颈期已过、进入集中放量期
+- 判断：H10 是长城 2026 下半年的现象级订单车型，「魏建军亲自催单」= 订单热度与交付短板的公开对冲打法；放量兑现与否直接关系长城国内基盘的企稳节奏（对照 [[byd]] 产能叙事、[[2026-10-china-sales-battle]] 大盘）

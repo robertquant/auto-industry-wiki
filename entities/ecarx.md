@@ -1,10 +1,10 @@
 ---
 title: 亿咖通科技 (ECARX)
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-10
 type: entity
 tags: [chip, tier1, ecosystem]
-sources: [raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md]
+sources: [raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 亿咖通科技 (ECARX)
@@ -34,3 +34,6 @@ sources: [raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md]
 - Arm 备忘录能否转化为量产定点（非约束性 → 约束性）
 - 龍鹰二号 5nm 舱驾融合的流片/量产时间表
 - 吉利生态内装车规模（ECARX 在吉利系座舱的既有装机基础）能否外溢到第三方车企
+## 2026-11-10 更新：Q3 营收 2.41 亿美元（+10%）——21 款新车量产、出货 72.1 万套（盖世 11/10）
+- **2026 Q3**：营收 **2.41 亿美元（+10%）**；商品销售收入 **2.23 亿美元（+23%）**；**当季 21 款新车型量产、出货约 72.1 万套**——规模效应开始体现在毛利率与出货结构
+- 判断：商品销售 +23% > 总营收 +10% = 硬件放量、软件/服务占比未拉开——仍是「出货驱动」而非「软件驱动」的 Tier1 形态；×Arm 物理 AI 备忘录（11/2 已录，非约束性）到财报兑现还有距离（[[cockpit-chip]] 高通垄断下的国产头部坐标、[[physical-ai]]）

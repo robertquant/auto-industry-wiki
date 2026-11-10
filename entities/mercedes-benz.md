@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-08
+updated: 2026-11-10
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md]
+sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -277,3 +277,7 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 - **迈巴赫 S 端侧多模态由中国团队主导**——奔驰把最贵车型的端侧 AI 定义权交给中国团队，[[china-tech-reverse-export]] 从供应链渗透到算法定义层
 - **奔驰虚拟助手接入豆包**（[[volcengine]]）——座舱 AI 生态「由字节定义」在豪华旗舰上的落地样本（[[cockpit-llm]]）
 - 判断：R7 交付 + 12 个月周期 = Momenta「世界模型规模化量产」的最硬核背书（承接 10/22「R7 世界模型交付中」）；奔驰在智驾（[[momenta]]）/座舱（豆包）双线「中国化外包」加深，德系豪华「由中国定义」进入交付验证期
+
+## 2026-11-10 更新：取消 Drive Pilot——L3 选装「算账后撤退」（通信世界/搜狐 11/10）
+- **2026 款 S 级取消 Drive Pilot 选装**（德国市场此前 5,950 欧起、限速 64-95km/h 的低速拥堵场景）；奔驰 CTO 称「推进过早」——与 [[bmw]]（3 月取消 Personal Pilot）同步退守 L2++/L4（详见 [[l3-autonomous-driving]]）
+- 判断：Drive Pilot 曾是欧洲最早量产的 L3 之一，其退场 = 「责任 + 成本 + 使用频率」三重否决的豪华品牌共识化；不影响主力智驾路线（[[momenta]] 管中国 + 英伟达管全球，10/22 已录双轨）——L3 收缩反而强化 L2++ 走量逻辑

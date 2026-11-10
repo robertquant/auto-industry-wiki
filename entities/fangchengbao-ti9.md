@@ -1,10 +1,10 @@
 ---
 title: 方程豹钛9
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-11-10
 type: entity
 tags: [vehicle, oem-cn, platform]
-sources: [raw/articles/2026-10-08-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 方程豹钛9
@@ -35,3 +35,7 @@ sources: [raw/articles/2026-10-08-daily-digest.md]
 - [[sealion-06-dmi]] - 同期走量车型
 - [[li-auto]] / [[wenjie]] - 直接竞对（L9/M9）
 - [[9-series-suv-battle]] - 全尺寸SUV竞争格局
+## 2026-11-10 更新：11/9 下线 + 开启预订——配置落定（盖世 11/9）
+- **11/9 西安工厂下线（即比亚迪第 1900 万辆新能源车，见 [[byd]]），同日开启全国预订，11 月正式上市**
+- **配置落定**：首搭全新混动平台、第二代刀片电池、闪充、云辇-A、天神之眼 B；**综合续航 1630km**
+- 判断：承载式 DMS 平台（10/8 已录）+ 二代刀片/闪充/云辇-A 全家桶 = 「城市家用全尺寸」定位的配置闭环，大六座插混直插 [[li-auto]] L9 / [[wenjie]] M9 的家庭盘（[[9-series-suv-battle]]）；「下线即预订、当月即上市」= 62 天/百万产能节奏（[[byd]]）下的新品常态化打法

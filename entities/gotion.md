@@ -1,10 +1,10 @@
 ---
 title: 国轩高科 (Gotion)
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-11-10
 type: entity
 tags: [battery, tier1, export]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-29-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 国轩高科 (Gotion)
@@ -31,3 +31,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-29-daily
 - [[volkswagen]] - 第一大股东与产能合作方
 - [[global-battery-competition]] - 全球电池竞争格局
 - [[battery-fifteen-five-plan]] - 电池产业"十五五"规划
+## 2026-11-10 更新：ABAA-17 全固态进展 + 2030 年近 5TWh 产能规划（盖世 11/10）
+- **ABAA-17 国际锂电池大会**：展示从基础材料到终端电芯的**全链条固态电池成果**；面向 **2030 年近 5TWh** 市场需求规划产能；**磷酸锰铁锂路线同步推进**
+- 语境：10/1 已录大众 PowerCo 瓦伦西亚 49% 入股（欧洲 LFP 中心）——国轩「欧洲 LFP + 国内固态」双线；全固态竞赛（[[solid-state-battery]]）中大众系订单确定性是差异化筹码（对照 [[guangwan-jiyan]] 吉瓦时级产线量产、[[langu-xinnengyuan]] 电解质卡位）
+- 判断：5TWh 规划 = 面向 2030 的「TWh 俱乐部」产能叙事（[[battery-fifteen-five-plan]] 十五五语境），但固态量产时间表仍是行业共性问题——先看中试线良率再谈 TWh

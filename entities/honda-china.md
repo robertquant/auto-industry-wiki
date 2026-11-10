@@ -1,10 +1,10 @@
 ---
 title: 本田中国
 created: 2026-05-13
-updated: 2026-07-04
+updated: 2026-11-10
 type: entity
 tags: [honda, china, sales-crash, market-share, crisis]
-sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-26.md]
+sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-26.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 本田中国
@@ -120,3 +120,6 @@ sources: [daily-news/2026-05-13-gasgoo-evening.md, memory/2026-06-26.md]
 ## 2026-11-01 补充：烨 GT 无限期推迟 + 较峰值 -90% 口径
 - **烨 GT（Ye GT）无限期推迟**（研判周报 11/1 口径）——纯电转型旗舰再跳票：2020 年峰值 162.7 万辆（页首）至今，在华年化不足 35 万辆，**较峰值 -90%**（新口径；与页首 -78% 并存，基线差异待核）
 - 判断：日系四家 4-9 月在华产量 -32% 创 2008 年新低（[[japanese-automaker-crisis-2026]]）背景下，本田是跌幅最深的样本——烨品牌两次跳票坐实「日系纯电在华战略失速」，合并谈判（[[nissan]]）成为唯一结构性出路
+## 2026-11-10 更新：俄亥俄 30 亿美元混动整车厂——北美加码（盖世 11/10）
+- **投 30 亿美元在俄亥俄马里斯维尔现有厂区旁新建装配厂，主产混合动力车型，2029 年投产**——北美混动产能加码（关税本地化 + 混动需求逻辑）
+- 判断：在华崩塌（页首 4 月 -48.3%）的同时把资本押向北美混动 = 全球资源配置「弃中投美」的日系样本（[[japanese-automaker-crisis-2026]]）；混动优先延续电动化谨慎路线（对照 [[toyota]]）；同日 [[stellantis]] 敲定出售布兰普顿工厂——北美产能「本田加码 / Stellantis 收缩」同日同框

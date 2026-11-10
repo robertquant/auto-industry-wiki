@@ -1,10 +1,10 @@
 ---
 title: 富士康汽车（Foxconn Automotive）
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-10
 type: entity
 tags: [tier1, strategy, ecosystem]
-sources: [daily-news/2026-11-08-gasgoo-evening.md]
+sources: [daily-news/2026-11-08-gasgoo-evening.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 富士康汽车（Foxconn Automotive）
@@ -32,3 +32,7 @@ sources: [daily-news/2026-11-08-gasgoo-evening.md]
 - [[valeo]] - 欧洲 Tier1 路线对照
 - [[saic]] - 整车代工/合资制造逻辑对照
 - [[xiaomi]] - 3C 跨界汽车的品牌路线对照
+## 2026-11-10 更新：追加 ABB 日本 824 亿日元——合计 1,974 亿「日系供应链双连击」
+- **追加收购 ABB 日本 824 亿日元**——与 11/8 已录 Lin Yin 1150 亿日元购三菱电机移动 50% 合计 **1,974 亿日元**，均 **2027 年 10 月交割**；技术抓手为 **EDU（电驱动单元）**
+- **目标**：2031 年 3 月期 EV 相关营收破 **1 万亿日元**
+- 判断：「买供应链进车圈」从单点收购升级为 **EDU 品类整合**——三菱电机（电机/电控）+ ABB 日本（电力电子/制造）拼出电驱总成能力，用资本跳过自研爬坡期；ODM 量产订单仍是生死线（11/8 已录判断），但「三电代工」能力闭环让富士康从组装代工向动力总成延伸（[[bosch]]/[[valeo]] 传统 Tier1 对照、[[china-tech-reverse-export]] 电子制造能力入局汽车）

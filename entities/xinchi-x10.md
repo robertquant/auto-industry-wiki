@@ -1,10 +1,10 @@
 ---
 title: 芯驰X10 (Xinchi X10)
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-10
 type: entity
 tags: [chip, cockpit, ai, tier1]
-sources: [raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-26-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 芯驰X10 (Xinchi X10)
@@ -39,3 +39,8 @@ sources: [raw/articles/2026-09-26-daily-digest.md]
 - 9B 端侧大模型的实际可用性与时延
 - 首批定点车企与量产节奏
 - 与高通 8295/8787 在座舱侧的成本竞争
+
+## 2026-11-10 更新：前三季装机 35.3 万颗居本土第一 + 「座舱 SoC+AI Box」替代者定位（盖世 11/10）
+- **市占数据**：2026 前三季度芯驰车机芯片在国内 10 万-30 万元市场装机 **35.3 万颗，居本土供应商第一**
+- **X10 新卖点**：单芯片替代「座舱 SoC + 外挂 AI Box」——**省约 25% DDR 容量、BOM 降 1500-3000 元**（4nm/80 TOPS/154GB/s/9B 端侧规格页首已录）
+- 判断：「单芯替代双盒」直击 [[ai-box-independent-compute]] 的形态之争——独立 AI 盒子的内存带宽隔离价值正被高带宽座舱 SoC 吸收；35.3 万颗 = 国产座舱芯片在 10-30 万价格带的份额底座（[[cockpit-chip]]），但 9B 端侧实际体验仍是量产验证点（对照 [[qualcomm-auto]] 8295 生态位）

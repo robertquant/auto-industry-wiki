@@ -1,10 +1,10 @@
 ---
 title: 高通汽车 (Qualcomm Auto)
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-11-10
 type: entity
 tags: [chip, cockpit, adas, tier1]
-sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md]
+sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 高通汽车 (Qualcomm Auto)
@@ -65,3 +65,6 @@ sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-da
 - **10/5 官宣多年期全球专利大和解**：交叉许可覆盖 5G/计算/AI/网络；高通收购华为部分美国专利（计算/AI/网络方向），**高通为净支出方**（详见 [[huawei-qualcomm-settlement-2026]]）
 - 华为 2024 专利许可收入 6.3 亿美元、27 亿台 5G 设备获许可——专利资产是华为与高通长期博弈的底牌
 - 判断：「边打边谈」收官——战场从专利诉讼转向产品量产；SA8797 等车规芯片北美/欧洲合规障碍清除，「车芯双雄」竞争主轴回归产品力（[[auto-chip-competitive-landscape]]）
+## 2026-11-10 更新：汽车业务单季收入近 20 亿美元（+89%）——增长引擎切换（盖世 11/10）
+- **2026 财年 Q4（7-9 月）汽车芯片收入近 20 亿美元、同比 +89%**——同期手机芯片收入下滑，汽车成增长第一引擎
+- 判断：座舱垄断（[[cockpit-chip]]）+ 舱驾融合矩阵（[[snapdragon-8797]]/8787/8775）的量化兑现开始显现在财报；+89% 斜率高于英伟达汽车业务（FY2026 +39%，[[nvidia]]）——「智能汽车芯片增量」进入高通-英伟达双雄对攻阶段（[[autonomous-driving-chips]]）

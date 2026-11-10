@@ -1,10 +1,10 @@
 ---
 title: 萝卜快跑 (Apollo Go)
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 type: entity
 tags: [adas, ai, system, sales]
-sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md]
+sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 萝卜快跑 (Apollo Go)
@@ -30,3 +30,7 @@ sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-
 - 「苕萝卜」争议是否推动算法策略调整（安全阈值→效率优化）
 - 单车盈亏平衡城市的模型能否复制到多城
 - 2027 年武汉/北京等主力城市订单密度与补贴依赖度
+## 2026-11-10 更新：Apollo World「安全考官」定位 + 28 城/3.5 亿公里底盘（盖世 11/10）
+- **百度深圳 AI Day 发布全模态世界模型 Apollo World**：以**因果性、交互性**为世界模型「入场券」，以**物理准确性、持久性、实时性**衡量能力高低；定位**「验证无人驾驶安全的考官」而非「生成视频的画师」**（详见 [[world-model]]）
+- **底盘数据**：已落地 **28 城、自动驾驶总里程超 3.5 亿公里**——L4 规模化验证正从回放式仿真转向**可交互的生成式仿真**（[[training-loop]]）
+- 判断：「考官」定位 = 世界模型从「生成炫技」转向「安全验证基础设施」——与 [[courizon]] GAIA 2.0、[[momenta]] R7 的量产竞赛同框；28 城真实运营数据是 Apollo World 的独占训练源（[[data-moat]]），也是「苕萝卜」效率争议（11/9 已录）之外的第二叙事支点

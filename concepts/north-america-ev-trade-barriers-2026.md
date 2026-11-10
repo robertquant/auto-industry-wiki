@@ -1,10 +1,10 @@
 ---
 title: 北美EV贸易壁垒（2026）
 created: 2026-10-10
-updated: 2026-11-06
+updated: 2026-11-10
 type: concept
 tags: [policy, export, trend, oem-us]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 北美EV贸易壁垒（2026）
@@ -60,3 +60,7 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 ## 2026-11-06 补充：美国成电动化「逆流者」（IEA 口径，盖世 11/6）
 - **2025 年美国新能源渗透率仅 10%**（中国 53%）；联邦 7,500 美元税收抵免取消后，Mobility Global 预测 **2026 年北美仅占全球纯电产量 5%**
 - 判断：本页此前聚焦「供给侧壁垒」（关税/禁令），此条补上**需求侧弱化**维度——政策反复令车企难以做长期投入承诺，美国市场从「诱人增量」变为「政策彩票」；与中国依托产业链连贯性的成本优势（[[byd]] 垂直整合、[[chinese-oem-export]] 本地化对冲）对照，北美电动化正在「自己把自己挤出牌桌」（对照 [[tesla]] 在美 Robotaxi 单点突围）
+
+## 2026-11-10 更新：中国品牌加拿大 EV 车型矩阵——2029 年前 18 款（盖世 11/10）
+- **Canadian Black Book 分析师预测**：中国品牌明年在加拿大在售电动车 **9 款**、2028 年 **17 款**、2029 年 **18 款**——关税/附加税博弈（页首 Unifor 100% 附加税诉求）之外，供给端已按「配额通道 + 产品矩阵」双轨卡位（对照 [[geely]] 2027 配额入场，10/11 已录）
+- 判断：18 款/2029 的预测 = 中国品牌把加拿大当作北美「可进入性最高」的市场——低关税配额（4.9 万辆/年，页首已录）+ 本地化绕行（墨西哥/加拿大产能，页首已录）的组合；与「美国永久禁令推迟至中期选举后」（页首已录）构成北美「一堵一疏」的时间差窗口

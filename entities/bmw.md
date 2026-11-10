@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-08
+updated: 2026-11-10
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 宝马 (BMW)
@@ -188,3 +188,8 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **新世代 iX3 中国 11 月起开交付**（晨报口径）：**26.99 万起、CLTC 919km、800V**、[[momenta]] 智驾——Neue Klasse 首款中国量产车从「发布/预售」进入交付兑现（承接 10/5 沈阳量产确认、10/15 订单逼近 10 万）
 - **919km** = 此前「CLTC 超 900km」口径的精确值；26.99 万起 = 页首「欧洲品牌在华电动化标杆价」的交付确认
 - 判断：iX3 交付斜率 = 宝马「中国智驾 + 欧洲底盘」公式的终端验证期开始；与 [[mercedes-benz]]（纯电 GLC 703km）、[[volkswagen]]（ID.ERA）构成德系三强在华纯电交付竞赛（[[bba-ev-ranking-2026]]）
+
+## 2026-11-10 更新：第六代电池扩链（三星SDI/LG 入局）+ Personal Pilot 取消——L3 撤退
+- **第六代高压电池新增供应商（彭博社 11/9）**：**三星 SDI（欧洲工厂）+ LG 新能源（美国工厂）**，2020 年代末起供货——在宁德时代、亿纬锂能等既有供应商之外补位，降低单一依赖；第六代大圆柱全球产能拼图基本成形（[[samsung]]、[[lg-energy-solution]]）
+- **L3 撤退（11/10 通信世界/搜狐）**：宝马今年 3 月已取消 7 系 **Personal Pilot** 选装，与奔驰（取消 Drive Pilot）同步退守 **L2++/L4**；研发负责人：「需求撑不起盈利」——L3 选装「低频使用 × 高责任成本」= 负毛利（详见 [[l3-autonomous-driving]]）
+- 判断：电池端「扩链求弹性」、智驾端「L3 收缩」同步发生——2026 宝马主旋律 = 供应链多源化 + 智驾回归 L2++ 走量；iX3 的 momenta 深度共研路线（页首已录）不受影响，L2++ 正是 [[momenta]] 主战场

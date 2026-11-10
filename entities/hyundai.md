@@ -1,10 +1,10 @@
 ---
 title: 现代起亚 (Hyundai-Kia)
 created: 2026-06-27
-updated: 2026-10-17
+updated: 2026-11-10
 type: entity
 tags: [hyundai, kia, korea, ev, hybrid]
-sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md]
+sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 现代起亚 (Hyundai-Kia)
@@ -104,3 +104,8 @@ sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/art
 - **北京现代第八代伊兰特国产版现身工信部申报**：保留海外原版机甲风造型，尺寸全面加大（**4765/1855/1425mm、轴距 2750mm**）
 - **配置**：14.6 英寸悬浮屏 + **AI 大模型车机**、支持记忆泊车/远程泊车；动力沿用 1.5L 自吸 + 84.5kW
 - 判断：现代在华以「本土化加长 + 智能配置补课」守住燃油基盘（对照 [[honda-china]] 衰退路径）；合资燃油车 AI 车机升级是 2026 共性动作（[[cockpit-llm]]）
+
+## 2026-11-10 更新：×三星电子战略结盟 + Kakao×英伟达 L4 落地起亚 PBV
+- **三星电子×现代汽车战略伙伴关系（盖世 11/10）**：合作从既有车载电子、音响、电池扩展至**半导体、全固态电池、机器人、能源**等未来产业——整车集团×存储/消费电子巨头深度绑定（[[samsung]]）
+- **Kakao Mobility×英伟达 L4（Korea Herald 11/9）**：基于英伟达平台开发 L4，落地起亚 **PBV**（Platform Beyond Vehicle）——韩系出行平台×美系算力组合，以商用 PBV 而非乘用车作为 L4 优先落地场景（[[nvidia]]、[[l4-global-race-2027]]）
+- 判断：现代起亚「双线结盟」（三星管供应链纵深/固态，英伟达管智驾算力）= 韩系集团军作战模式的延续（[[korea-japan-automaker-divergence]]）；全固态电池竞赛（[[solid-state-battery]]）中「三星电芯×现代整车」绑定的量产节点值得跟踪

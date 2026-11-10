@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 Cybertruck
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 type: entity
 tags: [vehicle, oem-us, trend]
-sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md]
+sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 特斯拉 Cybertruck
@@ -29,3 +29,7 @@ sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-
 - 停产时间表执行与得州工厂 Cybercab 产能爬坡
 - 二手车残值与存量车主权益处理
 - 皮卡市场（F-150 Lightning/Rivian）竞争格局的连锁反应
+## 2026-11-10 更新：退订金 + 产线约 8 个月后关停（盖世 11/10）
+- **马斯克 X 平台**：Cybertruck 订单增速远超产能，将向大量客户**退还订金**，并强调「并非 Cybertruck 不盈利」——退订 = 需求未被产能消化 + 停产前的订单负债清理
+- **时间表细化**：产线约 **8 个月后关停**（≈2027 年中，与 11/9「明年中旬」口径一致），随后产能转向 **Cybercab**
+- 判断：宁可退单也不扩产 = 厂房/产线让位 Cybercab 是既定优先级，皮卡叙事正式让位 Robotaxi 叙事（[[l4-global-race-2027]]）；「并非不盈利」的辩解与 KBB 销量连降（-48%/-28%，11/9 已录）形成口径张力——停产归因「战略再配置」而非产品失败（[[tesla]]、[[waymo-vs-tesla-robotaxi-2026]]）

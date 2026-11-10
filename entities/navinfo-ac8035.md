@@ -1,10 +1,10 @@
 ---
 title: 四维图新 AC8035（舱驾融合SoC）
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-10
 type: entity
 tags: [chip, cockpit, adas, tier1]
-sources: [memory/2026-11-07.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [memory/2026-11-07.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 四维图新 AC8035
@@ -31,3 +31,7 @@ sources: [memory/2026-11-07.md, daily-news/2026-11-07-gasgoo-evening.md]
 - [[blacksesame]] - 武当 C1296 直接竞争
 - [[horizon-robotics]] - 星空系列竞争
 - [[qualcomm-auto]] - SA8797 竞争
+
+## 2026-11-10 更新：功能定义补齐——座舱+L2+泊车单芯片、宣称降本 30%（AI 日报 11/10）
+- **AC8035 功能边界**：座舱 + L2 级智驾 + 泊车三合一单芯片、支持端侧大模型、**宣称降本 30%**（样片 2027Q1，页首已录）
+- 判断：与 [[blacksesame]] 武当 C1296、[[horizon-robotics]] 星空 6P 同台——舱驾融合 2027 样片潮 → 2028 量产潮（页首已录判断）再添「功能齐全」参与者；地图商基因（四维图新）做舱驾 SoC 的差异化看高精地图/定位 IP 整合（[[cabin-drive-integration]]）

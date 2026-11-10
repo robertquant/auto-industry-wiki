@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-10-25
+updated: 2026-11-10
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -135,3 +135,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 - **重卡换电节奏更新：2026 底 900 座 → 2027 年 2000 座 → 终局 1 万座**（「电电增程」首批签约 13000 台，10/23 已录）
 - **行业预测 2026 年换电市场规模突破 900 亿元（+22%）**——从技术/场景/政策三变量到位进入市场规模兑现叙事（[[battery-swap-vs-ultra-fast-charging]]）
 
+
+## 2026-11-10 更新：宁德×四城公交签约——公交场景成「换电+回收+V2G」先行试验田（盖世 11/10）
+- **宁德时代与本溪、常州、贵阳、兰州四地公交集团战略签约**：覆盖**动力电池供应更新、城市级换电网络、电池回收与车网互动（V2G）**打包落地
+- 判断：公交 = 固定线路/固定场站/国有运营方，是换电（[[battery-swap-vs-ultra-fast-charging]]）与 V2G（[[v2g-2026]]）商业化的低风险试验田——B 端场景再添一城（重卡干线 10/22 已录之后），车队客户把换电站利用率与梯次回收一次性打包；观察点：公交 V2G 峰谷套利模型能否跑通并外溢乘用车（[[geely-nio-swap-alliance]] 乘用车标准战之外的场景分工）

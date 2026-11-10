@@ -1,10 +1,10 @@
 ---
 title: LG新能源 (LG Energy Solution)
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-10
 type: entity
 tags: [battery, battery-tech]
-sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md]
+sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # LG新能源 (LG Energy Solution)
@@ -23,3 +23,6 @@ sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md]
 
 ## 相关
 - [[catl]]、[[sodium-ion-battery]]、[[fifth-gen-lfp-battery]]、[[battery-passport-2026]]
+## 2026-11-10 更新：获宝马第六代电池定点（美国工厂供货，彭博社 11/9）
+- **宝马第六代高压电池新增 LG 新能源为供应商**：负责美国工厂供货，2020 年代末起供——继 [[mercedes-benz]] 46100 大圆柱（2028 起供）之后第二家德系豪华大圆柱定点（[[bmw]]）
+- 判断：「大圆柱 + 北美本地化」双卖点切入德系豪华电池链——46 系（2029 波兰量产，页首已录）+ 北美 IRA 产能组合，是对 [[catl]] 份额（[[global-battery-market-2026]]）的欧洲/北美侧渗透；韩系双雄（LG + 三星 SDI）同时进入宝马 6 代链 = 德系「电池去单一依赖」的韩系受益面扩大（[[samsung]]）

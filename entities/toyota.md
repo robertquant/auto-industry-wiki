@@ -1,10 +1,10 @@
 ---
 title: 丰田 (Toyota)
 created: 2026-05-10
-updated: 2026-11-07
+updated: 2026-11-10
 type: entity
 tags: [toyota, japan, hybrid, ev, strategy, india, crisis]
-sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-05-10.md, memory/2026-05-27.md, memory/2026-06-26.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 丰田 (Toyota)
@@ -166,3 +166,7 @@ sources: [daily-news/2026-10-01-gasgoo-evening.md, raw/articles/2026-10-01-daily
 ## 2026-11-07 补充：同日设立独立机器人事业部
 - **换帅同日（11/5）宣布设立独立机器人事业部**，定位未来核心支柱（盖世 11/7）——丰田「多路径」战略（[[humanoid-robot]]）从研发布局升级为事业部建制，与汽车主业并列
 - 对照：南北丰田生产端广汽统筹 + 销售端 50:25:25 新公司（10/8 已录）与雷克萨斯上海 2027 投产节点联动——中国业务「治理统一」与全球「机器人第二曲线」并行推进
+
+## 2026-11-10 更新：凯美瑞时隔三年重返日本——美产逆进口（日经 11/10）
+- **最快本月（11 月）在日本重新上市美国生产的凯美瑞**，早于原定 2026 秋季计划，定位日本市场主力轿车
+- 判断：「美产日销」逆进口 = 日本本土轿车产能/成本结构无法支撑 + 美国工厂产能富余的再平衡——Home 市场车型结构被电动化与成本逻辑重排（[[japanese-automaker-crisis-2026]]）；丰田历来保留本土旗舰制造，此次让美国产线反哺本土是产业空心化的罕见信号（对照北美混动加码的本田，[[honda-china]]）

@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-11-08
+updated: 2026-11-10
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 火山引擎
@@ -93,3 +93,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/
 - **字节开招「汽车大模型算法团队负责人」**（网通社 11/7）：覆盖**座舱交互 / 智驾视觉 / 多模态**——苏杰离职（11/6 已录）后的组织补位，字节「重仓汽车 AI」方向不变（供应商 + [[saidou]] 整车双线）
 - **AUDI × 火山引擎共研座舱 + AIDV**（[[audi]]、[[aidv]]）——字母标品牌座舱明确绑定豆包系，AUDI「AI定义汽车」叙事的技术底座落在字节生态（对照 [[mercedes-benz]] 虚拟助手×豆包）
 - 判断：字节在汽车侧从「模型供应商」向「座舱智能化总包」演进；「算法团队负责人」级招聘 = 从项目合作转向长期建制投入（[[ai-engineering-2026]]）——苏杰离职不是收缩信号，而是「换打法」的换挡
+
+## 2026-11-10 更新：扣子企业版退场——低代码中间层被 Agent 抹平（36氪）
+- **扣子（Coze）企业版退场**：2025 年以 **19.3% 市占**居中国 AI Agent 构建平台第一，**10/29 停售、2027/12/31 下线**——字节在低代码 Agent 构建层的战略收缩
+- 判断：低代码/可视化编排的「中间抽象层」正被端到端 Agent（大模型直接执行）抹平——对车企工具链的启示：直接 Agent 化，不要新建中间抽象层（呼应 [[ai-coding-tools-2026]]、[[agentic-coding-capability-2026]]）；火山引擎主赛道（豆包上车，页首已录）不受影响，扣子退场 = 字节资源向模型/云端收敛的信号
