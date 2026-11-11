@@ -1,10 +1,10 @@
 ---
 title: L4 全球落地竞速（2027 节点年）
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-11
 type: concept
 tags: [adas, trend, prediction]
-sources: [raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md]
 ---
 
 # L4 全球落地竞速（2027 节点年）
@@ -48,3 +48,8 @@ sources: [raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-n
 - [[waymo]] / [[tesla]] / [[toyota]] - 三线主角
 - [[xiaopeng-yoyo]] / [[caocao-robotaxi]] / [[chery]] - 中国前装量产代表
 - [[un-autonomous-driving-regulation-2026]] - 日本无方向盘标准的法规上下文
+
+## 2026-11-11 更新：「L4 商业化跑赢 L3」悖论观察
+
+- **盖世 11/11 观点：L4 商业化进度反超 L3**——L3 人机共驾责任界定复杂（法规/保险难解），L4 限定场景责任主体清晰（运营方），商业化路径反而更顺
+- 注：广东同日推 L3 准入试点（[[l3-mass-production-2026]]）——两条路线并行验证，2027 是关键节点（[[native-robotaxi-2026]]）

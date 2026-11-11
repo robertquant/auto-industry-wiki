@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-11-03
+updated: 2026-11-11
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 宁德时代 (CATL)
@@ -166,3 +166,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-
 ## 2026-11-03 更新：印尼 Antam 合资工厂将投产
 - **与印尼国家矿业公司 Antam 的合资电池厂预计即将启动生产**——当地镍资源优势就地转化为电池制造能力，印尼电池产业链本地化关键一步（盖世 11/3）
 - 判断：印尼 = 镍资源腹地的「矿产绑定 + 产能落地」样本；与匈牙利德布勒森试产（10/19 已录）构成**欧洲 + 东南亚双本地化轴线**，对欧/对东南亚双线供应 → 区域产能版图补完（[[global-battery-market-2026]]、[[battery-passport-2026]] 合规语境）
+
+## 2026-11-11 更新：四城公交同日牵手（电池置换窗口）
+
+- **四个城市公交公司同日与宁德时代签约**——公交电动化进入存量电池置换/扩容窗口（首批运营车电池临近到寿）
+- 判断：乘用车「去宁德化」压力下，B 端公交/商用车成为宁德时代增量基本盘；对照 [[gotion]] 的欧洲产能路线，宁德在国内 B 端找增量、海外继续卡位（[[global-battery-market-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 小米澎程 (Xiaomi Pengcheng)
 created: 2026-07-31
-updated: 2026-10-03
+updated: 2026-11-11
 type: entity
 tags: [oem-cn, vehicle, platform, pricing, ev-tech, sales]
-sources: [memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
 ---
 
 # 小米澎程 (Xiaomi Pengcheng)
@@ -133,3 +133,9 @@ sources: [memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-n
 - **N70 Pro 20.99 万 / Max 23.99 万开售**（10/19 新浪）：龙甲电池通过 **500J 底部撞击、55℃ 热失控不蔓延**测试；Max 纯电续航 505km、综合续航 1461km；标配 9 气囊；昆仑架构，主打「纯平可变空间」——30 万内增程 SUV 红海补位
 - **晨报口径：Sky Nomad EREV 首月锁单 7 万+**（10/8 数据，疑为澎程增程项目代号/系列累计口径，待核）；盖世 9 月榜确认澎程首月（9/12 起）交付破万
 - 判断：N70 以「20.99 万 + 硬核电池安全（龙甲）」贴脸 [[li-auto]] 30 万级增程基本盘；安全叙事（撞击/热失控测试数据）成为 20 万级增程新营销语言
+
+## 2026-11-11 更新：N70 首月交付 27,132
+
+- **澎程 N70 10 月交付 27,132 台**——增程首月近 3 万台，雷军亲自下场促销（10 月交付口径）
+- 助力 [[xiaomi-auto]] 集团 10 月交付年内首破 5 万，双线放量
+- 增程赛道判断见 [[range-extender-trend]]；大盘见 [[2026-10-china-sales-battle]]

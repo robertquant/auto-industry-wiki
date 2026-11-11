@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 比亚迪 (BYD)
@@ -299,3 +299,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **11/9 第 1900 万辆新能源车在西安工厂下线**，下线车型即方程豹钛 9（同日开启全国预订，见 [[fangchengbao-ti9]]）——里程碑与新车发布捆绑，产能叙事=新品叙事
 - **节奏量化：1700 万（7/8）→ 1900 万（11/9）仅 124 天，平均 62 天新增 100 万辆**——产能爬坡仍在加速段
 - 判断：1900 万 = 「以量换稳」路线的规模底座再夯实；62 天/百万意味着 2027 年价格战弹药（国内基盘对冲能力）继续加厚——对手比的是「销量差」，比亚迪比的是「产能加速度差」（[[2026-10-china-sales-battle]]、[[chinese-oem-export]]）
+
+## 2026-11-11 更新：10月销量 + 智驾全栈自研切换
+
+- **10 月新能源销量同比 +11%，出口为核心增量**（对照 7 月集团 419,211 辆记录）
+- **智驾低调切换全栈自研**（盖世 11/11）：从外采/合作方案转向全栈自研闭环——智驾供应商格局再受重锤，呼应 [[byd-xuanji-a3]] 自研芯片 + [[tianshen-eye-5]] 天神之眼路线

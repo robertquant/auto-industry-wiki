@@ -1,10 +1,10 @@
 ---
 title: 智驾模型蒸馏路线 (ADAS Model Distillation)
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-11-11
 type: concept
 tags: [adas, ai, trend, controversy]
-sources: [raw/articles/2026-10-16-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-16-daily-digest.md]
 ---
 
 # 智驾模型蒸馏路线
@@ -34,3 +34,10 @@ sources: [raw/articles/2026-10-16-daily-digest.md]
 - [[xiaopeng-adas-roadmap]] - 反蒸馏/堆算力路线的代表
 - [[vla-world-model]] - 端到端架构演进
 - [[mona-l05]] - 算力下放的价格带样本
+
+## 2026-11-11 更新：小鹏 MONA L03「蒸馏版 vs 完整版」之争
+
+- **MONA L03 搭载 VLA 蒸馏版，引发与完整版 VLA 的「同门」之争**（盖世 11/11）——蒸馏降本下放 vs 完整版能力上限，路线含金量再被审视（呼应 [[xiaopeng]] 此前以实测回应「蒸馏质疑」）
+- 关联：[[mona-l03]]、[[vla-model]]
+
+**判断**：蒸馏从「FSD 存量硬件适配」扩展到「走量车型成本适配」——不再只是止血手段，开始成为规模化分发工具（双刃剑）

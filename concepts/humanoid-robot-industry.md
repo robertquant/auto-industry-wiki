@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-10-28
+updated: 2026-11-11
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -135,3 +135,7 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgo
 - **2026 年全球人形机器人出货预计 6 万台、中国约 5 万台，较 2025 年增两倍以上**（盖世口径）——车企/零部件跨界（丝杠、减速器、液冷板）的第一波市场兑现
 - **AI 数据中心液冷 2026 全球预计 1147 亿元（+273%）**——液冷温控成汽车供应链第二曲线最先受益环节；博世 7 月已启动 AI 数据中心 SiC 固态变压器业务（[[bosch]]）
 - 判断：汽车供应链（热管理/精密件/功率器件）与 AI 基础设施（散热/供电）在「散热+供电」点位上重合——[[ice-supplier-divergence]] 的「第二曲线」具体化（[[tier1-mna-consolidation-2026]] 跨界并购的叙事支撑）
+
+## 2026-11-11 更新：均胜向宇树交付高算力「大脑背包」
+
+- **均胜电子向宇树交付高算力「大脑背包」**（车载算力模组复用，盖世 11/11）——汽车 Tier1 的算力/热管理能力直接迁移至人形机器人：智驾供应链「第二曲线」管道之一（对照 [[hesai]] Q3 机器人动力模组 3.5 万套、[[terra-robotics]]）

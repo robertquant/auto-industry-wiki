@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-05
+updated: 2026-11-11
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -242,3 +242,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 
 ## 2026-11-05 补录：欧洲注册用户达 200 万（晨报口径）
 - **零跑欧洲注册用户达 200 万**（La Stampa 10/21，晨报口径）——欧洲从「卖车市场」向「用户生态」积累：Stellantis 渠道（[[leapmotor-stellantis]]）+ 本地化产能（B10 萨拉戈萨，[[italy-market-2026]]）之外的用户侧资产
+
+## 2026-11-11 更新：10月断层第一 + B05 确认萨拉戈萨追加
+
+- **10 月交付 106,127 台（+51%），连续 4 个月破 10 万**——新势力断层第一
+- **Stellantis 萨拉戈萨工厂：B10 已于 10/16 正式投产（SOP），第二款 B05 确认同厂追加**——本地化规避欧盟 30.7% 反补贴关税（见 [[stellantis]]、[[eu-70x70-rule]]）
+- 大盘见 [[2026-10-china-sales-battle]]

@@ -1,10 +1,10 @@
 ---
 title: 2026年10月中国车企销量战报
 created: 2026-11-02
-updated: 2026-11-07
+updated: 2026-11-11
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
-sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 2026年10月中国车企销量战报
@@ -56,3 +56,7 @@ sources: [raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/art
 - **乘联分会（11/4）：10 月新能源乘用车批发预估 180 万辆（+12%）**——重回复苏通道，增速显著跑赢大盘
 - 驱动三件套：**「两新」补贴 12 月底截止**（抢装）+ 双 11 促销 + 金九银十旺季；比亚迪 10 月 49 万居首、前 10 月累计 362 万辆
 - 判断：180 万批发 = 全年冲量的最后一个旺季窗口；12 月底补贴退坡前的「政策末班车」为 Q4 提供基本盘支撑，也是 2027 年销量基数的透支项（对照 [[nev-penetration-60-percent]]、[[q3-2026-earnings-season]]）
+
+#### 乘联会零售口径补录（11/11）
+- **10 月新能源零售 110.9 万辆、渗透率约 67%**；分阵营：**自主 84.8% vs 合资 19.7%**——合资新能源基本盘塌缩（大众 +346.9% 亦为低基数修复，见 [[volkswagen]]）
+- 对照 [[nev-penetration-60-percent]]、[[china-brand-market-share-2026]]

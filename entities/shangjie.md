@@ -1,10 +1,10 @@
 ---
 title: 尚界汽车
 created: 2026-05-02
-updated: 2026-10-17
+updated: 2026-11-11
 type: entity
 tags: [saic, huawei, china, sedan, suv, adas, harmony-os]
-sources: [, raw/articles/2026-10-17-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, , raw/articles/2026-10-17-daily-digest.md]
 ---
 
 ## 概述
@@ -72,3 +72,8 @@ sources: [, raw/articles/2026-10-17-daily-digest.md]
 - **动力**：后驱华为数字能源电机（280kW）/ 四驱 + 上汽 175kW 前电机，**系统功率 455kW**，纯电 + 三元锂
 - **底盘**：**大陆 MKC2 线控制动系统**（[[chassis-domain-control]] 线控执行器旗舰标配信号）
 - 判断：Z9 = 尚界从 15-30 万价格带（H5/Z7）上探旗舰 SUV——华为智驾全家桶（896 线雷达/乾崑 ADS）× 上汽制造与线控底盘的旗舰样板；与 [[wenjie]] M8、[[li-auto]] 同场竞争
+
+## 2026-11-11 更新：Z7T 星野套装亮相华为发布会
+
+- **尚界 Z7T 星野套装将在 11/20 华为发布会同场亮相**——换装新样式轮毂 + 加装车顶行李箱，装载能力扩展，主打长途自驾/户外场景（Z7 已于 2026 年 4 月上市、22.98 万起）
+- 关联：[[xiangjie]]（享界 V8 上市 + OSTA 星芒首秀同场）、[[huawei-auto]]

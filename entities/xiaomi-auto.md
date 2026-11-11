@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-11-05
+updated: 2026-11-11
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -111,3 +111,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-11-05 补录：双线布局初步跑通（盖世 11/1 口径）
 - **SU7 站稳 20 万元以上纯电轿车市场**；**澎程系列增程 SUV 产能爬坡后成为增量核心**（[[xiaomi-pengcheng]]）——「纯电+增程」双线布局初步跑通，10 月超 5 万台（11/3 已录）的结构支撑
 - 对照 [[xiaopeng]]（5.02 万）：新势力第二梯队十月答卷都指向「结构（澎程增程/海外）> 总量」——产能给到谁、谁是下阶段增量引擎
+
+## 2026-11-11 更新：10月交付年内首破 5 万
+
+- **10 月交付年内首次突破 5 万台**——「纯电（SU7/YU7）+ 增程（[[xiaomi-pengcheng]]）双线齐放量」兑现
+- 澎程 N70 增程首月近 3 万台（10 月交付 27,132，雷军亲自促销），见 [[xiaomi-pengcheng]]
+- 大盘见 [[2026-10-china-sales-battle]]

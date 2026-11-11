@@ -1,10 +1,10 @@
 ---
 title: 中国品牌乘用车市占率75%（2026年5月）
 created: 2026-06-28
-updated: 2026-10-26
+updated: 2026-11-11
 type: concept
 tags: [trend, data, market-share, china]
-sources: [memory/2026-06-28.md, daily-news/2026-10-26-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-28.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 # 中国品牌市占率突破75%
@@ -85,3 +85,8 @@ sources: [memory/2026-06-28.md, daily-news/2026-10-26-gasgoo-evening.md]
 ## 来源
 
 - memory/2026-06-28.md 盖世汽车日报
+
+## 2026-11-11 更新：1-9月全球汽车 +3%，自主份额全面崛起
+
+- **崔东树：1-9 月全球汽车销量 +3%**，中国自主品牌份额全面崛起——全球增量主要由中国新能源贡献（[[chinese-oem-export]]）
+- 对照 [[2026-10-china-sales-battle]]（国内自主 84.8% 渗透率 vs 合资 19.7%）

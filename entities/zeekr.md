@@ -1,10 +1,10 @@
 ---
 title: 极氪 (Zeekr)
 created: 2026-05-10
-updated: 2026-11-03
+updated: 2026-11-11
 type: entity
 tags: [zeekr, geely, premium, ev, china]
-sources: [官方公告, 汽车之家, 懂车帝, 太平洋汽车, memory/2026-06-24.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, 官方公告, 汽车之家, 懂车帝, 太平洋汽车, memory/2026-06-24.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
 ---
 
 # 极氪 (Zeekr)
@@ -122,3 +122,9 @@ sources: [官方公告, 汽车之家, 懂车帝, 太平洋汽车, memory/2026-06
 - **10 月交付 32,483 辆（+51.6%）**；**1-10 月累计 320,887 辆（+94.4%）**，**主流车企中唯一提前超额完成全年 30 万辆目标**
 - **平均客单价近 37 万元**——量价齐升（9/30 已录 9X 出海立价，[[zeekr-lynk-co-merger]] 高端矩阵）
 - 判断：完成率第一（10/19 已录 96.1%）→ 提前达标 = Q4 无考核压力、全力为 2027 新品蓄能；「量价齐升」在价格战年（[[auto-price-hike-2026]] 语境）含金量高于纯走量玩家（对照 [[leapmotor]] 性价比路线）
+
+## 2026-11-11 更新：10月销量 + 年度目标锁定
+
+- **10 月交付 25,049 辆（+51.6%）**，提前锁定 30 万辆年度目标
+- 判断：极氪证明「纯电 + 极致成本」在高价位段仍能打（对照理想纯电承压，见 [[li-auto]]）；集团整合见 [[zeekr-lynk-co-merger]]
+- 大盘见 [[2026-10-china-sales-battle]]

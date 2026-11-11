@@ -1,10 +1,10 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [oem-eu, strategy, ecosystem]
-sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # Stellantis (斯特兰蒂斯)
@@ -144,3 +144,8 @@ sources: [memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/art
 ## 2026-11-10 更新：布兰普顿工厂出售 Roshel 敲定（盖世 11/10）
 - **向加拿大装甲车制造商 Roshel 出售布兰普顿工厂敲定**——10/4「向 Roshel 出售多伦多闲置工厂」的落地确认（布兰普顿属大多伦多地区）：北美产能收缩进入交割阶段
 - 判断：闲置燃油产能卖给防务企业 = 北美「止血 + 变现」双线（防务化再利用与 [[forefront-ugv]] 雷诺防务攻势异曲同工）；Stellantis 北美 Q3 回稳（10/10 已录）+ 资产剥离并行，「聚焦核心市场」瘦身路径清晰，[[leapmotor]] 欧洲合作仍是增长主引擎
+
+## 2026-11-11 更新：零跑第二款 B05 确认萨拉戈萨同厂追加
+
+- **B10 已于 10/16 在萨拉戈萨正式投产（SOP）；第二款 B05 确认同厂追加**——「本地化制造穿透关税墙」从 1 款扩至 2 款（规避 30.7% 反补贴关税）
+- 判断：Leapmotor International 进入「平台化输出」阶段——中国性价比 × 欧洲本地制造的组合进一步固化（[[leapmotor]]、[[eu-70x70-rule]]）

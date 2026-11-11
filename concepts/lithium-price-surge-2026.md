@@ -1,10 +1,10 @@
 ---
 title: 2026碳酸锂价格暴涨
 created: 2026-05-13
-updated: 2026-11-01
+updated: 2026-11-11
 type: concept
 tags: [battery, supply-chain, cost, policy]
-sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 2026碳酸锂价格暴涨
@@ -98,3 +98,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-
 - **碳酸锂现货跌破 10 万关口，期货跌至 8.8 万**（研判周报 11/1 口径）——从 10/12 的 10.89 万继续下探，5 月 17.19 万高点以来下行通道未改
 - **诚实复盘**（[[forecast-tracker]] 研判 6）：5 月初判「价格可能降」方向其实对了，被纠正后一路修向「高位震荡/企稳」——预期连续第二次落空，供给过剩主导（9/29 库存上修 17.5 万吨坐实）与「期货式行情」判断仍是主线
 - 影响：锂价低位 = 电池厂成本红利延续、价格战弹药充足（[[auto-price-hike-2026]] 涨价逻辑持续逆转）；上游矿端减产挺价博弈开启（[[battery-fifteen-five-plan]] 政策托底）
+
+## 2026-11-11 更新：崔东树——自 5 月高点回落近六成
+
+- **崔东树（11/11）：碳酸锂自 5 月高点已跌近六成**——若以 5 月高点 17.19 万计，「近六成」对应约 7 万区间（现货 11/11 数据待核）；与本页 11/1「现货破 10 万、期货 8.8 万」的下跌方向一致，「6 万企稳」预期继续落空
+- 影响：电池成本下行 → 整车价格战弹药（[[catl]] 承压、车企让利空间打开）

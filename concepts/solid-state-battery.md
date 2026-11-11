@@ -1,10 +1,10 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-10-31
+updated: 2026-11-11
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
@@ -222,3 +222,9 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/
 - **宁德全固态推进至 20Ah 试制，2027 小批量**（盖世 10/30）——龙头时间表细化到工程里程碑（[[catl]]）
 - **小鹏机器人固态电池量产下线**（非车规）——机器人固态先行、车规后随，产线逻辑共享（[[xiaopeng]]）
 - 判断：宁德 2027 小批量 + 比亚迪 2027 装车（9/29 已录）+ 巨湾吉瓦时级产线（10/13 已录）+ 蜂巢半固态量产（10/29 已录）= **「2027 车用固态元年」行业共识成型**——竞争焦点从「谁先发布」转向「谁先过产线良率关」
+
+## 2026-11-11 更新：两项新工艺进展
+
+- **QSEs 室温聚合固态电解质**——室温条件下聚合制备，降本潜力指向规模化（盖世 11/11）
+- **西安电子科技大学薄型涂层工艺**——薄型化涂层路线，降界面阻抗/提能量密度
+- 产业坐标：对照 [[guangwan-jiyan]]（全球首家第三方认证+量产下线）、[[langu-xinnengyuan]]（氧化物电解质多基地）——固态电池进入「材料工艺创新密集期」

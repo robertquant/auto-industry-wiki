@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -281,3 +281,8 @@ sources: [memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/art
 ## 2026-11-10 更新：取消 Drive Pilot——L3 选装「算账后撤退」（通信世界/搜狐 11/10）
 - **2026 款 S 级取消 Drive Pilot 选装**（德国市场此前 5,950 欧起、限速 64-95km/h 的低速拥堵场景）；奔驰 CTO 称「推进过早」——与 [[bmw]]（3 月取消 Personal Pilot）同步退守 L2++/L4（详见 [[l3-autonomous-driving]]）
 - 判断：Drive Pilot 曾是欧洲最早量产的 L3 之一，其退场 = 「责任 + 成本 + 使用频率」三重否决的豪华品牌共识化；不影响主力智驾路线（[[momenta]] 管中国 + 英伟达管全球，10/22 已录双轨）——L3 收缩反而强化 L2++ 走量逻辑
+
+## 2026-11-11 更新：康林松——内燃机再活 10-15 年
+
+- **康林松（11/11）：内燃机还能再活 10-15 年**——与「由中国定义、为全球输出」的纯电转型并行，豪华品牌对动力形式切换的务实表态（对照 [[bmw]] iX3/i3 全速纯电、[[volkswagen]] 停纯电高尔夫）
+- 解读：不是电动化倒退，而是「油电并存窗口拉长」——奔驰给燃油现金流续命的同时用中国供应链押注纯电

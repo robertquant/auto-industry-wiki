@@ -1,10 +1,10 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-11-08
+updated: 2026-11-11
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md]
 ---
 
 # 奥迪 (Audi)
@@ -53,3 +53,10 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-
 - **奥迪双品牌边界正式落定**：**一汽奥迪 = 四环标**（燃油 + 智能豪华 NEV），**上汽奥迪 = AUDI 字母标**（纯电智能网联）；**上汽奥迪 2027 年底前仍可销售四环产品**、售后平稳过渡——10/26 官宣、10/30 分家细则之后的官方定论
 - 盖世 11/5 补充（与 11/6 上海创新中心开业同源）：奥迪×上汽将依托 **ADP 2.0 平台联合开发四款 AUDI 车型，首款 2028 年上市**——AUDI 合作从「车型导入」升级为「整车联合研发」
 - 判断：AUDI 首款 2028 = 分家后字母标有约两年产品空窗，**四环（一汽）仍是奥迪在华销量基本盘**；「四环守燃油+豪华NEV、字母标攻纯电」= 用最小代价完成电动化叙事切割（对照 [[saic-gm]] 合资续约的另一种资产处置）
+
+## 2026-11-11 更新：上汽奥迪明年停用四环 + AUDI 纯电只在中国
+
+- **上汽奥迪明年（2027）停产「四环」、全面转 AUDI 字母标**——11/7 双品牌格局的执行细节落地（本页 10/26「2027 底前可售四环」条目的推进）
+- **AUDI 三年三款新车只在中国销售、不出口欧洲**——「纯电中国特供」路线坐实，与四环品牌资产切割
+- AI 日报线索（11/11）：上汽奥迪提出 L3 目标（细节待补）
+- 关联：[[volkswagen]]（母集团）、[[saic]]（上汽合资盘）

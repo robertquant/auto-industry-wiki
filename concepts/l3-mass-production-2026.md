@@ -1,10 +1,10 @@
 ---
 title: 2026年L3量产元年
 created: 2026-06-01
-updated: 2026-10-23
+updated: 2026-11-11
 type: concept
 tags: [policy, adas, trend, prediction]
-sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-24-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2026-06-13.md, memory/2026-06-15.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-24-daily-digest.md]
 ---
 
 # 2026年L3量产元年
@@ -113,3 +113,7 @@ sources: [raw/articles/2026-06-01-ai-panorama.md, memory/2026-06-09.md, memory/2
 - [[huawei-ads]] - 华为L3布局
 - [[changan]] - L3首批准入车企
 - [[c-icap-2026]] - 中汽测评新规程
+
+## 2026-11-11 更新：广东推 L3 准入试点
+
+- **广东推进 L3 准入试点**（盖世 11/11）——地方试点扩围，L3 从「首批车企准入」走向「区域规模验证」（对照 [[l3-mandatory-standard]] 强制国标 2027.7.1、[[ga-t-2388-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 宝马 (BMW)
@@ -193,3 +193,10 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 - **第六代高压电池新增供应商（彭博社 11/9）**：**三星 SDI（欧洲工厂）+ LG 新能源（美国工厂）**，2020 年代末起供货——在宁德时代、亿纬锂能等既有供应商之外补位，降低单一依赖；第六代大圆柱全球产能拼图基本成形（[[samsung]]、[[lg-energy-solution]]）
 - **L3 撤退（11/10 通信世界/搜狐）**：宝马今年 3 月已取消 7 系 **Personal Pilot** 选装，与奔驰（取消 Drive Pilot）同步退守 **L2++/L4**；研发负责人：「需求撑不起盈利」——L3 选装「低频使用 × 高责任成本」= 负毛利（详见 [[l3-autonomous-driving]]）
 - 判断：电池端「扩链求弹性」、智驾端「L3 收缩」同步发生——2026 宝马主旋律 = 供应链多源化 + 智驾回归 L2++ 走量；iX3 的 momenta 深度共研路线（页首已录）不受影响，L2++ 正是 [[momenta]] 主战场
+
+## 2026-11-11 更新：新世代 iX3 定档上市 + 电池供应链扩容
+
+- **新世代 iX3 11/25 正式上市**（预售 26.99-33.99 万元、全国统一价）；**新 i3 11/27 广州车展上市**——「效率牌」双车连发（对照 [[bmw-i3-50]] 1,213km 实测）
+- **电池供应链新增三星 SDI / LG 新能源**（第六代大圆柱分供欧洲/美国，见 [[samsung]]、[[lg-energy-solution]]）——德系「电池去单一依赖」推进到 6 代电池
+
+**判断**：定价杀入自主腹地 + 电池双源化 = 宝马对华资源倾斜持续加码（与 [[mercedes-benz]] 「由中国定义」同频）。

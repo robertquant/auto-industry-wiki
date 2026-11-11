@@ -1,10 +1,10 @@
 ---
 title: 火山引擎
 created: 2026-06-06
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [strategy, partnership, china, cockpit]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/2026-06-10.md, memory/2026-06-19.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 火山引擎
@@ -97,3 +97,9 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-06.md, memory/
 ## 2026-11-10 更新：扣子企业版退场——低代码中间层被 Agent 抹平（36氪）
 - **扣子（Coze）企业版退场**：2025 年以 **19.3% 市占**居中国 AI Agent 构建平台第一，**10/29 停售、2027/12/31 下线**——字节在低代码 Agent 构建层的战略收缩
 - 判断：低代码/可视化编排的「中间抽象层」正被端到端 Agent（大模型直接执行）抹平——对车企工具链的启示：直接 Agent 化，不要新建中间抽象层（呼应 [[ai-coding-tools-2026]]、[[agentic-coding-capability-2026]]）；火山引擎主赛道（豆包上车，页首已录）不受影响，扣子退场 = 字节资源向模型/云端收敛的信号
+
+## 2026-11-11 更新：神龙×火山引擎共研座舱
+
+- **神龙汽车 × 火山引擎共研智能座舱**——法系合资座舱智能化外采主流化又一例
+- AI 日报（11/11）线索交叉验证：豆包大模型上车超 700 万辆（与既有口径一致）
+- 关联：[[saidou]]（字节生态）、[[cockpit-llm]]（座舱大模型格局）

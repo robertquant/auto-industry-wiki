@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-06
+updated: 2026-11-11
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 蔚来 (NIO)
@@ -208,3 +208,12 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - 对照数据：小马智行车队 1,975 辆（年底目标 3,500+）、文远知行 1,800+、萝卜快跑累计订单 2,300 万单；**苏州网约车单车日均订单仅 12.72 单、日均营收 292 元**——低价市场天花板明显
 - L3/L4 强制国标 2027/7/1 实施划定合规底线（[[l3-mandatory-standard]]）
 - 判断：Waymo 周 50 万单（[[waymo-vs-tesla-robotaxi-2026]]）的「运营实绩叙事」之外，李斌补上第三维度——**城市容量上限**：Robotaxi 是重资产生意，单城天花板决定估值逻辑，不是软件式赢家通吃；与蔚来换电重资产路线（[[geely-nio-swap-alliance]]）一致：蔚来只做资产与能源网络，不做运力（对照 [[chinese-oem-ai-methodology]] 的「边界感」）
+
+## 2026-11-11 更新：10月交付 34,246——累计创新高
+
+| 维度 | 数据 |
+|------|------|
+| 10月交付 | 34,246 辆 |
+| 1-10月累计 | 33.45 万辆（创新高） |
+
+**判断**：ES9 高端势能延续，主品牌+乐道+萤火虫三线撑盘；大盘见 [[2026-10-china-sales-battle]]、[[new-forces-landscape-2026]]。

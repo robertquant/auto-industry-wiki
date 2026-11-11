@@ -1,10 +1,10 @@
 ---
 title: 英飞凌 (Infineon)
 created: 2026-10-21
-updated: 2026-11-07
+updated: 2026-11-11
 type: entity
 tags: [chip, tier1, supply-chain, oem-eu]
-sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md, concepts/power-module-market-2026.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 英飞凌 (Infineon)
@@ -42,3 +42,8 @@ sources: [raw/articles/2026-10-21-daily-digest.md, concepts/risc-v-automotive.md
 ## 2026-11-06 更新：×高通共同开发中央车载计算机（盖世芯片快讯 11/6）
 - **与高通合作开发中央车载计算机**——典型分工：英飞凌 AURIX MCU（功能安全/实时控制）+ 高通 SoC（AI 算力）——中央计算+区域控制（[[cabin-driving-fusion]]）架构下的标准卡位组合
 - 判断：芯片厂在给 2027-28 中央计算节点（[[courizon]] CEA 2027 中央计算/L3 已录）提前锁定「MCU+SoC」捆绑方案；与 RISC-V 下一代 MCU（[[risc-v-automotive]]）并行——英飞凌同时押注「高通绑定」与「RISC-V 自主」两条线，对冲架构风险（[[qualcomm-auto]]）
+
+## 2026-11-11 更新：FY26 营收 163.53 亿欧元（+12%）
+
+- **FY2026 营收 163.53 亿欧（+12%）**——汽车/工业双轮，功率与 MCU 基本盘稳健（[[power-module-market-2026]]）
+- 合肥创新应用中心 + ×高通中央车载计算机（此前已录）进入收获期（[[volkswagen]]、[[qualcomm-auto]]）
