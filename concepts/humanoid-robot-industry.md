@@ -1,10 +1,10 @@
 ---
 title: 人形机器人产业 (Humanoid Robot Industry)
 created: 2026-08-09
-updated: 2026-11-11
+updated: 2026-11-12
 type: concept
 tags: [ai, trend, ecosystem]
-sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md]
 ---
 
 # 人形机器人产业 (Humanoid Robot Industry)
@@ -139,3 +139,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-
 ## 2026-11-11 更新：均胜向宇树交付高算力「大脑背包」
 
 - **均胜电子向宇树交付高算力「大脑背包」**（车载算力模组复用，盖世 11/11）——汽车 Tier1 的算力/热管理能力直接迁移至人形机器人：智驾供应链「第二曲线」管道之一（对照 [[hesai]] Q3 机器人动力模组 3.5 万套、[[terra-robotics]]）
+
+## 2026-11-12 更新：优必选造芯 + 均胜「大脑背包」+ Gemini Robotics 2.5
+- **优必选×沐曦发起端侧芯片公司曦选创智**：5 亿元天使轮、投后估值 40 亿元，直指机器人侧算力国产替代（对标英伟达 Thor，[[nvidia]]）——「造芯」从车企蔓延到本体厂，算力自主成具身智能军备（[[physical-ai]]）
+- **均胜为宇树机器人打造高算力「大脑背包」**（11/11）：汽车 Tier1 批量切入具身智能供应链，车企供应链向机器人复用（[[humanoid-robot]]）
+- **谷歌 DeepMind 发布 Gemini Robotics 2.5**（新一代 VLA 机器人模型）：已在奔驰工厂完成测试、操作成功率 **96%**——具身智能从演示走向产线（[[ai-manufacturing]]），对车企制造端是实质性信号

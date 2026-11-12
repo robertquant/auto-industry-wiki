@@ -1,10 +1,10 @@
 ---
 title: 小米澎程 (Xiaomi Pengcheng)
 created: 2026-07-31
-updated: 2026-11-11
+updated: 2026-11-12
 type: entity
 tags: [oem-cn, vehicle, platform, pricing, ev-tech, sales]
-sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md]
 ---
 
 # 小米澎程 (Xiaomi Pengcheng)
@@ -139,3 +139,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-07-31.md, daily-n
 - **澎程 N70 10 月交付 27,132 台**——增程首月近 3 万台，雷军亲自下场促销（10 月交付口径）
 - 助力 [[xiaomi-auto]] 集团 10 月交付年内首破 5 万，双线放量
 - 增程赛道判断见 [[range-extender-trend]]；大盘见 [[2026-10-china-sales-battle]]
+
+## 2026-11-12 更新：N70 有现车叫卖 + 时代电气确认供货电驱
+- **11/11 雷军「叫卖」N70 有少量现车**：3 年 0 息、月供 3,611 元起——首月交付 27,132 台后的趁热促销（[[xiaomi-auto]] 集团 10 月首破 5 万）
+- **时代电气确认供货澎程电驱**——央企电驱供应商进入小米增程供应链（[[range-extender-trend]]）；三电国产化进一步加深

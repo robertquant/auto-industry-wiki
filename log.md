@@ -1876,3 +1876,38 @@
 - index.md：Last updated 2026-11-08；Total pages 373→**374**（entities 161→162）；供应商/方案商 27→28；更新 blurb 8 条（audi/bmw/yangwang-dingyao/xpeng-g9l/weRide/nvidia/momenta/新增 foxconn）
 - 完整性校验：comm 输出为空 ✅（374 注册 = 374 文件，0 缺失；3 个额外链接为独立分库 index，属预期）
 - 10 月销量/三季报主体数据此前已录（11/1-11/7 各页），本轮仅补增量；雷诺无重大动态未新建页面
+
+## [2026-11-09] ingest | 每日整理（晨报+AI日报+盖世晚报）〔补记〕
+> ⚠️ 注：11/09、11/10、11/11 三轮运行均完成了页面+index 更新与索引完整性修正（git 记录佐证），但 log.md 均未追加。此处按 git 提交与当日 memory 补录，口径以 git diff 为准。
+
+- 新建实体 4：cybertruck（马斯克官宣明年中旬停产、得州产能转投 Cybercab）、iflytek（星火智慧座舱3.0+SparkAutoBOX 端侧方案）、luobo-kuaipao（「苕萝卜」绝对安全 vs 运营效率争议）、yangwang（U9X 阿布扎比 503.17km/h 极速 + Altior 行政旗舰）
+- 新建概念 2：embodied-data-gap-2026（具身数据缺口：存量百万小时 vs 头部需求上亿小时、真机数据 500-1000 元/小时）、uk-ev-mandate-2026（英国 2030 ZEV 目标 80%→60% 拟下调）
+- 新建 raw/articles/2026-11-09-daily-digest.md、daily-news/2026-11-09-gasgoo-evening.md
+- 索引修正（fix 提交）：index 补登 6 个未注册页（cybertruck/iflytek/luobo-kuaipao/yangwang/embodied-data-gap/uk-ev-mandate）+ 统计修正（entities 166/concepts 191）
+
+## [2026-11-10] ingest | 每日整理（晨报+AI日报+盖世晚报）〔补记，见 11/09 注〕
+- 新建实体 2：koito（小糸製作所：以中国竞品为对标基准的降本体系——日系 Tier1「对中国成本基准的投降式对标」样本）、samsung（SDI 动力电池+电子半导体双线卡位）
+- 更新页 20+：byd-han/foton/jaguar-land-rover/suzuki/tencent-tai/volvo/wenjie-m8/xiaopeng-yoyo/xinhe-hangtu/yianqi/ai-engineering-2026/japanese-automaker-crisis-2026/tops-spec-war-2026/forecast-tracker 等，含三季报与10月销量补录（bmw 二次盈利预警、奔驰Q3利润腰斩、大众暂停 e-Golf、Stellantis×零跑 B10 投产）、AI日报 8 条增量（L3 集体撤退/英伟达份额 45%→30.2%/鸿海 1150 亿日元收购/AC8035）
+- 新建 raw/articles/2026-11-10-daily-digest.md
+- 索引修正（fix 提交）：index 补登 koito/samsung + 统计修正（entities 168）
+
+## [2026-11-11] ingest | 每日整理（晨报+AI日报中断+盖世晚报）〔补记，见 11/09 注〕
+- 新建实体 1：youjia-innovation（佑驾创新 MINIEYE：港股 L2 Tier1 新获智驾+座舱双域定点）
+- 更新实体 17+：byd（智驾低调切换全栈自研）、catl、hesai（Q3 机器人动力模组 3.5 万套）、infineon（FY26 营收 163.53 亿欧 +12%）、leapmotor（B05 同厂追加）、mercedes-benz（康林松「内燃机再活 10-15 年」）、nio（李斌「Robotaxi 有边界的生意」）、renault、shangjie、stellantis、volcengine（元宝上车 700 万+）、volkswagen（10 月 +346.9%、ID.ERA 5X 上市）、xiangjie（享界 V8 定档 11/20 + OSTA 星芒首秀）、xiaomi-auto、xiaomi-pengcheng（N70 首月 27,132+雷军促销）、zeekr、humanoid-robot-industry（均胜×宇树大脑背包）
+- 新建 raw/articles/2026-11-11-daily-digest.md；index.md 更新（11/9-11/11 期间 Total 374→383）
+
+## [2026-11-12] ingest | 每日整理（晨报 + 盖世晚报；AI日报超时未产出）
+- 新建 comparisons/ternary-vs-lfp-2026.md（三元 vs 铁锂 2026 装车结构逆转：9月三元 14.1% vs 铁锂 85.5%、成本差 2 万元/100kWh、二代刀片 15C/U9X 30C 拆「三元唯一超充论」）
+- 新建 raw/articles/2026-11-12-daily-digest.md（晨报+盖世晚报合并素材）
+- 更新实体页 5：volkswagen（10月2.8万辆构成/ID.AURA T6 1.2万居中型SUV榜首、目标2027进前十、取消狼堡Gamechanger项目、前9月-30%/纯电3.5%）、mercedes-benz（康林松官宣「100%立足中国、服务中国」、混合模式失效、电动E级2027H2国产）、chery（瑞虎9猎鹰700版17.29万：激光雷达+560TOPS）、xiaomi-pengcheng（N70现车叫卖+时代电气供货电驱）、nio（×保利置业社区充换电）
+- 更新概念页 8：export-tax-rebate-cut-2026（10月出口92.8万+68.5%抢运、崔东树全年破千万、人民币升值4.6%侵蚀利润）、china-export-leaders-2026（10月格局+比亚迪境外收入52.57%首过半）、fifth-gen-lfp-battery（9月装车结构 85.5%/14.1%）、uk-ev-mandate-2026（副首相11/11敲定）、north-america-ev-trade-barriers-2026（中国品牌2030前加拿大18款）、humanoid-robot-industry（优必选曦选创智5亿天使轮/均胜宇树背包/Gemini Robotics 2.5 奔驰工厂96%）、global-battery-market-2026（天赐×亿纬3年45万吨电解液长单）、nev-penetration-60-percent（10月渗透率67%+全年零售1850万台近6年谷底）
+- 更新对比页 1：2026-10-china-sales-battle（Model Y 暴跌至7,807辆+奔腾小马黑马）
+- 导航更新：index.md Last updated 2026-11-12；Total 383→**384**（comparisons 12→13）；blurb 更新 volkswagen/mercedes-benz/ternary-vs-lfp-2026
+- 完整性校验：comm 输出为空 ✅（384 注册 = 384 文件，0 缺失；3 个额外链接为独立分库 index，属预期）
+
+### 核心判断
+- ① 大众「双线挤压」：在华新能源 +346.9% 创新高 vs 前9月集团 -30%/纯电 3.5%——低基数修复而非反转；同时取消狼堡 Gamechanger，欧洲降本与在华进攻并行
+- ② 奔驰「混合模式失效」官宣 = 德系本土化进入第二阶段：「由中国定义」从口号变产线决策（电动E级中国首产），代价是德国关停两座工厂量级的降本
+- ③ 三元「高端标签」易主是结构性事件：铁锂 85.5% + 成本差 2 万/包 + 15C/30C 性能补位——三元只剩超充细分与固态前夜的高端组合，装车结构固化
+- ④ 出口逻辑再升级：境外收入过半（52.57%）+ 退税率下调 + 人民币升值 4.6% = 出海从「抢市场」进入「抢窗口+管汇率」阶段
+- ⑤ 具身智能供应链成形：优必选造芯（曦选创智 5 亿天使轮、对标 Thor）+ 均胜「大脑背包」+ Gemini Robotics 2.5 奔驰工厂 96%——车企/Tier1/本体厂/大模型四方在机器人赛道汇合

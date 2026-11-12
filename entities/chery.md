@@ -1,10 +1,10 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-07
+updated: 2026-11-12
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 奇瑞汽车 (Chery)
@@ -168,3 +168,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/art
 ## 2026-11-05 补录：欧洲 1-9 月新能源 14.6 万辆（+251%）
 - **1-9 月欧洲新能源销售 14.6 万辆（+251%）**（盖世 11/4）——欧洲成奇瑞新能源出海第一增量市场：混动配额「向上安排」（[[eu-hybrid-export-caps-2026]]）窗口期内的放量，新能源在发达市场首次打开规模（对照 [[china-oem-europe-top10-2026]]）
 - 判断：+251% 增速的绝对基数仍小（14.6 万），但结构信号强于总量——奇瑞新能源出海从「新兴市场为主」开始向欧洲渗透，新能源出口结构（六成出海，11/4 已录）的地域集中度在上升
+
+## 2026-11-12 更新：瑞虎9猎鹰700版上市——激光雷达+560TOPS打到17.29万
+- **11/11 上市**：猎鹰700辅助驾驶系统（激光雷达感知 210m、560TOPS 车端算力），支持高速/城市 NOA、无导航 AI 漫游、全场景泊车，AEB 最高 130km/h；超混 DHT 综合续航 1400km+
+- **17 万级标配高阶智驾硬件**（[[lidar-penetration]]）——「智驾下放、旗舰配置普及」是奇瑞国内守盘手段（国内基本盘结构见 [[china-export-leaders-2026]]），与博世欧洲 ADAS 定点（11/7 已录）构成「国内智驾普及 + 欧洲高阶预埋」双线

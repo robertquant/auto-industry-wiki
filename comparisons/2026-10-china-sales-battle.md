@@ -1,10 +1,10 @@
 ---
 title: 2026年10月中国车企销量战报
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-12
 type: comparison
 tags: [sales, comparison, oem-cn, trend]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-02-daily-digest.md, memory/2026-11-02.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 2026年10月中国车企销量战报
@@ -60,3 +60,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-02-daily
 #### 乘联会零售口径补录（11/11）
 - **10 月新能源零售 110.9 万辆、渗透率约 67%**；分阵营：**自主 84.8% vs 合资 19.7%**——合资新能源基本盘塌缩（大众 +346.9% 亦为低基数修复，见 [[volkswagen]]）
 - 对照 [[nev-penetration-60-percent]]、[[china-brand-market-share-2026]]
+
+## 11/12 补充：10月车型榜——Model Y 暴跌 + 奔腾小马黑马
+- **Model Y 10 月暴跌至 7,807 辆**——自主 10-15 万车型绞杀共振下的标志性失速（[[tesla]]；对照 8 月纯电霸榜时 Model Y 仍在头部，见 [[forecast-tracker]] 08-23 记录）
+- **奔腾小马成黑马**——微型/入门市场在总量探底期的结构性亮点
+- 总量背景：崔东树预计 2026 全年零售约 **1,850 万台（近 6 年谷底）** vs 10 月渗透率约 67% 创新高——「渗透率新高与总量探底并存」= 价格战在透支增量而非创造增量（[[nev-penetration-60-percent]]）

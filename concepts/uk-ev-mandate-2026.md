@@ -1,10 +1,10 @@
 ---
 title: 英国电动车目标回调（2026）
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-12
 type: concept
 tags: [policy, sales, trend]
-sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-evening.md]
 ---
 
 # 英国电动车目标回调（2026）
@@ -30,3 +30,7 @@ sources: [raw/articles/2026-11-09-daily-digest.md, daily-news/2026-11-09-gasgoo-
 - 最终立法文本与保守党/工党选举博弈结果
 - 60% 目标下英国车企（含中国品牌）的合规路径选择
 - 欧洲其他国家的目标回调是否形成连锁（对照英国经验）
+
+## 2026-11-12 更新：副首相 11/11 敲定下调方案
+- **11/11 英国副首相敲定**：2030 年 ZEV 目标 80%→60% 从「政府消息人士口径」进入「决策确认」阶段——政策回摆落定
+- 影响判断维持本页上文：对中国品牌短期影响有限（英国非出口主力市场），但英国作为欧洲政策锚点的道德制高点被削弱（对照 [[eu-industrial-accelerator-act]]）；欧洲「电动化共识」松动给中国供应链出海留出时间差

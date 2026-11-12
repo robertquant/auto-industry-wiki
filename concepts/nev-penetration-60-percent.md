@@ -1,10 +1,10 @@
 ---
 title: 新能源渗透率60%里程碑 (2026年)
 created: 2026-05-13
-updated: 2026-10-27
+updated: 2026-11-12
 type: concept
 tags: [nev, penetration, milestone, 2026, china, sales]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md]
 ---
 
 # 新能源渗透率60%里程碑 (2026年)
@@ -148,3 +148,6 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-13.md, daily-n
 - 前三季度国内新能源产销 1248.3/1247.2 万辆、新车占比 53.6%（[[nev-penetration-may-2026]] 链路的 2026 年坐标延续）
 - 判断：渗透率再创新高但增量空间收窄——66.9% 之后 Q4 竞争焦点转向燃油存量争夺，换代挤压（[[byd-qin-plus-dmi]]）是主力手段
 
+## 2026-11-12 更新：10月渗透率约67% + 全年零售预计1850万台（近6年谷底）
+- **10 月新能源零售 110.9 万辆、渗透率约 67%**（乘联会，自主 84.8% vs 合资 19.7%）——里程碑表延续：9 月 67% 后高位维持
+- **崔东树：2026 全年零售预计约 1,850 万台，近 6 年谷底**——渗透率新高与总量探底并存：新能源占比提升主要靠燃油车萎缩（「被动渗透」延续，[[dealer-margin-crisis]]），价格战在透支增量

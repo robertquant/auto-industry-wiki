@@ -1,10 +1,10 @@
 ---
 title: 全球动力电池格局 (2026)
 created: 2026-08-06
-updated: 2026-10-20
+updated: 2026-11-12
 type: concept
 tags: [battery, supply-chain, trend, oem-cn, oem-kr]
-sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
 ---
 
 ## 2026-10-20 更新：9月产量 237.8GWh（+57.3%）+ 1-8月全球装车 TOP10
@@ -146,3 +146,8 @@ sources: [daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-
 
 - **9 月动力+储能电池产量 237.8GWh（+57.3%）**；**储能电池销量 73.5GWh（+104.4%）**——储能成第二增长曲线（10/2「电池产销」口径补充）；**铁锂装车占比 85.5%**，三元同比 -10.9%（[[fifth-gen-lfp-battery]] 挤压延续）
 - 判断：储能翻倍 + 出口提速 = 电池需求从「车端单引擎」变「车+储能双引擎」（呼应 [[catl]] 增长结构）；铁锂 85.5% 占比坐实「LFP 终局」——三元仅剩高端/大圆柱细分（[[mercedes-benz]] 46100 大圆柱路径，10/12 已录）
+
+## 2026-11-12 更新：天赐材料×亿纬锂能 3年45万吨电解液长单
+- **九江天赐与亿纬锂能签长期供货协议**：2027-2029 预计供应电解液 45 万吨（按需求预测 ±20% 浮动），有效期至 2029 底
+- 天赐此前已绑定楚能（101 万吨）、中创新航、国轩高科、瑞浦兰钧；六氟磷酸锂折固产能 14 万吨→2027 底 20 万吨
+- 判断:头部材料商×头部电池厂「锁定式绑定」加速——上游材料从现货博弈转向长协锁量，供应链确定性优先于价格（[[battery-white-box]]、[[lithium-price-surge-2026]]）

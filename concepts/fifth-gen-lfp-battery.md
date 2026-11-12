@@ -1,10 +1,10 @@
 ---
 title: 第五代磷酸铁锂电池
 created: 2026-05-24
-updated: 2026-11-04
+updated: 2026-11-12
 type: concept
 tags: [battery, lfp, technology]
-sources: [memory/2026-05-24.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, memory/2026-05-24.md]
 ---
 
 # 第五代磷酸铁锂电池
@@ -62,3 +62,7 @@ sources: [memory/2026-05-24.md]
 - [[ultra-fast-charging]] - 超快充技术
 ## 2026-11-04 更新：锰基锂电池首进乘用车公示
 - **第 413 批工信部公示：荣威家越06 申报锰基锂电池选项**——锰基路线首次进入乘用车申报，继高镍三元、LFP、钠电之后的又一路线信号（[[sodium-ion-battery]]、[[global-battery-competition]]）
+
+## 2026-11-12 更新：9月装车结构——铁锂85.5% vs 三元14.1%
+- **9 月国内动力电池装车 87.2GWh**：三元仅 12.3GWh、占比 **14.1%**（同比-10.9%），1-9 月累计 17.0%；**磷酸铁锂已达 85.5%**——「高端标签」易主，本页预测的「压缩三元市场空间」兑现为结构事实（详见 [[ternary-vs-lfp-2026]]）
+- 铁锂补齐短板的实证：仰望 U9X 赛道级刀片 30C 放电（503.17km/h 极速）、二代刀片 15C 超充（9 分钟 10%→97%）、神盾短刀电芯 192Wh/kg（[[yangwang]]、[[byd]]）；电芯价 0.38-0.39 元/Wh vs 三元 0.58-0.60 元/Wh

@@ -1,10 +1,10 @@
 ---
 title: 北美EV贸易壁垒（2026）
 created: 2026-10-10
-updated: 2026-11-10
+updated: 2026-11-12
 type: concept
 tags: [policy, export, trend, oem-us]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 北美EV贸易壁垒（2026）
@@ -64,3 +64,7 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 ## 2026-11-10 更新：中国品牌加拿大 EV 车型矩阵——2029 年前 18 款（盖世 11/10）
 - **Canadian Black Book 分析师预测**：中国品牌明年在加拿大在售电动车 **9 款**、2028 年 **17 款**、2029 年 **18 款**——关税/附加税博弈（页首 Unifor 100% 附加税诉求）之外，供给端已按「配额通道 + 产品矩阵」双轨卡位（对照 [[geely]] 2027 配额入场，10/11 已录）
 - 判断：18 款/2029 的预测 = 中国品牌把加拿大当作北美「可进入性最高」的市场——低关税配额（4.9 万辆/年，页首已录）+ 本地化绕行（墨西哥/加拿大产能，页首已录）的组合；与「美国永久禁令推迟至中期选举后」（页首已录）构成北美「一堵一疏」的时间差窗口
+
+## 2026-11-12 更新：中国品牌拟2030年前在加拿大推18款电动车
+- **中国品牌规划 2030 年前在加拿大推出 18 款电动车**（晨报口径）——在中加低关税配额（4.9 万辆/年，本页上文）缝隙内提前卡位，与 [[geely]] 2027 首批入加、[[chery]] 加拿大建厂评估同构
+- 判断：北美闸门合拢（美国禁令+加拿大附加税诉求）背景下，加拿大从「边缘市场」升格为「合规试验场」——配额缝隙正被系统性利用

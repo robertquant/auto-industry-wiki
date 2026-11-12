@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-12
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -286,3 +286,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/art
 
 - **康林松（11/11）：内燃机还能再活 10-15 年**——与「由中国定义、为全球输出」的纯电转型并行，豪华品牌对动力形式切换的务实表态（对照 [[bmw]] iX3/i3 全速纯电、[[volkswagen]] 停纯电高尔夫）
 - 解读：不是电动化倒退，而是「油电并存窗口拉长」——奔驰给燃油现金流续命的同时用中国供应链押注纯电
+
+## 2026-11-12 更新：康林松官宣「100%立足中国、服务中国」
+- **战略转向实锤**（11/12）：康林松承认「海外工厂产零部件+中国总装」的混合模式已失效，Q3 在华销量大跌 31%——新模式下首款车型为新**电动 E 级，2027 下半年在华投产**
+- **德国侧代价**：本土启动相当于关停两座工厂规模的降本，工时会谈压力陡增——「中国进攻、欧洲收缩」的再平衡（呼应康林松「内燃机至少再活 10-15 年」表态：电动化减速叙事下，中国被定义为唯一「加速器」市场）
+- **策略从「量」转向「少而精」**：聚焦高端高价产品保利润率——与 [[volkswagen]]（以量换份额）、[[bmw]]（效率牌）构成德系在华三分化

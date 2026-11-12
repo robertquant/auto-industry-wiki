@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-11
+updated: 2026-11-12
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -320,3 +320,9 @@ sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-
 - **暂停沃尔夫斯堡纯电高尔夫研发**——德国本土纯电踩刹车、资源向中国倾斜（对照 [[courizon]] CEA 合肥路线）
 - **10 月在华新能源 +346.9%（超 2.8 万辆）**——低基数修复，合资新能源基盘仍弱（[[2026-10-china-sales-battle]] 自主 84.8% vs 合资 19.7%）
 - 关联：[[audi]]（同集团在华节奏）、[[bmw]]（本土化对标）
+
+## 2026-11-12 更新：10月新能源2.8万辆构成 + 目标2027进前十 + 取消狼堡Gamechanger
+- **10月大众品牌在华新能源 2.8万辆（+346.9%）构成**：ID. AURA T6 交付超 1.2 万辆居新能源中型SUV榜首、ID. ERA 5S 交付 7,100 辆、ID. ERA 8X 首月 3,500 辆（盖世 11/12）
+- **目标与计划**：2027 年跻身中国新能源品牌销量前十（晨报口径一致）；2026 年计划在华推 13 款新能源车、已上市 11 款
+- **成色检验**：10 月国内新能源零售 110.9 万辆（-13.7%）背景下逆势放量；但前 9 月集团在华整体交付仍下滑 30%、纯电占比仅 3.5%——低基数修复性质（对照 [[byd]] 49 万月销，路径对、体量差两个数量级）
+- **同日利空**：大众取消沃尔夫斯堡「Gamechanger」先进制造项目（财务紧张、劳资矛盾或升级），下一代电动平台研发继续——欧洲降本与在华进攻并行的「双线挤压」样本

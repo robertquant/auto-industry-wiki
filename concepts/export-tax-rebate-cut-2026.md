@@ -1,10 +1,10 @@
 ---
 title: 新能源出口退税率下调（2027年4月 13%→9%）
 created: 2026-10-14
-updated: 2026-10-26
+updated: 2026-11-12
 type: concept
 tags: [policy, export, trend, strategy]
-sources: [raw/articles/2026-10-14-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-14-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md]
 ---
 
 # 新能源出口退税率下调（2027年4月）
@@ -49,3 +49,9 @@ sources: [raw/articles/2026-10-14-daily-digest.md, daily-news/2026-10-25-gasgoo-
 ## 2026-10-25 补充：南非收紧 SKD——「浅度组装换政策激励」终结
 - **南非贸易部长宣布逐步淘汰散件进口+本地组装模式**：停止为新 SKD 业务提供政策支持、收紧 CKD 法律认定、启动轻型商用车行业调查；**2035 年目标本土化率 38% → 60%**
 - 判断：南非与墨西哥（同日，[[north-america-ev-trade-barriers-2026]]）同构——「本地化或付费」政策分水岭从欧洲（配额/电池护照/70×70 规则）扩散到新兴市场；SKD/CKD 浅度组装退出，缺口只能靠真实产能填补（[[chinese-oem-export]] 语境下出海成本曲线再上移）
+
+## 2026-11-12 补充：10月出口92.8万辆——抢运窗口数据落地
+- **10 月出口 92.8 万辆（+68.5%）**，出口占厂商销量比重升至 35%；国内零售 164.3 万辆（-27.1%）——「金九银十」消失，抢运动能明确来自 2027/4 退税率 13%→9%（本页上文），从「抢市场」变「抢窗口」
+- **崔东树预计：2026 全年出口破千万辆**，2027 年增速回落至 10% 左右（退税下调+高基数）
+- 车企抢运强度：[[chery]] 20.06 万辆（+59%，连续三月破 20 万）、[[geely]] +158%、[[xiaopeng]] +166% 创新高、[[byd]] 海外近 17 万辆（+103%）——详见 [[china-export-leaders-2026]]
+- **新增风险维度：人民币兑美元年内升值 4.6%（亚洲第二）**——出口放量与汇兑损失矛盾显现，汇率管理能力成为出海新分水岭
