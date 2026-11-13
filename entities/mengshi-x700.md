@@ -1,7 +1,7 @@
 ---
 title: 猛士X700 (Mengshi X700)
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-13
 type: entity
 tags: [vehicle, oem-cn, adas, cockpit, pricing]
 sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-evening.md]
@@ -38,3 +38,7 @@ sources: [raw/articles/2026-10-11-daily-digest.md, daily-news/2026-10-11-gasgoo-
 - 10/25 上市定价是否低于预售区间
 - 襄阳基地后续车型规划（战略合作 2.0 的延续性）
 - 硬派越野智驾渗透率能否复制城市 SUV 曲线
+
+## 2026-11-13 更新：猛士×采埃孚数据互联落地
+- **猛士（东风猛士）× 采埃孚数据互联合作落地**（11/13 盖世）——硬派越野的真实场景数据与采埃孚底盘/线控能力打通，为智驾+底盘数据闭环铺路（[[chassis-domain-control]]）
+- 判断：越野场景是智驾「数据短板」最典型的场景之一（非结构化地形），数据互联合作 = 采埃孚从卖硬件转向卖数据服务能力（对照组：[[bosch]]/[[valeo]] 数据业务化）；对猛士则是乾崑 ADS 5（[[huawei-ads]]）之外底盘层的第二外部大脑

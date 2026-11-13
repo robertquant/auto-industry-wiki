@@ -1,10 +1,10 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-11-06
+updated: 2026-11-13
 type: entity
 tags: [oem-jp, ev-tech, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md]
 ---
 
 # 日产汽车 (Nissan)
@@ -82,3 +82,10 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 - 出海节奏实证：**7 月首批锋坦发往拉美 → 9 月 N7 发往东南亚 → 10 月锋坦登陆墨西哥 → 11/6 锋坦与 N7 在菲律宾上市**——中国产新能源车从 2026 下半年开始批量外溢
 - **零部件出口已深耕二十年**：2025 年销售额 27 亿美元、覆盖 **550 家中国供应商**——中国供应链从「成本中心」转向「能力中心」
 - 判断：日产是日系里「用中国反哺全球」最激进的样本（研发周期改革 40% 见页首）——「在中国，向全球」= 用中国产能/供应链/产品定义能力反哺新兴市场（[[china-tech-reverse-export]] 的日系版本）；与雷诺 ACDC 模式（[[renault-acdc-model]]）对照：联盟两家都在把中国变成「出口大脑」
+
+## 2026-11-13 更新：Q2 深亏 + 中国基本盘崩塌
+- **Q2 净亏 434.7 亿日元**（预期盈利 20.8 亿，大幅miss）——深亏比预期严重（[[q3-2026-earnings-season]] 语境下日系唯一财报暴雷样本）
+- **全年销量预期下调至 297-300 万辆**
+- **日产中国 10 月销量 22,295 台、同比 -67.1%**——单月跌幅逼近七成，中国基本盘加速失血（对照 [[honda-china]] 同周期衰退路径）
+- **Pixio（[[renault]] Twingo 换标，斯洛文尼亚代工）12 月定价、2027 年初交付**——联盟换标代工从 9/23 官宣进入定价阶段（[[renault]] 周报口径）
+- 判断：Q2 深亏 + 中国 -67.1% = 「没有中国基本盘的联盟，谈什么都是虚的」——日产本轮问题已从「电动化转型慢」恶化到「中国大本营塌方」，改革（研发周期 40% 压缩）远水难救近火

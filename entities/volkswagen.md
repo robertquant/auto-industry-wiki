@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-12
+updated: 2026-11-13
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
@@ -326,3 +326,9 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **目标与计划**：2027 年跻身中国新能源品牌销量前十（晨报口径一致）；2026 年计划在华推 13 款新能源车、已上市 11 款
 - **成色检验**：10 月国内新能源零售 110.9 万辆（-13.7%）背景下逆势放量；但前 9 月集团在华整体交付仍下滑 30%、纯电占比仅 3.5%——低基数修复性质（对照 [[byd]] 49 万月销，路径对、体量差两个数量级）
 - **同日利空**：大众取消沃尔夫斯堡「Gamechanger」先进制造项目（财务紧张、劳资矛盾或升级），下一代电动平台研发继续——欧洲降本与在华进攻并行的「双线挤压」样本
+
+## 2026-11-13 更新：Gamechanger 取消的财务底稿（晨报细化）
+- **Q3 经营亏损 58 亿欧、前 9 个月经营利润仅 0.1 亿欧**——接近归零的经营利润 = 一体压铸/SSP 降本方案被砍的直接原因（11/12 条目已录取消，本日补财务细节）
+- **放弃狼堡大型压铸中心、SSP 降本方案搁浅**——特斯拉式一体压铸在欧洲遇冷（工期/工会/能源三重约束下的制造革命退潮）
+- **裁员 10 万+**（欧洲盘收缩强度）
+- 判断：现金流优先于制造革命——大众用「砍先进制造」换 Q4-2027 生存空间；「Gamechanger」之名成为「非 Gamechanger」的实证，欧洲成本结构已不足以支撑激进制造创新（[[euro-stoxx-50-exit]] 同源视角）

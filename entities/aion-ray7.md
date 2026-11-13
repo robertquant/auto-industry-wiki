@@ -1,10 +1,10 @@
 ---
 title: 埃安Ray7 (Aion Ray7)
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-11-13
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
-sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily-digest.md]
+sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-13-daily-digest.md]
 ---
 
 # 埃安Ray7 (Aion Ray7)
@@ -44,3 +44,7 @@ sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily
 - 10/17 预售定价与「芯片级驱制融合」的量产真实性
 - EMB 线控制动的法规准入（线控制动冗余标准）
 - 文远知行 L4 模型的量产智驾能力 vs 华为/卓驭方案
+
+## 2026-11-13 更新：11/12 正式上市——「L4 降维」配置落地
+- **11/12 上市**，预售期配置兑现：**文远知行 L4 Robotaxi 同源大模型 + 华为 192 线激光雷达 + 3 颗 4D 毫米波雷达（共 27 颗感知硬件）**（[[weRide]]、[[huawei-auto]]）
+- 判断：L4 同源模型下放量产车 = 2026「技术降维」主线的最新样本——从 10/17 预售（12.88 万起）到 11/12 上市，「L4 算法 + 华为线控全家桶」下探 13 万级完整落地；EMB（[[emb-electromechanical-brake]]）量产与功能安全标准（亚太股份团标，11/13 发布）同步推进＝执行冗余的法规路径开始闭合

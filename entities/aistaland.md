@@ -1,10 +1,10 @@
 ---
 title: 启境汽车 (AISTALAND)
 created: 2026-05-13
-updated: 2026-11-04
+updated: 2026-11-13
 type: entity
 tags: [oem-cn, ev-tech, adas, vehicle]
-sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gasgoo-evening.md]
+sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
 ---
 
 # 启境汽车 (AISTALAND)
@@ -102,3 +102,9 @@ sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gas
 ## 2026-11-04 更新：GX7/GT7 预售 22.99 万起——L3 架构预埋样车
 - **启境 GX7/GT7（22.99 万起）**：预埋 L3 架构 + 华为乾崑 ADS 5 + 四激光雷达，等 2027.7.1 L3 国标实施后 OTA 解锁（[[huawei-ads]]、[[l3-mandatory-standard]]）
 - 与 [[wenjie-m8]] 同期「提前交作业」——L3 硬件预埋成 2026-27 政策窗口期标准动作（[[ads-light-standard-2026]]）
+
+## 2026-11-13 更新：GT7 上新（11/13）——L3 架构从话术走进配置表
+- **GT7 今日上新纯电/增程新版型**，定位「**20 万级唯一 L3 级架构猎装车**」——**20.99 万起**（低于 11/04 预售口径 22.99 万，价格带下探）
+- **已通过 L3 准入测试与申报**——广汽×华为体系内最快完成 L3 合规路径的车型（对照 [[wenjie-m8]] 的全系架构预埋、[[zhijie-rx]] 的选装付费）
+- **首批搭载华为乾崑 ADS 5**（[[huawei-ads]]）
+- 判断：GT7 以「L3 架构 + 准入先行」在 20 万级建立唯一性，与 M8（40 万级）形成上下夹击；「20.99 万起」较预售降 2 万 = 广汽用定价换 L3 心智（[[l3-architecture-preemption-2026]]）

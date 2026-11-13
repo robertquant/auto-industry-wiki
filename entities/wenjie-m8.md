@@ -1,10 +1,10 @@
 ---
 title: 问界新M8
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-13
 type: entity
 tags: [vehicle, oem-cn, adas]
-sources: [raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
 ---
 
 # 问界新M8
@@ -32,6 +32,13 @@ sources: [raw/articles/2026-11-01-daily-digest.md]
 - [[l3-mandatory-standard]] - 2027 强制国标背景
 - [[zhijie-rx]] - L3 架构预埋付费意愿对照样本
 
+## 2026-11-13 更新：正式上市——L3 架构首次全系标配进 40 万级
+- **11/13 上市（鸿蒙智行）**：分 Max/Max+/Ultra 三个版本，提供增程/纯电、五座/六座；预售 38.98 万起
+- **全系 L3 级架构 + 四激光雷达**：L3 架构以「全系标配」姿态首次进入 40 万级 SUV 市场
+- **电池/平台**：巨鲸电池 + 800V 平台；纯电版可选 **100/120 度**电池，增程版搭载 **56 度**电池
+- 配置分布（版本差异）待发布会配置表核对
+- 判断：比 10/30 预告更进一步——「全系标配」而非选装，直接把 L3 预埋做成 40 万级默认项（[[zhijie-rx]] 的 85% 选装率已证明付费意愿，华为系选择「标配走量」）；与 [[aistaland]] GT7（20 万级 L3 架构猎装）、[[audi]] E7X（900V+Momenta）同日打 L3 牌，见 [[l3-architecture-preemption-2026]]
+
 ## 待观察
-- 11/13 发布会实际定价与配置分布
+- 11/13 发布会实际定价与配置分布（含版本差异）
 - 「全系 L3 架构」是否成为华为系新标准（享界/智界跟进）

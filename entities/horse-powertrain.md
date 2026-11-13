@@ -1,10 +1,10 @@
 ---
 title: HORSE Powertrain
 created: 2026-05-02
-updated: 2026-05-23
+updated: 2026-11-13
 type: entity
 tags: [geely, renault, partnership, powertrain, hybrid]
-sources: [raw/articles/2026-05-02-renault-deep-search.md, memory/2026-05-21.md]
+sources: [raw/articles/2026-05-02-renault-deep-search.md, memory/2026-05-21.md, raw/articles/2026-11-13-daily-digest.md]
 ---
 
 # HORSE Powertrain
@@ -61,3 +61,8 @@ sources: [raw/articles/2026-05-02-renault-deep-search.md, memory/2026-05-21.md]
 
 ## 参见
 - [[china-tech-reverse-export]] - 中国技术输出模式分析
+
+## 2026-11-13 更新：670 匹 V8 发布——性能天花板兑现（雷诺周报）
+- **Horse 发布 670 匹 + V8 动力总成**，将搭载 Lotus 新超跑——2026 年 5 月「V8 超跑（Esprit 复活可能性）」计划的正式兑现（本页已录）
+- **对标法拉利/兰博基尼**，瞄准**阿斯顿·马丁及德系豪华混动客户**——从 W30 3.0T V6（536 马力、2028 量产、[[geely]] 系 Emira 换装）再上一档到 V8
+- 判断：雷诺-吉利合资从「平价动力总成」向「高附加值性能领域」延伸——Horse 的定位从「欧洲平价混动供应商」升级为「豪华性能混动玩家」；对 [[renault]] 是联盟技术资产增值叙事，对吉利的 [[china-tech-reverse-export]] 是高端化的又一实证

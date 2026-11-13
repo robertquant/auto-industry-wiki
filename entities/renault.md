@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-13
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -405,3 +405,19 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily
 
 - **全新 Clio / Twingo / Mégane 换代，统一换装 67kWh LFP 电池**——「平价 + 长续航」组合拳，A/B 级纯电防守反击（见 [[twingo-e-tech]]、[[dacia]]、[[entry-ev-profit-crisis]]）
 - Q3 营收 116 亿欧（+1.5%）此前已录；本产品攻势是 2026-27 欧洲销量回升的关键变量（[[eu-ev-market-2026]]）
+
+## 2026-11-13 更新：雷诺周报（周五版）——战略无变化，变数在法国政局
+
+### 资本市场：「投法国 100 亿欧」再被热议
+- **Provost 重申前提：「社会与政治环境允许」**——法国少数政府预算危机 + 法债收益率升至欧债危机以来高位，**政治成最大变量**
+- **股价 11/12 收 €28.23**：较 52 周高点 37.97 回撤约 25%、YTD -16%；**分析师目标价仍 €38**——机构看多，短期压制来自法国资产抛售潮而非基本面
+
+### 板块扫描
+- **Twingo E-Tech** 爬坡期（2026 产品攻势主力，见 11/11 条目）
+- **R5 仍为欧洲 B 级电车销冠**（[[france-social-leasing-2026]] 核心受益车型）
+- **日产 Pixio（Twingo 同平台换标）12 月定价、2027 初交付**（[[nissan]]）
+- **巴西库里蒂巴 GEA 平台两款吉利车型年底投产**——雷诺-吉利合作产能落点（[[geely]]、[[horse-powertrain]]）
+- **2027 股东大会定 4/29**
+
+### 本周判断
+战略无变化，变数在法国政局。紧盯：法国预算走向、年末巴西吉利车型投产节奏。

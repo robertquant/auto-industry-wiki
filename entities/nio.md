@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-12
+updated: 2026-11-13
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
 ---
 
 # 蔚来 (NIO)
@@ -221,3 +221,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 ## 2026-11-12 更新：蔚来能源×保利置业——社区场景充换电
 - **11/11 签约**：蔚来能源与保利置业在上海保利广场签署战略合作，共建社区场景充换电网络——补能体系从商圈向住宅物业下沉（[[nev-battery-swap]]）
 - 判断：换电网络「社区化」= 把补能资产绑进居住场景、延长用户触达时段；与换电联盟/超充阵营之争同向演进（[[battery-swap-vs-ultra-fast-charging]]）
+
+## 2026-11-13 更新：充换电站 9,836 座（里程碑口径）
+- **蔚来充换电站总数达 9,836 座**（11/13 盖世口径）——距「1 万座」一步之遥；对照 2025 年 8 月第 4000 座落成，一年半翻倍以上（[[nev-battery-swap]]）
+- 判断：9,836 → 万座拐点：迈过 1 万座后换电的「网络效应叙事」进入新量级（[[geely-nio-swap-alliance]] 双巨头平台化的规模化前提）；社区化（11/12）+ 央企输出（10/30）+ 万座规模 = 补能重资产故事继续加码

@@ -1,10 +1,10 @@
 ---
 title: 中国出海5强格局（2026）
 created: 2026-05-14
-updated: 2026-11-12
+updated: 2026-11-13
 type: concept
 tags: [byd, geely, chery, saic, changan, export, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-14.md, memory/2026-05-31.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
 ---
 
 # 中国出海5强格局（2026）
@@ -37,6 +37,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-03-
 ## 比亚迪：出海增长引擎
 
 ### 核心数据
+- **1-10 月海外乘用车+皮卡 150.7 万辆（+92%），已超 2025 全年（104.96 万）**（11/13 晨报口径，[[byd]]）——出口提前两个月完成年度翻越，境外收入占比过半（52.57%，11/12 已录）后继续加码
 - **4月出口13.45万辆（+70.9%）**，首次突破13万
 - 出海成为利润修复关键：海外单车利润远高于国内
 

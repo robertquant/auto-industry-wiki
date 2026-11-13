@@ -1,10 +1,10 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-13
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
 ---
 
 # 奥迪 (Audi)
@@ -60,3 +60,10 @@ sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-
 - **AUDI 三年三款新车只在中国销售、不出口欧洲**——「纯电中国特供」路线坐实，与四环品牌资产切割
 - AI 日报线索（11/11）：上汽奥迪提出 L3 目标（细节待补）
 - 关联：[[volkswagen]]（母集团）、[[saic]]（上汽合资盘）
+
+## 2026-11-13 更新：AUDI DAY 2026——「世界智驾」+ 中国原生叙事
+
+- **AUDI DAY 2026 于 11/13 晚 19:00 举行**：上汽奥迪 E7X / E5 Sportback 家族焕新登场，奥迪以「世界智驾」为主题——外资豪华首次用「中国原生」叙事打智驾牌（[[momenta]]、[[foreign-automakers-chinese-ad]]）
+- **E7X 特别版全系标配 900V 平台**（盖世 11/13 披露）+ 主打智能化升级——奥迪在华「电动化 + 智能化」双线提速信号
+- **E7X 首发 Momenta R7 世界模型辅助驾驶**（晨报口径）——奥迪在华全面绑定中国智驾供应链；同日 [[wenjie-m8]]/[[aistaland]] GT7 打 L3 牌，德系豪华加入「L3 架构」卡位（[[l3-architecture-preemption-2026]]）
+- 判断：从「四环守燃油、字母标攻纯电」的切割，到「世界智驾」发布会——AUDI 品牌已被定义为中国市场专用智驾品牌；900V + Momenta = 大众集团在华智驾供应链选择从「自研为主」转向「中国方案优先」的又一落点
