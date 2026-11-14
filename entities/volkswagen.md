@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-13
+updated: 2026-11-14
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -332,3 +332,8 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **放弃狼堡大型压铸中心、SSP 降本方案搁浅**——特斯拉式一体压铸在欧洲遇冷（工期/工会/能源三重约束下的制造革命退潮）
 - **裁员 10 万+**（欧洲盘收缩强度）
 - 判断：现金流优先于制造革命——大众用「砍先进制造」换 Q4-2027 生存空间；「Gamechanger」之名成为「非 Gamechanger」的实证，欧洲成本结构已不足以支撑激进制造创新（[[euro-stoxx-50-exit]] 同源视角）
+
+## 2026-11-14 更新：ID.ERA 5X 正式上市定价 + 新能源排名跃升
+- **ID.ERA 5X 11/12 正式上市**（晨报口径）：**11.99-15.99 万，限时 9.99-13.99 万**——CMP+CEA 首款量产车的价格落地（详见 [[id-era-5x]]）；至此 10/11「11 月上市」预告、11/11「本周上市」记录全部兑现
+- **大众品牌 10 月在华新能源交付 2.8 万+ 辆（+346.9%）创单月新高，新能源品牌排名从第 30 位升至前 15**（盖世 11/14）——CMP 平台 + 中国研发中心周期开始兑现（10 月构成明细见 11/12 更新）
+- 判断：限时价 9.99 万起 = 大众把「中国供应链成本 + 品牌溢价回收」前置（对照 [[byd-qin-plus-dmi]]、[[jetta-m6]] 价位带）；排名 30→前15 与 +346.9% 同源（低基数修复），但至少证明 CMP/CEA 平台化打法能进入合资新能源第一梯队竞争

@@ -1,10 +1,11 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-11-06
+updated: 2026-11-14
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+contradictions: [wenjie]
 ---
 
 # 赛力斯 (Seres)
@@ -89,3 +90,9 @@ sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-
 ## 2026-11-06 更新：备战 L3——魔方平台支持 L3 架构（IT之家 11/4-5）
 - **赛力斯备战 L3**：魔方平台支持 L3 架构——从整车平台层面为高阶智驾做架构预埋
 - 判断：与华为系「L3 架构标配化」节奏同频——[[wenjie-m8]]（11/13 发布，乾崑 ADS 5 + 全系 L3 架构）是 HW 智选体系的第一落点，赛力斯在平台层跟进 = 为 **2027.7.1 L3 强制国标**（[[l3-mandatory-standard]]）提前「交作业」的华为系集团动作；赛力斯作为问界制造方，平台级 L3 能力是其区别于「华为贴牌」质疑的技术自证（[[huawei-auto]]）
+
+## 2026-11-14 更新：问界合作口径回摆——「主导权」表述再生变（11/13 新M8发布会）
+- **余承东 11/13**（问界新 M8 上市发布会）：产品定义/设计仍由**华为主导**，营销及服务交由赛力斯——与 9/15「赛力斯主导、华为赋能」官宣口径矛盾
+- 9/30 新五年合作（2026-2030）刚签不久即现口径摆动（[[wenjie]] 10/8 已录）；双方未发正式说明
+- ⚠️ 矛盾标注：赛力斯「自主造血验证期」叙事（10/6、10/8 已录）与余承东 11/13 表述存在张力——按 Update Policy 两说并存，完整分析见 [[wenjie]]
+- 判断：口风回摆 =「主导权」仍是可争夺/可再平衡的变量；M8 上市期华为加大背书声量属正常营销操作，但**权益划分的正式文本才是定价依据**——观察 2027 销量目标谈判与新五年合作细则

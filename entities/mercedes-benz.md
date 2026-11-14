@@ -1,10 +1,10 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-12
+updated: 2026-11-14
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
@@ -291,3 +291,9 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **战略转向实锤**（11/12）：康林松承认「海外工厂产零部件+中国总装」的混合模式已失效，Q3 在华销量大跌 31%——新模式下首款车型为新**电动 E 级，2027 下半年在华投产**
 - **德国侧代价**：本土启动相当于关停两座工厂规模的降本，工时会谈压力陡增——「中国进攻、欧洲收缩」的再平衡（呼应康林松「内燃机至少再活 10-15 年」表态：电动化减速叙事下，中国被定义为唯一「加速器」市场）
 - **策略从「量」转向「少而精」**：聚焦高端高价产品保利润率——与 [[volkswagen]]（以量换份额）、[[bmw]]（效率牌）构成德系在华三分化
+
+## 2026-11-14 更新：冻结德国本土全部投资 + 评估关厂（内部备忘录）
+- **路透看到内部备忘录（11/13）**：奔驰**暂停对德国工厂的全部投资并评估关闭部分工厂**——主因「工匠成本削减」与员工代表（IG Metall）谈判破裂；劳资矛盾、罢工风险上升
+- **行业背景**：此前 [[volkswagen]] 已启动史上最大重组（或波及 10 万岗位、关停最多 4 厂）；双方与 IG Metall 年底谈判均进入对峙期——**德系集体「投资冻结 + 裁员 + 劳资谈判」三线承压**
+- **罗兰贝格预测**：到 2030 年德国汽车业至少流失 **20 万+ 岗位**
+- 判断：与康林松 11/12「100% 立足中国」（11/12 已录）互为镜像——**冻结德国投资 = 「中国进攻、欧洲收缩」的成本侧落地**；奔驰 11/12 说「中国是加速器」，11/13 备忘录把「欧洲止血」提上日程；对照 [[volkswagen]] Gamechanger 取消（11/12-13 已录），德系双巨头在德国本土同步「踩刹车」，德国汽车工业结构性收缩从预测变为进行时（[[euro-stoxx-50-exit]]）

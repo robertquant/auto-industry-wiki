@@ -1,10 +1,10 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-11-13
+updated: 2026-11-14
 type: entity
 tags: [oem-jp, ev-tech, strategy]
-sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md]
+sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 日产汽车 (Nissan)
@@ -89,3 +89,8 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 - **日产中国 10 月销量 22,295 台、同比 -67.1%**——单月跌幅逼近七成，中国基本盘加速失血（对照 [[honda-china]] 同周期衰退路径）
 - **Pixio（[[renault]] Twingo 换标，斯洛文尼亚代工）12 月定价、2027 年初交付**——联盟换标代工从 9/23 官宣进入定价阶段（[[renault]] 周报口径）
 - 判断：Q2 深亏 + 中国 -67.1% = 「没有中国基本盘的联盟，谈什么都是虚的」——日产本轮问题已从「电动化转型慢」恶化到「中国大本营塌方」，改革（研发周期 40% 压缩）远水难救近火
+
+## 2026-11-14 更新：东风日产 NX7 插混预售——宁德电池 + 超1600km
+- **东风日产 NX7 插混 11/13（NISSAN DAY 珠海）预售 12.99-14.99 万**：宁德时代电池、综合续航超 **1600km**
+- 定位：日系合资插混对 10-15 万价格带的反扑——用中国供应链（[[catl]] 电池）做续航叙事（对照 [[byd-qin-plus-dmi]] 同价位段满油满电 2290km）
+- 判断：日产中国失血（10 月 -67.1%，11/13 已录）下的「产品救火」——插混（PHEV）是日系在华短期最现实的技术路线（[[eu-phev-strategy]] 逻辑在本土市场的镜像）；但品牌声量 + 渠道收缩双困局下，一款 NX7 难改大盘（[[honda-china]] 同路径教训）

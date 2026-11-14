@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-06
+updated: 2026-11-14
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -257,3 +257,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **五大行业首发技术**攻克低温启动（-40℃一次点火）、材料腐蚀、标准验证三大难关；**同一加注口支持任意比例混合加注**
 - 首搭 **银河星耀6 E-fuel** 同步上市：限时 7.68 万起、纯电 230km、综合续航 1880km、百公里醇耗约 20 元
 - 甲醇路线累计投入超百亿元、专利 400 余项——吉利多能源技术树的第三极（[[dmi-technology]] 对照比亚迪插混路线）
+
+## 2026-11-14 更新：星越L PLUS 预售——热效率 48.41% + 双腔空悬下探
+- **吉利星越L PLUS 预售 15.77-19.97 万**（盖世 11/14）：i-HEV 智擎 **2.0TD（热效率 48.41%，[[hybrid-efficiency-principle]] 同级新高）** + 3DHT；**双腔空悬 + 后轮转向**（此前 30 万级配置下探）；**千里浩瀚 H5 智驾带激光雷达**（[[qianli-tech]]）
+- 定位：星越L 燃油基盘向「高性价比智驾油混」延伸——热效率 + 空悬/后轮转向下放 = 继续卷「配置密度」，与银河爆款聚焦策略（11/6 已录）互补
+- 判断：48.41% 热效率把 HEV 效率战再推一档（对照 [[byd-qin-plus-dmi]] 第五代 DM 亏电 2.58L）——吉利在「多能源技术树」（甲醇电混 11/6 已录）上继续加码油混分支

@@ -1,11 +1,12 @@
 ---
 title: 问界 (AITO)
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-11-14
 type: entity
 tags: [oem-cn, vehicle, adas, ecosystem]
 tags: [wenjie, aito, huawei, seres, china, ev, erev]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-03.md, memory/2026-06-13.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+contradictions: [seres]
 ---
 
 ## 概述
@@ -131,3 +132,14 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **问界回应 10.17 神木事故**：**人驾状态**、车速 **139.1km/h（限速 50）**，高速撞击致机舱短路起火；**否认「电池爆燃」「智驾撞击」**
 - 语境：尊界刹车门（[[zunjie-brake-pedal-controversy]]）后华为系第二起安全争议；本次事故定性为超速人祸而非产品缺陷
 - 判断：人驾超速事故恰恰是智驾「免责边界」的写照（[[adas-liability-guarantee]]）——在 L2/L3 切换期，车企用 EDDR/行车数据自证清白将成为标准动作；事故舆情对[[huawei-auto]]系品牌的影响逐渐钝化，但「高速撞击后起火」的电池安全联想仍会持续发酵
+
+## 2026-11-14 更新：合作口径回摆（11/13 新M8上市发布会）——「华为主导 vs 赛力斯主导」再反转
+
+- **余承东 11/13 问界新 M8 上市发布会口径**：「问界的产品定义、产品设计仍由华为主导，营销及服务交由赛力斯」
+- **与 9/15 官宣矛盾**：9/15 双方官宣「产品定义、品牌营销、渠道零售、服务体系均由赛力斯主导、华为赋能」——时隔两个月口径回摆，双方尚未发布新正式说明（盖世 11/14）
+- **9/30 刚签新五年合作**（[[seres]] 10/8 已录的「专属专营」框架）——「分权时代」治理模板（10/2-3 已录）刚确立即出现口头修正
+- ⚠️ **矛盾标注**：本页此前记录（10/1-3）为「赛力斯主导、华为赋能」正式化；11/13 余承东表述与之直接冲突——按 Update Policy 两说并存，日期+来源均已标注，真相待双方正式文件（详见 [[seres]]）
+
+### 判断
+- 口径回摆 = 鸿蒙智行「含华量」叙事的周期性收紧：M8 上市需要华为站台（产品力背书），营销淡季则退回「赛力斯主导」——**对外口径跟随销售周期摆动**，说明双方权责仍处于动态博弈而非制度落定（[[huawei-auto]] 治理命题）
+- 观察点：新五年合作（2026-2030）框架下的正式文本、引望（[[yinwang]]）对问界技术供给的优先级是否变化

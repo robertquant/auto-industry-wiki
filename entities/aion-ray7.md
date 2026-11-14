@@ -1,10 +1,10 @@
 ---
 title: 埃安Ray7 (Aion Ray7)
 created: 2026-10-11
-updated: 2026-11-13
+updated: 2026-11-14
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech]
-sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-13-daily-digest.md]
+sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 埃安Ray7 (Aion Ray7)
@@ -48,3 +48,8 @@ sources: [raw/articles/2026-10-11-daily-digest.md, raw/articles/2026-10-19-daily
 ## 2026-11-13 更新：11/12 正式上市——「L4 降维」配置落地
 - **11/12 上市**，预售期配置兑现：**文远知行 L4 Robotaxi 同源大模型 + 华为 192 线激光雷达 + 3 颗 4D 毫米波雷达（共 27 颗感知硬件）**（[[weRide]]、[[huawei-auto]]）
 - 判断：L4 同源模型下放量产车 = 2026「技术降维」主线的最新样本——从 10/17 预售（12.88 万起）到 11/12 上市，「L4 算法 + 华为线控全家桶」下探 13 万级完整落地；EMB（[[emb-electromechanical-brake]]）量产与功能安全标准（亚太股份团标，11/13 发布）同步推进＝执行冗余的法规路径开始闭合
+
+## 2026-11-14 更新：EMB 最便宜量产车实锤（顶配 15.88 万）+ LAB 续航榜数据
+- **顶配 15.88 万搭载华为 DriveONE EMB**——**成为 EMB 最便宜量产车**（盖世）：此前星途 EX7 23.69 万（4 月）、理想 L9 Livis 50.98 万（5 月）——**EMB 半年内从 50 万级杀到 15 万级**（[[emb-electromechanical-brake]] 时间线）
+- **11 月 LAB 续航榜（降能耗路线代表）**：CLTC 电耗 **9.7 度/100km**（0.22Cd 风阻 + 华为 DriveONE 电驱 + 新一代热管理），**62.98 度小电池跑出 702km**——与 [[wenjie-m8]]（120 度大电池 830km）构成「堆电池 vs 降能耗」两条路线对照
+- 判断：15.88 万顶配 = 「L4 算法 + 线控全家桶 + 低电耗」三叙事同页；EMB 价格锚点重写（50 万→15 万），线控底盘下探速度超预期（[[chassis-domain-control]]）

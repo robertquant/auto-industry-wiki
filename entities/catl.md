@@ -1,10 +1,10 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-11-11
+updated: 2026-11-14
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 宁德时代 (CATL)
@@ -171,3 +171,9 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily
 
 - **四个城市公交公司同日与宁德时代签约**——公交电动化进入存量电池置换/扩容窗口（首批运营车电池临近到寿）
 - 判断：乘用车「去宁德化」压力下，B 端公交/商用车成为宁德时代增量基本盘；对照 [[gotion]] 的欧洲产能路线，宁德在国内 B 端找增量、海外继续卡位（[[global-battery-market-2026]]）
+
+## 2026-11-14 更新：巧克力换电网规模化节点 + ×郴州资源端合作
+- **极狐贝塔换电版搭载 54 度巧克力电池**（[[baic]] 11/13 发布）：车电分离 5.2 万起——巧克力电池从「换电标准」进入「平价走量车型」
+- **巧克力换电站规模**：已建 **2500+ 座（9 月底）**，**2027 年规划 6000 座 / 297 城**（「巧克力电池管家」晨报口径）——对照 6 月底超 2000 座/180 城（9 月已录），半年新增约 500 座、城市 +117
+- **11/9 × 郴州市政府战略合作**：绿色矿产低碳开发 + 绿色电力配套 + 换电站点布局 + 零碳应用场景——换电基建与资源端（锂矿/绿电）同步加码，政企联动建零碳产业生态
+- 判断：6000 座/297 城目标 = 巧克力网络从「试点网络」转「全国密度网络」——配合极狐全系换电化（2027）、引望 × 时代电服（[[yinwang]]）五款换电车 2027 上市，宁德换电生态 2027 年进入兑现期（[[nev-battery-swap]]、[[battery-swap-vs-ultra-fast-charging]]）

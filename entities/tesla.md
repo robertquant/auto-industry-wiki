@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-10
+updated: 2026-11-14
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -135,3 +135,9 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **11/9 特斯拉在得州圣安东尼奥开通无人监督 Robotaxi**，盖世口径为**第 8 座运营城市**；**地理围栏 275 平方英里为其历次开城最大**，直接对标 [[waymo]] 同城运营规模
 - ⚠️ 口径提示：11/3 已录「扩至美 8 城：新增得州沃斯堡」——两来源的「第 8 城」计数存在出入（可能口径或时间差），以围栏面积为核心增量信息，城市计数待下一来源交叉验证
 - 判断：开城逻辑从「数量扩张」转向「单城围栏面积扩张」——围栏面积是可服务订单池的直接代理指标；与 Waymo 同城正面对撞 = L4 运营进入「打明牌」阶段（[[waymo-vs-tesla-robotaxi-2026]]、[[l4-global-race-2027]]）；叠加 Cybercab 产能转向（[[cybertruck]]），「Robotaxi 公司」叙事进入产能 + 运营双兑现期
+
+## 2026-11-14 更新：柏林电芯厂 2027 年中投运——Model Y 欧洲本土化率 90%
+- **格林海德（柏林）电池电芯工厂预计 2027 年年中全面投运**（特斯拉披露）——届时 **Model Y 欧洲本土化率将升至 90%**
+- **背景**：回应欧盟《工业加速法案》**70% 零部件本土化 + 电芯须欧洲制造**要求（[[eu-industrial-accelerator-act]]）
+- **现状痛点**：当前柏林工厂生产电解液与正负极材料 → 运往得州加工 → 成品电芯再回运欧洲——「往返物流」模式成本高且不满足本土化认定
+- 判断：欧洲本土电芯 = 特斯拉对欧出口模式的合规补课（对照 [[battery-passport-2026]] 2027/2 碳足迹强制）；配合欧洲 Supercharger/V2G 布局，柏林从「整车组装厂」升级为「整车+电芯双本土」——欧洲工厂叙事从降本转向合规与政策锁定

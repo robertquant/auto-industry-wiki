@@ -1,10 +1,10 @@
 ---
 title: 问界新M8
 created: 2026-11-01
-updated: 2026-11-13
+updated: 2026-11-14
 type: entity
 tags: [vehicle, oem-cn, adas]
-sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
+sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 问界新M8
@@ -42,3 +42,10 @@ sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily
 ## 待观察
 - 11/13 发布会实际定价与配置分布（含版本差异）
 - 「全系 L3 架构」是否成为华为系新标准（享界/智界跟进）
+
+## 2026-11-14 更新：正式上市价格与电池配置明细（LAB榜口径修正）
+- **正式售价**：增程 **37.98 万起** / 纯电 **39.98 万起**（晨报口径；此前的 38.98 万为预售/Max 版口径）——L3 架构全系标配进 40 万级（详见页首 11/13 更新）
+- **续航（11 月 LAB 榜）**：纯电版最高 **120 度 / CLTC 830km**；增程版 **75.4 度、纯电续航 432km**，综合 **1435km**（晨报口径）
+- ⚠️ **电池口径修正**：增程版电池由此前发布会早期口径「56 度」修正为 **75.4 度**（盖世 LAB 榜 11/14 口径，较新，以 75.4 度为准）——L3 架构硬件冗余 + 40 万级定价下，增程版用大电池撑纯电优先体验（[[range-extender-trend]] 大电池小油箱趋势印证）
+- **路线对照**：LAB 榜「堆电池 vs 降能耗」两条路线对撞——问界新 M8（120 度大电池）vs [[aion-ray7]]（62.98 度小电池 + 9.7 度/100km 电耗跑 702km）
+- 相关：[[xiangjie]] 享界 V8（纯电 120 度/830km 登顶纯电 MPV 榜）同月数据同级

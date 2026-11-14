@@ -1,10 +1,10 @@
 ---
 title: 北汽集团 (BAIC)
 created: 2026-10-23
-updated: 2026-11-05
+updated: 2026-11-14
 type: entity
 tags: [oem-cn, sales, strategy, policy]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 北汽集团 (BAIC)
@@ -32,3 +32,16 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entitie
 ## 2026-11-05 更新：10月销量明细
 - **10 月整车销量超 14.8 万辆（环比 +11%）**；1-10 月累计超 131.6 万辆，自主品牌与海外市场同比双增（11/4 已录）
 - **10 月明细（盖世 11/4）**：自主 11.2 万+（环比 +12%）、海外 3.2 万+（+28%）；北汽新能源 3.25 万（环比 +34.98%），其中极狐 2.63 万、享界 6,174 辆（[[xiangjie]]）
+
+## 2026-11-14 更新：×新紫光舱驾控一体芯片（2028量产）+ 极狐全民换电生态
+
+### 北汽 × 新紫光：自研算力底座（11/12 签约）
+- **联合创新中心揭牌**（北汽研究总院 × 紫光同芯）：车规级**舱驾控一体 SoC，单颗 1000 TOPS，2028 年首发车型量产**；延伸底盘域控、下一代座舱芯片（详见 [[xinzi-guang]]）
+- 战略含义：极狐/北京品牌补**非华为自主算力底座**——与 [[xiangjie]]（华为智选）双轨并行；成败在软件生态（[[cockpit-ai-barrier-layering]]）
+
+### 极狐「极+时代」全民换电生态（11/13 发布）
+- **贝塔 T1 / S3 换电版上市**：**车电分离 5.2 万起**（电池月租 399 元起），宁德时代 **54 度巧克力电池**、**99 秒自动换电**（[[catl]]）
+- **贝塔 S3 激光换电版 7.88 万**：带 **192 线激光雷达 + 城区 NOA**——激光雷达首次进 8 万级换电车
+- **北汽新能源董事长刘观桥**：**2027 年极狐全系推换电版**
+- 联动：宁德巧克力换电站已建 **2500+ 座（9 月底）**，**2027 规划 6000 座 / 297 城**（[[nev-battery-swap]]）
+- 判断：北汽把「换电」做成极狐差异化标签——5 万级购入门槛 + 城区 NOA 标配化 = 用「车电分离」打 10 万内智驾平权（对照 [[hongqi-tiangong-07]] 17 万级激光雷达锚点）；但换电站密度（巧克力网络）与月租经济性是走量前提（[[battery-swap-vs-ultra-fast-charging]]）

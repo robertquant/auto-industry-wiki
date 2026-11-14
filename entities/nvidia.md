@@ -1,10 +1,10 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-11-08
+updated: 2026-11-14
 type: entity
 tags: [chip, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
 ---
 
 # 英伟达（NVIDIA）
@@ -51,3 +51,19 @@ AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[auton
 - **开放 Cosmos + AlpaSim 物理AI基座/仿真**：把「起步周期缩短 1 年+」做成生态卖点——国产替代加速下用「开放」换客户锁定（对照 [[horizon-robotics]] 征程生态）
 - **中国团队 FP4 量化成果反哺全球版本**：域控内存 **32→16GB**、砍雷达处理芯片方案——英伟达首次把中国工程化能力写进全球主软件版本，中国团队从「本地适配」升级为「全球基线贡献者」
 - 判断：领先差距半年收窄约 25pp 是结构性信号——域控芯片「英伟达主导但不再垄断」；「开源工具链 + 中国工程化反哺」= 英伟达的防守性开放（[[auto-chip-competitive-landscape]]）
+
+## 2026-11-14 更新：黄仁勋辞任CEO（11/12）——治理真空与国产替代加速双重变数
+
+### 事件时间线
+- **11/8 NYT 曝光**：黄仁勋婚外情 + 「黄乐（Gary H.）」军事技术间谍指控 → 美国国会审查
+- **11/12 晚官宣**：黄仁勋辞去总裁兼 CEO，**即刻生效**；CFO **Colette Kress 任临时 CEO**（正式继任者搜寻中）；**Harvey Jones 任首任董事长**（英伟达史上首任）
+- **市场反应**：当日跌超 4%、市值蒸发超 **1.2 万亿元**；11/13 员工请愿帖 1600+ 评论；马斯克在 X 上隔空示好（盖世口径）
+
+### 车载供应链影响判断
+- **短期供货无虞**：Thor/Orin 是既定产品路线，交付节奏不受 CEO 更替影响（[[autonomous-driving-chips]]）
+- **中期风险三连**：① CEO 真空期决策停滞（继任者未定）；② 出口管制政治化——黄仁勋个人游说能力（对华政策缓冲）消失，国产替代外部推力加大；③ 员工士气/人才流失（请愿帖信号）
+- **份额数据（蓝皮书口径，2026H1）**：地平线 31.94% 第一、英伟达 29.38% 第二⚠️——与页首「50.9% 份额」（旧口径）及 8 月域控 30.2%（[[autonomous-driving-chips]]）存在**口径差异**（蓝皮书=智驾芯片装机口径；旧 50.9% 疑为更宽/更早统计），但趋势方向一致：英伟达从「绝对主导」滑向「均势竞争」
+
+### 判断
+- 「把整车智能押在单一供应商 CEO 个人身上是治理缺陷」（AI日报虾评）——黄仁勋此前是英伟达对华业务与客户信心的「个人信用锚」；其去职与出口管制政治化叠加，**加速中国智驾供应链「去英伟达化」的叙事合流**（[[autonomous-chip-localization]]、[[horizon-robotics]]）
+- 事件本身是公司治理事件，但对汽车业务是「信心冲击 > 实质冲击」——观察点：继任者人选、Kress 是否转正、Q4 汽车业务（FY2027 Q1）指引
