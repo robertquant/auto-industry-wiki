@@ -1,10 +1,10 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-13
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # 比亚迪 (BYD)
@@ -310,3 +310,8 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily
 - **累计研发投入破 2800 亿元**（研发叙事持续加码）
 - **第 1900 万辆新能源车下线**（方程豹钛9，11/9 已录 [[fangchengbao-ti9]]，此处晨报口径确认）
 - **比亚迪「大唐」轮辋错装致歉**：供应商编码录入失误致轮辋错装，免费检测调换——品控事故本身不大，但供应商编码管理纰漏是供应链管理声誉账（对照 [[zunjie-brake-pedal-controversy]] 的质量危机前车）；判断：规模扩张期的品控/供应链管理压力是「62 天/百万辆」产能节奏（11/10 已录）下的长期风险点
+
+## 2026-11-15 更新：晨报口径——1-9月326万辆 + 海外 +136%
+- **晨报口径：1-9 月 326 万辆、海外 +136%**——⚠️ 与 10/5 已录 9 月定稿「1-9 月累计超 313 万辆」存在口径差（乘用车 vs 集团全口径，待核，按 Update Policy 两说并存）；海外增速方向与 9 月单月 +153.9% 一致
+- **2026 海外目标 180 万辆**（9/30 已录，本日晨报重申）
+- 判断：海外是唯一增长引擎——匈牙利工厂（[[byd-hungary-factory]]）量产放量前，纯出口模式持续承压欧盟关税/配额（[[eu-hybrid-export-caps-2026]]、[[export-tax-rebate-cut-2026]]）；本地化产能落地节奏 = 欧洲增量的胜负手（[[chinese-oem-export]]）

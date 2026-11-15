@@ -1,10 +1,10 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-11
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
@@ -248,3 +248,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily
 - **10 月交付 106,127 台（+51%），连续 4 个月破 10 万**——新势力断层第一
 - **Stellantis 萨拉戈萨工厂：B10 已于 10/16 正式投产（SOP），第二款 B05 确认同厂追加**——本地化规避欧盟 30.7% 反补贴关税（见 [[stellantis]]、[[eu-70x70-rule]]）
 - 大盘见 [[2026-10-china-sales-battle]]
+
+## 2026-11-15 补充：意大利纯电市占率 >30%（晨报口径）
+- **意大利纯电市占率突破 30%**（晨报 11/15 口径；较 10/24 上修的 29.4% 再进一步）——Stellantis 渠道 + B10 本地化（[[leapmotor-stellantis]]）在首个突破性市场（[[italy-market-2026]]）的份额里程碑
+- 判断：>30% = 单一欧洲市场从「价格冲量」升级为「结构性玩家」的证据——轻资产出海模式（11/3 已录）的份额侧验证；对照 [[2026-paris-auto-show]] 欧洲产品线扩张叙事

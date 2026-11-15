@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-13
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # 蔚来 (NIO)
@@ -225,3 +225,8 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 ## 2026-11-13 更新：充换电站 9,836 座（里程碑口径）
 - **蔚来充换电站总数达 9,836 座**（11/13 盖世口径）——距「1 万座」一步之遥；对照 2025 年 8 月第 4000 座落成，一年半翻倍以上（[[nev-battery-swap]]）
 - 判断：9,836 → 万座拐点：迈过 1 万座后换电的「网络效应叙事」进入新量级（[[geely-nio-swap-alliance]] 双巨头平台化的规模化前提）；社区化（11/12）+ 央企输出（10/30）+ 万座规模 = 补能重资产故事继续加码
+
+## 2026-11-15 更新：NIO IN 2026 前瞻（11/25 广州）+ 3 万辆平台期判断
+- **NIO IN 2026 定档 11/25（广州）**：将发布 **AI 原生座舱 + 智驾**（AI日报前瞻）——萤火虫/乐道放量后，技术叙事的下一个发布节点（[[aidv]]、[[ai-engineering-2026]] 语境）
+- **10 月交付 34,246**（11/11 已录）；官方称**缩减促销后订单已恢复**（晨报口径）
+- 晨报判断：蔚来/理想同陷「月 3 万平台期」缠斗、靠技术叙事撑估值（对照 [[li-auto]] 连续 6 个月下滑）——观察点：NIO IN 发布内容能否兑现「AI 原生」定义并转化为订单信号

@@ -1,10 +1,10 @@
 ---
 title: LG新能源 (LG Energy Solution)
 created: 2026-11-04
-updated: 2026-11-10
+updated: 2026-11-15
 type: entity
 tags: [battery, battery-tech]
-sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # LG新能源 (LG Energy Solution)
@@ -26,3 +26,7 @@ sources: [daily-news/2026-11-04-gasgoo-evening.md, entities/mercedes-benz.md, da
 ## 2026-11-10 更新：获宝马第六代电池定点（美国工厂供货，彭博社 11/9）
 - **宝马第六代高压电池新增 LG 新能源为供应商**：负责美国工厂供货，2020 年代末起供——继 [[mercedes-benz]] 46100 大圆柱（2028 起供）之后第二家德系豪华大圆柱定点（[[bmw]]）
 - 判断：「大圆柱 + 北美本地化」双卖点切入德系豪华电池链——46 系（2029 波兰量产，页首已录）+ 北美 IRA 产能组合，是对 [[catl]] 份额（[[global-battery-market-2026]]）的欧洲/北美侧渗透；韩系双雄（LG + 三星 SDI）同时进入宝马 6 代链 = 德系「电池去单一依赖」的韩系受益面扩大（[[samsung]]）
+
+## 2026-11-15 更新：母公司 LG 化学 26 亿美元正极材料大单（今日起供货）
+- **LG 化学（LG Chem）26 亿美元级正极材料供货大单，11/15 起开始供货**（盖世晚报口径）——⚠️ **主体区分**：正极材料属 LG 化学（母公司化学事业部），区别于本页主体 LG 新能源（电芯制造）；合同客户方与年限待核
+- 判断：韩系电池军团「上游材料长单锁量 + 北美/欧洲本地化产能」双线卡位（对照 [[catl]] 正极一体化与 [[ronbay]] 高镍龙头长协模式）——材料端长协是 2027-28 全球化竞争的供应链底牌（[[global-battery-market-2026]]）

@@ -1,10 +1,10 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-11-14
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 contradictions: [wenjie]
 ---
 
@@ -96,3 +96,7 @@ contradictions: [wenjie]
 - 9/30 新五年合作（2026-2030）刚签不久即现口径摆动（[[wenjie]] 10/8 已录）；双方未发正式说明
 - ⚠️ 矛盾标注：赛力斯「自主造血验证期」叙事（10/6、10/8 已录）与余承东 11/13 表述存在张力——按 Update Policy 两说并存，完整分析见 [[wenjie]]
 - 判断：口风回摆 =「主导权」仍是可争夺/可再平衡的变量；M8 上市期华为加大背书声量属正常营销操作，但**权益划分的正式文本才是定价依据**——观察 2027 销量目标谈判与新五年合作细则
+
+## 2026-11-15 更新：前三季度亏约 3 亿（盖世晚报）
+- **赛力斯前三季度净亏约 3 亿元**——问界销量高位（新 M8 11/13 上市，[[wenjie-m8]]）下仍未扭亏：华为智选模式「量增收不增利」的结构样本
+- 判断：与余承东 11/13「华为主导产品定义」（11/14 已录）同框——制造/渠道端高投入 + 产品定义权在外，盈利兑现滞后于销量叙事；扭亏时点与智选车权益分配细则（2027 年谈判）强相关（[[wenjie]]、[[huawei-auto]]）

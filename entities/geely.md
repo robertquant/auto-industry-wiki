@@ -1,10 +1,10 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-14
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
@@ -262,3 +262,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **吉利星越L PLUS 预售 15.77-19.97 万**（盖世 11/14）：i-HEV 智擎 **2.0TD（热效率 48.41%，[[hybrid-efficiency-principle]] 同级新高）** + 3DHT；**双腔空悬 + 后轮转向**（此前 30 万级配置下探）；**千里浩瀚 H5 智驾带激光雷达**（[[qianli-tech]]）
 - 定位：星越L 燃油基盘向「高性价比智驾油混」延伸——热效率 + 空悬/后轮转向下放 = 继续卷「配置密度」，与银河爆款聚焦策略（11/6 已录）互补
 - 判断：48.41% 热效率把 HEV 效率战再推一档（对照 [[byd-qin-plus-dmi]] 第五代 DM 亏电 2.58L）——吉利在「多能源技术树」（甲醇电混 11/6 已录）上继续加码油混分支
+
+## 2026-11-15 补充：155 万年度目标 1-10 月完成 66.5%（晨报口径）
+- **全年 155 万辆目标 1-10 月仅完成 66.5%**（约 103 万辆）——虽有「银河 15.3 万月销新高 + 总盘首破 30 万」（11/3 已录），年度目标仍有缺口；晨报判断「主动放缓推新、节奏修正是对的」（呼应 11/6 银河踩刹车）
+- 判断：头部自主从「冲量」转「修节奏」——完成率口径比单月新高更能反映主动调结构信号（对照 [[byd]] 出口补缺、[[great-wall]] 国内失速无对冲）

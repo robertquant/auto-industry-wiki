@@ -1,10 +1,10 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-11-11
+updated: 2026-11-15
 type: entity
 tags: [oem-cn, vehicle, sales]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
@@ -117,3 +117,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily
 - **10 月交付年内首次突破 5 万台**——「纯电（SU7/YU7）+ 增程（[[xiaomi-pengcheng]]）双线齐放量」兑现
 - 澎程 N70 增程首月近 3 万台（10 月交付 27,132，雷军亲自促销），见 [[xiaomi-pengcheng]]
 - 大盘见 [[2026-10-china-sales-battle]]
+
+## 2026-11-15 更新：11月金融攻势冲 55 万 + 设国际业务部出海
+- **11 月重启金融攻势**：SU7 五年 0 息 + HAD 等权益合计至高 **4.9 万元**——金融工具冲量，直指 **55 万辆年度目标**（Q4 缺口压力下的冲量信号，对照 10/31 已录 2027 传 80 万目标）
+- **小米设立国际业务部**（盖世晚报口径）——出海组织化：11/3「2027 进欧洲」表态（已录）之后的落地动作（[[eu-industrial-accelerator-act]] 本地化门槛下提前建组织）
+- 判断：金融攻势 = 「以价换量」补目标缺口（对照 11/3 已录 10 月首破 5 万）；国际业务部成立 = 出海从口号进入组织筹备期，2027 欧洲节奏从「计划」进入「执行」倒计时（[[china-oem-europe-top10-2026]] 先行者路径）

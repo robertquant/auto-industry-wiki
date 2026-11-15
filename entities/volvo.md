@@ -1,10 +1,10 @@
 ---
 title: 沃尔沃汽车 (Volvo Cars)
 created: 2026-09-16
-updated: 2026-11-01
+updated: 2026-11-15
 type: entity
 tags: [oem-eu, strategy, sales, export]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-15-daily-digest.md]
 ---
 
 # 沃尔沃汽车 (Volvo Cars)
@@ -117,3 +117,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-11-01 补充：净亏 37 亿克朗口径确认
 - **Q3 净亏损 37 亿克朗（SEK）**（晨报口径）——页首 10/27「营业利润 -56 亿 SEK 由盈转亏」的净利口径补充；股价单日 -26%（与已录 -30% 并存，疑盘中/收盘口径差，见 10/29 记录）
 - 大中华区 -40.6% 无改善 + 再裁 2500 人（10/27 已录）——「西方研发+中国销售」模式判词（10/29 CEO 原话）的报表侧印证（[[china-tech-reverse-export]]、[[geely]]）
+
+## 2026-11-15 更新：Q3 营业亏损 55.9 亿克朗 + 撤回全年指引；极星退出美国
+- **Q3 营业亏损 55.9 亿克朗（SEK）**——与 10/27 已录「营业利润 -56 亿 SEK」同源（口径微差，由盈转亏坐实）；**大中华区 -41%**（对照已录 -40.6%，口径微差）；**撤回全年销量/利润指引**（新增）
+- **极星因美国「中国软件禁令」全面退出美国市场**（详见 [[polestar-us-ban-2026]]）——吉利系（沃尔沃同属）在美监管「品牌身份」差别对待的再验证，吉利系整合压力上升
+- 判断：中国业务拖垮全球利润的最新样本——「西方研发+中国销售」模式（10/29 CEO 判词）报表侧持续恶化，**吉利系整合（沃尔沃 × 极星 × 领克欧洲渠道，[[zeekr-lynk-co-merger]]）迫在眉睫**；对照 [[volkswagen]]（CMP/本土化缓冲）与 [[bmw]]（× Momenta 换时间），沃尔沃是「既无本土技术、又失中国量」的极端样本（[[china-tech-reverse-export]]）
