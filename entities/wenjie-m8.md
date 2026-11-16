@@ -1,10 +1,10 @@
 ---
 title: 问界新M8
 created: 2026-11-01
-updated: 2026-11-14
+updated: 2026-11-16
 type: entity
 tags: [vehicle, oem-cn, adas]
-sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
 ---
 
 # 问界新M8
@@ -38,6 +38,10 @@ sources: [raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-13-daily
 - **电池/平台**：巨鲸电池 + 800V 平台；纯电版可选 **100/120 度**电池，增程版搭载 **56 度**电池
 - 配置分布（版本差异）待发布会配置表核对
 - 判断：比 10/30 预告更进一步——「全系标配」而非选装，直接把 L3 预埋做成 40 万级默认项（[[zhijie-rx]] 的 85% 选装率已证明付费意愿，华为系选择「标配走量」）；与 [[aistaland]] GT7（20 万级 L3 架构猎装）、[[audi]] E7X（900V+Momenta）同日打 L3 牌，见 [[l3-architecture-preemption-2026]]
+
+## 2026-11-16 更新：华为官方口径——交付即 L2+，硬件为 L3 预埋（AI日报）
+- **华为官方口径纠正**：新 M8 **交付即 L2+**（非交付即 L3）；**4 颗激光雷达（主雷达 896 线双光路）+ 38 传感器为 L3 预埋**——L3 能力待国标落地后 OTA 解锁（[[ads-light-standard-2026]]）
+- 判断：硬件（4 激光雷达）先行、软件后置 + 口头口径克制（交付即 L2+）= **华为 L3 预埋策略定式**——用合规节奏换时间，避免「宣传先行 vs 法规滞后」的舆论风险；与 [[zhijie-rx]]（官方口径同样保守）构成华为系统一话术
 
 ## 待观察
 - 11/13 发布会实际定价与配置分布（含版本差异）

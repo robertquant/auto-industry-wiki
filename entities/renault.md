@@ -1,10 +1,10 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-13
+updated: 2026-11-16
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
 ---
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
@@ -421,3 +421,7 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily
 
 ### 本周判断
 战略无变化，变数在法国政局。紧盯：法国预算走向、年末巴西吉利车型投产节奏。
+
+## 2026-11-16 补充：Jefferies 上调 + 股价八周高位（晨报）
+- **Jefferies 上调雷诺评级，股价升至八周高位**（investing.com 口径，11 月中旬）——与 11/13 周报口径一致：分析师目标价约 €38、机构看多，短期压制来自法国资产抛售潮而非基本面（11/13 已录）
+- 背景：晨报同时提及**雷诺发债**动作——资金面信号偏正面，法国政局（少数政府预算危机）仍是最大变量（[[euro-stoxx-50-exit]] 欧系蓝筹定价语境）

@@ -1,10 +1,10 @@
 ---
 title: 2026碳酸锂价格暴涨
 created: 2026-05-13
-updated: 2026-11-11
+updated: 2026-11-16
 type: concept
 tags: [battery, supply-chain, cost, policy]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-09-29.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md]
 ---
 
 # 2026碳酸锂价格暴涨
@@ -103,3 +103,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily
 
 - **崔东树（11/11）：碳酸锂自 5 月高点已跌近六成**——若以 5 月高点 17.19 万计，「近六成」对应约 7 万区间（现货 11/11 数据待核）；与本页 11/1「现货破 10 万、期货 8.8 万」的下跌方向一致，「6 万企稳」预期继续落空
 - 影响：电池成本下行 → 整车价格战弹药（[[catl]] 承压、车企让利空间打开）
+
+## 2026-11-16 更新：涨价传导至正极材料端——宁德×龙蟠采购上限 70 亿→90 亿（盖世 11/16）
+- **宁德时代对龙蟠科技（LFP 正极）年度采购上限 70 亿→90 亿元（+28.6%）**——因磷酸铁锂正极采购需求明显增加；截至 11/16 关联方已付款 **61.04 亿元**（达原上限 87.2%、接近 2025 全年 30.51 亿的两倍）
+- 判断：**碳酸锂价格上行 + 下游排产旺盛正传导至正极材料端**（盖世明示「供应链紧绷信号明确」）——本页 11/1「现货破 10 万」以来锂价底部反复（11/11 崔东树口径已录），**量价同步回暖则材料链涨价周期可能开启**：宁德上调采购上限 = 中游需求量的先行指标，**跟踪排产与库存数据验证**（[[battery-white-box]] 穿透式采购语境、[[catl]]）
+- 对照：与 10/13「需求好≠价格涨」准则互补——当时是供给过剩压价，本轮是需求+价格同向回暖的信号组合，中游采购量（上限上调 28.6%）已是实锤

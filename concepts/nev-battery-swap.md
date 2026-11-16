@@ -1,10 +1,10 @@
 ---
 title: 换电模式 (NEV Battery Swap)
 created: 2026-08-09
-updated: 2026-11-10
+updated: 2026-11-16
 type: concept
 tags: [ev-tech, battery-tech, trend, ecosystem]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md]
 ---
 
 # 换电模式 (NEV Battery Swap)
@@ -139,3 +139,8 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-28-daily
 ## 2026-11-10 更新：宁德×四城公交签约——公交场景成「换电+回收+V2G」先行试验田（盖世 11/10）
 - **宁德时代与本溪、常州、贵阳、兰州四地公交集团战略签约**：覆盖**动力电池供应更新、城市级换电网络、电池回收与车网互动（V2G）**打包落地
 - 判断：公交 = 固定线路/固定场站/国有运营方，是换电（[[battery-swap-vs-ultra-fast-charging]]）与 V2G（[[v2g-2026]]）商业化的低风险试验田——B 端场景再添一城（重卡干线 10/22 已录之后），车队客户把换电站利用率与梯次回收一次性打包；观察点：公交 V2G 峰谷套利模型能否跑通并外溢乘用车（[[geely-nio-swap-alliance]] 乘用车标准战之外的场景分工）
+
+## 2026-11-16 更新：换电路线「成本重构」信号——7.88 万级巧克力换电 + 极寒验证（盖世 11/16）
+- **极狐贝塔 S3 激光换电版 7.88 万（电池租用）上市**（[[baic]]）：宁德巧克力换电、99 秒换电、CLTC 535km——宁德换电标准下探 **8 万级**（激光雷达+城区 NOA 同步下放）；「极+时代」生态同步发布、2027 极狐全系推换电版
+- **蔚来黑河极寒换电站**（晨报 11/16）——换电体系向 -30℃ 级极寒工况验证延伸（[[nio]]）
+- 判断：**换电 2026H2 出现成本重构迹象**——巧克力降本把购入门槛打到 8 万内（车电分离）+ 极寒验证补场景短板：换电从「蔚来高端专属」向「平价+全气候」双扩张（对照 [[battery-swap-vs-ultra-fast-charging]] 的资产重/标准难两大质疑，低价车型放量是网络利用率的前提）

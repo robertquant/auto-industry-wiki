@@ -1,10 +1,10 @@
 ---
 title: 北汽集团 (BAIC)
 created: 2026-10-23
-updated: 2026-11-14
+updated: 2026-11-16
 type: entity
 tags: [oem-cn, sales, strategy, policy]
-sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entities/baic-xingtan-5x.md, concepts/l3-mass-production-2026.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md]
 ---
 
 # 北汽集团 (BAIC)
@@ -41,7 +41,7 @@ sources: [daily-news/2026-10-23-gasgoo-evening.md, memory/2026-10-23.md, entitie
 
 ### 极狐「极+时代」全民换电生态（11/13 发布）
 - **贝塔 T1 / S3 换电版上市**：**车电分离 5.2 万起**（电池月租 399 元起），宁德时代 **54 度巧克力电池**、**99 秒自动换电**（[[catl]]）
-- **贝塔 S3 激光换电版 7.88 万**：带 **192 线激光雷达 + 城区 NOA**——激光雷达首次进 8 万级换电车
+- **贝塔 S3 激光换电版 7.88 万**（11/16 上市，电池租用价）：带 **192 线激光雷达 + 城区 NOA**——激光雷达首次进 8 万级换电车；**CLTC 535km**，智驾为北汽×卓驭联合开发的**北汽元境系统**（含 192 线激光雷达在内 **25 颗传感器**，[[zhuoyu]]）
 - **北汽新能源董事长刘观桥**：**2027 年极狐全系推换电版**
 - 联动：宁德巧克力换电站已建 **2500+ 座（9 月底）**，**2027 规划 6000 座 / 297 城**（[[nev-battery-swap]]）
 - 判断：北汽把「换电」做成极狐差异化标签——5 万级购入门槛 + 城区 NOA 标配化 = 用「车电分离」打 10 万内智驾平权（对照 [[hongqi-tiangong-07]] 17 万级激光雷达锚点）；但换电站密度（巧克力网络）与月租经济性是走量前提（[[battery-swap-vs-ultra-fast-charging]]）

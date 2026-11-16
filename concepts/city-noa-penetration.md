@@ -1,10 +1,10 @@
 ---
 title: 城市 NOA 渗透率突破 15%
 created: 2026-05-30
-updated: 2026-10-06
+updated: 2026-11-16
 type: concept
 tags: [adas, city-noa, penetration-rate, data]
-sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-panorama.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-panorama.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
 ---
 
 # 城市 NOA 渗透率突破 15%
@@ -29,6 +29,10 @@ sources: [raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-05-30-ai-pa
 - **端到端派**：特斯拉 FSD、小鹏 VLA 2.0，追求感知→决策一体化
 - **世界模型派**：华为 WEWA 2.0、小米 WorldRec+WorldGen，强调场景预测能力
 - **融合派**：比亚迪、理想等综合多条路线
+
+## 2026-11-16 更新：蓝皮书 H1 口径——NOA 搭载 321 万辆 + 城市 NOA 下探 8.99 万（AI日报）
+- **2026H1 NOA 搭载量 321 万辆、渗透 37.4%**（蓝皮书口径，较官方 34.2% 略高——两套口径并存，见 [[wnevc-2026]]）
+- **城市 NOA 门槛下探至 8.99 万元**（大众系入门车型，蓝皮书口径；车型代号待核：ID.ERA 5S vs 5X）——城市 NOA 从「15-20 万级选配」进入 **9 万级价格带**，与 [[hongqi-tiangong-07]]（17 万级激光雷达锚点）共同拉低高阶智驾门槛（[[lidar-penetration]]、[[liDAR-cost]]）
 
 ## 相关页面
 - [[city-noa]] - 城市 NOA 技术定义与演进

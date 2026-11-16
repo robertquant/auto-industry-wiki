@@ -1,10 +1,10 @@
 ---
 title: 智己汽车
 created: 2026-05-08
-updated: 2026-11-08
+updated: 2026-11-16
 type: entity
 tags: [上汽, 智驾, end-to-end, 中国, l3]
-sources: [memory/2026-06-23.md, daily-news/2026-11-08-gasgoo-evening.md]
+sources: [memory/2026-06-23.md, daily-news/2026-11-08-gasgoo-evening.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md]
 ---
 
 # 智己汽车 (IM Ad)
@@ -52,3 +52,6 @@ sources: [memory/2026-06-23.md, daily-news/2026-11-08-gasgoo-evening.md]
 - **智己 LS8 NEO 上市**（盖世 11/8）：**上市权益价 23.98 万 / 25.98 万**（93/103 度双电池版本），**全系标配宁德时代电池**（[[catl]]）——「NEXT·2028」战略首款「全线控大五座旗舰 SUV」
 - 定位：承接 [[im-ls6]]（20.99 万预售、线控全系标配）的线控下探路线，线控底盘 + 全域智能化打到 24 万级——智己「L2/L3/L4 三连」叙事的执行域预埋（[[chassis-domain-control]]）
 - 判断：LS8 NEO 与 LS6 构成「线控双车」组合——上汽在 L3 责任框架（[[l3-mandatory-standard]]）落地前用硬件冗余抢位（[[saic]]）
+
+## 2026-11-16 补充：LS8 NEO 全国首批交付启动（盖世 11/16）
+- **LS8 NEO 纯电开启全国首批交付**（25 万级纯电大五座，限时权益价上市）——「NEXT·2028」战略首款全线控旗舰从发布（11/8 已录）进入交付验证，智己下半年走量关键车型（[[im-ls6]]、[[saic]]）

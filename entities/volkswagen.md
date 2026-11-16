@@ -1,10 +1,10 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-14
+updated: 2026-11-16
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md]
 ---
 
 # 大众汽车 (Volkswagen)
@@ -113,6 +113,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 ## 在华合资体系
 
 ### 上汽大众
+- **10 月新能源 1.8 万辆（同比 +253.1%、环比 +37.1%），占比超 1/4**；1-10 月累计新能源 7.4 万辆（盖世 11/16）——合资新能源「回春」数据点：整体销量 6.75 万辆中新能源占比超四分之一（CMP/CEA 车型拉动，见 [[id-era-5x]]）
 - 2026年8月吴赟接任总经理
 - 吴赟：1979年生，2003年入职，覆盖产品工程、制造、营销、战略全链条
 - 主导奥迪新品牌AUDI落地

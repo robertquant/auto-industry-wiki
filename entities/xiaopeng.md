@@ -1,10 +1,10 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md]
 ---
 
 # 小鹏汽车
@@ -237,3 +237,8 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **何小鹏口径（凤凰科技）**：**2027 年成为首个在欧洲上线智驾功能的中国品牌**，**2027 H1 争取欧盟监管许可**——欧洲智驾上线从「规划」进入「时间表」阶段
 - 语境：G9L 已欧洲 64 国上市（[[xpeng-g9l]]）+ 二代 VLA 量产 Robotaxi 内测（11/1 已录）——欧洲是 VLA 能力出海的「付费验证场」（智驾选装付费意愿高于中国）
 - 判断：恰逢欧洲 L3 集体撤退（奔驰/宝马取消 L3 选装，[[l3-autonomous-driving]]）——豪华品牌让出的「智驾心智空位」正是中国方案商的进攻窗口；含金量取决于 2027 H1 欧盟监管许可（[[un-autonomous-driving-regulation-2026]] WP.29 框架）能否兑现——兑现则与华为系出海节奏拉开时间差（[[vla-model]]、[[china-tech-reverse-export]]）
+
+## 2026-11-16 更新：Q3 营收 242.8 亿「最强财报」+ 英国品牌之夜（盖世 11/16）
+- **Q3 营收 242.8 亿元**（盖世点评「**最强财报**」）——小鹏业绩质变信号：多车型矩阵（MONA 系列 + G9L）规模兑现 + 海外占比抬升（10 月海外 1.33 万、+166%，11/1 已录）的双轮盈利修复（[[mona-l03]]、[[xpeng-g9l]]）
+- **同日英国品牌之夜**：G9L、L03 两款「**一车双能**」（纯电+增程）车型上市——以英国为跳板加速欧洲布局，出海从「上市发布」进入「双能走量」阶段（[[china-oem-europe-top10-2026]]、[[china-tech-reverse-export]]）
+- 判断：「最强财报 + 英国之夜」同屏 = 小鹏 2026 年末叙事从「智驾赔本赚吆喝」切向「业绩与出海双线兑现」；Q3 营收口径与 10 月 5.02 万交付（11/1 已录）互为印证（[[q3-2026-earnings-season]] 新势力梯队对照）

@@ -1,10 +1,10 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-15
+updated: 2026-11-16
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
 ---
 
 # 蔚来 (NIO)
@@ -230,3 +230,7 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 - **NIO IN 2026 定档 11/25（广州）**：将发布 **AI 原生座舱 + 智驾**（AI日报前瞻）——萤火虫/乐道放量后，技术叙事的下一个发布节点（[[aidv]]、[[ai-engineering-2026]] 语境）
 - **10 月交付 34,246**（11/11 已录）；官方称**缩减促销后订单已恢复**（晨报口径）
 - 晨报判断：蔚来/理想同陷「月 3 万平台期」缠斗、靠技术叙事撑估值（对照 [[li-auto]] 连续 6 个月下滑）——观察点：NIO IN 发布内容能否兑现「AI 原生」定义并转化为订单信号
+
+## 2026-11-16 补充：黑河极寒换电站（晨报）
+- **蔚来黑河（黑龙江）极寒换电站投用信号**（晨报 11/16 口径）——换电体系向极寒环境验证延伸（黑河 = 中国冬季测试圣地，-30℃ 级工况）
+- 意义：换电「成本重构」叙事的一环（对照 [[baic]] 贝塔 S3 7.88 万巧克力换电下探、[[catl]] 巧克力网络 2027 6000 座规划）——极寒站证明换电在低温场景对超充的相对优势（[[nev-battery-swap]]）

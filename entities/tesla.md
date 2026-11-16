@@ -1,10 +1,10 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-15
+updated: 2026-11-16
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
 ---
 
 # 特斯拉 (Tesla)
@@ -149,3 +149,8 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **产品线联动**：2027 年停产 Cybertruck、得州产能转产 Cybercab（[[cybertruck]]）；NHTSA 调查（9 月立案，页首）仍未了结
 - 虾评：**卖车 vs 卖控制权**——$29,990 硬件价只是入场券，真正商业模式是 **$299/月 订阅 × 电子围栏运营边界**（订阅价 3 倍于 FSD 说明定价权不在购车者手中）；同时暴露**供应链治理风险**：Cybercab 量产爬坡节奏（停产 Cybertruck 换产能）与电池供应是交付兑现的硬约束
 - 观察点：12 月交付兑现度、围栏外需求外溢、NHTSA 结论与订阅定价博弈（对照 [[waymo-vs-tesla-robotaxi-2026]] 的运营实绩口径）
+
+## 2026-11-16 补充：Cybercab 订阅条款细节（AI日报）
+- **断缴即停用**：订阅断缴后车辆**无法行驶**（不是降级到低阶功能，而是直接停用）——「车是订阅的载体」，所有权与使用权进一步分离（[[l4-global-race-2027]]）
+- **无方向盘 → 无人工接管兜底**：全无人架构下用户无法手动避险，安全责任完全落在系统（NHTSA 调查悬而未决的争议核心，见页首）
+- **拖车范围约 50 英里**：救援/拖车服务限定在奥斯汀服务区（电子围栏）边界附近——「电子围栏 × 物理救援边界」双重收缩，异地使用场景基本为零（[[waymo-vs-tesla-robotaxi-2026]]）
