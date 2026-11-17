@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-14
+updated: 2026-11-17
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
@@ -297,3 +297,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **行业背景**：此前 [[volkswagen]] 已启动史上最大重组（或波及 10 万岗位、关停最多 4 厂）；双方与 IG Metall 年底谈判均进入对峙期——**德系集体「投资冻结 + 裁员 + 劳资谈判」三线承压**
 - **罗兰贝格预测**：到 2030 年德国汽车业至少流失 **20 万+ 岗位**
 - 判断：与康林松 11/12「100% 立足中国」（11/12 已录）互为镜像——**冻结德国投资 = 「中国进攻、欧洲收缩」的成本侧落地**；奔驰 11/12 说「中国是加速器」，11/13 备忘录把「欧洲止血」提上日程；对照 [[volkswagen]] Gamechanger 取消（11/12-13 已录），德系双巨头在德国本土同步「踩刹车」，德国汽车工业结构性收缩从预测变为进行时（[[euro-stoxx-50-exit]]）
+## 2026-11-17 更新：EBIT 较峰值 -140 亿欧 + 美国 33 万目标（晨报）
+- **乘用车 EBIT 较 2022 峰值累计减少约 140 亿欧元**；Q3 核心利润 17.7 亿欧、**利润率仅 2.5%**（Q3 财报 307 亿欧/-4.4%，10/27 已录）——豪华溢价崩塌的量化确认
+- **2027 美国销量目标 33 万辆**：加税环境下把美国列为结构性恢复点（对照 [[bmw]] 美国关税闭环 15%→10%）
+- 判断：「美国 33 万 × 中国 100% 本土化（11/12 已录）」双支柱 = 奔驰全球收缩（德国投资冻结，11/13 已录）后的再布局：利润修复不指望德国，而押两个最大单一市场的本土产能——德系「本土化漂移」完成的标志样本（[[leapmotor-stellantis]] 反向镜像）

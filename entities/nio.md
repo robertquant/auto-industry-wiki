@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-16
+updated: 2026-11-17
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
@@ -234,3 +234,7 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 ## 2026-11-16 补充：黑河极寒换电站（晨报）
 - **蔚来黑河（黑龙江）极寒换电站投用信号**（晨报 11/16 口径）——换电体系向极寒环境验证延伸（黑河 = 中国冬季测试圣地，-30℃ 级工况）
 - 意义：换电「成本重构」叙事的一环（对照 [[baic]] 贝塔 S3 7.88 万巧克力换电下探、[[catl]] 巧克力网络 2027 6000 座规划）——极寒站证明换电在低温场景对超充的相对优势（[[nev-battery-swap]]）
+## 2026-11-17 更新：法务报案——财务抹黑谣言进入司法化处置（晚报）
+- **法务部声明：网传蔚来财务与经营信息不实，已报案**——与[[li-auto]]「4000 元赔偿电池召回」辟谣同日（11/17 已录）：头部新势力同日双辟谣，舆情攻防成为竞争明线（对照 [[byd]] 悬赏 500 万打黑，11/14 已录）
+- 背景：蔚来 1-10 月累计 33.45 万创新高（11/1 已录）但亏损结构未根治——财务谣言的「半真半假」恰是攻击点；司法化处置 = 用确定性对冲叙事风险
+- 判断：谣言战烈度与产品周期重合度正相关——理想 i6 改款、问界新 M8、享界 V8（[[xiangjie]]）同为 11 月上市季，黑公关窗口期与 [[2026-11-market-weak-start]] 弱大盘叠加

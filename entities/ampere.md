@@ -1,7 +1,7 @@
 ---
 title: Ampere
 created: 2026-04-30
-updated: 2026-05-23
+updated: 2026-11-17
 type: entity
 tags: [renault, europe, ev, strategy]
 sources: [raw/articles/2026-04-30-renault-daily.md]
@@ -40,9 +40,8 @@ sources: [raw/articles/2026-04-30-renault-daily.md]
 ## 外部合作
 
 ### 福特合作
-- 福特借助Ampere平台推出电动车
-- 中国研发基础+欧洲品牌组合
-- 是 [[china-tech-reverse-export]] 的典型案例
+- **2026-11-17 定调（晨报）**：雷诺×福特基于 Ampere 平台合作开发**欧洲电动乘用车与商用车**——合作从产品采购升级为平台级开发框架，商用车（e-Van）为新增维度
+- 中国研发基础+欧洲品牌组合；是 [[china-tech-reverse-export]] 的典型案例——但外供对象福特直接对标雷诺自家产品线，「技术换时间」的双刃剑（见 [[renault]] 11/17 判断）
 
 ## 相关产品
 - Renault 5 E-Tech

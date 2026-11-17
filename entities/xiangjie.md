@@ -1,7 +1,7 @@
 ---
 title: 享界 (Xiangjie)
 created: 2026-06-15
-updated: 2026-11-11
+updated: 2026-11-17
 type: entity
 tags: [china, suv, huawei-ads, ev, erev]
 sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-15.md]
@@ -64,3 +64,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-15.md]
   - 纯电版 120kWh、CLTC 最高 830km；增程版综合续航最高 1,465km
 - **同场：华为全新子品牌「OSTA 星芒」首次亮相**（手机/终端品类，首批 OSTA O1 / O1 Pro）——汽车与终端同场发布，鸿蒙智行×终端生态协同
 - 关联：[[shangjie]]（尚界 Z7T 星野套装同场）、[[huawei-auto]]
+## 2026-11-17 更新：享界 V8 全国首个 120km/h L3 跨城高速路测（晚报）
+- **11/17 开启全国首个 120km/h L3 跨城高速路测**（享界首款 MPV）——L3 验证车速上限从 60-100km/h 试点带上抬到 120km/h 法规极速，且为「跨城」多辖区连续场景
+- 意义：L3 竞争从「试点名单卡位」（[[wenjie-m8]] L3 架构预埋、[[aistaland]] GT7 准入申报）进入「真实路测规模验证」阶段——MPV 高速通勤场景 + 120km/h = 商务用户最刚需的 L3 用例
+- 判断：V8 11/20 上市（11/13 已录预售价 32.98-44.98 万）前抛出 L3 路测，华为系把「交付即 L2+」的合规口径（11/16 已录 M8 教训）与「体验上限」营销解耦——功能上墙、责任走流程（[[l3-architecture-preemption-2026]]、[[huawei-ads]]）

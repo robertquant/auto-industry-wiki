@@ -1,7 +1,7 @@
 ---
 title: 小鹏MONA L05
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-17
 type: entity
 tags: [vehicle, adas, ev-tech, pricing]
 sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
@@ -38,3 +38,6 @@ sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily
 - **10/29 正式上市 13.98 万起**（预售 16.98-19.18 万）
 - **高阶智驾订单占比 91%**、每天超一半 MONA 车主使用智驾、与 Robotaxi 共享 L4 基座模型（见 [[xiaopeng-yoyo]]）——智驾从「选配」变「主销动机」
 - 出海：82 国全球车、660 台测试车、500 万公里路测
+## 2026-11-17 更新：上市 3 分钟售罄（晚报）
+- **MONA L05 上市 3 分钟售罄**（小鹏 Q3 财报发布同日披露）——门槛级爆款确认：13.98 万起定价（11/15 已录）+ 图灵智驾下放组合击穿预算线
+- 判断：「3 分钟」口径与 [[song-ultra-dmi]] 上市节奏同级，验证 10-15 万纯电走量盘对「智驾平权」的吞吐能力；对 [[byd-qin-plus-dmi]] 的挤压从插混延伸到纯电（[[xiaopeng]] Q4 318 亿目标的量能基础）

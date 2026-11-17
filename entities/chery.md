@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-12
+updated: 2026-11-17
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
@@ -172,3 +172,6 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-
 ## 2026-11-12 更新：瑞虎9猎鹰700版上市——激光雷达+560TOPS打到17.29万
 - **11/11 上市**：猎鹰700辅助驾驶系统（激光雷达感知 210m、560TOPS 车端算力），支持高速/城市 NOA、无导航 AI 漫游、全场景泊车，AEB 最高 130km/h；超混 DHT 综合续航 1400km+
 - **17 万级标配高阶智驾硬件**（[[lidar-penetration]]）——「智驾下放、旗舰配置普及」是奇瑞国内守盘手段（国内基本盘结构见 [[china-export-leaders-2026]]），与博世欧洲 ADAS 定点（11/7 已录）构成「国内智驾普及 + 欧洲高阶预埋」双线
+## 2026-11-17 更新：捷途全球旅行大会——环游者 EV 预售 + 旅行者7 C-DM 乾崑版（晚报）
+- **捷途环游者 EV 全球预售**（2026 全球旅行大会）；**旅行者 7 C-DM 华为乾崑智驾版同步上市**——捷途双线：全球化硬派产品线（环游者 EV 出海）× 华为智驾绑定（[[huawei-ads]] 第二梯队上车样本，对照 [[foton]]×卓驭的路线差）
+- 判断：奇瑞在 10 月出口破 20 万辆（11/17 已录 [[china-export-leaders-2026]]）后，捷途接力「旅行生态全球化」叙事；旅行者7 引入乾崑 = 奇瑞对华为从「智界」单点走向多品牌扩散——华为智选朋友圈扩容的又一注脚（[[zhijie]]）

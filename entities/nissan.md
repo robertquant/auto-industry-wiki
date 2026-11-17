@@ -1,7 +1,7 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-11-14
+updated: 2026-11-17
 type: entity
 tags: [oem-jp, ev-tech, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
@@ -93,4 +93,6 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 ## 2026-11-14 更新：东风日产 NX7 插混预售——宁德电池 + 超1600km
 - **东风日产 NX7 插混 11/13（NISSAN DAY 珠海）预售 12.99-14.99 万**：宁德时代电池、综合续航超 **1600km**
 - 定位：日系合资插混对 10-15 万价格带的反扑——用中国供应链（[[catl]] 电池）做续航叙事（对照 [[byd-qin-plus-dmi]] 同价位段满油满电 2290km）
-- 判断：日产中国失血（10 月 -67.1%，11/13 已录）下的「产品救火」——插混（PHEV）是日系在华短期最现实的技术路线（[[eu-phev-strategy]] 逻辑在本土市场的镜像）；但品牌声量 + 渠道收缩双困局下，一款 NX7 难改大盘（[[honda-china]] 同路径教训）
+- 判断：日产中国失血（10 月 -67.1%，11/13 已录）下的「产品救火」——插混（PHEV）是日系在华短期最现实的技术路线（[[eu-phev-strategy]] 逻辑在本土市场的镜像）；但品牌声量 + 渠道收缩双困局下，一款 NX7 难改大盘（[[honda-china]] 同路径教训）## 2026-11-17 更新：东风日产 10 月 1.84 万辆（晨报口径补充）
+- **东风日产 10 月 1.84 万辆、同比 -67%**——与 11/13 已录日产中国全口径（22,295 台/-67.1%）一致性核对：合资主力口径占日产中国约 82%，说明启辰/进口贡献已边缘化
+- 判断：连续深跌 + Q2 净亏 434.7 亿日元（11/13 已录）下，NX7 插混（11/14 已录）成为最后一个「有成本竞争力」的翻盘筹码；再造周期太长，[[renault]] 联盟收缩叙事难逆转（[['aryl''' ]]）

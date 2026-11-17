@@ -1,7 +1,7 @@
 ---
 title: 理想汽车 (Li Auto)
 created: 2026-08-10
-updated: 2026-11-15
+updated: 2026-11-17
 type: entity
 tags: [oem-cn, adas, ai, vehicle, ev-tech]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md, daily-news/2026-11-08-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-15-daily-digest.md]
@@ -245,3 +245,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-08-10.md, memory/
 ## 2026-11-15 补充：连续 6 个月同比下滑（晨报口径）
 - **理想连续 6 个月交付同比下滑**（10 月 29,025、-8.6%，11/8 已录）——「3 万辆平台期」印证：押注连山电池（[[li-auto-lianshan-battery]]）+ 马赫 VLA 2.5（[[li-auto-m100]]）双技术叙事对冲量价压力
 - 晨报判断：蔚来/理想双双停在月 3 万平台期、靠技术叙事撑估值——自研芯片/电池从「旗舰证明」进入「主流替换」（11/8 已录）的兑现速度决定估值底（[[auto-chip-self-develop]]、[[new-forces-landscape-2026]]）
+## 2026-11-17 更新：辟谣「4000 元赔偿」电池召回谣言（晚报）
+- **官方澄清「动力电池召回通知（4000 元赔偿）」为虚假信息**——与 [[nio]] 法务报案（财务抹黑）同日：新势力头部进入「谣言战」明线战场（对照 [[byd]] 11/13 悬赏 500 万打击黑公关，11/14 已录）
+- 同日落地 **i6 2026 款**：连山 5C + 马赫 M100 + 骁龙 8797 + 博世 ESP10 改款全貌（11/17 已录 [[li-auto-i6]]）——谣言与改款同屏，说明电池自研既是卖点也是攻击面
+- 判断：电池「自燃赔新车」（10 月已录）+ 自研叙事抬高社会预期后，舆情攻击 Natural 指向电池安全——理想法务响应速度（当日辟谣）本身是品牌防御体系的成熟度信号

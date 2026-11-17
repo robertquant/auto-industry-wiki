@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-16
+updated: 2026-11-17
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
@@ -154,3 +154,7 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **断缴即停用**：订阅断缴后车辆**无法行驶**（不是降级到低阶功能，而是直接停用）——「车是订阅的载体」，所有权与使用权进一步分离（[[l4-global-race-2027]]）
 - **无方向盘 → 无人工接管兜底**：全无人架构下用户无法手动避险，安全责任完全落在系统（NHTSA 调查悬而未决的争议核心，见页首）
 - **拖车范围约 50 英里**：救援/拖车服务限定在奥斯汀服务区（电子围栏）边界附近——「电子围栏 × 物理救援边界」双重收缩，异地使用场景基本为零（[[waymo-vs-tesla-robotaxi-2026]]）
+## 2026-11-17 更新：柏林工厂首期 30 亿欧扩建——Cybercab 百万辆产能卡位（晚报）
+- **柏林格伦海德工厂北侧新建车间，首期投资 30 亿欧元**，生产**无方向盘/踏板车型**（Cybercab），**年产能目标百万辆**
+- 逻辑闭环：Cybertruck 停产让出得州产能（11/16 已录 [[cybertruck]]）→ 欧洲侧百万级 Cybercab 产能落地——特斯拉产能结构整体向 Robotaxi 倾斜，「车型多元化」让位「运营方案单一押注」
+- 判断：30 亿欧投向无人工位产线 = 特斯拉把欧洲工厂从「Model Y 出口替代厂」升级为「Robotaxi 全球第二极」；风险仍集结在 NHTSA 调查（页首）与 $299/月 订阅模式的合规接受度（11/15 已录）；对照 [[waymo]] 多城市稳态运营，Cybercab 百万辆是「产能先于监管」的豪赌（[[waymo-vs-tesla-robotaxi-2026]]、[[l4-global-race-2027]]）
