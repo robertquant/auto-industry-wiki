@@ -1,7 +1,7 @@
 ---
 title: 存储芯片价格暴涨 (2026 Storage Chip Surge)
 created: 2026-06-30
-updated: 2026-10-25
+updated: 2026-11-19
 type: concept
 tags: [chip, supply-chain, strategy, cost]
 sources: [daily-news/2026-06-30-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -55,3 +55,6 @@ sources: [daily-news/2026-06-30-gasgoo-evening.md, raw/articles/2026-10-17-daily
 ## 2026-10-25 补充：DDR 涨价加速——2025 年以来累计涨超 300%
 - **DDR 价格自 2025 年以来累计上涨超 300%**（AI 日报口径）——10/17 已录的「车规存储结构性缺货」从涨价周期进入涨幅加速段；舱驾一体高算力平台（[[cabin-drive-integration]]、[[snapdragon-8797]]）是车规 DDR 需求增量主力
 - 判断：存储涨价直接侵蚀舱驾一体单芯片方案的成本优势——「降本 1,500-4,000 元」叙事需扣除内存成本上行部分；DDR 与 10/17 本页「180% 涨幅」口径差异在统计周期（2025 以来 vs 2026 年），方向一致
+
+## 2026-11-19 长鑫车载存储升级
+长鑫科技车载存储升级 **LPDDR5X**、推进 LPDDR6 车载适配（双子架构原生速率大幅提升），将延伸至智驾车载计算单元——补国内高端车载存储缺口，存储涨价周期中国产车载替代加速。

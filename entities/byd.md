@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-17
+updated: 2026-11-19
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
@@ -319,3 +319,6 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily
 - **王传福 APEC 工商领导人峰会（深圳）口径：累计产销新能源车 1900 万辆**（第 1900 万辆西安下线=方程豹钛9，11/13 已录；减排量相当于 24 亿棵树）——产业里程碑对外首次以「国家叙事」规格官宣（1-10 月累计 362.17 万辆居全球新能源首位）
 - **10 月海外近 17 万辆、同比 +103%**——单月海外增速再抬升（1-10 月海外累计 150.7 万辆 +92%，11/13 已录）；对照 [[chery]] 单月出口破 20 万：出口双雄把「中国基本盘增益」全部外移
 - 判断：1900 万辆 × APEC 场合 = 比亚迪叙事从「销量公司」升维「产业样本」；但 10 月国内交付环比走弱（[[2026-11-market-weak-start]]），增长引擎仍在海外与方程豹（[[fangchengbao-ti9]]）——国内等 Q1 产品周期（[[denza]] 高端线同步出海印度）
+
+## 2026-11-17 王传福 APEC：累计产销 1,900 万辆
+APEC 工商领导人峰会（深圳）披露：比亚迪累计产销新能源车已达 **1,900 万辆**，减排量相当于种下 24 亿棵树——规模效应的对外叙事持续加密（对照 [[china-export-leaders-2026]] 境外收入首过半）。

@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-15
+updated: 2026-11-19
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
@@ -252,3 +252,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-11-15 补充：意大利纯电市占率 >30%（晨报口径）
 - **意大利纯电市占率突破 30%**（晨报 11/15 口径；较 10/24 上修的 29.4% 再进一步）——Stellantis 渠道 + B10 本地化（[[leapmotor-stellantis]]）在首个突破性市场（[[italy-market-2026]]）的份额里程碑
 - 判断：>30% = 单一欧洲市场从「价格冲量」升级为「结构性玩家」的证据——轻资产出海模式（11/3 已录）的份额侧验证；对照 [[2026-paris-auto-show]] 欧洲产品线扩张叙事
+
+## 2026-11-19 Lafa5 规格公布（11/27 广州车展上市）
+- **高通 8650 + 激光雷达 + 端到端大模型**，28 感知硬件、40 项智驾功能；69.7kWh/640km CLTC、全域 800V+3C；限时价 9.28–11.68 万（详见 [[leapmotor-lafa5]]）
+- 11/18 媒体质疑风波回应（官方微博披露）：**LKC 底层视觉方案出货超 45 万台、L2 出货 105 万套、在手订单超 2 亿元级**；花旗维持买入评级（TP 52.7 港元）
+- 智驾「两条腿」：走量自研 LKC + 高配高通 8650——「芯片自研外供叙事」与「高配用高通」需分开看

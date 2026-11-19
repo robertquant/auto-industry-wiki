@@ -1,7 +1,7 @@
 ---
 title: 尚界汽车
 created: 2026-05-02
-updated: 2026-11-11
+updated: 2026-11-19
 type: entity
 tags: [saic, huawei, china, sedan, suv, adas, harmony-os]
 sources: [raw/articles/2026-11-11-daily-digest.md, , raw/articles/2026-10-17-daily-digest.md]
@@ -62,7 +62,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, , raw/articles/2026-10-17-dai
 
 ## 相关条目
 
-- [[huawei]] - 合作方华为
+- [[huawei-auto]] - 合作方华为
 - [[saic]] - 母公司上汽集团
 - [[mg]] - 上汽旗下另一品牌
 - [[xiaomi]] - 竞争对手
@@ -77,3 +77,6 @@ sources: [raw/articles/2026-11-11-daily-digest.md, , raw/articles/2026-10-17-dai
 
 - **尚界 Z7T 星野套装将在 11/20 华为发布会同场亮相**——换装新样式轮毂 + 加装车顶行李箱，装载能力扩展，主打长途自驾/户外场景（Z7 已于 2026 年 4 月上市、22.98 万起）
 - 关联：[[xiangjie]]（享界 V8 上市 + OSTA 星芒首秀同场）、[[huawei-auto]]
+
+## 2026-11-20 华为发布会：尚界 Z7T 星野套装
+华为鸿蒙智行 11/20 发布会同场发布尚界 Z7T 星野套装（上汽×华为第二款车 Z7 的衍生配置），与 [[xiangjie]] V8 上市同台——鸿蒙智行矩阵化发布节奏成型。

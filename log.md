@@ -1911,3 +1911,13 @@
 - ③ 三元「高端标签」易主是结构性事件：铁锂 85.5% + 成本差 2 万/包 + 15C/30C 性能补位——三元只剩超充细分与固态前夜的高端组合，装车结构固化
 - ④ 出口逻辑再升级：境外收入过半（52.57%）+ 退税率下调 + 人民币升值 4.6% = 出海从「抢市场」进入「抢窗口+管汇率」阶段
 - ⑤ 具身智能供应链成形：优必选造芯（曦选创智 5 亿天使轮、对标 Thor）+ 均胜「大脑背包」+ Gemini Robotics 2.5 奔驰工厂 96%——车企/Tier1/本体厂/大模型四方在机器人赛道汇合
+
+## [2026-11-19] ingest | 每日整理（AI日报 + 盖世晚报 + 岚图资质深度）
+- 新建实体 2：**lantu**（岚图：7489.HK 港股上市主体获独立生产资质=存量平移补齐资产完整性；10月13,030辆/累计40万辆央国企高端首家）、**leapmotor-lafa5**（零跑 Lafa5：高通8650+激光雷达+端到端下探10万级，8295P+8650 双芯非舱驾一体；11/27上市）
+- 新建 raw/articles/2026-11-19-daily-digest.md（含盖世原文抓取：岚图/智界资质深度——存量平移机制、审批制→盘活制、小米系最后一张全新牌照）
+- 更新实体页 16：byd（王传福 APEC 累计产销1900万辆）、catl（理想8000包只供4000包内幕+斯莱克壳体协议）、fangchengbao-ti9（钛9杭州上市：预测30.98万起/云辇-A/天神之眼B5.0/二代刀片1600km）、great-wall（智驾-底盘协同：ABS介入智驾延迟退出/L3优化/220km/h爆胎控制）、hesai（Q3营收10.68亿+34.3%/交付72.97万台+65.3%/SGI环比+101.4%）、leapmotor（Lafa5+LKC出货45万台/L2 105万套/花旗TP 52.7港元）、li-auto（宁德降供内幕：i6延期近万台、自研边界扩到电池）、li-auto-lianshan-battery（地位强化事件背书）、mercedes-benz（智混CLA=Momenta R7世界模型+豆包大模型）、momenta（R7从仿真工具变量产组件）、mona-l05（无吸顶屏版提前交付）、shangjie（Z7T星野套装11/20）、xiangjie（V8上市32.98万起+OSTA星芒首秀）、zhijie（独立资质存量平移：尾标变更/10月-52.5%/华为智选车首个转正的「界」）、blacksesame（深圳具身智能总部）、volkswagen（ID. AURA L5预订）
+- 更新概念页 4：chassis-domain-control（智能底盘大会放量：长城协同控制/交大直驱线控转向/普莱德/朝上/亚新科）、emb-electromechanical-brake（功能安全团标：亚太机电牵头）、storage-chip-surge-2026（长鑫车载LPDDR5X）、autonomous-driving-chips（8650中阶收割+LKC两条腿）
+- 断链修复 2：catl [[solid-state-battery-timeline]]→[[solid-state-battery]]、shangjie [[huawei]]→[[huawei-auto]]（旧链接修正）；fangchengbao-ti9 魏牌蓝山改纯文本（无页面）
+- index.md：Last updated 2026-11-19；Total 395→**397**（entities 174→176）；车企（中国）35→37；blurb 更新 zhijie/xiangjie/fangchengbao-ti9
+- 完整性校验：comm 输出为空 ✅（397 注册 = 397 文件，0 缺失；3 个额外链接为独立分库 index，属预期）
+- 未建页（单次提及未达阈值）：魔视智能×北京现代定点、阜时科技C4轮、思瑞浦车规二极管、OSTA（消费电子品牌，仅并入享界页）、五菱星光/奕境X9/深蓝品牌中心——留 raw digest

@@ -1,7 +1,7 @@
 ---
 title: 小鹏MONA L05
 created: 2026-10-16
-updated: 2026-11-17
+updated: 2026-11-19
 type: entity
 tags: [vehicle, adas, ev-tech, pricing]
 sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
@@ -41,3 +41,6 @@ sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily
 ## 2026-11-17 更新：上市 3 分钟售罄（晚报）
 - **MONA L05 上市 3 分钟售罄**（小鹏 Q3 财报发布同日披露）——门槛级爆款确认：13.98 万起定价（11/15 已录）+ 图灵智驾下放组合击穿预算线
 - 判断：「3 分钟」口径与 [[song-ultra-dmi]] 上市节奏同级，验证 10-15 万纯电走量盘对「智驾平权」的吞吐能力；对 [[byd-qin-plus-dmi]] 的挤压从插混延伸到纯电（[[xiaopeng]] Q4 318 亿目标的量能基础）
+
+## 2026-11-19 无吸顶屏版本提前交付
+原需等待 5–9 周的无吸顶屏版已开始交付——用减配版本加速消化在手订单，MONA 产线爬坡顺利的信号（关联 [[xiaopeng]]）。

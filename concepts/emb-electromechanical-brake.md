@@ -1,7 +1,7 @@
 ---
 title: EMB电子机械制动
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-19
 type: concept
 tags: [ev-tech, adas, supply-chain]
 sources: [raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
@@ -32,3 +32,5 @@ EMB（Electro-Mechanical Brake，电子机械制动）：取消液压管路，�
 - [[aion-ray7]] - 华为 EMB 首发量产车型
 - [[l3-mandatory-standard]] - L3 强制国标（冗余需求的法规驱动）
 - [[li-l9-livis-tech]] - 线控底盘另一标杆（30 万+ 级）
+## 2026-11-19 功能安全团标发布
+中汽协发布 **EMB 轮边控制器功能安全团标**（亚太机电牵头）——EMB 量产铺标准基建，与 [[chassis-domain-control]] 线控底盘放量同步推进。

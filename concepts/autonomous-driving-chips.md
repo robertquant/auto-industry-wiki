@@ -1,7 +1,7 @@
 ---
 title: 智驾芯片格局
 created: 2026-06-30
-updated: 2026-11-08
+updated: 2026-11-19
 type: concept
 tags: [chip, autonomous-driving, ai, chinese]
 sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, memory/2026-08-18.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md, memory/2026-11-08.md]
@@ -178,3 +178,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-n
 - **财联社 11/8 口径（2026 年 8 月，乘用车域控芯片）**：**英伟达 30.2% / 地平线 19.8% / 华为 14.8%**——英伟达对第二名（地平线）领先差距从年初 **35.8pp 收窄至 10.4pp**（约半年缩窄 25pp）
 - 与 11/7 已录的「1-9 月 Orin-N 92.9 万 vs 昇腾610 86.0 万颗、差 6.9 万颗」互证：**三条口径（全年整合 50.9%、8 月域控、1-9 月装机）一致指向英伟达守擂、国产追赶**
 - 判断：若按 10.4pp 的收窄斜率，**2027 年英伟达域控份额或跌破 25%**——「英伟达主导但不再垄断」的转折点数据（[[auto-chip-competitive-landscape]]、[[nvidia]]）；华为昇腾从「生态玩家」进入第一梯队（[[huawei-auto]]）
+
+## 2026-11-19 高通 8650 中阶收割 + 零跑 LKC 数据
+- **高通 SA8650P 下探 10 万级**：[[leapmotor-lafa5]] 双芯片方案（8295P+8650）官宣——骁龙 Ride 抢中阶，蚕食英伟达 Orin 以下区间；已在合资端落地（[[gac-toyota]] 铂智3X Orin→8650）——第三方智驾平台 10-30 万价格带加速收割
+- **零跑 LKC**（自研底层视觉方案）出货超 45 万台、L2 出货 105 万套（11/18 披露）——自研低阶方案走量 vs 高阶外购（高通）的「两条腿」结构验证：中阶市场自研与外购并存

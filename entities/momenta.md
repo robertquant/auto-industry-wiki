@@ -1,7 +1,7 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-11-08
+updated: 2026-11-19
 type: entity
 tags: [tier1, adas, ai, system]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md, memory/2026-11-08.md]
@@ -122,3 +122,6 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **R7 世界模型在奔驰完成量产交付**（网通社 11/7）：**车位到车位首个豪华品牌**；**L2 立项到量产 12 个月**——承接 10/22「R7 世界模型交付中」，头部豪华客户交付闭环坐实（[[mercedes-benz]]）
 - 迈巴赫 S 端侧多模态由中国团队主导 = Momenta 能力从智驾域延伸到端侧多模态算法
 - 判断：**12 个月交付周期 = 第三方方案商「工程化效率」的可量化卖点**，比传统研发周期快一个数量级（[[automotive-rd-speed]]）；奔驰案例将成为 Momenta 全球化谈判的样板间，与神龙「共定义产品」（10/23）、上汽合资（11/7）并列为「方案商主权化」路线的交付实证
+
+## 2026-11-18 R7 世界模型 + 豆包 = 奔驰智混CLA
+奔驰智混CLA 官宣搭载 Momenta R7 世界模型 + 豆包大模型（11/18）——R7 从训练/仿真工具正式成为量产车组件，紧随 [[mercedes-benz]] 纯电GLC 量产交付之后，奔驰×Momenta×字节豆包三角落地。

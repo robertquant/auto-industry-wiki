@@ -1,7 +1,7 @@
 ---
 title: 方程豹钛9
 created: 2026-10-08
-updated: 2026-11-10
+updated: 2026-11-19
 type: entity
 tags: [vehicle, oem-cn, platform]
 sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -39,3 +39,9 @@ sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-
 - **11/9 西安工厂下线（即比亚迪第 1900 万辆新能源车，见 [[byd]]），同日开启全国预订，11 月正式上市**
 - **配置落定**：首搭全新混动平台、第二代刀片电池、闪充、云辇-A、天神之眼 B；**综合续航 1630km**
 - 判断：承载式 DMS 平台（10/8 已录）+ 二代刀片/闪充/云辇-A 全家桶 = 「城市家用全尺寸」定位的配置闭环，大六座插混直插 [[li-auto]] L9 / [[wenjie]] M9 的家庭盘（[[9-series-suv-battle]]）；「下线即预订、当月即上市」= 62 天/百万产能节奏（[[byd]]）下的新品常态化打法
+
+## 2026-11-19 杭州上市
+- 业内预测售价 **30.98–37.98 万**（主销 33–35 万区间）
+- 车长 5,270mm / 轴距 3,130mm 承载式方盒子六座 SUV；全系标配**云辇-A 空悬 + 后轮转向 + 天神之眼 B5.0 智驾**
+- 1.5T 插混 + 400kW 双电机、二代刀片电池（关联 [[fifth-gen-lfp-battery]]）、纯电 310km / 综合超 1,600km
+- 卡位 魏牌蓝山 与 [[li-auto]] L9 之间的差异化空间——硬派品牌向城市家用扩张的实车落地

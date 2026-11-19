@@ -1,7 +1,7 @@
 ---
 title: 禾赛科技 (Hesai)
 created: 2026-05-24
-updated: 2026-11-13
+updated: 2026-11-19
 type: entity
 tags: [liDAR, supplier, china, adas]
 sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-05-24.md, raw/articles/2026-10-17-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
@@ -75,3 +75,12 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-05-24.md, raw/art
 - **激光雷达交付 72.97 万台，同比 +65.3%**——智驾平权（[[lidar-penetration]]）带动激光雷达放量的最直接注脚
 - **战略增长业务（SGI）营收 9,051 万元，环比 +101.4%**
 - 判断：交付量增速（+65.3%）显著高于营收增速（+34.3%）= 单价继续下探、以量换市场——激光雷达规模订单的「毛利率承压 vs 份额锁定」交换仍在继续（[[liDAR-cost]]）；SGI 环比翻倍 = 非车业务（机器人/AI 训练数据，见 10/17 Kosmo、11/11 机器人模组）进入放量期
+
+## 2026 Q3（11/19 披露）
+| 维度 | 数据 |
+|------|------|
+| 营收 | 10.68 亿元（+34.3%） |
+| 激光雷达交付 | 72.97 万台（+65.3%） |
+| 战略增长业务 SGI | 9,051 万元（环比 +101.4%） |
+
+激光雷达龙头量价齐升，SGI（机器人等第二曲线）环比翻倍——车载与具身双轮驱动成型。

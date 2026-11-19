@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-17
+updated: 2026-11-19
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
@@ -301,3 +301,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **乘用车 EBIT 较 2022 峰值累计减少约 140 亿欧元**；Q3 核心利润 17.7 亿欧、**利润率仅 2.5%**（Q3 财报 307 亿欧/-4.4%，10/27 已录）——豪华溢价崩塌的量化确认
 - **2027 美国销量目标 33 万辆**：加税环境下把美国列为结构性恢复点（对照 [[bmw]] 美国关税闭环 15%→10%）
 - 判断：「美国 33 万 × 中国 100% 本土化（11/12 已录）」双支柱 = 奔驰全球收缩（德国投资冻结，11/13 已录）后的再布局：利润修复不指望德国，而押两个最大单一市场的本土产能——德系「本土化漂移」完成的标志样本（[[leapmotor-stellantis]] 反向镜像）
+
+## 2026-11-18 智混CLA官宣：Momenta R7 世界模型 + 豆包大模型
+- 广州车展 26 款阵容；智混CLA内置 **[[momenta]] R7 世界模型 + 豆包 AI 大模型**，官方称「行业头部」智能科技
+- 跨国豪华品牌本土 AI 合作进入「核心算法 + 国产大模型」深水区——德系智能化补课从发布会 PPT 走向量产清单（延续「由中国定义、为全球输出」主线）

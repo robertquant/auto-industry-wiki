@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-11-10
+updated: 2026-11-19
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -72,3 +72,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 - **魏建军微博（11/10）**：H10 产能已大幅提升，11 月力保 18,000 台、挑战 20,000 台，并现身工厂「帮用户催单」
 - 数据背景：H10 8 月上市、24h 大定 31,826 台、首月交付 10,178 台、交付周期曾排至 4-6 周——11 月保 18,000 = 较首月交付提升约七成，产能瓶颈期已过、进入集中放量期
 - 判断：H10 是长城 2026 下半年的现象级订单车型，「魏建军亲自催单」= 订单热度与交付短板的公开对冲打法；放量兑现与否直接关系长城国内基盘的企稳节奏（对照 [[byd]] 产能叙事、[[2026-10-china-sales-battle]] 大盘）
+
+## 2026-11-19 智驾-底盘协同控制（第六届汽车AI智能底盘大会）
+- 线控底盘总工程师景立新：底盘实时向智驾提供车辆稳定性边界，**ABS/TCS 介入时智驾可延迟退出**（此前多数方案「一退了之」），面向 L3 优化
+- 现场展示 220km/h 同侧双轮爆胎稳定控制；线控制动、线控转向自研已进入整车测试（关联 [[chassis-domain-control]]）
