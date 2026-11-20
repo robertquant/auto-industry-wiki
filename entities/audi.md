@@ -1,14 +1,17 @@
 ---
 title: 奥迪 (Audi)
 created: 2026-10-23
-updated: 2026-11-13
+updated: 2026-11-20
 type: entity
 tags: [oem-eu, strategy, sales]
-sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, daily-news/2026-10-23-gasgoo-evening.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-08-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 奥迪 (Audi)
 
+## 2026-11-20 更新：E7X 下月 OTA 推送 Momenta R7 世界模型智驾
+
+- **E7X 将于下月（12 月）OTA 推送 Momenta R7 世界模型智驾**——11/13 AUDI DAY 首发后的软件到位节奏（[[momenta]]）；900V 硬件就位 → 智驾软件就位的「奥迪在华双线提速」落地
 ## 概述
 大众集团旗下豪华品牌。2026 年在中国市场承受电动化转型与本土竞争双重压力，2026-10-22 宣布管理层本土化重大动作——**首位中国籍总裁**执掌奥迪中国。
 

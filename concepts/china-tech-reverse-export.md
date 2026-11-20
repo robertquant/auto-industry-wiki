@@ -1,14 +1,19 @@
 ---
 title: 中国技术反向输出
 created: 2026-04-30
-updated: 2026-06-19
+updated: 2026-11-20
 type: concept
 tags: [strategy, china, europe, partnership]
-sources: [raw/articles/2026-04-30-renault-daily.md, memory/2026-06-19.md]
+sources: [raw/articles/2026-04-30-renault-daily.md, memory/2026-06-19.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 中国技术反向输出
 
+## 2026-11-20 更新：模式图谱扩容——美国技术授权 + 南美平台输出
+
+- **福特×宁德时代（美国密歇根）**：福特拥有并运营工厂、宁德时代以技术许可方提供 LFP 电芯技术与服务——中国电池技术首次以「纯授权」形态进入美国产能，绕开直接投资的政治阻力（[[north-america-ev-trade-barriers-2026]]、[[catl]]）
+- **吉利×雷诺巴西**：吉利收购雷诺巴西 26% 股权 + 38 亿雷亚尔联合投资——「平台输出 + 入股外资子公司」，从技术换市场进阶到平台资本化（[[geely]]、[[renault]]）
+- 模式图谱完整化：整车出口 → 整车本地化生产 → 技术授权/平台输出 → 入股合资（对照 [[chinese-oem-export]]）；欧洲车企向中国平台/智驾供应链的让渡速度快于预期
 ## 定义
 中国汽车技术通过合资、平台共享、研发合作等方式进入欧洲车企产品线的现象，区别于传统的"市场换技术"，是"技术换市场"的新模式。
 
@@ -60,9 +65,9 @@ sources: [raw/articles/2026-04-30-renault-daily.md, memory/2026-06-19.md]
 - 提升技术话语权
 
 ## 相关概念
-- [[吉利]] - 技术输出的典型案例
-- [[雷诺]] - 通过中国研发降本的欧洲车企
-- [[零跑]] - 平台输出欧洲的新势力
+- [[geely]] - 技术输出的典型案例
+- [[renault]] - 通过中国研发降本的欧洲车企
+- [[leapmotor]] - 平台输出欧洲的新势力
 - [[stellantis]] - 零跑合作的欧洲车企
 
 ## 待观察

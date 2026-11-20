@@ -1,15 +1,18 @@
 ---
 title: 赛力斯 (Seres)
 created: 2026-08-17
-updated: 2026-11-15
+updated: 2026-11-20
 type: entity
 tags: [oem-cn, adas, ai, vehicle]
-sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 contradictions: [wenjie]
 ---
 
 # 赛力斯 (Seres)
 
+## 2026-11-20 更新：超级工厂入选工信部「领航级智能工厂」
+
+- **赛力斯超级工厂入选工信部领航级智能工厂（34 家之一，11/19）**：「厂中厂」宁德时代驻厂模式、能耗数据 100% 在线可视——智能制造标杆 + 供应链共生样本（[[catl]]、[[ai-engineering-2026]]）
 ## 概述
 华为智选车模式核心合作伙伴，问界品牌制造商。2026年AI升级为业务重构引擎，覆盖研发、生产、供应、销售、服务全链条。联合宁德时代等成立赛豆科技，布局AI出行品牌AIVA。
 

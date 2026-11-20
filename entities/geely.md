@@ -1,16 +1,22 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-15
+updated: 2026-11-20
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
 
 ## 概述
 中国自主品牌龙头之一，2026年H1收入1736亿元，核心归母净利润96.8亿元。2026年8月完成重大管理层交接：李书福辞任董事会主席，安聪慧接任。战略转向纯电高压超快充，不再研发传统燃油动力总成。
+
+## 2026-11-20 更新：收购雷诺巴西 26% 股权——「平台输出+入股外资子公司」范式
+
+- **联合投资 38 亿雷亚尔（约 7.14 亿美元）** 与雷诺进军巴西：投向吉利零排放平台两款新车（2026 下半年投产）+ 雷诺 2027 款
+- **收购雷诺巴西 26% 股权**，接入 Curitiba 工厂产能
+- 判断：中国车企出海从「出口整车」升级为「**输出平台+入股外资子公司**」——吉利出平台、雷诺出渠道，南美复制（对比 [[chinese-oem-export]] 三种既往模式；[[renault]] 让渡平台话语权）；与极氪底盘出口 Waymo、零跑 Stellantis 产线输出共同构成出海模式谱系（[[china-tech-reverse-export]]）
 
 ## 2026年8月销量战报 + Q2业绩
 

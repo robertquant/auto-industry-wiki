@@ -1,14 +1,18 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-20
 type: concept
 tags: [export, strategy, trend, oem-cn]
-sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 中国车企出海 (Chinese OEM Export)
 
+## 2026-11-20 更新：南美复制 + 供应链本地化配套
+
+- **吉利×雷诺巴西深化**：收购雷诺巴西 26% 股权，38 亿雷亚尔投向吉利零排放平台两款新车（2026 下半年投产）+ 雷诺 2027 款——「吉利出平台、雷诺出渠道」南美复制（此前 EX5 EM-i 拉美首车下线为技术输出首站）（[[geely]]、[[renault]]、[[china-tech-reverse-export]]）
+- **供应链本地化配套成下一焦点**：零跑 B10 西班牙投产 + 德赛西威西班牙智能工厂开幕——整车产能出海之后，中国供应商「三条出海路径」开始成体系落地（[[leapmotor]]）
 ## 概述
 2026年8月中国车企出海进入「指数级扩张期」：[[byd]]海外销量1-8月累计115.8万辆已超2025全年，[[geely]]出口连续3个月破10万辆，[[chery]]以19.7万辆/月稳坐出口王。出海从「锦上添花」升级为「第二增长曲线＋利润引擎」。
 

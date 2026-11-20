@@ -1,14 +1,17 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-20
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 宝马 (BMW)
 
+## 2026-11-20 更新：iX3 座舱接入 DeepSeek/阿里 AI
+
+- 新世代 iX3（11/25 上市交付）座舱**接入 DeepSeek/阿里 AI**（晨报口径）——智驾绑定 [[momenta]] 之外的座舱 AI 本地化组合（对照 [[mercedes-benz]] 的豆包大模型选择）
 ## 概述
 德国豪华品牌，2026年5月完成掌门人更替（齐普策→聂科维）。押注中国智驾供应链（与[[momenta]]深度共研）实现智能化跃迁，iX3长轴以「900km续航+26.99万起」成为欧洲品牌在华电动化标杆。成都车展智驾平权代表作。
 

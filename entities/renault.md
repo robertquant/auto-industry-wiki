@@ -1,11 +1,23 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-17
+updated: 2026-11-20
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
+
+## 2026-11-20 更新：吉利×雷诺巴西合资 + 欧洲产品线捷报
+
+### 吉利×雷诺巴西：平台输出 + 入股合资（38亿雷亚尔）
+- 双方联合投资 **38 亿雷亚尔（约 7.14 亿美元）**：投向吉利零排放平台两款新车（**2026 下半年投产**）+ 雷诺 2027 款
+- **吉利已收购雷诺巴西 26% 股权**，接入 Curitiba 工厂——「吉利出平台、雷诺出渠道」，南美市场复制（对照 [[china-tech-reverse-export]] 模式图谱）
+- 判断：雷诺保留品牌渠道、让渡平台话语权——2026 欧洲车企生存策略写照（[[chinese-oem-export]]）；雷诺巴西 = 雷诺集团「欧洲防守 + 新兴市场借力中国平台」的双轨样本
+
+### 欧洲产品线捷报
+- **R5 仍是欧洲 B 级纯电销冠**（上半年 BEV +63.2%）——平价电动进攻主力的持续兑现
+- **Twingo 入选 2027 欧洲年度车决赛**（[[twingo-e-tech]]）
+- 日产 Twingo 版共线生产（晨报口径为「杜埃共线」，与本页既有「斯洛文尼亚 Novo Mesto 共线姊妹车」记录不同——**路线细节待核实**）
 
 ## 2026-10-06 更新：雷诺速递（robert 主动要求抽取）
 

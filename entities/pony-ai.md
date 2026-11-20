@@ -1,14 +1,18 @@
 ---
 title: 小马智行 (Pony.ai)
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-20
 type: entity
 tags: [adas, l4, china]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/2026-06-16.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-04.md, memory/2026-06-16.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 小马智行 (Pony.ai)
 
+## 2026-11-20 更新：第四代自动驾驶卡车（×三一重卡×东风柳汽）
+
+- **第四代自动驾驶卡车明年量产**：首批两款车型基于三方纯电平台、面向**千台量级**开发——干线物流成为 L4 商业化最快赛道（[[autonomous-driving-market-2026]]）
+- 判断：小马智行从乘用车 Robotaxi 向**专用场景（重卡干线）抢跑**扩张，与特斯拉成熟平台改造路线（[[tesla]]）分道
 ## 概述
 中国L4自动驾驶技术公司，由前Google、百度工程师创立，Robotaxi运营规模领先。
 

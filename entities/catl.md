@@ -1,16 +1,22 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-11-19
+updated: 2026-11-20
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md]
 ---
 
 # 宁德时代 (CATL)
 
 ## 概述
 全球动力电池龙头，2026年全球市占率39.9%。从高速成长期的高资本投入模式，转向兼顾股东长期回报的高质量发展阶段。2026年8月宣布61.8亿元中期分红。9月收购吉利系重庆耀宁新能源股权，同时面临车企「去宁德化」加速的逆风。
+
+## 2026-11-20 更新：福特密歇根电池工厂投产——技术授权模式落地美国
+
+- **福特拥有并运营密歇根工厂**，宁德时代以技术许可方角色提供 LFP 电芯技术与服务，首批磷酸铁锂电芯已下线发运
+- 「工厂归福特、技术进美国」：**绕开直接投资的政治阻力**——技术授权成为中国供应链出海美国的可行路径（[[north-america-ev-trade-barriers-2026]]、[[china-tech-reverse-export]]）
+- 判断：工艺导入、质量与 IP 管理的长期博弈才开始；模式可复制性取决于美国 IRA 合规与关税豁免条款的后续演化
 
 ## 2026年9月关键动态
 

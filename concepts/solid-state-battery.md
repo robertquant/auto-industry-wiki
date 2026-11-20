@@ -1,12 +1,16 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-11-11
+updated: 2026-11-20
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md]
 ---
 
+## 2026-11-20 更新：CBIS2026 聚合物基路线声势上升
+
+- **CBIS2026 动力电池峰会（11/20）**：大会主席（加拿大皇家科学院院士）系统阐述**聚合物基固态电解质**产业化前景——与比亚迪硫化物路线（2027 量产定档，见 [[byd]]）形成路线之争；聚合物基有望迭代液态电解质，产业化路径分歧显性化
+- 同期云山动力预测 **2030 年大圆柱市场规模 834GWh**——固态前夜的产能路线分歧（方壳/大圆柱/固态并行，[[global-battery-market-2026]]、[[powertrain-tech-routes-2027]]）
 ## 2026-09-29 更新：比亚迪定档 + 国家级规划对齐
 
 - **比亚迪全固态量产车定档 2027**（李柯确认）：硫化物路线 + 硅基负极、400Wh/kg、CLTC 1218km 原型车，**仰望新旗舰轿车或首搭**，配天神之眼 DiPilot 600。比亚迪成为全球首个确认硫化物全固态上车时间的主流车企。

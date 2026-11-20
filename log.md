@@ -1921,3 +1921,16 @@
 - index.md：Last updated 2026-11-19；Total 395→**397**（entities 174→176）；车企（中国）35→37；blurb 更新 zhijie/xiangjie/fangchengbao-ti9
 - 完整性校验：comm 输出为空 ✅（397 注册 = 397 文件，0 缺失；3 个额外链接为独立分库 index，属预期）
 - 未建页（单次提及未达阈值）：魔视智能×北京现代定点、阜时科技C4轮、思瑞浦车规二极管、OSTA（消费电子品牌，仅并入享界页）、五菱星光/奕境X9/深蓝品牌中心——留 raw digest
+
+## [2026-11-20] ingest | 每日整理（晨报 + AI日报 + 盖世晚报）
+- 新建概念 1：**powertrain-tech-routes-2027**（动力总成技术路线窗口 2027-28：罗姆第五代SiC平面型2027量产/马威W-pin铜线量产+铝线电机验证/意法「X in 1并非越多越好」/长安HEV重新定位/DGIST低重稀土永磁——四条路线并行）
+- 新建 raw/articles/2026-11-20-daily-digest.md（晨报+AI日报素材；晚报已在 daily-news/2026-11-20-gasgoo-evening.md）
+- 更新实体页 13：renault（吉利雷诺巴西合资38亿雷亚尔/雷诺巴西26%股权、R5仍为欧洲B级纯电销冠、Twingo入围2027欧洲年度车、日产Twingo版共线口径待核实）、geely（收购雷诺巴西26%股权=「平台输出+入股外资子公司」范式）、catl（福特密歇根电池厂投产：技术授权模式落地美国）、tesla（无方向盘Model Y Robotaxi版6-7座：存量平台改造路线）、leapmotor（第200万台下线/首家新势力、D19双高通8797+1000V、供应链本地化配套出海）、xiaopeng（澄清Robotaxi传闻+IRON机器人2027Q2商业化）、pony-ai（×三一重卡×东风柳汽第四代自动驾驶卡车千台级明年量产）、fangchengbao-ti9（上市确认+闪充5分钟充好/9分钟充饱+双子星矩阵）、denza（Z9 GT连续7个月豪华GT销冠）、audi（E7X 12月OTA Momenta R7）、gac-toyota（否认燃油车停产+新款威兰达）、seres（超级工厂入选工信部领航级智能工厂）、bmw（iX3座舱接入DeepSeek/阿里AI）
+- 更新概念页 5：china-tech-reverse-export（模式图谱扩容：福特技术授权入美+吉利入股雷诺巴西）、chinese-oem-export（南美复制+供应链本地化配套）、solid-state-battery（CBIS2026聚合物基vs硫化物路线之争）、global-battery-market-2026（龙蟠上调宁德采购上限90亿+云山2030大圆柱834GWh）、autonomous-driving-market-2026（L4产品化两路线分化：特斯拉存量改造vs小马智行重卡抢跑）
+- 导航更新：index.md Last updated 2026-11-20；Total 397→**398**（concepts 196→197）；blurb 更新16条并修复4条历史截断（geely/tesla/chinese-oem-export/global-battery-market-2026）
+- 完整性校验：comm 输出为空 ✅（398 注册 = 398 文件，0 缺失；额外链接为独立分库 index，属预期）
+- 发现待办（未处理，flag）：renault.md 存在「2026-10-06 更新」整段重复（10-36行与38-64行），建议后续 lint/归档时去重；日产Twingo版共线工厂口径（杜埃 vs Novo Mesto）待核实
+- 未建页（单次提及未达阈值）：传祺越7激光雷达版18.78万、吉林「人工智能+」十五五规划、马威/罗姆/意法半导体（并入新概念页）、OSTA（消费电子，已并入享界页）
+## [2026-11-20] lint | 断链修复
+- 修复 china-tech-reverse-export 页 3 处旧中文链接：[[吉利]]→[[geely]]、[[雷诺]]→[[renault]]、[[零跑]]→[[leapmotor]]
+- 校验结果：comm 为空（398 注册 = 398 文件，0 缺失）；19 个触及页面 frontmatter 全部合规；新页 powertrain-tech-routes-2027 已被 solid-state-battery / global-battery-market-2026 反向链接

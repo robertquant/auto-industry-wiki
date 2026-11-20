@@ -1,14 +1,17 @@
 ---
 title: 广汽丰田（GAC Toyota）
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-11-20
 type: entity
 tags: [oem-jp, vehicle, adas, controversy]
-sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md]
+sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 广汽丰田（GAC Toyota）
 
+## 2026-11-20 更新：否认燃油车停产传闻 + 新款威兰达
+
+- **否认主力燃油车停产传闻**，发布新款威兰达——合资燃油盘维稳信号：销量连跌（6-9 月 -9.4/-19.8/-17.7/-28.4%）后稳住基盘产品线（[[gac]] 合资资产重组背景下的防御姿态）
 ## 概述
 丰田在华两大合资主体之一（广汽集团×丰田，与一汽丰田并列）。2026年10月成为合资品牌智驾「兜底承诺」与「降本换芯」双重压力的标志性案例——铂智3X「兜底罗生门」+ 芯片静默降级事件。
 

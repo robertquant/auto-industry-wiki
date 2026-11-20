@@ -1,10 +1,10 @@
 ---
 title: 方程豹钛9
 created: 2026-10-08
-updated: 2026-11-19
+updated: 2026-11-20
 type: entity
 tags: [vehicle, oem-cn, platform]
-sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md]
 ---
 
 # 方程豹钛9
@@ -45,3 +45,9 @@ sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-
 - 车长 5,270mm / 轴距 3,130mm 承载式方盒子六座 SUV；全系标配**云辇-A 空悬 + 后轮转向 + 天神之眼 B5.0 智驾**
 - 1.5T 插混 + 400kW 双电机、二代刀片电池（关联 [[fifth-gen-lfp-battery]]）、纯电 310km / 综合超 1,600km
 - 卡位 魏牌蓝山 与 [[li-auto]] L9 之间的差异化空间——硬派品牌向城市家用扩张的实车落地
+
+## 2026-11-20 增补：正式上市确认 + 双子星矩阵
+
+- **11/19 杭州正式上市，全系标配第二代刀片电池**；闪充细节：**5 分钟充好 / 9 分钟充饱，-30℃ 仅多 3 分钟**（晨报口径，关联 [[fifth-gen-lfp-battery]]）
+- 与 [[denza]] Z9 GT（连续 7 个月新能源豪华 GT 销冠）形成比亚迪高端「双子星矩阵」
+- 判断：闪充下放 35 万级方盒子 = 技术下放为广州车展（11/27）蓄能

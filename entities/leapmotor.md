@@ -1,14 +1,20 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-19
+updated: 2026-11-20
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 零跑汽车 (Leapmotor)
 
+## 2026-11-20 更新：第 200 万台下线（首家新势力）+ 供应链出海配套
+
+- **第 200 万台下线（11/19，D19 车型）**：首家达成 200 万台的新势力；D19 搭载**双高通 8797 合计 1280 TOPS + 1000V 高压平台**
+- 月销连续破 10 万台、全球新能源销量前四（与 [[byd]]/[[tesla]] 同列）
+- **供应链本地化配套出海**：B10 西班牙萨拉戈萨投产 + 德赛西威西班牙智能工厂开幕——整车产能出海后供应链配套成下一竞争焦点（[[chinese-oem-export]]）
+- Lafa5 定档 11/27 上市（[[leapmotor-lafa5]]）
 ## 概述
 新势力销量榜首，2026年7月交付首破10万辆改写行业历史。与Stellantis合作出海，B10车型在西班牙萨拉戈萨工厂生产。性价比路线+出海战略双轮驱动。
 

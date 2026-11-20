@@ -1,12 +1,16 @@
 ---
 title: 全球动力电池格局 (2026)
 created: 2026-08-06
-updated: 2026-11-12
+updated: 2026-11-20
 type: concept
 tags: [battery, supply-chain, trend, oem-cn, oem-kr]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md]
 ---
 
+## 2026-11-20 更新：铁锂双端放量 + 大圆柱预测
+
+- **龙蟠科技上调宁德时代采购上限至 90 亿元（+28.6%）**：2026 年前 11 个月采购额 61 亿 ≈ 2025 全年两倍——磷酸铁锂正极需求跳升，动力 + 储能双端放量印证铁锂主线（[[ternary-vs-lfp-2026]]、[[catl]]）
+- **云山动力预测 2030 年大圆柱市场规模 834GWh**：大圆柱 vs 方壳产能路线之争持续，与固态路线构成产能三重押注（[[solid-state-battery]]、[[powertrain-tech-routes-2027]]）
 ## 2026-10-20 更新：9月产量 237.8GWh（+57.3%）+ 1-8月全球装车 TOP10
 
 - **9 月中国动力+储能电池合计产量 237.8GWh（+57.3%）**；1-9 月累计 **1833.1GWh（+63.4%）**（电池联盟）——装车结构继续向 LFP 倾斜，**储能成第二增长曲线**

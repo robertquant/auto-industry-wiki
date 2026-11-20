@@ -1,16 +1,20 @@
 ---
 title: 腾势（Denza）
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-20
 type: entity
 tags: [oem-cn, vehicle, export, strategy]
-sources: [raw/articles/2026-11-17-daily-digest.md, raw/articles/2026-11-13-daily-digest.md]
+sources: [raw/articles/2026-11-17-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md]
 ---
 
 # 腾势（Denza）
 
 比亚迪旗下高端新能源品牌（与奔驰合资时期创立，2021 年比亚迪全面主导后定位高端化）。以「易三方」三电机技术 + 天神之眼智驾为差异化标签，是比亚迪技术旗舰向 30-50 万级上探的主力品牌。
 
+## 2026-11-20 更新：Z9 GT 连续 7 个月新能源豪华 GT 销冠
+
+- **腾势 Z9 GT 连续 7 个月斩获新能源豪华 GT 销冠**——50 万级中国品牌 GT 站稳脚跟（2026-11-20 晨报/晚报口径）
+- 与 [[fangchengbao-ti9]]（全系标配二代刀片）构成比亚迪高端「双子星矩阵」；印度市场发布（11/13）后的国内基盘验证
 ## 关键事实与时间线
 
 - **全新 N8（2026-11 上市）**：130kWh 电池 CLTC 1003km、易三方三电机 890kW、天神之眼 5.0 + 云辇-A——「技术堆料换量」路线代表（详见 [[denza-n8]]）

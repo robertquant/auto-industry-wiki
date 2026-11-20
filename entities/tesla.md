@@ -1,16 +1,21 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-17
+updated: 2026-11-20
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
 
 ## 概述
 美国电动车巨头，2026年9月发布无方向盘Robotaxi车型Cybercab（约20万元人民币），把「无人驾驶出租车」从概念推向量产。同日线控底盘赛道被点燃，次日即遭NHTSA安全调查。
+
+## 无方向盘 Model Y Robotaxi 版（2026-11-19 DealBook 峰会宣布）
+
+- **6-7 人座、无方向盘**的自动驾驶版 Model Y——Robotaxi 从 Cybercab 概念车路线转向**存量平台改造**：成熟车型产线复用，成本与法规路径更短（对照 [[cybertruck]] 的定制化路线）
+- **判断**：L4 产品化两条路线分化——特斯拉「成熟平台改造（抠成本）」vs 小马智行「专用场景抢跑」（[[pony-ai]]），且与小鹏的谨慎澄清（[[xiaopeng]]）形成节奏差异（[[autonomous-driving-market-2026]]）
 
 ## Cybercab（2026年9月3日发布）
 

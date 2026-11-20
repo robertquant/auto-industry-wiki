@@ -1,16 +1,21 @@
 ---
 title: 自动驾驶市场规模与商业化（2026）
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-20
 type: concept
 tags: [trend, adas, market, policy]
-sources: [raw/articles/2026-11-02-daily-digest.md]
+sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 自动驾驶市场规模与商业化（2026）
 
 2026 年中国自动驾驶市场的「全景」口径数据（OFweek / 36氪研究院 11/2 报告）。行业命题正从「技术验证」转向「商业闭环」。
 
+## 2026-11-20 更新：L4 产品化两条路线分化
+
+- **特斯拉：存量平台改造**——无方向盘 Model Y（6-7 座）从 Cybercab 概念车转向成熟平台抠成本（[[tesla]]）
+- **小马智行：专用场景抢跑**——×三一重卡×东风柳汽第四代自动驾驶卡车、千台级明年量产，干线物流最快商业化赛道（[[pony-ai]]）
+- **小鹏：谨慎澄清**——否认 2026-27 年产数千辆 Robotaxi、IRON 机器人 2027 Q2 商业化（[[xiaopeng]]）——三样本节奏分化 = L4 量产节奏从「叙事」进入「路线选择」阶段
 ## 关键数据
 | 指标 | 数据 |
 |------|------|

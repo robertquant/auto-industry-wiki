@@ -1,14 +1,18 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-17
+updated: 2026-11-20
 type: entity
 tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
 ---
 
 # 小鹏汽车
 
+## 2026-11-20 更新：澄清 Robotaxi 传闻 + IRON 机器人商业化
+
+- **否认 2026-27 年年产数千辆自动驾驶出租车**——与特斯拉存量改造（[[tesla]]）、小马智行重卡抢跑（[[pony-ai]]）形成节奏差异：量产放量的谨慎姿态
+- **IRON 机器人商业版明年（2027）Q2 发布**——机器人第二曲线（[[humanoid-robot-industry]]）
 ## 概述
 小鹏汽车是中国新势力车企之一,以智驾技术为核心差异化竞争力。2026年在VLA路线之争中与华为形成技术观点分歧,以实测数据回应"蒸馏路线质疑"。
 
