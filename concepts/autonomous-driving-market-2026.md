@@ -1,10 +1,10 @@
 ---
 title: 自动驾驶市场规模与商业化（2026）
 created: 2026-11-02
-updated: 2026-11-20
+updated: 2026-11-21
 type: concept
 tags: [trend, adas, market, policy]
-sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 自动驾驶市场规模与商业化（2026）
@@ -16,6 +16,12 @@ sources: [raw/articles/2026-11-02-daily-digest.md, daily-news/2026-11-20-ai-dail
 - **特斯拉：存量平台改造**——无方向盘 Model Y（6-7 座）从 Cybercab 概念车转向成熟平台抠成本（[[tesla]]）
 - **小马智行：专用场景抢跑**——×三一重卡×东风柳汽第四代自动驾驶卡车、千台级明年量产，干线物流最快商业化赛道（[[pony-ai]]）
 - **小鹏：谨慎澄清**——否认 2026-27 年产数千辆 Robotaxi、IRON 机器人 2027 Q2 商业化（[[xiaopeng]]）——三样本节奏分化 = L4 量产节奏从「叙事」进入「路线选择」阶段
+## 2026-11-21 更新：UE 转正 + 监管破冰——「合规/盈利」决定期两个实证
+
+- **文远知行 Q3：Robotaxi UE 首次转正**（营收 3.215 亿 +88%、毛利率 43%、Robotaxi 收入首破 1 亿 +204% 海外占比 >90%、广州单车日均 21 单）（[[weRide]]）——「轻资产出海」首次给出可复制经济模型，亏损扩大 22% 意味拐点未至但模型已验证
+- **特斯拉 TAD 意大利获批**（欧盟主要国家首例、临时批准+持续监督义务）——监管破冰换市场（[[tesla-tad-europe-2026]]）
+- 判断：商业闭环命题的答案结构定型——**UE 转正（盈利验证）+ 监管准入（合规验证）**双轴驱动；技术叙事退潮，能落地/合规/赚钱的才是真增量
+
 ## 关键数据
 | 指标 | 数据 |
 |------|------|

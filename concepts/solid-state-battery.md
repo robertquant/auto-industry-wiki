@@ -1,11 +1,15 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-11-20
+updated: 2026-11-21
 type: concept
-tags: [battery, solid-state, catl, byd, technology, eve-energy]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md]
+tags: [battery, solid-state, catl, byd, technology, eve-energy, supply-chain]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
+
+## 2026-11-21 更新：金属锂补链——天齐锂业 1000 吨项目竣工
+
+- **天齐锂业重庆铜梁年产 1000 吨金属锂项目竣工**（全国首个全自动电池级金属锂工厂，重庆总产能升至 1600 吨/年），产品已向头部电池客户送样——**固态电池锂金属负极与补锂刚需的上游产能卡位**（[[tianqi-lithium]]）；与 CBIS2026 聚合物/硫化物路线之争（11/20 已录）联动：锂金属负极是两条路线共同的增量方向
 
 ## 2026-11-20 更新：CBIS2026 聚合物基路线声势上升
 

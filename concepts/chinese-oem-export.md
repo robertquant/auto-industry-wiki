@@ -1,13 +1,18 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-11-20
+updated: 2026-11-21
 type: concept
 tags: [export, strategy, trend, oem-cn]
-sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 中国车企出海 (Chinese OEM Export)
+
+## 2026-11-21 更新：海湾首站 + 体系化目标（晨报）
+- **小米首次出海：阿联酋首站**——SU7 起 169,900 迪拉姆（≈30.9 万人民币），Gargash Prime 代理、12 月首批交付：绕开关税、试水渠道，最小可行模型（[[xiaomi-auto]]）
+- **吉利官宣 2028 年出口 200 万辆目标**（花旗大会）+ 10 月出口 10.72 万（+158%）——出海从「卖车」转向「建体系」：平台输出（雷诺巴西 26% 股权）、入股合资、供应链本地化配套三线成型（[[geely]]、[[leapmotor]]）
+- **判断：出海打法体系化**——新车企试水（小米代理制）→ 头部车企建体系（吉利入股+目标量化），两条路径按体量分层（[[china-tech-reverse-export]]、[[export-tax-rebate-cut-2026]]）
 
 ## 2026-11-20 更新：南美复制 + 供应链本地化配套
 

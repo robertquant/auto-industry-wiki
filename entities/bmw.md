@@ -1,13 +1,17 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-20
+updated: 2026-11-21
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 宝马 (BMW)
+
+## 2026-11-21 更新：二次下调 2026 预期——BBA 里先扛不住（晨报）
+- **二次下调 2026 全年预期**，利润率指引降至 **-0.5%~+0.5%**——BBA 中率先承压（对照 [[mercedes-benz]] 「过渡年」定位、[[audi]] 本土化提速）
+- 背景：iX3 新车攻势（11/25 上市）尚未兑现为利润，欧洲需求疲软 + 中国价格战双面挤压（[[bba-ev-ranking-2026]]、[[q3-2026-earnings-season]]）
 
 ## 2026-11-20 更新：iX3 座舱接入 DeepSeek/阿里 AI
 

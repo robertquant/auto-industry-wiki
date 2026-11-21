@@ -1,13 +1,13 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-20
-type: entity
-tags: [xiaopeng, xiaopeng, ev, china, adas, end-to-end]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
+updated: 2026-11-21
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 小鹏汽车
+
+## 2026-11-21 更新：Q4 指引最高 +42.9% + AI Day 预告（晚报）
 
 ## 2026-11-20 更新：澄清 Robotaxi 传闻 + IRON 机器人商业化
 
@@ -246,6 +246,11 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Q3 营收 242.8 亿元**（盖世点评「**最强财报**」）——小鹏业绩质变信号：多车型矩阵（MONA 系列 + G9L）规模兑现 + 海外占比抬升（10 月海外 1.33 万、+166%，11/1 已录）的双轮盈利修复（[[mona-l03]]、[[xpeng-g9l]]）
 - **同日英国品牌之夜**：G9L、L03 两款「**一车双能**」（纯电+增程）车型上市——以英国为跳板加速欧洲布局，出海从「上市发布」进入「双能走量」阶段（[[china-oem-europe-top10-2026]]、[[china-tech-reverse-export]]）
 - 判断：「最强财报 + 英国之夜」同屏 = 小鹏 2026 年末叙事从「智驾赔本赚吆喝」切向「业绩与出海双线兑现」；Q3 营收口径与 10 月 5.02 万交付（11/1 已录）互为印证（[[q3-2026-earnings-season]] 新势力梯队对照）
+## 2026-11-21 更新：Q4 指引最高 +42.9% + AI Day 预告（晚报）
+- **Q3 双新高确认**：营收 242.8 亿 / 交付 11.8 万（11/16-17 已录）；瑞银指经营亏损 7.52 亿，好于市场预期 10.61 亿
+- **Q4 总收入指引最高同比 +42.9%**——MONA L05 + G9L 双能走量支撑（[[mona-l05]]、[[xpeng-g9l]]）
+- **11/25 AI Day 展示人形机器人**——物理 AI 商业化进入密集落地期（[[humanoid-robot-industry]]），与 IRON 机器人 2027 Q2 商用（11/20 已录）同线推进
+
 ## 2026-11-17 更新：Q3 财务完整体——新势力首个「量利双升」模板（晚报）
 - **Q3 交付 118,390 台**（11/16 已录营收 242.8 亿 +19.1%/环比 +23%），补全财务口径：**毛利率 18.9%、汽车毛利率环比升至 13.1%**——弱毛利率心智标签（长期 14% 智驾投入折价）开始反转
 - **海外交付 27,882 台、同比 +153.4%**；已进入 **82 个国家和地区**——海外从「赔本增长极」变成利润结构变量（对照 10 月单月海外 1.33 万 +166%，11/1 已录）

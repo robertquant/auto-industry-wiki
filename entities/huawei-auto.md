@@ -1,13 +1,17 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-11-05
+updated: 2026-11-21
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 华为汽车生态 (Huawei Auto)
+
+## 2026-11-21 更新：发布会变「全家桶」——星芒手机+享界V8+尚界Z7T
+- **星芒（OSTA）手机 + 享界V8 + 尚界Z7T 同场发布**（11/20）——华为从卖车转向**跨端入口统一**：手机/汽车/生态同场，座舱 Agent 竞争中底牌最厚（[[xiangjie]]、[[shangjie]]、[[tencent-tai]] 对照）
+- 判断：华为智选车进入「体系作战」阶段——单场发布会同时覆盖旗舰 MPV（V8）、上汽合作（Z7T）、终端品牌（OSTA），生态捆绑加深（[[in-cabin-ai-agent]]、[[cockpit-ai-barrier-layering]]）
 
 ## 概述
 

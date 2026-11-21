@@ -1,16 +1,21 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-20
+updated: 2026-11-21
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
 
 ## 概述
 美国电动车巨头，2026年9月发布无方向盘Robotaxi车型Cybercab（约20万元人民币），把「无人驾驶出租车」从概念推向量产。同日线控底盘赛道被点燃，次日即遭NHTSA安全调查。
+
+## 2026-11-21 更新：意大利批准 TAD——欧盟主要国家首例（AI日报）
+- **意大利批准特斯拉 TAD（原 FSD）**：欧盟主要国家首例；**临时批准 + 持续监督义务**
+- 欧洲走「小国试水→大国跟进」监管曲线——（[[tesla-tad-europe-2026]] 新建概念页）监管破冰换市场，与中国落地（[[tesla-fsd-china]]）形成双市场准入样板
+- 判断：TAD 欧洲获批是「合规能力=市场准入能力」的实证——智驾竞争进入合规决定期（[[ads-light-standard-2026]]、[[l3-mandatory-standard]]）
 
 ## 无方向盘 Model Y Robotaxi 版（2026-11-19 DealBook 峰会宣布）
 

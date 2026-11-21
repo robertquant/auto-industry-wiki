@@ -1,15 +1,21 @@
 ---
 title: 文远知行
 created: 2026-05-08
-updated: 2026-11-08
+updated: 2026-11-21
 type: entity
 tags: [adas, ai, export, trend]
-sources: [memory/2026-06-09.md, memory/2026-11-08.md]
+sources: [memory/2026-06-09.md, memory/2026-11-08.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 文远知行 (WeRide)
 
 中国L4级自动驾驶公司，专注于Robotaxi和无人驾驶解决方案。
+
+## 2026-11-21 更新：Q3 财报——Robotaxi UE 首次转正（AI日报）
+- **营收 3.215 亿元（+88%），毛利率 43%**；亏损扩大 22%（仍在投入期）
+- **Robotaxi 收入首破 1 亿（+204%，海外占比 >90%）**——轻资产出海（新加坡/中东/法国）贡献主要收入增量
+- **广州单车日均 21 单、UE 首次转正**——单车经济模型跑通，Robotaxi「轻资产出海」首次给出可复制经济模型
+- 判断：技术叙事退潮后，**UE 转正是 L4 公司「可活」的硬证据**；拐点未至但模型已验证（对照 [[pony-ai]]、[[luobo-kuaipao]]，见 [[autonomous-driving-market-2026]]）
 
 ## 技术进展
 

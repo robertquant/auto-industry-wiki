@@ -1934,3 +1934,15 @@
 ## [2026-11-20] lint | 断链修复
 - 修复 china-tech-reverse-export 页 3 处旧中文链接：[[吉利]]→[[geely]]、[[雷诺]]→[[renault]]、[[零跑]]→[[leapmotor]]
 - 校验结果：comm 为空（398 注册 = 398 文件，0 缺失）；19 个触及页面 frontmatter 全部合规；新页 powertrain-tech-routes-2027 已被 solid-state-battery / global-battery-market-2026 反向链接
+
+## [2026-11-21] ingest | 每日整理（晨报 + AI日报 + 盖世晚报）
+- 新建实体 1：**tianqi-lithium**（天齐锂业：重庆铜梁年产1000吨金属锂项目竣工=全国首个全自动电池级金属锂工厂，重庆产能升至1600吨/年，固态电池锂金属负极与补锂上游卡位）
+- 新建概念 1：**tesla-tad-europe-2026**（特斯拉TAD意大利获批：欧盟主要国家首例、临时批准+持续监督义务、欧洲「小国试水→大国跟进」监管曲线——智驾合规决定期实证）
+- 新建 raw/articles/2026-11-21-daily-digest.md（晨报+AI日报素材；晚报已在 daily-news/2026-11-21-gasgoo-evening.md）
+- 更新实体页 13：xiaomi-auto（首次出海阿联酋：SU7起169,900迪拉姆≈30.9万/Gargash Prime代理/12月交付）、geely（花旗大会2028出口200万辆目标+10月出口10.72万+158%+巴西首车银河星舰7下线）、fangchengbao-ti9（标配二代刀片确认+可折叠方向盘首搭）、byd（ARK连续减持vs美银买入）、volkswagen（在华2027-28无新车型计划=ID.ERA后断档风险+劳资纠纷升级）、bmw（二次下调2026预期：利润率指引-0.5%~+0.5%）、renault（Q3营收116亿欧+1.5%/EV占比20.9%+裁1090岗招2000+Twingo上海牵头系统集成）、xiangjie（V8正式29.98万起限时+余承东「L3可睡觉」当日自纠）、weRide（Q3：营收3.215亿+88%/毛利率43%/Robotaxi收入首破1亿+204%/广州单车日均21单/UE首次转正）、xiaopeng（Q4指引最高+42.9%+11/25 AI Day人形机器人）、leapmotor（与欧宝签联合开发协议=平台反向输出欧洲）、mercedes-benz（纯电E级近100%本土采购2027H2+暂停德国工厂投资/中国成本仅为德国10%-20%）、catl（福特首批自产LFP下线配套电动皮卡）
+- 更新实体页 3（轻量）：shangjie（Z7T星野套装27.48万起正式价）、huawei-auto（发布会全家桶：星芒手机+享界V8+尚界Z7T跨端入口统一）、twingo-e-tech（上海牵头系统集成+立项到投产100周）
+- 更新概念页 4：chinese-oem-export（海湾首站+体系化打法分层）、autonomous-driving-market-2026（UE转正+监管破冰双实证）、solid-state-battery（金属锂补链联动CBIS2026路线之争）、tesla（并入TAD获批）
+- 更新 comparison 1：l3-architecture-preemption-2026（余承东口径自纠=宣传口径监管红线实证）
+- 导航更新：index.md Last updated 2026-11-21；Total 398→**400**（entities 176→177、concepts 197→198）；新增 tianqi-lithium（电池厂商7→8）与 tesla-tad-europe-2026（市场/政策）条目；更新 blurb 10 条
+- 完整性校验：comm 输出为空 ✅（400 注册 = 400 文件，0 缺失；额外链接为独立分库 index，属预期）
+- 未建页（单次提及未达阈值）：广州车展（11/27开幕首发115台，届时再建）、欣锐×伟世通×英飞凌GaN（已录gan-obc-2026）、罗姆第五代SiC（已录powertrain-tech-routes-2027）、采埃孚商用车亚太人事、佛瑞亚海拉二代线控制动踏板

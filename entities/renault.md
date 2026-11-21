@@ -1,11 +1,17 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-20
+updated: 2026-11-21
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
-sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
+
+## 2026-11-21 更新：Q3 营收确认 + 法国裁 1090 岗/招 2000 + Twingo 上海牵头（晨报+晚报）
+- **Q3 营收 116 亿欧（+1.5%），EV 占比 20.9%**——欧洲 B 级纯电销冠（R5）之外的电气化结构指标；销量 -2.2%（Q3 已录）
+- **法国裁减 1090 岗（其中工程岗 537）/ 2027-2028 新招 2000 人**——结构性换血：裁传统工程、扩电动与软件
+- **Twingo 跨国协同升级：法国团队负责平台/EEA/智驾软件，上海研发中心牵头系统集成与全流程项目管理，立项到投产仅 100 周，售价目标 <2 万欧**——[[renault-acdc-model]]「上海大脑+欧洲身体」在入门电动车上首次全套落地（[[twingo-e-tech]]）
+- **吉利-雷诺巴西首车（银河星舰7）下线追加投资**——「中国平台+雷诺渠道产能」模式跑通（[[geely]]、[[china-tech-reverse-export]]）
 
 ## 2026-11-20 更新：吉利×雷诺巴西合资 + 欧洲产品线捷报
 

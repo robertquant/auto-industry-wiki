@@ -1,16 +1,21 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-20
+updated: 2026-11-21
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
+sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
 
 ## 概述
 中国自主品牌龙头之一，2026年H1收入1736亿元，核心归母净利润96.8亿元。2026年8月完成重大管理层交接：李书福辞任董事会主席，安聪慧接任。战略转向纯电高压超快充，不再研发传统燃油动力总成。
+
+## 2026-11-21 更新：2028 出口 200 万辆目标 + 巴西首车下线（晨报）
+- **花旗大会官宣 2028 年出口 200 万辆目标**；**10 月出口 10.72 万辆（+158%）**——连续 4 个月破 10 万（[[china-export-leaders-2026]]）
+- **吉利-雷诺巴西首车（银河星舰7）下线并追加投资**——11/20 收购雷诺巴西 26% 股权后首个落地车型，南美复制进入交付验证（[[renault]]、[[china-tech-reverse-export]]）
+- 判断：2028 出口 200 万 = 出海从「整车出口」升级为「平台输出+本地产能+入股合资」体系化扩张（[[chinese-oem-export]]）
 
 ## 2026-11-20 更新：收购雷诺巴西 26% 股权——「平台输出+入股外资子公司」范式
 

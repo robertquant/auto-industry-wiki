@@ -1,10 +1,10 @@
 ---
 title: Twingo E-Tech
 created: 2026-06-25
-updated: 2026-10-30
+updated: 2026-11-21
 type: entity
 tags: [renault, europe, entry-ev, china-tech]
-sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # Twingo E-Tech
@@ -96,6 +96,10 @@ sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/art
 ## 2026-10-17 更新：9月法国销量 4,992 辆——纯电榜第三
 - **法国 9 月销量 4,992 辆，纯电榜第三**（仅次于 Model Y、雷诺 5）——<2 万欧定价 + 法国本土品牌信任的组合验证
 - 语境：与雷诺 5 同门双车占据法国纯电榜前三两席；「中国研发+欧洲制造」模式（上海 eDrive/宁德 LFP）的欧洲市场接受度已过首考（[[renault]]、[[china-tech-reverse-export]]）
+
+## 2026-11-21 更新：上海牵头系统集成、100 周投产（晚报）
+- **跨国协同分工细化**：法国团队负责平台、EEA 与智驾软件；**上海研发中心牵头系统集成与全流程项目管理**——立项到投产仅 **100 周**（约 23 个月，与 ACDC 22 个月口径吻合），目标售价 **<2 万欧**
+- 判断：Twingo 成为 [[renault-acdc-model]]「上海大脑 + 欧洲身体」在入门电动车上的**全套落地样本**——裁 1090 岗/招 2000（11/21 已录 [[renault]]）背景下，系统集成职能向上海集中是雷诺结构性调整的方向标
 
 ## 2026-10-30 更新：上海 ACDC 主导 22 个月
 -**上海 ACDC 主导开发、22 个月完成**——「中国速度」压缩开发周期实证（见 [[renault-acdc-model]]、[[automotive-rd-speed]]），平价电动车的中国供应链开发范式

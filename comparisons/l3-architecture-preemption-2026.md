@@ -1,13 +1,18 @@
 ---
 title: 2026-11-13「L3架构日」卡位战
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-21
 type: comparison
 tags: [comparison, adas, strategy, prediction]
-sources: [raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
+sources: [raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 2026-11-13「L3架构日」卡位战
+
+## 2026-11-21 追加：口径红线实证——余承东「L3 可睡觉」当日自纠
+- 享界V8 上市同日（11/20），余承东「L3 可睡觉」表述遭舆论质疑后**当日微博自纠**：「现在还是 L2 时代」
+- 实证本页洞察 1「L3 架构=硬件预埋+后 OTA」之外的第二层约束：**宣传口径监管红线**（[[ads-light-standard-2026]] 小蓝灯国标、[[ga-t-2388-2026]]）——「L3 架构」可卖硬件，但功能宣传必须停在 L2
+- 对比意义：M8/GT7/V8 三家的「全系 L3 架构」话术都在预埋，**但公开演讲必须给 L2 口径留退路**——营销与合规的钢丝越走越窄（[[xiangjie]]、[[wenjie-m8]]）
 
 ## 为什么比
 2026-11-13 一天之内，**问界新M8（晚间上市）、启境GT7（白日上新）、奥迪 AUDI DAY 2026（晚 19:00）** 同日打 L3 牌——2027/7/1 L3 强制国标（[[l3-mandatory-standard]]）实施前夜，「L3 架构预埋」从营销话术变成配置表语言的标志性一天。对比三家打法，看 L3 卡位的分层逻辑。

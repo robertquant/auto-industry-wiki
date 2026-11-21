@@ -1,16 +1,21 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-19
+updated: 2026-11-21
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
+sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 奔驰 (Mercedes-Benz)
 
 ## 概述
 德国豪华品牌，2026年战略转向「由中国定义、为全球输出」。MB.EA纯电平台首款量产车落地，与[[momenta]]（智驾合作）深度绑定中国供应链与智能化能力。2026年自我定位为「过渡年」。
+
+## 2026-11-21 更新：近 100% 本土采购 + 暂停德国投资（晚报）
+- **康林松确认：专为中国市场开发的纯电 E 级几乎全部中国本土采购零部件**，2027 下半年推出，此后延续该策略（[[china-tech-reverse-export]]、[[export-tax-rebate-cut-2026]]）
+- 同期**暂停德国工厂新增投资、评估关停部分基地**——按其内部测算，**中国生产成本仅为德国的 10%-20%**；德系「由中国定义」从口号变产线决策（对照 [[euro-stoxx-50-exit]] 结构性定价）
+- 判断：奔驰用「中国采购 + 德国收缩」对冲关税与成本双重压力，但德国劳资/政治反弹风险同步上升（[[volkswagen]] 劳资纠纷同框）
 
 ## 纯电 GLC — MB.EA 首款量产车
 

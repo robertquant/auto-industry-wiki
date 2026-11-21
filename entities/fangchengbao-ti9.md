@@ -1,10 +1,10 @@
 ---
 title: 方程豹钛9
 created: 2026-10-08
-updated: 2026-11-20
+updated: 2026-11-21
 type: entity
 tags: [vehicle, oem-cn, platform]
-sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 方程豹钛9
@@ -35,6 +35,10 @@ sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-
 - [[sealion-06-dmi]] - 同期走量车型
 - [[li-auto]] / [[wenjie]] - 直接竞对（L9/M9）
 - [[9-series-suv-battle]] - 全尺寸SUV竞争格局
+## 2026-11-21 更新：全系标配二代刀片确认 + 可折叠方向盘首搭（晨报）
+- **标配二代刀片电池**（11/20 确认的「标配」进一步细化）+ **行业首搭可折叠方向盘**（进出便利性创新，MPV/大尺寸 SUV 场景）
+- 综合续航 1630km、闪充 5 分钟充好（11/10/11/20 已录）——配置面全部落定，待 11/27 广州车展前后上市（广州车展首发115台新能源707台，晚报线索）
+
 ## 2026-11-10 更新：11/9 下线 + 开启预订——配置落定（盖世 11/9）
 - **11/9 西安工厂下线（即比亚迪第 1900 万辆新能源车，见 [[byd]]），同日开启全国预订，11 月正式上市**
 - **配置落定**：首搭全新混动平台、第二代刀片电池、闪充、云辇-A、天神之眼 B；**综合续航 1630km**
