@@ -1946,3 +1946,13 @@
 - 导航更新：index.md Last updated 2026-11-21；Total 398→**400**（entities 176→177、concepts 197→198）；新增 tianqi-lithium（电池厂商7→8）与 tesla-tad-europe-2026（市场/政策）条目；更新 blurb 10 条
 - 完整性校验：comm 输出为空 ✅（400 注册 = 400 文件，0 缺失；额外链接为独立分库 index，属预期）
 - 未建页（单次提及未达阈值）：广州车展（11/27开幕首发115台，届时再建）、欣锐×伟世通×英飞凌GaN（已录gan-obc-2026）、罗姆第五代SiC（已录powertrain-tech-routes-2027）、采埃孚商用车亚太人事、佛瑞亚海拉二代线控制动踏板
+
+## [2026-11-22] ingest | 每日整理（晨报 + AI日报 + 研判验证补录）
+- 新建概念 2：**2026-guangzhou-auto-show**（广州车展11/27-12/6：115台首发/707台新能源；供应链独立设展=竞争单位从品牌变方案；NX7上市/MINI首秀/Lafa5车展窗口）、**multi-chip-deployment-2026**（普华开源「小满」适配158芯片/59车企/310+工具链伙伴+吉利「一次开发多芯部署」——芯软协同生态化）
+- 新建 raw/articles/2026-11-22-daily-digest.md（晨报+AI日报素材；晚报已在 daily-news/2026-11-22-gasgoo-evening.md）
+- 更新实体页 12：nio（官宣NWM 3.0，11/25 NIO IN）、xiaopeng（X9超级增程30.98万起/1小时破全天纪录/Ultra占79%/3图灵芯片）、stellantis（收购共享出行Share Now，路透11/21）、geely（银河TT/战舰700上市、银河系列37个月200万辆）、huawei-auto（乾崑生态大会ADS月销破10万+东风奕境/广汽启境「两境」落子）、xiangjie（新款S9上市30.98-36.98万+V8价格口径澄清：正式31.98/限时29.98万）、fangchengbao-ti9（正式上市27.99万起低于预测区间+全球首个量产折叠方向盘）、chery（iCAR V25上市）、aistaland（2027两款新车首款6月上市）、nissan（NX7广州车展上市：宁德电芯+国标3倍挤压）、bmw（MINI COUNTRYMAN广州首秀）、mercedes-benz（AMG.EA首款量产明年投产入华：NCMA四元300Wh/kg、5分钟补能400km）
+- 更新概念页 4：world-model（11/25世界模型路线摊牌日：NWM 3.0 vs Origin）、eu-hybrid-export-caps-2026（12/1生效倒计时+研判9政策检验期+准则12纯电/混动/燃油拆分暴露度）、chassis-domain-control（电控减振器1-10月293.4万套/渗透率19.5%+干式EMB四重冗余）、global-battery-market-2026（中创新航过大众电池测试中心认证）
+- 研判 tracker 补录：forecast-tracker 追加 2026-11-22 验证日志（研判9：12/1配额生效→政策检验期开启；「海外繁荣不可持续」持续证伪中）+研判9状态行更新（11/22 会话截断未落盘，本次补录）
+- 导航更新：index.md Last updated 2026-11-22；Total 400→**402**（concepts 198→200：技术95→96、其他11→12）；blurb 更新 7 条（fangchengbao-ti9 价格修正、xiangjie、xiaopeng、nio、stellantis 截断修复、huawei-auto 截断修复、geely）
+- 完整性校验：comm 输出为空 ✅（402 注册 = 402 文件，0 缺失；额外链接为独立分库 index，属预期）
+- 未建页（单次提及未达阈值）：东风奕境X9（并入 huawei-auto/dongfeng 语境，品牌首车待4月北京车展再评估）、中创新航（并入 global-battery-market-2026）、安致科技/比博斯特/格陆博（并入 chassis-domain-control）

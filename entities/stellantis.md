@@ -149,3 +149,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-30.md, daily-n
 
 - **B10 已于 10/16 在萨拉戈萨正式投产（SOP）；第二款 B05 确认同厂追加**——「本地化制造穿透关税墙」从 1 款扩至 2 款（规避 30.7% 反补贴关税）
 - 判断：Leapmotor International 进入「平台化输出」阶段——中国性价比 × 欧洲本地制造的组合进一步固化（[[leapmotor]]、[[eu-70x70-rule]]）
+
+## 2026-11-22 更新：收购共享出行 Share Now（路透 11/21）
+- **Stellantis 收购共享出行服务 Share Now**（路透 11/21 口径，金额/交割细节待核实）——出行服务资产入局
+- 判断：「卖车」业务承压（Q3 出货 -1%、法国工厂停产，10/25 已录）下的用户触达补充：共享出行 = 使用权市场入口；与 [[leapmotor]] 产品合作、[[autonomous-driving-market-2026]] L4 出行服务布局形成远期接口（对照 [[pony-ai]]、[[luobo-kuaipao]] 运营资产）
