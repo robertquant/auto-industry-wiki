@@ -1,7 +1,7 @@
 ---
 title: 比亚迪匈牙利工厂
 created: 2026-06-16
-updated: 2026-10-20
+updated: 2026-11-23
 type: entity
 tags: [byd, europe, strategy, investment]
 sources: [memory/2026-06-16.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md]
@@ -43,3 +43,7 @@ sources: [memory/2026-06-16.md, raw/articles/2026-10-17-daily-digest.md, raw/art
 - **比亚迪接触法国建厂**（晨报口径）——法国自 10/17 已列「候选」后进入**实质接触**阶段（[[byd]]、[[2026-paris-auto-show]]）
 - 若落地：直插雷诺/Stellantis 腹地，与西班牙候选（10/18 已录）构成「西欧市场型 + 东欧成本型」双极布局，2030 欧洲约 4 万员工目标（10/18 已录）的产能基础
 - 待观察：法国建厂政治敏感性高（法方倾向欧产欧销+就业承诺），是否在 2027 配额细则落地前后官宣
+
+## 2026-11-23 更新：Ti7 欧盟禁售令冻结匈牙利工厂生产（重大冲击）
+- **海牙法院 11/20 临时禁令**：禁止 Ti7 在欧盟销售/进口 + **禁止匈牙利工厂生产 Ti7**，罚金上限 1000 万欧（[[byd-ti7-eu-design-ban]]）——匈牙利厂投产初期即遭核心车型生产冻结
+- 判断：欧洲本地化战略（[[eu-hybrid-export-caps-2026]] 配额内份额胜负手，10/20 已录）新增知识产权风险维度；匈牙利厂产能可转向其他车型（海鸥/Atto 系列），但 Ti7 欧洲计划（2026 年前后投放窗口）受实质挫伤

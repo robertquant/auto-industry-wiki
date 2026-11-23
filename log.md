@@ -1956,3 +1956,12 @@
 - 导航更新：index.md Last updated 2026-11-22；Total 400→**402**（concepts 198→200：技术95→96、其他11→12）；blurb 更新 7 条（fangchengbao-ti9 价格修正、xiangjie、xiaopeng、nio、stellantis 截断修复、huawei-auto 截断修复、geely）
 - 完整性校验：comm 输出为空 ✅（402 注册 = 402 文件，0 缺失；额外链接为独立分库 index，属预期）
 - 未建页（单次提及未达阈值）：东风奕境X9（并入 huawei-auto/dongfeng 语境，品牌首车待4月北京车展再评估）、中创新航（并入 global-battery-market-2026）、安致科技/比博斯特/格陆博（并入 chassis-domain-control）
+
+## [2026-11-23] ingest | 每日整理（晨报 + AI日报 + 盖世晚报）
+- 新建实体 1：**byd-ti7-eu-design-ban**（比亚迪钛7欧盟外观设计禁售案：海牙法院11/20临时裁决侵犯路虎卫士110设计权，冻结欧盟销售/进口+匈牙利工厂生产，罚金上限1000万欧；英国不受管辖；JLR须6个月内提正式诉讼——「先冻结后诉讼」模式或将扩散，出海合规从关税升级到知识产权维度）
+- 新建 raw/articles/2026-11-23-daily-digest.md（晨报+AI日报素材；晚报已在 daily-news/2026-11-23-gasgoo-evening.md）
+- 更新实体页 16：byd（Ti7禁售令+累计30万辆）、nio（萤火虫Halo Haven奥斯陆首发+Qoder CN AI代码30-40%）、leapmotor（欧宝1亿欧元C级SUV工程大单=技术资产独立计价）、xiaopeng（Q3营收242.8亿创新高+汇丰下调+肇庆18亿+图灵AI共驾预告）、saic（10月海外16.3万辆+67.3%新高）、mercedes-benz（德国首家点对点辅助驾驶监管批准）、nvidia（FY2027Q3营收1158亿+数据中心93%+中国智驾域控份额45.1%→28.5%）、geely/bmw/xiangjie/great-wall/gac/stellantis/jaguar-land-rover/tesla/byd-hungary-factory（各轻量更新，见页内）
+- 更新概念页 3：eu-hybrid-export-caps-2026（细则：增程EREV不计入配额→增程出海转向，准则12扩展为纯电/混动/增程三拆）、auto-chip-competitive-landscape（腾讯11/16深度：英伟达份额骤降、地平线+118.2%——招采逻辑转向供应确定性）、chinese-oem-export（39个市场份额反超日系+合规风险同框）
+- 导航更新：index.md Last updated 2026-11-23；Total 402→**403**（entities 177→178、政策/事件/数据15→16）；blurb 更新 19 条
+- 完整性校验：comm 输出为空 ✅（403 注册 = 403 文件，0 缺失；额外链接为独立分库 index，属预期）
+- 未建页（单次提及未达阈值）：极星Formula 2030概念车（并入mercedes-benz欧洲语境？未录页面，后续若二次出现再建）、上汽大众ID.ERA 5X/上汽奥迪E7X（合资产品线，待持续观察）、宝马iX3召回细节（已录bmw页）

@@ -1,7 +1,7 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-11-21
+updated: 2026-11-23
 type: concept
 tags: [export, strategy, trend, oem-cn]
 sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -109,3 +109,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/art
 
 - **1-9 月新能源出口 400.6 万辆（同比 +1.3 倍）**——政策收紧（[[export-tax-rebate-cut-2026]]）前的窗口期仍在释放量
 - 关联：[[china-export-leaders-2026]]、[[spain-china-gateway]]
+
+## 2026-11-23 补充：39 个市场份额反超日系 + 上汽单月新高
+- **中国车企已在 39 个市场销量份额反超日系**（晚报口径）——全球份额博弈里程碑：新能源渗透率（[[nev-penetration-60-percent]] 70.6% 首破 70%，11/23 晨报）与出海份额（[[china-export-leaders-2026]]）双升
+- **上汽 10 月海外 16.3 万辆（+67.3%）创单月新高**；叠加 Ti7 欧盟外观设计禁售令（[[byd-ti7-eu-design-ban]]）——出海高增长与合规风险同框：知识产权尽调进入出海必修课

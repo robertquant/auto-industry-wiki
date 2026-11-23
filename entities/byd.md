@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-21
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -326,3 +326,9 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily
 
 ## 2026-11-17 王传福 APEC：累计产销 1,900 万辆
 APEC 工商领导人峰会（深圳）披露：比亚迪累计产销新能源车已达 **1,900 万辆**，减排量相当于种下 24 亿棵树——规模效应的对外叙事持续加密（对照 [[china-export-leaders-2026]] 境外收入首过半）。
+
+## 2026-11-23 更新：Ti7 欧盟外观设计禁售令（海牙法院 11/20）
+- **海牙法院临时裁决**：Ti7（方程豹钛7）侵犯路虎卫士110 欧盟外观设计权，**禁止欧盟销售/进口 + 匈牙利工厂生产**，罚金上限 1000 万欧——中国车企在欧盟首个大规模外观设计临时禁令（详细见 [[byd-ti7-eu-design-ban]]）
+- **英国不受管辖**：Ti7 已于 7 月英国预售、明年 1 月交付（英国脱离欧盟外观设计体系）；Ti7 累计全球销量破 30 万辆（截至 10 月，单月峰值 3.2 万辆）
+- 比亚迪称独立设计、将上诉；JLR 须 6 个月内提正式诉讼
+- 判断：出海合规战场从关税（[[eu-70x70-rule]]）升级到外观设计——「先冻结后诉讼」模式鼓励欧洲权利人效仿；Ti7 禁令同时打击匈牙利工厂（[[byd-hungary-factory]]）本地化产能

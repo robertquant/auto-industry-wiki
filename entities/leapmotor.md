@@ -1,7 +1,7 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-21
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
 sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md]
@@ -267,3 +267,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily
 - **高通 8650 + 激光雷达 + 端到端大模型**，28 感知硬件、40 项智驾功能；69.7kWh/640km CLTC、全域 800V+3C；限时价 9.28–11.68 万（详见 [[leapmotor-lafa5]]）
 - 11/18 媒体质疑风波回应（官方微博披露）：**LKC 底层视觉方案出货超 45 万台、L2 出货 105 万套、在手订单超 2 亿元级**；花旗维持买入评级（TP 52.7 港元）
 - 智驾「两条腿」：走量自研 LKC + 高配高通 8650——「芯片自研外供叙事」与「高配用高通」需分开看
+
+## 2026-11-23 更新：与欧宝 1 亿欧元工程大单（C 级 SUV）
+- **11/20 签约 1 亿欧元工程开发合同**：为欧宝开发 C 级 SUV（2028 上市）——从「共线生产」（[[stellantis]] 萨拉戈萨 B10，10/16 已录）升级为**反向技术输出**：Stellantis 在华之外依赖零跑技术输血
+- 判断：技术资产开始独立计价——「工程服务费」模式 = 中国车企欧洲第二收入曲线（对照 [[geely]]×[[renault]] 平台输出、[[horse-powertrain]]）；与 [[eu-hybrid-export-caps-2026]] 配额约束下「纯电免疫+本地化强化」逻辑互证

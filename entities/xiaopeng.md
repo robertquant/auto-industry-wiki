@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-21
+updated: 2026-11-23
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
@@ -261,3 +261,9 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **Ultra 版 3 颗图灵芯片（2250 TOPS）**，2026 Q1 全量推送第二代 VLA（[[vla-model]]）
 - **上市 1 小时打破 X9 历史全天大定纪录，Ultra 占比 79%**，供应链紧急增产 5000 台；何小鹏宣布将推 **7 款「一车双能」**车型
 - 判断：增程大 MPV 守 30 万+ 价位（高配选装拉高）——「一车双能」全品类铺开 + 11/25 AI Day（Origin）同日蔚来 NWM 3.0 发牌（[[world-model]] 摊牌日）；X9 爆单对 Q4 指引（最高 +42.9%，11/21 已录）形成支撑
+
+## 2026-11-23 更新：Q3 财报创新高 + 11/25 图灵 AI 共驾预告 + 肇庆落地
+- **Q3 营收 242.8 亿创新高**、交付 11.8 万辆、Q4 指引强；但 11/21 汇丰下调评级、股价跌 8%+，多家投行下调目标价——财报兑现 vs 估值博弈
+- **11/25 广州 AI Day 预告「图灵 AI 共驾」**（科技日）：**行业首次智驾能力延伸至人驾场景**——VLA 自适应减速、拥堵工况续航 +12.4%，首发 G9L/MONA L05；图灵芯片累计出货超 20 万片（截至 8 月）；同日展示人形机器人物理 AI 量产
+- **肇庆 18 亿项目落地**（晚报口径）——产能与供应链加深
+- 判断：「共驾」=智驾叙事从「替你开」转向「陪你开」，差异化于蔚来 NWM 3.0（[[world-model]] 11/25 摊牌日）；图灵芯片出货 20 万片支撑自研芯片兑现度（[[autonomous-chip-localization]]）

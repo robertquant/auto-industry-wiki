@@ -1,7 +1,7 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-21
+updated: 2026-11-23
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -168,3 +168,7 @@ Cybercab投运后，MPCI（平均关键安全介入里程）成为行业关注�
 - **柏林格伦海德工厂北侧新建车间，首期投资 30 亿欧元**，生产**无方向盘/踏板车型**（Cybercab），**年产能目标百万辆**
 - 逻辑闭环：Cybertruck 停产让出得州产能（11/16 已录 [[cybertruck]]）→ 欧洲侧百万级 Cybercab 产能落地——特斯拉产能结构整体向 Robotaxi 倾斜，「车型多元化」让位「运营方案单一押注」
 - 判断：30 亿欧投向无人工位产线 = 特斯拉把欧洲工厂从「Model Y 出口替代厂」升级为「Robotaxi 全球第二极」；风险仍集结在 NHTSA 调查（页首）与 $299/月 订阅模式的合规接受度（11/15 已录）；对照 [[waymo]] 多城市稳态运营，Cybercab 百万辆是「产能先于监管」的豪赌（[[waymo-vs-tesla-robotaxi-2026]]、[[l4-global-race-2027]]）
+
+## 2026-11-23 更新：马斯克称 AI5 设计基本完成、AI6 研发启动
+- **11/21 马斯克 X 口径**：AI5 设计基本完成、AI6 研发启动，**9 个月芯片迭代周期**目标（每 9 个月一代）；AI5 2027 年台积电量产替代 AI4
+- 判断：自研芯片迭代提速 = 与 [[nvidia]] 更彻底分流 + 智驾算力代差武器化（对照 [[auto-chip-competitive-landscape]] 供应确定性趋势）；9 个月周期若兑现，将显著压缩第三方车载芯片窗口

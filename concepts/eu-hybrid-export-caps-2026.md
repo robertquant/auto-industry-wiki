@@ -1,7 +1,7 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-11-04
+updated: 2026-11-23
 type: concept
 tags: [policy, export, europe, strategy, trend]
 sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
@@ -97,3 +97,8 @@ sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-
 - **12/1 生效倒计时**：首年 35 万辆/年、后 3 年 +6%/年——首年配额不足 2026 年预计对欧混动进口量的一半；对 [[chery-export-dependency]] 研判9：「海外繁荣」迎来第一次实质性政策压力测试
 - **方法论落地（准则12）**：贸易政策冲击必须按纯电/混动/燃油**拆分暴露度**评估——奇瑞混动重仓直接受冲击 vs 零跑纯电免疫+本地化逻辑强化（[[leapmotor-stellantis]]）
 - 与 11/04「向上安排」（2025 年 30.2 万辆基数）衔接：首年 35 万辆 ≈ 基数上方小幅放宽，但距 2026 抢跑量级（年化约 60 万，11/01 已录）仍近乎腰斩——12 月出口数据将首次体现「配额预期」对抢跑窗口的挤压
+
+## 2026-11-23 补充：配额细则露出——增程不计入，出海转向增程
+- **欧盟拟对华混动设限细则**（晚报口径）：35 万辆/年配额、**增程（EREV）不计入**——与 11/22 研判9（12/1 生效、首年 35 万辆）互证，执行细则首次给出车型口径
+- **策略性反应：中国车企转向增程出海**——增程（EREV，大电池+发动机补能）既规避配额统计口径，又延续「燃油补能+电驱体验」的产品逻辑（对照 [[hybrid-efficiency-principle]]、[[xiaopeng]] X9 超级增程 11/22 已录）
+- 判断：配额细则 = 政策博弈的迭代靶：口径每细化一次，出海产品形态调整一次——增程出海窗口打开，但欧盟对增程的后续政策（碳足迹/税制）将是下一轮变量（[[eu-phev-strategy]]）；「拆口径」方法论升级：纯电/混动/增程三拆暴露度（准则12扩展，11/22 已录）

@@ -1,7 +1,7 @@
 ---
 title: 奔驰 (Mercedes-Benz)
 created: 2026-09-09
-updated: 2026-11-21
+updated: 2026-11-23
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, memory/2026-07-02.md, european-automakers/2026-06-movement.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
@@ -315,3 +315,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-
 - **AMG.EA 高性能架构首款四门跑车明年投产并进入中国市场**（财联社口径）——10/5「2027 投产」口径提前/确认至明年
 - **电池**：全极耳细长圆柱 NCMA 四元电池（300Wh/kg）——「高镍+长圆柱」路线（对照 [[lg-energy-solution]] 等大圆柱阵营）；800V 架构平均充电功率超 850kW，约 5 分钟（WLTP）补能 400 公里
 - 判断：充电功率硬数据（10/5 已录）进入量产兑现——性能豪华话语权的电动化反击；与暂停德国投资（11/21 已录）形成「研发高端化 × 产能收缩」剪刀差
+
+## 2026-11-23 更新：德国首家点对点辅助驾驶监管批准
+- **获德国首家点对点辅助驾驶监管批准**（晚报口径）——城市道路试点年底启动：监管口径从「路段级 L3」走向「点对点」连续性（对照 [[l3-autonomous-driving]]、[[tesla-tad-europe-2026]] 意大利 TAD 先例）
+- 判断：欧洲 L3 监管曲线验证「小国/单点先试 → 体系化铺开」；奔驰以监管合规牌对冲中国下滑（EBIT 较峰值 -140 亿欧，11/17 已录）

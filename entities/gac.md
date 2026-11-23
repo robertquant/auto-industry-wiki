@@ -1,7 +1,7 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-11-07
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, sales, export, policy]
 sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
@@ -78,3 +78,6 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 
 ## 2026-10-30 更新：领程 T9 ROBOTRUCK 量产下线
 -**广汽领程 × [[pony-ai]] L4 重卡 T9 ROBOTRUCK 首批量产下线**（10/29）、2027 推进百台级——广汽商用车板块智驾突破（对照 [[zhuoyu]] 磐行同日发布）
+
+## 2026-11-23 更新：夸克非晶电驱第 10 万套下线
+- **夸克非晶电驱第 10 万套下线**（晚报口径）——非晶合金电机（高转速/高效率路线）进入十万套级量产：电机效率竞赛新里程碑（对照 [[powertrain-tech-routes-2027]]）

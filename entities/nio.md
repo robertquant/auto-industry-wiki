@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-17
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
@@ -243,3 +243,8 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 - **蔚来官宣世界模型 NWM 3.0，11/25 NIO IN 2026（广州）发布**——承接 11/15「NIO IN 前瞻」：AI 原生座舱+智驾的技术叙事兑现节点
 - **与小鹏 AI Day（11/25，Origin）同日**——「世界模型路线摊牌日」：NWM 3.0 vs Origin，两家新势力同日打技术牌（[[world-model]]、[[xiaopeng]]）
 - 判断：月 3 万平台期缠斗（11/15 已录）背景下，NWM 3.0 是估值叙事的关键弹药；与换电网络万座拐点（11/13 已录）构成「技术+资产」双叙事
+
+## 2026-11-23 更新：萤火虫 Halo Haven 奥斯陆首发 + Qoder CN 披露
+- **萤火虫 Halo 系列 Haven 特别版 11/22 奥斯陆首发**（入挪威五周年）——欧洲 2027 春登陆，萤火虫北欧渠道先行（挪威为蔚来海外核心市场）；ES9 十周年版 11/21 发布（63.8 万起）
+- **阿里云 Qoder CN 披露**：AI 生成代码占蔚来日常开发 30-40%（上限超 70%），单元测试智能体批量生成——「AI 原生研发」进入量产级渗透（对照 [[xiaopeng]] 图灵 AI 共驾同日叙事）
+- 判断：11/25 NIO IN（NWM 3.0，[[world-model]]）前夜密集放料——技术叙事与 AI 工程化并行，与小鹏 AI Day 摊牌（[[xiaopeng]]）同日对决

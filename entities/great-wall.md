@@ -1,7 +1,7 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-11-19
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -76,3 +76,6 @@ sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily
 ## 2026-11-19 智驾-底盘协同控制（第六届汽车AI智能底盘大会）
 - 线控底盘总工程师景立新：底盘实时向智驾提供车辆稳定性边界，**ABS/TCS 介入时智驾可延迟退出**（此前多数方案「一退了之」），面向 L3 优化
 - 现场展示 220km/h 同侧双轮爆胎稳定控制；线控制动、线控转向自研已进入整车测试（关联 [[chassis-domain-control]]）
+
+## 2026-11-23 更新：Hi4 全场景动力架构累计破 70 万辆
+- **Hi4 全场景动力架构累计破 70 万辆**（晚报口径）——长城插混技术路线规模化验证（对照 [[hybrid-efficiency-principle]]、[[changan]] 等混动阵营）

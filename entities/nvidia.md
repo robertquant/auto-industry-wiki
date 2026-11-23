@@ -1,7 +1,7 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-23
 type: entity
 tags: [chip, ai, strategy]
 sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
@@ -73,3 +73,8 @@ AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[auton
 - **内网投票 97% 员工望黄仁勋回归**——接 11/14 意见箱 1600+ 评论：马斯克 X 表态签名支持、微博热搜；**正式 CEO 遴选程序启动**（临时 CEO Kress 是否转正待定）
 - 份额口径沿用蓝皮书 2026H1：地平线 31.94% vs 英伟达 29.38%（11/14 已录）
 - 判断：97% 回归呼声 = 「个人信用锚」依赖的量化证据——虾评：把整车智能押在单一供应商 CEO 个人身上是治理缺陷；**遴选周期越长，车载客户「去英伟达化」预案推进越快**（[[autonomous-chip-localization]]、[[horizon-robotics]]）
+
+## 2026-11-23 更新：换帅后首份财报 + 中国智驾域控份额骤降
+- **FY2027Q3 营收 1158 亿（+103%）**、数据中心 1076 亿占 93%——换帅（11/12 黄仁勋辞任，11/14 已录）后业绩无碍，公司层面叙事 = 「AI 基础设施公司」，汽车业务占比进一步边缘化
+- **腾讯 11/16 深度（关键数据）**：中国乘用车智驾域控份额 1-2 月 **45.1% → 9 月 28.5%**；地平线 9 月装机 18.36 万颗（+118.2%）；华为 13%——英伟达中国车载份额半年下滑 16.6pct
+- 判断：**车企招采逻辑从峰值算力转向供应确定性**（[[auto-chip-competitive-landscape]]）——「去英伟达化」不是制裁驱动而是需求侧迁移；CEO 遴选周期越长，迁移预案推进越快（11/15 已录）

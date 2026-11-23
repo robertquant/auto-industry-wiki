@@ -1,7 +1,7 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-11-01
+updated: 2026-11-23
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
 sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
@@ -120,3 +120,7 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
 ### 2026年11月补充：9月在华仅售6辆——主动清库赌2027
 - **捷豹品牌 9 月在华仅售 6 辆（-99.7%）**（晨报口径）——停产后主动清库，官方口径为战略收缩而非崩盘
 - 判断：清库 = 把存量折价出清、为 Type 01 / 揽胜 GT 2027 上市腾品牌心智；但 6 辆的量级意味着捷豹在华渠道事实上停摆——「豪赌 2027」窗口期内中国豪华叙事（[[bba-ev-ranking-2026]]）继续被 [[byd-han]] 等国产旗舰收割
+
+## 2026-11-23 更新：Ti7 外观设计诉讼推进（原告视角）
+- **海牙法院 11/20 临时禁令**：Ti7 侵犯卫士110 外观设计权，欧盟销售/进口+匈牙利生产冻结，罚金上限 1000 万欧（[[byd-ti7-eu-design-ban]]）——JLR 须 **6 个月内提正式诉讼**
+- 判断：外观设计权成为 JLR（及欧洲传统车企）对抗中国车型的**低成本法律武器**——「先冻结后诉讼」模式预期扩散；JLR 自身在华困境（捷豹 9 月仅 6 辆，11/22 已录）与欧盟侧攻势形成「防守本土、进攻中国品牌」不对称策略

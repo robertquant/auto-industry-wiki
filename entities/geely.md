@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-21
+updated: 2026-11-23
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -282,3 +282,7 @@ sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily
 - **银河 TT 上市**：15 分钟大定破万、55 天交付破 2 万辆；**银河系列 37 个月累计销量突破 200 万辆**、16 款车型月销过万
 - **战舰 700 上市**：硬派 SUV、「天仪之眼」大灯——「神韵同源，神态各异」设计方法论完成市场验证
 - 判断：银河走量（TT/战舰）与 11/20 巴西合资首车下线同框——设计原创性成为吉利国内/海外双市场的同一张牌（[[china-tech-reverse-export]]）
+
+## 2026-11-23 更新：银河 M8 亮相（广州车展窗口）
+- **银河 M8 亮相**（晚报口径，广州车展 11/27 窗口，见 [[2026-guangzhou-auto-show]]）——银河系列 37 个月 200 万辆（11/22 已录）后继续扩品类
+- 雷诺阿根廷 11/17 成吉利 NEV 官方经销商（晨报口径）——南美渠道再扩（[[china-tech-reverse-export]] 模式图谱）

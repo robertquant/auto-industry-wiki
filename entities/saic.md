@@ -1,7 +1,7 @@
 ---
 title: 上汽集团 (SAIC)
 created: 2026-07-04
-updated: 2026-11-07
+updated: 2026-11-23
 type: entity
 tags: [saic, china, soe, export, new-energy]
 sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/articles/2026-10-19-daily-digest.md, memory/2026-11-07.md]
@@ -121,3 +121,7 @@ sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-07-04.md, raw/art
 
 ## 2026-11-04 更新：从产品出海到体系出海
 - 上汽研发总院总监成居正（汽车与环境创新论坛）：出海思路正从产品输出转向研发、供应链、渠道的体系化输出（[[chinese-oem-export]]）
+
+## 2026-11-23 更新：10 月海外销量 16.3 万辆创单月新高
+- **10 月海外销量 16.3 万辆（+67.3%）创单月新高**（晚报口径）——体系化出海（[[chinese-oem-export]]）进入放量兑现期
+- 行业背景：中国车企已在 **39 个市场销量份额反超日系**——全球份额争夺的量化里程碑；上汽 ID.ERA 5X 上市（520km）补充国内新能源产品线
