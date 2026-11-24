@@ -1,13 +1,18 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-21
+updated: 2026-11-24
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 大众汽车 (Volkswagen)
+
+## 2026-11-24 更新：劳资谈判摊牌细节——冻薪两年+取消奖金（晨报）
+- **谈判升级细节**：冻薪两年 + 取消奖金 + 重谈 35 小时工作制，**波及 12 万员工**；工会警告 **2027 年 1 月罢工**——本周 IG Metall 谈判成为主线（[[mercedes-benz]] 暂停德国投资同框）
+- 另一面：ID.ERA 5X 中国限时 9.99 万起（[[id-era-5x]]）、在华新能源交付 2.8 万（+346.9%）——德国收缩的每一分钱流向中国战场
+- 判断：谈崩则 2027 年 1 月罢工坐实「德国高薪模式」坍塌；大众以「中国增量」对冲「德国降本」双轨并行
 
 ## 2026-11-21 更新：在华 2027-28 无新车型计划 + 劳资纠纷升级（晨报+晚报）
 - **2027-2028 在华无全新车型计划**：CMP 这轮（ID.ERA 系列）之后断档风险——合资反攻弹药单一化的隐患（对照 [[id-era-5x]]）；10 月在华新能源交付 2.8 万+（+346.9%）= 低基数修复而非反转（[[eu-phev-strategy]]）

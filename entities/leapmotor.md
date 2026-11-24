@@ -1,13 +1,18 @@
 ---
 title: 零跑汽车 (Leapmotor)
 created: 2026-06-30
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, new-energy, overseas, vehicle]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-27-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md]
 ---
 
 # 零跑汽车 (Leapmotor)
+
+## 2026-11-24 更新：欧宝 C 级 SUV 1 亿欧元工程大单细节（晨报）
+- **协议金额 1 亿欧元**，开发全新 C 级 SUV，**2028 年 9 月萨拉戈萨量产**——工程大单从「意向」进入排产阶段（[[leapmotor-stellantis]]）
+- Stellantis 另有 **1.5 万欧元平价小车拟 2028 意大利投产**——欧洲低价市场两条线并行
+- 判断：零跑从「借渠道出海」升级为**技术输出方**，平台/工程能力独立计价（结合 11/21 联合开发协议、11/19 第 200 万台下线，[[china-tech-reverse-export]]）
 
 ## 2026-11-21 更新：与欧宝签署联合开发协议
 - **零跑与 Stellantis 旗下欧宝签署联合开发协议**：共同开发欧宝品牌电动车型——「零跑模式」反向输出欧洲再进一步（此前 B10 萨拉戈萨投产、B05 同厂追加，[[leapmotor-stellantis]]）

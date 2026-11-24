@@ -1,13 +1,16 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-17
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
 ---
 
 # 奇瑞汽车 (Chery)
+
+## 2026-11-24 更新：前 10 月 250 万 +9.3%（晨报）
+- **奇瑞集团前 10 月销量 250 万（+9.3%），与[[geely]]（254.5 万 +2.7%）为前十集团唯二正增长**——出口王地位支撑逆势增长（[[china-export-leaders-2026]]）
 
 ## 概述
 中国自主品牌「出口王」，2026年8月销量28万辆、出口19.7万辆，出口占比超70%独步行业。与[[byd]]、[[geely]]并列为中国车企出海三极，但出口结构以燃油+混动为主，新能源出海节奏慢于比亚迪。

@@ -1,13 +1,17 @@
 ---
 title: 小鹏MONA L05
 created: 2026-10-16
-updated: 2026-11-19
+updated: 2026-11-24
 type: entity
 tags: [vehicle, adas, ev-tech, pricing]
-sources: [raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-16-daily-digest.md, raw/articles/2026-10-28-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 小鹏MONA L05
+
+## 2026-11-24 更新：首月交付提前破万（晚报）
+- **11 月前三周交付超 1 万台，提前达成「首月破万」**；MONA 系列上市两年累计交付破 36 万台，何小鹏称 11 月全系车主破 40 万
+- 定价带口径更新：正式售价 14.48-17.68 万（晚报口径，对照预售 16.98-19.18 万下探）
 
 小鹏 MONA 系列第三款车型、**首款大五座中型 SUV**（4870/1930/1636mm、轴距 2940mm），2026-10-15 开启预售（16.98-19.18 万），10/29 广州上市。MONA 品牌从 M03 的「颜值+价格」打法升级为「算力批发」路线的新载体。
 

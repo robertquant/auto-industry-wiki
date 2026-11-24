@@ -1,13 +1,17 @@
 ---
 title: 长城汽车 (Great Wall Motor)
 created: 2026-10-03
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
-sources: [raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-09-29-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 长城汽车 (Great Wall Motor)
+
+## 2026-11-24 更新：坦克第 100 万台下线（晚报）
+- **坦克品牌第 100 万台量产车重庆基地下线**（11/1 全球销量已破 100 万），远销 30 多国、10 月单月 1.6 万——硬派越野细分基本盘稳固（对照 11/19 智驾-底盘协同、Hi4 70 万辆 11/23 已录）
+- 判断：坦克 100 万 = 长城在「智驾平权」挤压下守住差异化细分（硬派越野）的存量证明（[[chassis-domain-control]]）
 
 ## 概述
 

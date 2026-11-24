@@ -1,13 +1,18 @@
 ---
 title: MG名爵
 created: 2026-05-02
-updated: 2026-06-05
+updated: 2026-11-24
 type: entity
 tags: [saic, china, europe, suv, sedan, battery]
-sources: [raw/articles/2026-06-05-daily-summary.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-06-05-daily-summary.md]
 ---
 
 ## 概述
+
+## 2026-11-24 更新：MG4 新增 530 从容版——7.88 万抢 7 万价格带（晚报）
+- **MG4 530 从容版限时补贴价 7.88 万**：53.9kWh 宁德时代磷酸铁锂电池 + CLTC 530km——**530km 续航拉入 7 万价格带**
+- 削减高速 NOA 与高阶 L2 智驾，三电与核心舒适配置不变——「省在智驾、不省三电」，上汽以降智驾换续航门槛（对照 [[deepal]] 华为智驾下放 15 万级的反方向操作）
+- 判断：MG4 已是上汽出海核心纯电资产，降智驾换续航门槛 = 7 万价格带争夺的新打法（[[saic]]、[[china-tech-reverse-export]]）
 
 MG（名爵）是上汽集团旗下品牌，原英国品牌，2005-2007年被上汽收购。主打海外市场，尤其是欧洲市场，是上汽全球化战略的核心品牌。2026年MG4连续多月销量破万，成为纯电两厢市场爆款。
 

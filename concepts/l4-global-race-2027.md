@@ -1,10 +1,10 @@
 ---
 title: L4 全球落地竞速（2027 节点年）
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-24
 type: concept
 tags: [adas, trend, prediction]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md]
 ---
 
 # L4 全球落地竞速（2027 节点年）
@@ -23,6 +23,8 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily
 - **日本拟立无方向盘 L4/L5 安全标准**——为无方向盘/无制动踏板的 Robotaxi 统一监管清障（见 [[un-autonomous-driving-regulation-2026]]，国别落地跟进）
 
 ### 中国：前装量产矩阵齐奔 2027
+- **希迪智驾 Vega 无人重卡**：国内首款锚定 GB 44721-2026 强制国标的前装 L4 重卡，一车双模，首台 11/9 西安下线、11/24 宝马展发布（[[cidi]]、[[l3-mandatory-standard]]）
+- **天瞳威视 ConnectOne**：地平线 J6M 国产芯片 L4 Robotaxi，软件复用率超 70%，新芯片平台 2027/1 部署 + 6 月交付（[[tiantong-weishi]]、[[autonomous-chip-localization]]）
 - **小鹏悠游**：2027 广州无安全员运营（[[xiaopeng-yoyo]]）
 - **奇瑞**：行业首款原生前装 L4 Robotaxi，2030 全球运营 10 万辆（[[chery]]）
 - **曹操出行 Eva Cab**：2027 量产（[[caocao-robotaxi]]、[[geely]]）

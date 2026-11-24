@@ -1,13 +1,18 @@
 ---
 title: 高通汽车 (Qualcomm Auto)
 created: 2026-09-09
-updated: 2026-11-10
+updated: 2026-11-24
 type: entity
 tags: [chip, cockpit, adas, tier1]
-sources: [memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, memory/2026-08-18.md, memory/2026-09-09.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
 ---
 
 # 高通汽车 (Qualcomm Auto)
+
+## 2026-11-24 更新：汽车芯片年收入 80 亿美元提前 5 年达标（AI日报）
+- **汽车业务年收入 80 亿美元，提前 5 年达标**（原 2031 目标）；Q4 汽车业务 19.9 亿 vs [[infineon]] 22.2 亿 / 恩智浦 20.7 亿——**距登顶全球车芯第一仅差一步（2027 有望）**
+- **定点储备（design win backlog）650 亿美元**——未来 8-10 年收入可见度锁定
+- 判断：座舱垄断（[[cockpit-chip]]）+ 舱驾融合矩阵（[[snapdragon-8797]]）把高通推到车芯王座争夺窗口，2027 与英伟达/英飞凌真摊牌（[[auto-chip-competitive-landscape]]）
 
 ## 概述
 

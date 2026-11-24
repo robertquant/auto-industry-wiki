@@ -1,13 +1,17 @@
 ---
 title: 东风汽车 (Dongfeng)
 created: 2026-10-22
-updated: 2026-11-05
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, adas, ai, trend]
-sources: [raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
 ---
 
 # 东风汽车
+
+## 2026-11-24 更新：东风 AI 座舱明年落地（AI日报）
+- **东风 AI 座舱明年落地**：奕派 / 神龙率先搭载，**座舱芯片 T500 已量产**——央企座舱 AI 叙事落地（对照 10/30 已录「一段式端到端」智驾路线）
+- 判断：东风双线并进（智驾一段式端到端 + 座舱 T500 AI 化），合资转自主后以「技术自研」换话语权（[[central-soe-restructuring-2026]]）
 
 ## 概述
 中国三大汽车央企之一（与一汽、长安并立整合主角，见 [[central-soe-restructuring-2026]]）。2026-10 世界智能网联汽车大会（[[wnevc-2026]]）次日，东风研发总院冯长军发布智驾与安全双路线声明，确立「一段式端到端 + 强化学习」技术方向。

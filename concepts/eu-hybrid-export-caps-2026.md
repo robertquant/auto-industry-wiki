@@ -1,13 +1,20 @@
 ---
 title: 中欧混动出口协议（2026-10）
 created: 2026-10-10
-updated: 2026-11-23
+updated: 2026-11-24
 type: concept
 tags: [policy, export, europe, strategy, trend]
-sources: [raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, raw/articles/2026-10-12-daily-digest.md, daily-news/2026-10-12-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
 ---
 
 # 中欧混动出口协议（2026-10）
+
+## 2026-11-24 细则落地：临时保障措施条例 (EU)2026/2614（晚报）
+- **欧盟委员会 11/24 发布实施条例 (EU)2026/2614**，对部分新型混动乘用车进口实施临时保障措施，**12 月 1 日起生效，最长持续 200 天至 2027/6/18**
+- **按来源国分设配额，超配额不放行**：中国 200 天配额 **191,780 辆**、日本 170,889 辆（覆盖中/日/土/英/韩等主要非欧盟出口地）
+- 此前草案拟将中国 2027 年配额设为 **35 万辆**，约为今年预计进口量的一半——200 天 19.2 万辆 × 1.8 ≈ 34.5 万/年，与草案口径一致
+- **增程（EREV）不计入配额**（11/23 已录）——混动配额墙下留出的增程出海通道继续有效（[[2026-11-market-weak-start]]）
+- 判断：配额战从「谈判」进入「执法」阶段——中国车企混动出口转向增程/BEV + 本地化生产双轨（[[china-tech-reverse-export]]、[[export-tax-rebate-cut-2026]]）
 
 ## 概述
 2026年10月9日，中国与欧盟宣布就混合动力汽车贸易达成「谅解」。这是欧盟对中国汽车出口限制从纯电（BEV）扩展至混动/插混（PHEV）的标志性事件，也是2025年以来欧盟加征BEV关税后**中国车企出海最大变量的第一步落地**。

@@ -1,13 +1,18 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-11-23
+updated: 2026-11-24
 type: concept
 tags: [export, strategy, trend, oem-cn]
-sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 中国车企出海 (Chinese OEM Export)
+
+## 2026-11-24 更新：39 国份额反超日本 + 出口占比 35%（晨报+晚报）
+- **1-9 月中国品牌在 39 个市场份额超日本**（日经口径），其中 14 个市场今年首次反超、欧洲占 8 个；日本 7 家车企 2026 财年全球销量预计 2,382 万辆（-1%）连续第三年收缩（[[japanese-automaker-crisis-2026]]）
+- **10 月乘用车出口 92.8 万（+68.5%）占厂商销量 35%**；特斯拉上海出口占比升至 87%、年度出口首超内销（[[tesla]]）——中国产、全球卖的产能格局固化
+- 判断：份额反超从「个别战场」走向「全球棋盘」；出口结构受欧盟混动配额压制（[[eu-hybrid-export-caps-2026]]），增程与本地化产能是下一阶段胜负手（[[china-tech-reverse-export]]）
 
 ## 2026-11-21 更新：海湾首站 + 体系化目标（晨报）
 - **小米首次出海：阿联酋首站**——SU7 起 169,900 迪拉姆（≈30.9 万人民币），Gargash Prime 代理、12 月首批交付：绕开关税、试水渠道，最小可行模型（[[xiaomi-auto]]）

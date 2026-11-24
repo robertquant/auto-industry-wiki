@@ -1,13 +1,17 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-11-21
+updated: 2026-11-24
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
-sources: [raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 华为汽车生态 (Huawei Auto)
+
+## 2026-11-24 更新：数字车钥匙 2200 万开通（晚报）
+- **华为钱包数字车钥匙累计开通 2200 万**（月均新增超 100 万、覆盖约 50 家车企，NFC/蓝牙/星闪），2027 拓海外（中/新/德/俄四站点，暂不开放蓝牙无感解锁——中继攻击风险）——生态入口渗透数据
+- 判断：车钥匙是「人车家」生态最低门槛入口，2200 万开通量 = 鸿蒙生态在车端的真实触达底盘（[[in-cabin-ai-agent]]、[[xiangjie]]）
 
 ## 2026-11-21 更新：发布会变「全家桶」——星芒手机+享界V8+尚界Z7T
 - **星芒（OSTA）手机 + 享界V8 + 尚界Z7T 同场发布**（11/20）——华为从卖车转向**跨端入口统一**：手机/汽车/生态同场，座舱 Agent 竞争中底牌最厚（[[xiangjie]]、[[shangjie]]、[[tencent-tai]] 对照）

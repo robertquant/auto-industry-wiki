@@ -1,13 +1,18 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-11-21
+updated: 2026-11-24
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md]
 ---
 
 # 宁德时代 (CATL)
+
+## 2026-11-24 更新：POSCO 三年锂协议 + eVTOL 航空电池密集落子（晚报）
+- **× POSCO 三年锂供应协议（2026-2028）**——韩系正极/锂源绑定宁德，供应已启动（上游锁料 + 出海合规背书）
+- **eVTOL 航空电池密集落子**：× 亿维特签载人载物 eVTOL 独家电池协议、× 中国民航大学共建适航联合实验室、为峰飞 V2000CG 供货；350Wh/kg 航空电池系统已完成热失控不扩散验证、具备批量生产——11/17 已录量产条件后进入客户落地阶段（对照 [[solid-state-battery]] 走向）
+- 判断：车用市占率守势下，航空电池成为高毛利第二曲线；适航联合实验室 = 以认证壁垒绑定低空生态（[[guangwan-jiyan]] 第三方认证先例）
 
 ## 概述
 全球动力电池龙头，2026年全球市占率39.9%。从高速成长期的高资本投入模式，转向兼顾股东长期回报的高质量发展阶段。2026年8月宣布61.8亿元中期分红。9月收购吉利系重庆耀宁新能源股权，同时面临车企「去宁德化」加速的逆风。

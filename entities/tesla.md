@@ -1,13 +1,18 @@
 ---
 title: 特斯拉 (Tesla)
 created: 2026-09-09
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [oem-us, adas, ai, vehicle, trend]
-sources: [raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-17-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 特斯拉 (Tesla)
+
+## 2026-11-24 更新：上海出口占比 87%——年度出口首超内销（晚报）
+- **10 月上海出口 59,012 辆（出口占比升至 87%）**，在华零售仅 8,817 辆（同比 -66.1%）——中美竞争格局下产能重心明显外移
+- **前 10 月出口 42.1 万辆同比翻倍，年度出口量首次反超国内销量**——上海工厂从「中国内需产能」彻底变成「全球出口基地」（对照 [[saic]] 海外新高同构：中国产、全球卖）
+- 判断：出口 > 内销拐点 = 上海工厂定位质变；叠加欧盟混动配额（[[eu-hybrid-export-caps-2026]]）与美国关税减免承诺（10/31 已录），中美产能互为对冲（[[chinese-oem-export]]）
 
 ## 概述
 美国电动车巨头，2026年9月发布无方向盘Robotaxi车型Cybercab（约20万元人民币），把「无人驾驶出租车」从概念推向量产。同日线控底盘赛道被点燃，次日即遭NHTSA安全调查。

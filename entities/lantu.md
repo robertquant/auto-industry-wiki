@@ -1,13 +1,17 @@
 ---
 title: 岚图 (Voyah)
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, vehicle, policy, sales]
-sources: [raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-gasgoo-evening.md]
 ---
 
 # 岚图 (Voyah)
+
+## 2026-11-24 更新：梦想家9 泰国 10 亿级订单（晨报）
+- **岚图梦想家9 获泰国 10 亿级订单**——高端 MPV 东南亚放量（对照 11/04 已录岚图欧洲销售合资推进）
+- 判断：央企高端品牌出海从「欧洲试水」扩至「东南亚造量」（[[dongfeng]]、[[chinese-oem-export]]）
 
 东风集团高端新能源品牌、乘用车体系港股上市主体（7489.HK，2026-03-19 介绍方式上市）。2026-11 获独立生产资质——央国企高端品牌「存量盘活」转正的标志性案例。
 

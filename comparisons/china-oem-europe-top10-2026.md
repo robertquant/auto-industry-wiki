@@ -1,13 +1,17 @@
 ---
 title: 中国车企首进欧洲销量前十（2026）
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-24
 type: comparison
 tags: [comparison, export, oem-cn, oem-eu, sales]
-sources: [raw/articles/2026-10-30-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
 ---
 
 # 中国车企首进欧洲销量前十（2026）
+
+## 2026-11-24 更新：Q3 中国品牌欧洲注册量 12.7% 首超日系 11.9%（晨报）
+- **历史性交叉：2026 Q3 中国品牌欧洲注册量 12.7%，首次超越日系（11.9%）**——存量重构从「前十榜单」扩展到「全量注册口径」（对照 1-9 月 39 国份额超日本，[[chinese-oem-export]]）
+- 沃尔沃 Q3 亏 56 亿克朗、股价暴跌 24%——吉利系欧洲成绩由 [[geely]] 集团口径（含沃尔沃）与沃尔沃本体报表分化（[[volvo]]）
 
 2026 年前三季欧洲销量榜结构性换血：**吉利集团升至第 8、比亚迪升至第 9**，福特与特斯拉跌出十强——中国车企首次同时两家进入欧洲前十。
 

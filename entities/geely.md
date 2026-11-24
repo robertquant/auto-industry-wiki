@@ -1,16 +1,21 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [oem-cn, strategy, sales]
-sources: [raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
 ---
 
 # 吉利汽车 (Geely Auto)
 
 ## 概述
 中国自主品牌龙头之一，2026年H1收入1736亿元，核心归母净利润96.8亿元。2026年8月完成重大管理层交接：李书福辞任董事会主席，安聪慧接任。战略转向纯电高压超快充，不再研发传统燃油动力总成。
+
+## 2026-11-24 更新：星愿 24 个月破百万 + 欧洲运营接手（晨报）
+- **星愿 24 个月累计破百万**（2024/10-2026/10，A0 级纯电细分纪录，平均 55 秒下线一辆）；**英国月销破 5000**、吉利接手极氪英国运营——欧洲渠道从「授权经销」转向「自主运营」（[[zeekr]]）
+- **吉利控股前 10 月 254.5 万辆（+2.7%）**——前十集团唯二正增长之一（另一为 [[chery]]）
+- 岚图梦想家9 泰国 10 亿级订单（[[lantu]]）——东南亚高端 MPV 放量
 
 ## 2026-11-21 更新：2028 出口 200 万辆目标 + 巴西首车下线（晨报）
 - **花旗大会官宣 2028 年出口 200 万辆目标**；**10 月出口 10.72 万辆（+158%）**——连续 4 个月破 10 万（[[china-export-leaders-2026]]）
