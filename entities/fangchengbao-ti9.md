@@ -1,10 +1,10 @@
 ---
 title: 方程豹钛9
 created: 2026-10-08
-updated: 2026-11-21
+updated: 2026-11-25
 type: entity
 tags: [vehicle, oem-cn, platform]
-sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, daily-news/2026-11-25-gasgoo-evening.md]
 ---
 
 # 方程豹钛9
@@ -61,3 +61,7 @@ sources: [raw/articles/2026-10-08-daily-digest.md, daily-news/2026-11-10-gasgoo-
 - **全球首个量产折叠方向盘实装**：10 秒收纳、0°-180° 大角度折叠、寿命 8 万次，支持离车泊入「边泊边折」——比亚迪 L3/L4 智驾量产成果（[[l3-mass-production-2026]] 语境）
 - 动力/续航：DMS 超级混动平台、CLTC 纯电至高 400km、满油满电综合续航 1630km
 - 判断：定价低于预测区间 = 方程豹走量优先；与 [[denza]] Z9 GT 双子星矩阵（11/20 已录）的「技术同源、价位分仓」策略
+
+## 2026-11-25 增补：第 1900 万辆下线车型 + 折叠智舱量产样本（晚报/央广网）
+- **比亚迪第 1900 万辆新能源车下线车型 = 钛9**（11/9 西安，距 1700 万辆仅 124 天）——旗舰承担「里程碑车型」叙事（[[byd]]）
+- 央广网 11/24 以钛9为**折叠智舱量产样本**：折叠方向盘 + 线控转向产业化案例（11/22 已录折叠方向盘实装细节）——L3/L4 执行域量产成果获央媒背书（[[chassis-domain-control]]）

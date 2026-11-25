@@ -1,13 +1,18 @@
 ---
 title: 先进制程产能被AI芯片预订至2027
 created: 2026-09-22
-updated: 2026-09-26
+updated: 2026-11-25
 type: concept
 tags: [chip, supply-chain, trend, strategy]
-sources: [raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-26-daily-digest.md]
+sources: [raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, daily-news/2026-11-25-gasgoo-evening.md]
 ---
 
 # 先进制程产能被AI芯片预订至2027
+
+## 2026-11-25 更新：安世半导体警示——AI 热潮挤压车规芯片产能实证（晚报）
+- **安世半导体（Nexperia）临时 CEO（慕尼黑电子展）**：供应商产能转向 AI 数据中心，通用芯片供给收缩，**安世订单已「严重超额」**——「先进制程被 AI 预订」（页首论点）向**成熟制程/通用器件**扩散：车规功率器件、MCU、模拟芯片进入交期承压区
+- 背景：安世 = 闻泰科技旗下车规半导体（荷兰索赔 20 亿美元 vs 闻泰反诉 80 亿元诉讼仍在推进）——产能挤压叠加股权/诉讼不确定性
+- 判断：汽车供应链从「先进制程卡位」扩展为**全制程挤占**——AI 资本开支虹吸的不只是 3/5nm，成熟产能同样被抽走（[[storage-chip-surge-2026]] 同源逻辑；[[infineon]]/[[qualcomm-auto]] 交期观察）
 
 ## 概述
 2026年，**3nm/5nm 先进制程产能已被 AI 芯片预订至 2027 年**。这意味着汽车芯片（智驾 SoC、舱驾融合芯片）只能在剩余产能里「抢」，成为 2026-2027 年汽车行业最大的**隐性风险**。

@@ -1,13 +1,17 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
-sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 宝马 (BMW)
+
+## 2026-11-25 更新：新世代 iX3 正式上市（晨报）
+- **iX3 今日上市：26.99-33.99 万全国统一价**（11/11 预售定档兑现）——Neue Klasse 中国首款量产车进入交付主周期；Momenta 智驾全系标配（[[momenta]]）
+- 判断：iX3 交付斜率 = 宝马「中国智驾+欧洲底盘」公式的终端验证；与新 i3（11/27 广州车展上市）构成双车连发窗口（[[2026-guangzhou-auto-show]]）
 
 ## 2026-11-24 更新：iX3 沈阳投产 + Momenta 全系标配（晨报）
 - **iX3 沈阳投产**、Momenta 智驾全系标配——德系豪华把智驾押给中国方案商（[[momenta]]）

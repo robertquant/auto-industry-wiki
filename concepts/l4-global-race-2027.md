@@ -1,10 +1,10 @@
 ---
 title: L4 全球落地竞速（2027 节点年）
 created: 2026-11-03
-updated: 2026-11-24
+updated: 2026-11-25
 type: concept
 tags: [adas, trend, prediction]
-sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md]
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-11-03-daily-digest.md, memory/2026-11-03.md, daily-news/2026-11-03-gasgoo-evening.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # L4 全球落地竞速（2027 节点年）
@@ -55,3 +55,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily
 
 - **盖世 11/11 观点：L4 商业化进度反超 L3**——L3 人机共驾责任界定复杂（法规/保险难解），L4 限定场景责任主体清晰（运营方），商业化路径反而更顺
 - 注：广东同日推 L3 准入试点（[[l3-mass-production-2026]]）——两条路线并行验证，2027 是关键节点（[[native-robotaxi-2026]]）
+
+## 2026-11-25 更新：小鹏悠游获 L4 示范运营资质 + 主驾无人载客
+- **小鹏悠游获 L4 示范运营资质、开启主驾无人载客**（AI日报）：8 个月无安全员测试、11 个月获资质、广州 2000+ 内测订单后进入无安全员载客——中国矩阵从「2027 目标」进入「主驾无人载客实绩」阶段（[[xiaopeng-yoyo]]）
+- 同日 Uber×Momenta 慕尼黑试点（[[momenta]]）——「资质竞赛 + 出海试点」双线推进，2027 节点叙事从规划转向兑现

@@ -1,13 +1,18 @@
 ---
 title: 广州车展 2026
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-25
 type: concept
 tags: [trend, ecosystem, vehicle, sales]
-sources: [raw/articles/2026-11-22-daily-digest.md, daily-news/2026-11-22-gasgoo-evening.md]
+sources: [raw/articles/2026-11-22-daily-digest.md, daily-news/2026-11-22-gasgoo-evening.md, daily-news/2026-11-25-gasgoo-evening.md]
 ---
 
 # 广州车展 2026（11/27-12/6）
+
+## 2026-11-25 更新：93 台全球首发确认 + 奔驰 26 款/VLE 中国首秀（晚报）
+- **首发 115 台、其中 93 台全球首发**（超此前「促销型车展」预期）——年末收官展投放强度坐实（对照 [[2026-11-market-weak-start]] 弱大盘：供给热度 vs 需求收缩错位）
+- **奔驰携 26 款车型**：全新纯电 MPV **VLE 中国首秀**，**Momenta R7 世界模型量产上车**（「车位到车位」率先交付，[[mercedes-benz]]、[[momenta]]）——豪华品牌把广州车展当智驾交付节点
+- 上市窗口确认：11/27 开幕当日 Lafa5（[[leapmotor-lafa5]]）与 NX7（[[nissan]]）同日上市
 
 ## 概况
 - **时间**：2026-11-27 至 12-06

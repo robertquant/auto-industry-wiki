@@ -1,10 +1,10 @@
 ---
 title: 小鹏悠游（XPENG YOYO）
 created: 2026-10-08
-updated: 2026-11-01
+updated: 2026-11-25
 type: entity
 tags: [adas, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 小鹏悠游（XPENG YOYO）
@@ -49,3 +49,8 @@ sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-11-01-daily
 ## 2026-11-01 补充：二代 VLA 量产 Robotaxi 内测订单 2000+ 次
 - **完成 2000+ 次内测订单**（凤凰网 11/1）——10/26 广州批文（已录）后进入真实订单验证：量产车接单-运营-交付链路跑通，2027 无安全员载客的时间表（页首）有订单侧支撑
 - 判断：「前装量产 + 软硬一体」路线（[[native-robotaxi-2026]]）与 Waymo 改装车队路线（[[waymo-vs-tesla-robotaxi-2026]]）的可比性从「技术参数」推进到「运营单量」
+
+## 2026-11-25 更新：获 L4 示范运营资质 + 开启主驾无人载客（AI日报）
+- **获 L4 示范运营资质、开启主驾无人载客**——8 个月无安全员测试、11 个月获资质；广州 2000+ 内测订单之后进入**主驾无安全员载客**运营验证
+- 路线图不变：**2027 广州无安全员运营**；「输出全球」延续（10/15 欧洲出行平台洽谈已录）
+- 判断：Robotaxi 竞争从「资质卡位」进入「主驾无人载客实绩」竞赛（[[l4-global-race-2027]]、[[native-robotaxi-2026]]）——小鹏以「前装量产+软硬一体」把无人化载客节点提前到中国第一梯队

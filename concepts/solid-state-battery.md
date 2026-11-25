@@ -1,13 +1,16 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-11-21
+updated: 2026-11-25
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy, supply-chain]
-sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
-## 2026-11-21 更新：金属锂补链——天齐锂业 1000 吨项目竣工
+## 2026-11-25 更新：小鹏仲亮 CBIS2026——产业化「先机器人、后飞行汽车、再汽车」（晚报）
+- **小鹏电池系统部高级总监仲亮（CBIS2026）**：固态电池短期难全面替代磷酸铁锂，成熟后或先在 **25-30 万以上高端车型**应用；**机器人对能量密度/安全需求突出、成本敏感度低——更适合早期导入**：产业化顺序「**先机器人、后飞行汽车、再汽车**」
+- 小鹏年底机器人量产后将推进固态电池车端验证（呼应 10/31 已录「小鹏机器人固态电池量产下线、车规后随」[[xiaopeng]]）
+- 判断：仲亮口径 = 头部新势力对「2027 固态元年」（10/31 共识）的**分层落地修正**——「上车上量」≠「上车为主」；机器人/低空先行拉长固态商业化曲线（[[svolt]] 半固态长期主流、[[catl]] 350Wh/kg 航空电池同框）
 
 - **天齐锂业重庆铜梁年产 1000 吨金属锂项目竣工**（全国首个全自动电池级金属锂工厂，重庆总产能升至 1600 吨/年），产品已向头部电池客户送样——**固态电池锂金属负极与补锂刚需的上游产能卡位**（[[tianqi-lithium]]）；与 CBIS2026 聚合物/硫化物路线之争（11/20 已录）联动：锂金属负极是两条路线共同的增量方向
 

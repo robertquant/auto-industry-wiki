@@ -1975,3 +1975,12 @@
 - 导航更新：index.md Last updated 2026-11-24；Total 403→**405**（entities 178→180）；新增 cidi/tiantong-weishi 到供应商/方案商；blurb 更新 15 条
 - 完整性校验：comm 输出为空 ✅（405 注册 = 405 文件，0 缺失；额外链接为独立分库 index，属预期）
 - 未建页（单次提及未达阈值）：五菱缤果Pro宁德版（并入 catl 语境）、坦克 ABS 详情（已录 great-wall 11/19）、小鹏图灵巴黎适配细节（已录 xiaopeng）
+
+## [2026-11-25] ingest | 每日整理（晨报 + AI日报 + 盖世晚报）
+- 新建概念 1：**ai-co-driving**（图灵AI共驾：小鹏科技日行业首创「人驾时智驾全程在线」，VLA自适应减速12月OTA、拥堵刹车频次-95%/续航+12.4%——「人驾/智驾边界消融」标志事件；同日蔚来NWM 3.0摊牌语境）
+- 新建 raw/articles/2026-11-25-daily-digest.md（晨报+AI日报素材；晚报已在 daily-news/2026-11-25-gasgoo-evening.md）
+- 更新实体页 10：xiaopeng（科技日「图灵AI共驾」发布落地）、xiaopeng-yoyo（获L4示范运营资质+开启主驾无人载客：8个月无安全员测试/11个月获资质/广州2000+内测订单）、nvidia（黄仁勋辞任11天后复职：11/23公告/11/24回总部/股价+30%/余凯「绝对是利好」）、momenta（×Uber慕尼黑Robotaxi试运营：Uber首次在德国提供自动驾驶出行、已获德国全境L4测试许可）、byd（第1900万辆下线：钛9、距1700万辆仅124天/每62天百万辆+王传福APEC累计减排1.5亿吨）、xiaomi-auto（Q3财报：交付100,975辆/汽车+AI亏34亿/2027出海欧洲确认）、bmw（新世代iX3今日正式上市26.99-33.99万全国统一价）、volkswagen（埃姆登谈判升级罢工威胁）、fangchengbao-ti9（第1900万辆下线车型+央广网折叠智舱量产样本/线控转向产业化）
+- 更新概念页 5：solid-state-battery（小鹏仲亮CBIS2026定调产业化「先机器人、后飞行汽车、再汽车」——短期不替代LFP、成熟后先上25-30万+高端车型）、world-model（小鹏X-World 1.6：Virtual City虚拟城市+交互仿真实时化）、advanced-node-capacity-2027（安世半导体警示AI挤压成熟产能：订单严重超额+闻泰/荷兰诉讼背景）、vehicle-battery-integrated-scrapping-2026（工信部明确换电车型暂不适用——开放问题解消+电池缺失认定车辆缺失）、2026-guangzhou-auto-show（93台全球首发确认+奔驰26款/VLE中国首秀/Momenta R7量产上车）、l4-global-race-2027（小鹏主驾无人载客——中国矩阵进入实绩阶段）
+- 导航更新：index.md Last updated 2026-11-25；Total 405→**406**（concepts 200→201：技术96→97）；新增 ai-co-driving 到概念（技术）分类；blurb 更新 14 条
+- 完整性校验：待执行（见下）
+- 未建页（单次提及未达阈值/已覆盖）：电驱动扁线95.6%/碳化硅30%（并入 powertrain-tech-routes-2027 语境未更新页，留待下次）、宁德350Wh/kg航空电池（已录 catl 11/24）、享界V8 L3路测（已录11/17/23）、Cybercab个人版订购（已录11/15/16）、北汽×新紫光（已录11/14）、龙蟠采购上限90亿（已录11/20）

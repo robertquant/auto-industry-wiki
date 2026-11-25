@@ -1,13 +1,18 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-11-21
+updated: 2026-11-25
 type: entity
 tags: [oem-cn, vehicle, sales, export]
-sources: [raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+sources: [raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 小米汽车 (Xiaomi Auto)
+
+## 2026-11-25 更新：Q3 财报——交付 10.1 万 + 汽车/AI 亏 34 亿（晨报）
+- **Q3 交付 100,975 辆**（季度口径；10 月单月首破 5 万，11/11 已录）；**汽车+AI 创新业务亏损约 34 亿**——规模上量但单车亏损仍显著（对照 [[xiaopeng]] Q3 毛利率 18.9% 量利双升）
+- **2027 出海欧洲再确认**（11/3 已录口径）——国际业务部（11/15 已录）之后时间表锚定（[[eu-industrial-accelerator-act]] 本地化门槛）
+- 判断：Q3 =「量增、亏损收窄但仍深」——盈亏平衡点是 2027 出海前的核心悬念（[[q3-2026-earnings-season]]）
 
 ## 概述
 小米集团旗下汽车业务，2024年4月SU7开启交付，2026年8月累计交付突破50万台（用时约28.5个月）。以"纯电+增程"双线布局，SU7稳居纯电轿车第一梯队，增程品牌[[xiaomi-pengcheng]]于2026年8月发布。

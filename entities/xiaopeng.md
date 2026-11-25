@@ -1,11 +1,16 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-24
-sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
+updated: 2026-11-25
+sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 小鹏汽车
+
+## 2026-11-25 更新：「Origin原点」科技日——图灵AI共驾落地（晚报）
+- **行业首创「图灵AI共驾」正式发布（11/25 广州科技日）**：人驾时智驾全程在线（可辅助加速/制动/转向）——智驾能力首次系统性延伸至人驾场景，「人驾/智驾边界消融」标志事件（[[ai-co-driving]]）
+- **首个落地功能 VLA 自适应减速**：VLA 大模型动态调节能量回收，拥堵路况制动踏板介入频次降 **95%**、城市通勤续航 +**12.4%**；**12 月首批 OTA 推送 G9L、MONA L05**（[[mona-l05]]、[[xpeng-g9l]]）
+- 同日 15:45 蔚来 NIO IN 广州发牌 NWM 3.0——「双发布会摊牌日」（11/22 预告）兑现（[[world-model]]、[[nio]]）；判断：智驾差异化从「替你开」转向「陪你开」
 
 ## 2026-11-24 更新：图灵 AI 智驾巴黎开放公众体验（AI日报）
 - **图灵 AI 智驾 11/23-24 巴黎开放公众体验**——两周跨欧洲国家适配、**数据量仅为底层训练数据万分之一**——端到端泛化能力的低成本出海实证（对照 11/10 已录「首个欧洲上线智驾的中国品牌」节奏）

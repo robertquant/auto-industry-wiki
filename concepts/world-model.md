@@ -1,13 +1,17 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-11-10
+updated: 2026-11-25
 type: concept
 tags: [adas, l4, world-model]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, daily-news/2026-11-10-gasgoo-evening.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 世界模型
+
+## 2026-11-25 更新：小鹏 X-World 1.6——Virtual City 虚拟城市 + 交互仿真实时化（AI日报）
+- **小鹏 X-World 1.6 世界模型升级**（11/24 快科技）：**Virtual City 虚拟城市** + **交互仿真实时化**——仿真场景从「离线生成」走向「实时交互」，训练与验证边界进一步模糊（[[training-loop]]）
+- 时间点卡位：11/25 与蔚来 NIO IN NWM 3.0 同日摊牌（[[nio]]、[[ai-co-driving]]）——世界模型从「训练基础设施」升级为「产品发布级叙事」的双线配置
 
 ## 定义
 智驾系统的"物理世界模拟器"，能够预测环境的未来状态演进。类似人类驾驶员对场景发展的事前预判。

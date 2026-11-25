@@ -1,10 +1,10 @@
 ---
 title: 车电一体报废（2026政策）
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-25
 type: concept
 tags: [policy, battery-tech, trend]
-sources: [raw/articles/2026-11-17-daily-digest.md]
+sources: [raw/articles/2026-11-17-daily-digest.md, daily-news/2026-11-25-gasgoo-evening.md]
 ---
 
 # 车电一体报废（2026 政策）
@@ -32,3 +32,7 @@ sources: [raw/articles/2026-11-17-daily-digest.md]
 - [[battery-digital-id-2026]] — 同一条监管弧线的前置环节
 - [[catl]] — 回收体系最大既得利益方之一
 - [[battery-swap-vs-ultra-fast-charging]] — 车电分离模式的合规张力
+
+## 2026-11-25 更新：工信部明确换电车型暂不适用（晚报）
+- **工信部口径：换电车型暂不适用「车电一体报废」**，相关管理办法正在研究制定——换电模式「车电物理分离」本是常态，政策与换电流通的兼容问题获官方回应（上文「开放问题」解消）
+- 细则方向：修订《报废机动车回收管理办法实施细则》，推动「车电一体」报废回收拆解，**废旧动力电池缺失将被认定为车辆缺失**——电池流向监管从「可追溯」升级到「缺一不可」（[[battery-digital-id-2026]] 配套）

@@ -1,13 +1,17 @@
 ---
 title: Momenta (魔门塔)
 created: 2026-09-09
-updated: 2026-11-19
+updated: 2026-11-25
 type: entity
 tags: [tier1, adas, ai, system]
-sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md, memory/2026-11-08.md]
+sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, memory/2026-11-07.md, memory/2026-11-08.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # Momenta (魔门塔)
+
+## 2026-11-25 更新：×Uber 慕尼黑 Robotaxi 试运营（晚报）
+- **Momenta×Uber 慕尼黑启动 Robotaxi 试运营**——**Uber 首次在德国提供自动驾驶出行服务**；初期免费、配备安全员；Momenta 已获 **德国全境 L4 测试许可**
+- 意义：方案商×出行平台「技术输出换运营准入」在欧洲落地（对照 [[weRide]]×Tada 新加坡、[[xiaopeng-yoyo]] 欧洲洽谈）——Momenta 从「卖方案给车企」（BMW/奔驰/神龙，页首）延伸到「卖能力给出行平台」（[[l4-global-race-2027]]、[[waymo-vs-tesla-robotaxi-2026]]）
 
 ## 概述
 中国头部智能驾驶方案商，欧洲豪华品牌智驾「外包」首选。2026 H1城市NOA装机量21.4万辆居行业第二，凭借端到端+纯视觉方案拿下[[bmw]]、[[mercedes-benz]]两大德国豪华品牌订单，成为中国智驾技术反向输出的标志性案例。

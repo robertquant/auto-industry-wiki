@@ -1,13 +1,18 @@
 ---
 title: 英伟达（NVIDIA）
 created: 2026-10-08
-updated: 2026-11-23
+updated: 2026-11-25
 type: entity
 tags: [chip, ai, strategy]
-sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md]
+sources: [raw/articles/2026-10-08-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, memory/2026-11-08.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
 # 英伟达（NVIDIA）
+
+## 2026-11-25 更新：黄仁勋辞任 11 天后复职 CEO（AI日报）
+- **11/23 公告复职、11/24 回总部**——辞任（11/12 已录）仅 11 天回归，创「CEO 最短治理真空」样本；股价 +30%、特朗普表态
+- **余凯（地平线）回应「绝对是利好」**——国产替代同业口径从「治理真空窗口」切回「正面竞争」：事件坐实「个人信用锚」依赖（11/14-15 已录 97% 员工望回归）并自我修正
+- 判断：复职消除治理不确定性，但车载客户「去英伟达化」预案（11/15 已录）不会逆转——中国智驾域控份额下滑（9 月 28.5%，11/23 已录）由招采逻辑（供应确定性）驱动，属结构性趋势（[[auto-chip-competitive-landscape]]、[[horizon-robotics]]）
 
 AI 算力霸主，智驾芯片市场长期主导者（50.9% 份额，见 [[autonomous-driving-chips]]）。2026-10 出现战略角色转变：从「卖铲人」变为「买公司的人」——用资本对冲芯片需求波动与单一客户依赖。
 
