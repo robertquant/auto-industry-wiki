@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-25
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
@@ -341,3 +341,7 @@ APEC 工商领导人峰会（深圳）披露：比亚迪累计产销新能源车
 - **英国不受管辖**：Ti7 已于 7 月英国预售、明年 1 月交付（英国脱离欧盟外观设计体系）；Ti7 累计全球销量破 30 万辆（截至 10 月，单月峰值 3.2 万辆）
 - 比亚迪称独立设计、将上诉；JLR 须 6 个月内提正式诉讼
 - 判断：出海合规战场从关税（[[eu-70x70-rule]]）升级到外观设计——「先冻结后诉讼」模式鼓励欧洲权利人效仿；Ti7 禁令同时打击匈牙利工厂（[[byd-hungary-factory]]）本地化产能
+
+## 2026-11-26 更新：第三代唐上市 18.79 万起（晨报）
+- **第三代唐正式上市：18.79 万起**（11/24 已录「第三代唐上市、纯电 850km」的定价落地）——王朝旗舰 SUV 换代的走量定价
+- 判断：唐系是比亚迪 20 万级插混/纯电基盘（对照 [[denza]] 30 万+ 高端线）——18.79 万起 = 在广州车展前夜锁定置换客群（[[2026-guangzhou-auto-show]]、[[2026-11-market-weak-start]] 弱大盘语境）

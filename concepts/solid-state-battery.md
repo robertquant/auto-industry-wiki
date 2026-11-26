@@ -1,11 +1,17 @@
 ---
 title: 固态电池技术路线
 created: 2026-05-03
-updated: 2026-11-25
+updated: 2026-11-26
 type: concept
 tags: [battery, solid-state, catl, byd, technology, eve-energy, supply-chain]
 sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-03-daily-digest.md, memory/2026-05-03.md, memory/2026-05-06.md, daily-news/2026-05-13-gasgoo-evening.md, memory/2026-05-24.md, memory/2026-06-11.md, raw/articles/2026-09-19-daily-digest.md, memory/2026-09-29.md, daily-news/2026-09-29-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, daily-news/2026-10-26-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
+
+## 2026-11-26 更新：首个安全国标立项——半固态/全固态统一标尺（晚报）
+- **工信部 11/23 下达《固态锂离子电池和电池组安全技术规范》国标制定计划**：宁德时代、中国电子技术标准化研究院牵头，**首个同时覆盖半固态与全固态体系的国家级安全规范**（[[catl]]）
+- **术语国标划红线**：电解液占比 **5%-20% 只能叫「混合固液电池」**、**<5% 才算全固态**——命名乱象终结，为后续准入/补贴口径提供标尺（对照 [[vehicle-battery-integrated-scrapping-2026]] 的车型认定逻辑）
+- **曾毓群（达沃斯）**：全行业固态进度 **Level 4（共 9 级）**、宁德 2027 小批量目标、**2030 年前百万级装车可能性很小**——官方口径与 11/25 仲亮「先机器人、后飞行汽车、再汽车」产业化顺序互证
+- 判断：标准先于量产（对照 10/13 巨湾 GB/T 48093.1 判定检测先例）——安全国标立项 = 固态赛道从「路线争论」进入「合规定义」阶段；5% 电解液红线直接影响半固态产品的营销口径（[[svolt]]、[[guangwan-jiyan]]）
 
 ## 2026-11-25 更新：小鹏仲亮 CBIS2026——产业化「先机器人、后飞行汽车、再汽车」（晚报）
 - **小鹏电池系统部高级总监仲亮（CBIS2026）**：固态电池短期难全面替代磷酸铁锂，成熟后或先在 **25-30 万以上高端车型**应用；**机器人对能量密度/安全需求突出、成本敏感度低——更适合早期导入**：产业化顺序「**先机器人、后飞行汽车、再汽车**」

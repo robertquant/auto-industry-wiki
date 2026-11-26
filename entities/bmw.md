@@ -1,7 +1,7 @@
 ---
 title: 宝马 (BMW)
 created: 2026-09-09
-updated: 2026-11-25
+updated: 2026-11-26
 type: entity
 tags: [oem-eu, ev-tech, adas, strategy]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, memory/2026-11-08.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
@@ -223,3 +223,7 @@ Neue Klasse平台首款车型iX3市场反响超预期——订单逼近10万辆�
 ## 2026-11-23 更新：iX3 11/25 上市 + 传动轴召回扩大
 - **全新 iX3 11/25 上市**（晚报口径）——纯电中型 SUV 换代节点（广州车展前后密集投放）
 - **召回扩大**：进口 5 系(1482)/8 系(1239)传动轴花键磨损（晨报口径）——品控风险延续
+
+## 2026-11-26 补充：iX3 利润率指引 -0.5%~0.5%（晨报）
+- **晨报口径**：新世代 iX3 国产上市 26.99 万起（11/23-25 已录），**利润率指引 -0.5%~0.5%**——26.99 万定价下单车利润贴近盈亏平衡线（对照 [[volkswagen]] 前 9 个月经营利润 0.1 亿欧、[[mercedes-benz]] 利润率 2.5%）
+- 判断：德系在华电动化「以利润换份额」进入指引化——豪华品牌纯电国产化定价普遍贴成本（[[entry-ev-profit-crisis]]）

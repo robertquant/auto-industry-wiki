@@ -1,7 +1,7 @@
 ---
 title: 深蓝汽车 (Deepal)
 created: 2026-06-15
-updated: 2026-10-28
+updated: 2026-11-26
 type: entity
 tags: [changan, china, ev, erev, adas]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md, raw/articles/2026-10-07-daily-digest.md]
@@ -84,3 +84,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-06-15.md, raw/art
 ## 2026-10-28 更新：埃及增程第一——绑定 GB Auto
 - **深蓝（长安系）在埃及增程市场排名第一**，绑定当地最大经销集团 **GB Auto**；**1-8 月埃及新能源市场份额 30%**——北非溢价市场「增程+本地渠道绑定」模式跑通
 - 判断：埃及 = 增程路线在欠发达充电基础设施市场的适配样板（增程无里程焦虑 + 渠道独占）；与 [[range-extender-trend]]「增程出海」主线互证，长安系中东/北非基地化（同比 [[chery]] 出口 72% 依赖中东非）再落一子
+
+## 2026-11-26 更新：深蓝 L07 AI 激光版上市——激光雷达全系标配（广州车展）
+- **深蓝 L07 AI 激光版上市**（广州车展 11/27 窗口，见 [[2026-guangzhou-auto-show]]）：**一段式端到端 + 世界行为模型**（东风/长安系同源技术栈趋势，对照 [[dongfeng]] 10/30 已录）、**全系标配激光雷达**、**豆包大模型座舱**（[[volcengine]] 延续）
+- 判断：继 S07 AI 激光版 14.99 万（10/2 已录）后 L07 再验证「激光雷达标配化」——与零跑 Lafa5 激光雷达下探 10 万级（[[leapmotor-lafa5]]）同频，激光雷达重回中低端标配（[[lidar-penetration]]、[[speedtron]]）

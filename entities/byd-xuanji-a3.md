@@ -1,7 +1,7 @@
 ---
 title: 璇玑A3芯片
 created: 2026-06-04
-updated: 2026-10-31
+updated: 2026-11-26
 type: entity
 tags: [byd, chip, adas, self-develop]
 sources: [raw/articles/2026-06-04-daily-summary.md, memory/2026-06-16.md, memory/2026-07-05.md, raw/articles/2026-10-31-daily-digest.md]
@@ -82,3 +82,7 @@ sources: [raw/articles/2026-06-04-daily-summary.md, memory/2026-06-16.md, memory
 - **璇玑 2.0 中央大脑**：时延 8μs（-80%），随 [[song-ultra-dmi]] 首发披露——中央计算架构时延进入微秒级
 - **余凯炮轰「等效算力」后**：700TOPS 宣传口径需按「NV 算力 vs 等效算力」重新对账（[[tops-spec-war-2026]]）——天神之眼 B 版同步引入地平线大算力芯片 + HSD（11 月首款车，[[horizon-robotics]]），自研璇玑与外购 HSD 双线并行
 - 判断：比亚迪 = 新口径战的最大承压方兼最大受益方——700TOPS 数字被质疑，但「B 版引入地平线」说明智驾芯片决策以方案成熟度而非口径数字为准
+
+## 2026-11-26 更新：鼎曜三芯组合 2100 TOPS+（AI日报）
+- **仰望鼎曜广州车展国内首秀披露璇玑 A3 三芯并联 2100 TOPS+**（[[yangwang-dingyao]]）——单芯片 700TOPS（10/31 已录存疑口径）×3 的生态级算力组合，旗舰轿车把「算力堆叠」做成稀缺卖点（[[tops-spec-war-2026]]）
+- 判断：三芯并联 = 高端旗舰的算力冗余叙事（对照 [[xiaopeng]] X9 Ultra 3 图灵 2250TOPS，11/22 已录）——「等效算力」口径战继续，但 2100+ TOPS 的量级本身成为 200 万级定价的支撑物

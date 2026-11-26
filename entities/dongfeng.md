@@ -1,7 +1,7 @@
 ---
 title: 东风汽车 (Dongfeng)
 created: 2026-10-22
-updated: 2026-11-24
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, adas, ai, trend]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md]
@@ -39,3 +39,8 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-22-daily
 ## 2026-11-04 更新：岚图欧洲 + 神龙×Momenta
 - **Stellantis 拟在欧洲设合资公司（51:49）运营岚图欧洲销售**——「东风出技术产品、Stellantis 出渠道」的技术互换模式（[[stellantis]]）；神龙科技×[[momenta]] 基于 R7 世界模型共研高阶智驾，将搭载标致/Jeep 全球车型
 - 判断：央企整合期（[[central-soe-restructuring-2026]]）东风把「技术+产品」变成对欧筹码；欧洲关税节奏仍是变数
+
+## 2026-11-26 更新：奕派 EP7——全球首款华为乾崑 + 宁德巧克力换电轿跑（晚报）
+- **东风奕派 EP7 官宣**（广州车展前夜）：中大型纯电轿跑、**四驱 405kW、CLTC 续航 1010km**——**全球首款「华为乾崑智驾 + 宁德巧克力换电」量产车**
+- **引望 × 宁德 × 时代电服协议首个落地**（10 月签约，11/14 已录 [[yinwang]]）——乾崑智驾与巧克力换电网络底层互通，**自动寻站、对位换电全流程协同**（[[catl]] 换电站 2520 座、[[nev-battery-swap]]）
+- 判断：EP7 把「智驾方案商 + 电池厂」的生态合作第一次落到量产轿车——换电从「补能便利」升级「智驾联动补能」；东风/长安央企阵营成为宁德换电生态首发阵地（[[2026-guangzhou-auto-show]] 首发权反转语境）

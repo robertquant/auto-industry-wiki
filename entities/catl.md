@@ -1,7 +1,7 @@
 ---
 title: 宁德时代 (CATL)
 created: 2026-08-09
-updated: 2026-11-24
+updated: 2026-11-26
 type: entity
 tags: [battery, oem-cn, supply-chain, ev-tech]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-06-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md]
@@ -201,3 +201,10 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily
 - 2025Q4 理想 i6 电池独家供应协议 **8000 包仅交付 4000 包**（供职于产能/交付节奏争议），积压约 4 万订单年内只交 2.9 万台——「去宁德化」的直接导火索证据
 - 理想转向电池深度自研（[[li-auto-lianshan-battery]] 连山电池 + 电机），叠加自研马赫芯片：头部新势力与宁德时代、英伟达两大供应商关系同时重构
 - 同日：斯莱克子公司与宁德时代签署**电池壳体配套供应协议**——龙头仍在扩绑定面，但车企自研侧的份额侵蚀在高端订单区加速
+
+## 2026-11-26 更新：固态安全国标牵头立项 + ×北控换电 + 换电站 2520 座（晚报）
+- **固态电池首个安全国标立项**（工信部 11/23 下达《固态锂离子电池和电池组安全技术规范》，宁德时代/中国电子技术标准化研究院牵头）——首个同时覆盖半固态与全固态的国家级安全规范（[[solid-state-battery]]）；术语红线：电解液占比 5%-20% 只能叫「混合固液电池」、<5% 才算全固态
+- **曾毓群（达沃斯）**：全行业固态进度 **Level 4（共 9 级）**、2027 小批量目标、2030 年前百万级装车「可能性很小」——与 11/25 已录小鹏仲亮「先机器人、后飞行汽车、再汽车」产业化顺序互相印证
+- **×北控合作**：十五五高密度换电网络 + 环卫物流车队场景——换电 B 端场景再扩（[[nev-battery-swap]]）
+- **巧克力换电站 2520 座**（11/26 口径，9 月底 2500+ 座，11/14 已录）——与引望×宁德首个量产落地 EP7（[[dongfeng]]）同框，换电生态进入「网络+车型」双兑现期
+- 判断：宁德以「标准制定权（国标牵头）+ 场景绑定（北控）+ 生态落地（EP7）」三重身份巩固补能话语权（[[battery-swap-vs-ultra-fast-charging]]）

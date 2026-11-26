@@ -1,7 +1,7 @@
 ---
 title: 存储芯片价格暴涨 (2026 Storage Chip Surge)
 created: 2026-06-30
-updated: 2026-11-19
+updated: 2026-11-26
 type: concept
 tags: [chip, supply-chain, strategy, cost]
 sources: [daily-news/2026-06-30-gasgoo-evening.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-25-daily-digest.md]
@@ -58,3 +58,7 @@ sources: [daily-news/2026-06-30-gasgoo-evening.md, raw/articles/2026-10-17-daily
 
 ## 2026-11-19 长鑫车载存储升级
 长鑫科技车载存储升级 **LPDDR5X**、推进 LPDDR6 车载适配（双子架构原生速率大幅提升），将延伸至智驾车载计算单元——补国内高端车载存储缺口，存储涨价周期中国产车载替代加速。
+
+## 2026-11-26 更新：兆易创新 × 德赛西威联合实验室（晚报）
+- **兆易创新 × 德赛西威成立联合实验室**：车规存储 / MCU 国产化**从供货走向联合定义**——头部存储/控制芯片厂 × 头部域控 Tier1 的联合定义模式；与长鑫车载升级（11/19 已录）同框：国产车规芯片从「替代存量」进入「定义新品」阶段
+- 判断：车规存储结构性缺货（10/17 已录）+ 涨价 300%（10/25 已录）背景下，「联合实验室」= 供应确定性 + 定制化双保险——国产车规芯片竞争维度从价格转向联合开发深度（[[auto-chip-competitive-landscape]]、[[horizon-robotics]]）

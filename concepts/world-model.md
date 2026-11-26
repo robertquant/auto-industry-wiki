@@ -1,7 +1,7 @@
 ---
 title: 世界模型
 created: 2026-05-01
-updated: 2026-11-25
+updated: 2026-11-26
 type: concept
 tags: [adas, l4, world-model]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-05-01.md, memory/2026-05-08.md, memory/2026-05-09.md, memory/2026-05-29.md, raw/articles/2026-05-30-ai-panorama.md, memory/2026-06-13.md, raw/articles/2026-06-18-ai-panorama.md, raw/articles/2026-07-07-daily-topics.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-25-daily-digest.md]
@@ -183,3 +183,8 @@ VLA和世界模型不是替代或配合关系，而是**不同维度**的东西�
 - **蔚来官宣 NWM 3.0**（11/25 NIO IN 2026 发布）——继 6 月 NWM 首载 [[nio-shenji]] 神玑之后的世界模型迭代官宣（[[nio]]）
 - **小鹏 AI Day（11/25）同日发布 Origin**——具体形态待发布揭晓；与小鹏第二代 VLA（9 月已录）并行
 - 判断：**两家新势力同日打世界模型牌** = 2026 世界模型竞赛的「对局点」——继 [[momenta]] R7 量产（7 月）、百度 Apollo World「2+3」标准（11 月）之后的路线摊牌；技术叙事成为新势力估值竞争的主战场（[[new-forces-landscape-2026]]）
+
+## 2026-11-26 更新：NWM 3.0 结果——「隐空间推演 + 时延工程」成卷面（AI日报）
+- **NWM 3.0（11/25 NIO IN 正式发布）量化指标**：端侧注意力算力 ↓36 倍（推理成本重构）、底盘时延 ↓78% / 整车时延 ↓54%（时延工程）、训练效率 ↑5 倍 / 数据量 ↑7 倍、**隐空间单步推演快 100 倍**、介入率 ↓40%+
+- 解读：蔚来把世界模型竞争从「生成效果」（百度 Apollo World「2+3」标准，11/10 已录）切向**「隐空间推演速度 + 整车时延」**——技术叙事落脚点是算力效率与安全介入率，而非视频生成（对照 [[vla-world-model]] 架构之争）
+- 同日语境：小鹏 Origin 同场摊牌（[[xiaopeng]] 11/25 AI Day）——两家都把世界模型当「估值叙事弹药」；蔚来-SW 11/26 涨 6%+ 显示市场给硬指标定价（[[nio]]、[[new-forces-landscape-2026]]）

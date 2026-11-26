@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-11-24
+updated: 2026-11-26
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
@@ -140,3 +140,10 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily
 - **乾崑 ADS 33 款合作车型月销量突破 10 万辆**（11/20 生态大会，靳玉志口径）；鸿蒙终端设备超 2700 万台——「人车家」生态入口争夺战（对照 [[xiaomi]] 生态）
 - **「两境」落子**：东风×华为 DH 项目定名 **奕境**（首款明年 4 月北京车展发布、此后每年至少一款）；广汽合作 **启境**（[[aistaland]]）明年两款新车、首款明年 6 月上市交付——乾崑从「供应商」走向台前的新合作模式加速成型
 - 判断：鸿蒙智行五界（[[xiangjie]]/[[zhijie]]/[[wenjie]]/[[zunjie]]/[[shangjie]]）之外，乾崑方案输出（奕境/启境）成为第二条增长曲线（[[huawei-ads]]）
+
+## 2026-11-26 更新：乾崑生态大会（第二届，广州）+ 生态数字破 200 万（AI日报/晚报）
+- **第二届华为乾崑生态大会 11/26 18:15 广州**（央视联合）——广州车展开幕前夜抢声量（[[2026-guangzhou-auto-show]]）
+- **生态数字**：智驾 + 座舱 + App 均破 **200 万**（首个 100 万耗时 44 个月、第二个仅 12 个月——加速度翻倍）；2023-2026 算力 ↑20 倍+，**未来 5 年算力投资 700-800 亿**
+- **「十分钟智驾生活圈」叙事**——智驾从「功能」升级「生活方式基础设施」（对照 [[geely-nio-swap-alliance]] 补能生态化）
+- **配套数据**：组合驾驶辅助渗透率 70%、NOA 超 30%，华为乾崑占组合驾驶辅助方案超九成（[[huawei-ads]]）；引望×宁德巧克力换电首个量产落地奕派 EP7（[[dongfeng]]），换电站 2520 座（[[catl]]）
+- 判断：华为把车展前夜变成「生态发布会」——智驾+座舱+补能三闭环叙事抢媒体议程；700-800 亿算力投资 = 向「算力基础设施供应商」延伸（[[ai-box-independent-compute]]、[[vehicle-computing-agent]]）

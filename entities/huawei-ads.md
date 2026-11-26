@@ -1,7 +1,7 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-11-07
+updated: 2026-11-26
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
 sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md, daily-news/2026-11-07-gasgoo-evening.md]
@@ -172,3 +172,9 @@ sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/
 - **量产规模**：乾崑智驾搭载量突破 **200万辆**——**第二个100万辆仅约12个月**
 - **行业渗透**：8月国内新车 L2 及以上装配渗透率 **73.6%**，L2++ 单月装配 **54.5万辆**
 - 判断：活跃率90%+ 是比装机量更硬的信任指标——叙事从「装得上」转向「敢用、爱用」（呼应 [[adas-liability-guarantee]]）；[[wenjie]] M9 连续4月 50万+销冠、M6 累计破6万台，华为系高端矩阵 M6/M8/M9 梯度成型
+
+## 2026-11-26 更新：智驾渗透率破 70%——乾崑占组合驾驶辅助超九成（晚报）
+- **工信部口径**：2026 年组合驾驶辅助新车渗透率 **70%**、NOA 超 **30%**；**华为乾崑在组合驾驶辅助方案中占比超九成**——渗透率下半场华为仍是存量主力（对照 [[city-noa-penetration]]）
+- **奕境曾清林判断**：「上半场电动化、下半场考题在智驾」；摄像头夜间/雨夜短板 → **激光雷达数量与布局绕不过**（[[lidar-penetration]]）
+- 语境：深蓝 L07 AI 激光版全系标配激光雷达（[[deepal]]）+ 乾崑生态大会智驾破 200 万（[[huawei-auto]] 11/26）——「渗透率 70% + 乾崑九成」坐实华为智驾存量运营叙事
+- 判断：70% 渗透率意味着增量市场从「首次上车」转向「方案替换与升级」——华为的存量数据飞轮（[[data-loop]]）与激光雷达回归（[[speedtron]] 出货 +186%）同框，智驾供应链竞争进入「量产规模」维度

@@ -1,7 +1,7 @@
 ---
 title: 小米汽车 (Xiaomi Auto)
 created: 2026-08-19
-updated: 2026-11-25
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, vehicle, sales, export]
 sources: [raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
@@ -132,3 +132,9 @@ sources: [raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-11-daily
 - **11 月重启金融攻势**：SU7 五年 0 息 + HAD 等权益合计至高 **4.9 万元**——金融工具冲量，直指 **55 万辆年度目标**（Q4 缺口压力下的冲量信号，对照 10/31 已录 2027 传 80 万目标）
 - **小米设立国际业务部**（盖世晚报口径）——出海组织化：11/3「2027 进欧洲」表态（已录）之后的落地动作（[[eu-industrial-accelerator-act]] 本地化门槛下提前建组织）
 - 判断：金融攻势 = 「以价换量」补目标缺口（对照 11/3 已录 10 月首破 5 万）；国际业务部成立 = 出海从口号进入组织筹备期，2027 欧洲节奏从「计划」进入「执行」倒计时（[[china-oem-europe-top10-2026]] 先行者路径）
+
+## 2026-11-26 更新：新一代 SU7 Ultra 工信部申报——纽北套件下放量产（晚报）
+- **第 414 批新车公示**：新一代 SU7 Ultra 三电机四驱综合功率 **1138kW**、申报最高车速 **318km/h**（低于现款宣传 350km/h——分析指向轮胎速度等级限制）
+- **纽北限量版套件下放量产选装**：DRS 鹅颈尾翼、宽体套件、碳纤维前铲 + 新增**两座赛道版**——赛道叙事从「限量图腾」变「量产选装」
+- 电池：宁德时代三元锂（[[catl]]）；预计 **2027 Q2 上市**、价格或上调
+- 判断：性能旗舰改款延续「SU7 Ultra 树标杆、SU7/YU7 走量」双轨；2027 Q2 节点与 2027 进欧洲（11/3 已录）同期——Ultra 承担「高性能出海名片」角色（[[xiaomi]]、[[china-oem-europe-top10-2026]]）

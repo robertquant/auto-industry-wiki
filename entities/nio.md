@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-23
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
@@ -243,6 +243,13 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 - **蔚来官宣世界模型 NWM 3.0，11/25 NIO IN 2026（广州）发布**——承接 11/15「NIO IN 前瞻」：AI 原生座舱+智驾的技术叙事兑现节点
 - **与小鹏 AI Day（11/25，Origin）同日**——「世界模型路线摊牌日」：NWM 3.0 vs Origin，两家新势力同日打技术牌（[[world-model]]、[[xiaopeng]]）
 - 判断：月 3 万平台期缠斗（11/15 已录）背景下，NWM 3.0 是估值叙事的关键弹药；与换电网络万座拐点（11/13 已录）构成「技术+资产」双叙事
+
+## 2026-11-26 更新：NIO IN 2026 结果——NWM 3.0 + NOMI 4.0 + AI 原生组织（AI日报）
+- **NWM 3.0 技术数字（11/25 晚 NIO IN 广州）**：端侧注意力算力 ↓36 倍 / 底盘时延 ↓78% / 整车时延 ↓54% / 训练效率 ↑5 倍 / 数据量 ↑7 倍 / **隐空间单步推演快 100 倍** / 介入率 ↓40%+（详见 [[world-model]]）
+- **NOMI 4.0**：Agent Loop + **3000 项原子能力 Tool Hub**——座舱从「语音助手」升级「任务编排 Agent」（[[in-cabin-ai-agent]]）
+- **AI 原生组织六层架构**官宣——「组织即架构」叙事落地（呼应 11/23 已录 Qoder CN 代码生成 30-40%）
+- 市场反应：**蔚来-SW 11/26 涨 6%+**——世界模型叙事获资金定价；前三季交付 30.03 万台 +49.2%（10/3 已录）
+- 判断：与小鹏 11/25 Origin 摊牌（[[xiaopeng]]）后，蔚来把技术叙事从「发布」推进到「效果数字」——时延/介入率/算力效率构成可度量差异点，新势力估值竞争进入「硬指标比稿」（[[world-model]]、[[new-forces-landscape-2026]]）
 
 ## 2026-11-23 更新：萤火虫 Halo Haven 奥斯陆首发 + Qoder CN 披露
 - **萤火虫 Halo 系列 Haven 特别版 11/22 奥斯陆首发**（入挪威五周年）——欧洲 2027 春登陆，萤火虫北欧渠道先行（挪威为蔚来海外核心市场）；ES9 十周年版 11/21 发布（63.8 万起）

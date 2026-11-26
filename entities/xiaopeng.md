@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-25
+updated: 2026-11-26
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
@@ -276,3 +276,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily
 - **11/25 广州 AI Day 预告「图灵 AI 共驾」**（科技日）：**行业首次智驾能力延伸至人驾场景**——VLA 自适应减速、拥堵工况续航 +12.4%，首发 G9L/MONA L05；图灵芯片累计出货超 20 万片（截至 8 月）；同日展示人形机器人物理 AI 量产
 - **肇庆 18 亿项目落地**（晚报口径）——产能与供应链加深
 - 判断：「共驾」=智驾叙事从「替你开」转向「陪你开」，差异化于蔚来 NWM 3.0（[[world-model]] 11/25 摊牌日）；图灵芯片出货 20 万片支撑自研芯片兑现度（[[autonomous-chip-localization]]）
+
+## 2026-11-26 补充：肇庆项目细化——电池包+备件供应链中心（晚报）
+- **肇庆 18 亿项目落地细节**（11/23 已录落地）：**电池包 + 备件供应链中心**，**年产能约 20 万电池包**——电池包自产 + 售后备件一体化，供应链纵深继续（对照 [[li-auto-lianshan-battery]] 自研电池、[[mona-l03]] 系走量支撑）
+- 判断：20 万电池包产能 = MONA 系列走量基盘的供应链底座——新势力从「整车组装」向「电池包自制」延伸的又一样本（[[battery-white-box]]）

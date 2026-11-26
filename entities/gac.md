@@ -1,7 +1,7 @@
 ---
 title: 广汽集团 (GAC)
 created: 2026-10-04
-updated: 2026-11-23
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, sales, export, policy]
 sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md]
@@ -81,3 +81,7 @@ sources: [raw/articles/2026-10-04-daily-digest.md, daily-news/2026-10-04-gasgoo-
 
 ## 2026-11-23 更新：夸克非晶电驱第 10 万套下线
 - **夸克非晶电驱第 10 万套下线**（晚报口径）——非晶合金电机（高转速/高效率路线）进入十万套级量产：电机效率竞赛新里程碑（对照 [[powertrain-tech-routes-2027]]）
+
+## 2026-11-26 更新：祺盛动力 × 一汽旗新动力战略合作（晚报）
+- **广汽祺盛动力 × 一汽旗新动力签署战略合作**——9 月广汽×一汽战略框架协议（[[central-soe-restructuring-2026]]）首个深度落地：通用件/标准件互认 + 非晶产品/高速行星排减速器双向供应
+- 判断：与因湃电池自研（10/16 已录）、夸克非晶电驱（11/23 已录）同线——广汽电驱传动从「自研闭环」走向「央企互供」：三电成本战下国有阵营集体抱团（[[faw]]、[[powertrain-tech-routes-2027]]）

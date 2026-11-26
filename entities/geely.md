@@ -1,7 +1,7 @@
 ---
 title: 吉利汽车 (Geely Auto)
 created: 2026-08-19
-updated: 2026-11-24
+updated: 2026-11-26
 type: entity
 tags: [oem-cn, strategy, sales]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, raw/articles/2026-08-19-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -291,3 +291,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-11-23 更新：银河 M8 亮相（广州车展窗口）
 - **银河 M8 亮相**（晚报口径，广州车展 11/27 窗口，见 [[2026-guangzhou-auto-show]]）——银河系列 37 个月 200 万辆（11/22 已录）后继续扩品类
 - 雷诺阿根廷 11/17 成吉利 NEV 官方经销商（晨报口径）——南美渠道再扩（[[china-tech-reverse-export]] 模式图谱）
+
+## 2026-11-26 更新：银河 M8 预售 19.98 万起（晨报）
+- **银河 M8 开启预售：19.98 万起**（广州车展 11/27 开幕窗口，11/23 亮相后定价落地，见 [[2026-guangzhou-auto-show]]）——银河系列 37 个月 200 万辆（11/22 已录）后继续上探轿车品类
+- 判断：银河从「性价比走量」（TT/战舰 700）向「20 万级轿车」扩展——与 11/15 已录「主动放缓推新、修节奏」策略并行，M8 是聚焦爆款策略下的高端增量（[[new-forces-landscape-2026]]）
