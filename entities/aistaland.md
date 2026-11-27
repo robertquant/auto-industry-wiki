@@ -1,7 +1,7 @@
 ---
 title: 启境汽车 (AISTALAND)
 created: 2026-05-13
-updated: 2026-11-13
+updated: 2026-11-27
 type: entity
 tags: [oem-cn, ev-tech, adas, vehicle]
 sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, daily-news/2026-11-13-gasgoo-evening.md]
@@ -114,3 +114,8 @@ sources: [memory/2026-05-13.md, web-search-2026-05-13, daily-news/2026-08-14-gas
 
 ## 2026-11-22 更新：2027 两款新车、首款 6 月上市（晚报）
 - **「启境」明年推出两款车型，首款明年 6 月上市交付**（华为乾崑生态大会口径）——GT7（11/13 已录）之后的产品线扩张进入官方沟通口径；「两境」落子（东风奕境+广汽启境）见 [[huawei-auto]]
+
+## 2026-11-27 更新：新品牌标识 + GX7 交付数据兑现（晚报）
+- **广州车展发布全新品牌标识与「卓越服务」体系**——品牌独立化叙事完整化
+- **GX7 据 10 月上险量位列 30 万级 L3 架构车型第一，已交付超 4000 台**；**GT7 取得广州 L3 测试许可**（11/13 已录准入申报后的落地许可）
+- 判断：GX7「30 万级 L3 架构第一」是启境品牌首个可量化的市场背书——「L3 架构先行」叙事（11/13 已录）从发布会走进上险榜（[[l3-architecture-preemption-2026]]、[[l3-autonomous-driving]]）

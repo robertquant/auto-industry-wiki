@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-11-04
+updated: 2026-11-27
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-25-daily-digest.md]
@@ -170,3 +170,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 
 ## 2026-11-04 更新：10月海外再破10万
 - **10 月海外销量 102,400 辆（+77.3%）**——海外已成长安最强增长极（[[chinese-oem-export]]）
+
+## 2026-11-27 更新：第二批 L3 号牌申报 + 长安马自达新能源过半（AI日报/晚报）
+- **广州车展申报第二批 L3 号牌 + L4 牌照**，渗透率 30% 目标（汽车AI日报口径）——继首批 L3 附条件准入（[[baic]] 并列）后的第二波卡位（[[l3-mass-production-2026]]、[[l3-mandatory-standard]]）
+- **长安马自达披露 1-10 月销量同比 +33.5%，新能源占比升至 56%（超燃油车）**；EZ-6/EZ-60 支撑新能源结构，**2025 年 4 月以来 EZ 系列出口 5.3 万辆、覆盖 60+ 国家**——合资反哺全球体系的样本（[[china-tech-reverse-export]]）
+- 判断：长安「L3 牌照第二波 + 合资新能源化」双线推进——央企阵营（长安/一汽/东风）在 L3 国标（2027.7.1）前的牌照军备竞赛同步提速（[[l3-architecture-preemption-2026]]）

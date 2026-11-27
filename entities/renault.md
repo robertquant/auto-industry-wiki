@@ -1,11 +1,18 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-24
+updated: 2026-11-27
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
 ---
+
+## 2026-11-27 更新：福兰公开反思在华失误 + Twingo 登顶法国 10 月纯电榜（雷诺周报）
+- **福兰（François Provost，雷诺中国 CEO）公开反思在华失误**（观察者网 11/21）——雷诺中国转向「**在华研发、欧洲卖车**」：「中国技术+欧洲制造」路线（[[twingo-e-tech]]、[[renault-acdc-model]]）首次获掌门人公开背书，此前以「不在中国卖车」回避正面竞争的姿态出现松动信号
+- **Twingo E-Tech 登顶法国 10 月纯电榜（4,747 辆），与 R5 包揽前二**——小型平价复古电动策略在法国兑现：两款入门车合占法国纯电头部，验证「上海大脑+欧洲身体」量产闭环（[[renault-acdc-model]]）
+- **法国工业计划：招 2000 人 / 减 1000 白领（今年第二次工程调整）**——延续 11/21 已录「裁 1090 岗/招 2000」架构换血口径，工程重心向电动/软件继续倾斜
+- **ACDC 上海+杭州约 300 工程师**（原口径上海 200 人，扩展含杭州）；**Twingo 100 周开发、投资减半**（[[twingo-e-tech]]）
+- 判断:法国本土销量兑现 + 在华研发战略公开化 = 雷诺「欧洲防守+中国进攻」双线叙事进入数据验证期；风险仍是押注单一欧洲小型车市场（[[dacia]]、[[entry-ev-profit-crisis]]）
 
 ## 2026-11-24 更新：借网阿根廷 + Twingo 销量兑现（晨报）
 - **雷诺阿根廷成为吉利新能源官方经销商**——恰逢 2027 免关税配额申报截止：渠道资产再次变现给吉利系（继巴西合资后南美第二站，[[geely]]、[[china-tech-reverse-export]]）

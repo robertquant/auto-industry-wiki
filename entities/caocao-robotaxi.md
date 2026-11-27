@@ -34,6 +34,10 @@ sources: [raw/articles/2026-10-21-daily-digest.md, raw/articles/2026-10-31-daily
 - **签约乌镇道路测试 + 本地调度体系，主驾无人 Robotaxi 亮相互联网大会**——文旅场景落地，[[native-robotaxi-2026]]「场景先行验证」样本：Eva Cab 2027 量产前先跑通运营闭环
 - 判断：乌镇 = 有路权 + 客流 + 政府背书的样板间，「城市复制」逻辑的第一站
 
+## 2026-11-27 更新：阿联酋拉斯海马签约——海外试点再落一子（晚报）
+- **曹操出行与拉斯海马交通管理局（RAKTA）签署合作备忘录**：将在该酋长国指定区域开展自动驾驶载人测试试点，并与 K2 集团旗下 **LUMO 协同运营**——此前已与阿布扎比投资办公室、May Mobility 合作（[[chinese-oem-export]] 出海语境）
+- 判断：曹操出海沿「阿布扎比→拉斯海马」海湾酋长国序列推进——中东成为中国 Robotaxi 运营经验出海首选地（对照 [[weRide]] 新加坡/中东、[[xiaopeng-yoyo]] 广州主场）；Eva Cab 2027 量产前的海外试点网络成型（[[native-robotaxi-2026]]）
+
 ## 来源
 - raw/articles/2026-10-21-daily-digest.md（晚间盖世日报）
 - raw/articles/2026-10-28-daily-digest.md（汽车AI日报）

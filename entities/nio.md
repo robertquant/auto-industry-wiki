@@ -1,7 +1,7 @@
 ---
 title: 蔚来 (NIO)
 created: 2026-08-09
-updated: 2026-11-26
+updated: 2026-11-27
 type: entity
 tags: [oem-cn, ev-tech, adas, battery, vehicle]
 sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-14-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md]
@@ -255,3 +255,8 @@ sources: [raw/articles/2026-11-13-daily-digest.md, raw/articles/2026\-11\-12\-da
 - **萤火虫 Halo 系列 Haven 特别版 11/22 奥斯陆首发**（入挪威五周年）——欧洲 2027 春登陆，萤火虫北欧渠道先行（挪威为蔚来海外核心市场）；ES9 十周年版 11/21 发布（63.8 万起）
 - **阿里云 Qoder CN 披露**：AI 生成代码占蔚来日常开发 30-40%（上限超 70%），单元测试智能体批量生成——「AI 原生研发」进入量产级渗透（对照 [[xiaopeng]] 图灵 AI 共驾同日叙事）
 - 判断：11/25 NIO IN（NWM 3.0，[[world-model]]）前夜密集放料——技术叙事与 AI 工程化并行，与小鹏 AI Day 摊牌（[[xiaopeng]]）同日对决
+
+## 2026-11-27 更新：AI 原生组织量化指标 + 广州车展三品牌同台（AI日报/晚报）
+- **AI 原生组织量化数据披露**：**7500+ Agent / 290 万实例**；研发人效 **+43%** / 综合效率 **+35%** / 库存周转 **+23%** / 交付达成率 **99%**（NIO IN 2026 后续口径）——六层架构（11/26 已录）从「叙事」进入「数字兑现阶段」（[[ai-engineering-2026]]）
+- **广州车展三品牌同台**：NIO + 乐道 + 萤火虫 10 款车型 + 12 项全栈技术；**ES8 玄金揽月特别版上市（五座 43.48 万起）**；**乐道 L60 黑骑士版首发**，L60 累计交付近 12 万台
+- 判断：AI 组织效率数字（人效 +43%）是「AI 原生」叙事的关键背书——新势力估值竞争从车型销量延伸到组织效率（对照 [[xiaopeng]] 图灵 AI 共驾 [[ai-co-driving]]、[[li-auto]] 自研芯片路线）

@@ -1,7 +1,7 @@
 ---
 title: 岚图 (Voyah)
 created: 2026-11-19
-updated: 2026-11-24
+updated: 2026-11-27
 type: entity
 tags: [oem-cn, vehicle, policy, sales]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-gasgoo-evening.md]
@@ -36,3 +36,8 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-19-daily
 ## 相关页面
 - [[dongfeng]] - 母公司东风集团
 - [[zhijie]] - 同日获批的存量平移案例
+
+## 2026-11-27 更新：泰山全球预售——首次冲击 40 万+（晚报）
+- **2027 款岚图泰山广州车展亮相并全球预售：43.99 万，12 月上旬上市**——岚图首个 40 万+ 旗舰（[[lantu-taishan]]）
+- 规格：华为乾崑 ADS 5 四激光 + 鸿蒙座舱 HarmonySpace 6 + 宁德 120kWh 三元锂电池 + 全域 800V（[[800v-platform]]）+ 虎踞底盘 A
+- 判断：资质落地（11 月已录）后岚图用旗舰上探 40 万+——央企高端新能源「品牌冲高」与港股资产叙事同频；乾崑全家桶配置 = 技术叙事完全切换华为系（[[huawei-auto]]）

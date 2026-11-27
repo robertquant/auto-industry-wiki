@@ -1,7 +1,7 @@
 ---
 title: 800V高压平台趋势
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-11-27
 type: concept
 tags: [ev-tech, battery-tech, platform, trend]
 sources: [daily-news/2026-08-17-gasgoo-evening.md]
@@ -81,7 +81,7 @@ sources: [daily-news/2026-08-17-gasgoo-evening.md]
 - [[battery-white-box]] - 电池白盒模式
 
 ## 待观察
-- 1000V平台能否成为下一代行业标准
+- 1000V平台能否成为下一代行业标准（**2026-11-27 首个量产答案：东风奕境X9「天擎智电」全域千伏平台上市**——600A 千伏超充桩 10%-70% 最快 11 分 28 秒、兼容 500V/750V 老桩、自研 1500V SiC 功率模块耐压 1900V、宁德 102kWh 千伏电池 CLTC 705km 实测达成率 97.4%，详见 [[imjing-x9]]）
 - 充电基础设施能否跟上高压平台普及速度
 - 更高电压平台（1200V+）的前景
 - 800V平台成本下降曲线

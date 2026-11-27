@@ -1,7 +1,7 @@
 ---
 title: Twingo E-Tech
 created: 2026-06-25
-updated: 2026-11-21
+updated: 2026-11-27
 type: entity
 tags: [renault, europe, entry-ev, china-tech]
 sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -10,6 +10,10 @@ sources: [memory/2026-06-25.md, raw/articles/2026-10-17-daily-digest.md, raw/art
 # Twingo E-Tech
 
 雷诺入门级纯电小车，2024年发布，斯洛文尼亚生产，中国技术+欧洲制造模式代表。
+
+## 2026-11-27 更新：登顶法国 10 月纯电榜——放量数据兑现（雷诺周报）
+- **10 月法国纯电销冠：4,747 辆，与 R5 包揽前二**（雪球/新浪 11.21-23）——「中国技术+欧洲制造」入门车放量验证（[[renault]]、[[renault-acdc-model]]）
+- **投资减半口径**（周报）：相较传统开发（约 50 个月+）100 周投产且投资减半——上海牵头系统集成（11/21 已录）的降本实证（[[automotive-rd-speed]]）
 
 ## 核心参数
 

@@ -1,7 +1,7 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-11-17
+updated: 2026-11-27
 type: entity
 tags: [oem-jp, ev-tech, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
@@ -100,3 +100,9 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 ## 2026-11-22 更新：NX7 广州车展上市（11/27，晚报）
 - **东风日产 NX7 将于广州车展（11/27）上市**：宁德时代电芯+日产全球统一验证标准联合研发；40.95 度电池挤压变形 30% 无热失控（国标 3 倍）、IPX7+IPX9K 双重防水，满油满电综合续航 1666km——花都基地工业旅游同步常态化开放
 - 判断：合资「中国供应链电池+全球验证标准」联合研发样本（对照 [[saic-gm]] 转型、[[gac-toyota]] 智驾信任危机）；日产在华失速（[[japanese-automaker-crisis-2026]]）下的产品力补课
+
+## 2026-11-27 更新：NX7 正式上市 11.99 万起——「大电池平权」定价（晚报）
+- **东风日产 NX7 今日上市，11.99 万元起**（较 11/13 预售 12.99-14.99 万下探 1 万）
+- **三款配置共用同一套三电**：宁德时代 40.9kWh 电池、CLTC 纯电 320km、满油满电综合续航 1666km——**入门版不降三电规格**，差异集中在舒适配置（「大电池平权」）
+- **Ultra 激光雷达版上车 Momenta R7 世界模型**，支持城市 NOA——激光雷达+高阶智驾下探 12 万级（[[momenta]]、[[lidar-penetration]]）
+- 判断：插混大电池门槛被合资抬高（对照 [[byd-qin-plus-dmi]] 同价位段）；Momenta R7 外供从德系豪华（[[bmw]]/[[mercedes-benz]]）下探合资主流价位——第三方智驾方案商的「价带下移」实证（[[foreign-automakers-chinese-ad]]）

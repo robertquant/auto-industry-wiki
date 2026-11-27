@@ -1,7 +1,7 @@
 ---
 title: 现代起亚 (Hyundai-Kia)
 created: 2026-06-27
-updated: 2026-11-10
+updated: 2026-11-27
 type: entity
 tags: [hyundai, kia, korea, ev, hybrid]
 sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -109,3 +109,9 @@ sources: [memory/2026-06-27.md, raw/articles/2026-10-10-daily-digest.md, raw/art
 - **三星电子×现代汽车战略伙伴关系（盖世 11/10）**：合作从既有车载电子、音响、电池扩展至**半导体、全固态电池、机器人、能源**等未来产业——整车集团×存储/消费电子巨头深度绑定（[[samsung]]）
 - **Kakao Mobility×英伟达 L4（Korea Herald 11/9）**：基于英伟达平台开发 L4，落地起亚 **PBV**（Platform Beyond Vehicle）——韩系出行平台×美系算力组合，以商用 PBV 而非乘用车作为 L4 优先落地场景（[[nvidia]]、[[l4-global-race-2027]]）
 - 判断：现代起亚「双线结盟」（三星管供应链纵深/固态，英伟达管智驾算力）= 韩系集团军作战模式的延续（[[korea-japan-automaker-divergence]]）；全固态电池竞赛（[[solid-state-battery]]）中「三星电芯×现代整车」绑定的量产节点值得跟踪
+
+## 2026-11-27 更新：北京现代×宁德时代换电战略签约（广州车展，晚报）
+- **北京现代与宁德时代签署换电战略合作协议**（车展现场签约），**电池全生命周期运营纳入合作范围**
+- **北京现代首款换电车型艾尼氪 M（源自同日发布的水星概念车）预计 2027 年上市**；宁德巧克力换电块首批 **75kWh** 版本，后续覆盖 A0-C 级车型矩阵
+- **车电分离模式下电池从资产转为服务**——现代在华合资首次接入宁德换电生态（[[catl]]、[[nev-battery-swap]]），北现以「换电+服务化」切入新能源补能竞争（对照 [[baic]] 贝塔 S3 巧克力换电下探、[[dongfeng]] 奕派 EP7 乾崑+换电轿跑）
+- 判断：宁德巧克力换电网络（2520 座，11/26 已录）的「车企侧」扩容加速——北京现代成为继北汽/东风/广汽后又一合资伙伴；韩系合资在华新能源从「卖车」转向「补能生态绑定」（[[battery-swap-vs-ultra-fast-charging]]）

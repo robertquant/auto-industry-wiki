@@ -1,7 +1,7 @@
 ---
 title: 零跑 Lafa5
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-27
 type: entity
 tags: [vehicle, oem-cn, adas, pricing, platform]
 sources: [raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-ai-daily.md, memory/2026-11-19.md]
@@ -15,7 +15,7 @@ sources: [raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-ai-dail
 - **智驾**：高通 SA8650P（骁龙 Ride 中阶智驾芯片，~100 TOPS）+ 激光雷达 + 28 个感知硬件 + 端到端大模型，40 项智驾功能；高速 NAP / 通勤 CNAP，无图方案，未来 OTA 城区领航
 - **芯片架构**：双芯片方案——8295P（座舱，30 TOPS INT8）+ 8650（智驾），**非舱驾一体**（11/19 robert 问答核实）
 - **动力**：69.7kWh / 640km CLTC / 全域 800V + 3C 快充
-- **价格**：限时 9.28–11.68 万
+- **价格**：限时 9.28–11.68 万（预售）→ **11/27 上市 10.28–12.88 万**（40 项升级）
 
 ## 战略解读
 - 10 万级给「激光雷达 + 100T 端到端」，中阶市场红海化；骁龙 Ride 抢中阶，蚕食英伟达 Orin 以下区间，对手为 [[horizon-robotics]] 征程 6、[[blacksesame]]（对照 [[autonomous-driving-chips]]）
@@ -28,5 +28,10 @@ sources: [raw/articles/2026-11-19-daily-digest.md, daily-news/2026-11-19-ai-dail
 
 ## 相关页面
 - [[leapmotor]] - 母品牌
+
+## 2026-11-27 更新：正式上市——10.28-12.88 万 + 40 项升级（晚报）
+- **广州车展正式上市：10.28-12.88 万**（较预售 9.28-11.68 万上探 1 万，随「40 项升级」同步兑现）
+- **同级唯一全域 800V**、高通 SA8295P + 17.3 英寸 3K 屏 + **50 英寸 AR-HUD** 座舱、前双零重力座椅、**10 万级纯电唯一标配 FSD 可变阻尼减振**
+- 判断：Lafa5 上市价比预售上探——「激光雷达+100T 端到端下探 10 万级」定位从激进改走稳健；800V+可变阻尼减振把底盘体验拉进 10 万级，中阶军备竞赛继续（[[lidar-penetration]]、[[800v-platform]]）
 - [[qualcomm-auto]] - 高通座舱/智驾芯片路线
 - [[autonomous-driving-chips]] - 中阶智驾芯片格局

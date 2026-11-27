@@ -1,7 +1,7 @@
 ---
 title: 雷诺 ACDC 模式（中国精兵团队=大脑，欧洲=身体）
 created: 2026-10-24
-updated: 2026-10-30
+updated: 2026-11-27
 type: concept
 tags: [strategy, trend, prediction, oem-eu]
 sources: [raw/articles/2026-10-24-daily-digest.md, raw/articles/2026-10-30-daily-digest.md]
@@ -11,6 +11,8 @@ sources: [raw/articles/2026-10-24-daily-digest.md, raw/articles/2026-10-30-daily
 
 ## 定义
 [[renault]] 在上海设 ACDC 团队（约 200 人），以「小团队、完整决策权、快节奏」主导整车研发，欧洲本土团队承接深度验证与规模制造的组织模式。Twingo E-Tech（22 个月开发、<2 万欧）是该模式的第一个验证样本（[[twingo-e-tech]]）。本质是跨国车企把「中国速度」制度化——不是外包研发，而是把中国团队变成「建线端/前端」，赋能而非替代欧洲团队。
+
+> **2026-11-27 更新（雷诺周报）**：团队口径扩展为**上海+杭州约 300 工程师**（原口径上海 200 人）；福兰公开表态雷诺中国转向「在华研发、欧洲卖车」（[[renault]]）——ACDC 模式获掌门人公开背书
 
 ## 护城河三要素（抄不走的骨架）
 1. **产品主责/完整决策权**：ACDC 对产品负全责，权力真正让渡——多数企业的内部政治不允许这种放权

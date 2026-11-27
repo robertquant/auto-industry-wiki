@@ -1,7 +1,7 @@
 ---
 title: 华为汽车生态 (Huawei Auto)
 created: 2026-09-09
-updated: 2026-11-26
+updated: 2026-11-27
 type: entity
 tags: [tier1, adas, cockpit, ai, ecosystem, strategy]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
@@ -147,3 +147,9 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily
 - **「十分钟智驾生活圈」叙事**——智驾从「功能」升级「生活方式基础设施」（对照 [[geely-nio-swap-alliance]] 补能生态化）
 - **配套数据**：组合驾驶辅助渗透率 70%、NOA 超 30%，华为乾崑占组合驾驶辅助方案超九成（[[huawei-ads]]）；引望×宁德巧克力换电首个量产落地奕派 EP7（[[dongfeng]]），换电站 2520 座（[[catl]]）
 - 判断：华为把车展前夜变成「生态发布会」——智驾+座舱+补能三闭环叙事抢媒体议程；700-800 亿算力投资 = 向「算力基础设施供应商」延伸（[[ai-box-independent-compute]]、[[vehicle-computing-agent]]）
+
+## 2026-11-27 更新：引望「星驰」品牌承接 L2 + 小艺多智能体（汽车AI日报补全）
+- **引望新品牌「星驰」承接 L2 存量市场**：2027 年 10+ 款车型（**奕派/深蓝/极狐/五菱/传祺**），**共享 WEWA 架构**——乾崑守高端、星驰打 L2 的双品牌收割结构（[[yinwang]]）
+- **小艺多智能体协同**：拒识率 97%+，**A2A 打通支付宝**——Agent 跨应用执行闭环（对照 [[tencent-tai]]、[[di-di-xia]] 生态派）
+- **乾崑×宁德 99 秒换电**（10/19 已录 [[yinwang]]）继续落地：EP7 首发量产（[[dongfeng]]）+ 北京现代签约（[[hyundai]]）
+- 判断：乾崑生态大会的完整拼图——「星驰」把华为方案从高阶（乾崑 ADS）下沉到 L2 走量档，用架构标准化（WEWA）规模化收割存量市场；这对 [[horizon-robotics]]/[[blacksesame]] 等国产智驾芯片商的中低阶市场形成直接挤压（[[lidar-penetration]] 激光雷达标配化语境）

@@ -1,7 +1,7 @@
 ---
 title: 荣威家越07 (Roewe Jiayue 07)
 created: 2026-09-26
-updated: 2026-10-27
+updated: 2026-11-27
 type: entity
 tags: [oem-cn, vehicle, pricing, cockpit, ai]
 sources: [raw/articles/2026-09-26-daily-digest.md]
@@ -49,3 +49,9 @@ sources: [raw/articles/2026-09-26-daily-digest.md]
 ## 2026-10-27 更新：正式上市（11.98 万起）
 - **10/27 上市 11.98 万起、2 分钟大定破万**——AI 原生叙事进入走量验证期（上汽 × [[volcengine]] 豆包、2000+ SOA 接口，10/14 已录）
 - 注：与此前已录 13.78 万口径的关系待核（疑似不同配置梯次/价格策略调整）
+
+## 2026-11-27 更新：纯电版上市——首款「豆包汽车」（晚报）
+- **荣威家越 07 纯电版今日上市**：3 款车型限时权益价 **13.28-14.98 万**——此前 10/27 已录插混 11.98 万起、首轮 13.78 万口径，纯电版价格带落定
+- **上汽与字节火山引擎合作的首款搭载豆包座舱助手的纯电车**（[[volcengine]]）——「豆包汽车」标签落地
+- **全系 800V 碳化硅平台、80.6kWh 磷酸铁锂电池、CLTC 续航 651km**；**激光雷达版采用 Momenta R7 世界模型 + XHEART X7 芯片方案**（[[momenta]]、[[xinhe-hangtu]]）
+- 判断：豆包上车（AI）+ 800V SiC（三电）+ Momenta R7/X7（智驾）三件套压进 13-15 万——上汽荣威以「AI 原生 + 中国供应链全家桶」对冲同质化（[[chinese-oem-ai-methodology]]）
