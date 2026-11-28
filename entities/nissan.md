@@ -1,7 +1,7 @@
 ---
 title: 日产汽车 (Nissan)
 created: 2026-08-09
-updated: 2026-11-27
+updated: 2026-11-28
 type: entity
 tags: [oem-jp, ev-tech, strategy]
 sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md]
@@ -104,5 +104,13 @@ sources: [daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-22-daily
 ## 2026-11-27 更新：NX7 正式上市 11.99 万起——「大电池平权」定价（晚报）
 - **东风日产 NX7 今日上市，11.99 万元起**（较 11/13 预售 12.99-14.99 万下探 1 万）
 - **三款配置共用同一套三电**：宁德时代 40.9kWh 电池、CLTC 纯电 320km、满油满电综合续航 1666km——**入门版不降三电规格**，差异集中在舒适配置（「大电池平权」）
-- **Ultra 激光雷达版上车 Momenta R7 世界模型**，支持城市 NOA——激光雷达+高阶智驾下探 12 万级（[[momenta]]、[[lidar-penetration]]）
-- 判断：插混大电池门槛被合资抬高（对照 [[byd-qin-plus-dmi]] 同价位段）；Momenta R7 外供从德系豪华（[[bmw]]/[[mercedes-benz]]）下探合资主流价位——第三方智驾方案商的「价带下移」实证（[[foreign-automakers-chinese-ad]]）
+- **Ultra 激光雷达版上车 Momenta R7 世界模型**，支持城市 NOA——激光雷达+高阶智驾进入 14 万级（[[momenta]]、[[lidar-penetration]]）
+- ⚠️ 更正（11/28 核实）：**激光雷达仅 320 Ultra 版搭载，限时 13.99 万（指导价 14.99 万）**——「激光雷达下探 11.99/12 万级」表述错误，11.99 万是 320 Pro（8155/L2 基础），智驾配置不能跨档关联
+- 判断：插混大电池门槛被合资抬高（对照 [[byd-qin-plus-dmi]] 同价位段）；Momenta R7 外供从德系豪华（[[bmw]]/[[mercedes-benz]]）下探合资主流价位——第三方智驾方案商的「价带下移」实证（[[foreign-automakers-chinese-ad]]）；8650 芯片逻辑见 [[snapdragon-8650]]
+
+## 2026-11-28 更新：NX7 三档配置明细 + 上市 3 小时订单破万（晚报 + robert 核实）
+- **上市 3 小时订单破万**（广州车展窗口，现车充足即日交付）
+- **三档配置明细**：320 Pro 11.99 万（8155/L2 基础）｜320 Max 12.99 万（8155）｜320 Ultra 激光雷达版 13.99 万（8295P+车顶雷达+Momenta R7+高通 8650）——三档共享宁德 40.9kWh/320km 三电
+- **成本拆解**：禾赛 ATX/速腾 MX 级半固态雷达单车 2000-3000 元；8650 域控 3000-5000 元；整套（雷达+域控+8295P+AR-HUD）Max→Ultra 差价仅 1 万——打包价被压极低（[[snapdragon-8650]]）
+- **数据点**：预售订单超八成选最贵 Ultra 激光雷达版——合资顶配从「展示品」变「主销」；13.99 万城市 NOA 价格锚点获市场认可
+- 判断：智驾成本下探 = 8650 中阶芯片 + 雷达白菜价 + Momenta 按量分成三件事同时发生；东风日产 = 宁德电池+Momenta 智驾+高通芯片+讯飞语音，「合资底盘×中国智能化」组合拳（对照 [[gac-toyota]]、[[audi]] 同路径）

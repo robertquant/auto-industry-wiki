@@ -1,7 +1,7 @@
 ---
 title: 尚界汽车
 created: 2026-05-02
-updated: 2026-11-21
+updated: 2026-11-28
 type: entity
 tags: [saic, huawei, china, sedan, suv, adas, harmony-os]
 sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -84,3 +84,7 @@ sources: [raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-17-daily
 
 ## 2026-11-20 华为发布会：尚界 Z7T 星野套装
 华为鸿蒙智行 11/20 发布会同场发布尚界 Z7T 星野套装（上汽×华为第二款车 Z7 的衍生配置），与 [[xiangjie]] V8 上市同台——鸿蒙智行矩阵化发布节奏成型。
+
+## 2026-11-28 更新：Z7T 星野套装广州车展首展（晚报）
+- 尚界 Z7T 星野套装（27.48/31.98 万，限时至高 51,800 元权益）首次参展，10 处专属外观升级——猎装风格拓展户外场景
+- 尚界携 Z7、Z7T、H5 全系亮相：「华为智能科技+上汽造车底蕴」都会美学定位（[[huawei-auto]]、[[saic]]）

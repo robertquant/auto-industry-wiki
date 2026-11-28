@@ -1,7 +1,7 @@
 ---
 title: 北美EV贸易壁垒（2026）
 created: 2026-10-10
-updated: 2026-11-26
+updated: 2026-11-28
 type: concept
 tags: [policy, export, trend, oem-us]
 sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-10-daily-digest.md, daily-news/2026-10-10-gasgoo-evening.md, daily-news/2026-10-25-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -74,3 +74,7 @@ sources: [raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-10-10-
 - **商务部 11/26 回应「坚决反对」**；另有口径：整车及零部件已按 232 条征税、不在本轮加征范围
 - 语境：与「永久禁止中国汽车」立法动议（页首已录）叠加 = 关税 + 禁令双重叙事；301（贸易法）与 232（国家安全）双轨并行，对华限制工具箱再扩容（[[chinese-oem-export]]、[[eu-hybrid-export-caps-2026]] 欧洲侧对照）
 - 判断：本轮覆盖面（14 经济体）显示 301 瞄准中国供应链外溢——但「数月后生效 + 征求意见期」留出窗口；中国车企北美规划仍以「无美国量」为假设（[[polestar-us-ban-2026]]），电池/半导体环节的转口链路是新观察点
+
+## 2026-11-28 更新：美国汽车创新联盟推动国会永久禁中国联网车软硬件（晨报）
+- 参议院已通过、众议院联署破百——「永久禁令」立法轨道（对比 11/25 已录 USTR 301 关税路径，禁令是第二轨道：关税管硬件价格、禁令管软件存在）
+- 判断：挡不住成本曲线，只会加速供应链脱钩（中国软件栈本地化/第三方绕行）；与 [[polestar-us-ban-2026]]（极星先例）同构——「联网车禁令」从个案走向立法

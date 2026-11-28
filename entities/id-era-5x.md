@@ -1,7 +1,7 @@
 ---
 title: 大众 ID.ERA 5X
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-28
 type: entity
 tags: [vehicle, oem-eu, platform, ev-tech]
 sources: [raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-evening.md, raw/articles/2026-11-11-daily-digest.md]
@@ -40,3 +40,6 @@ sources: [raw/articles/2026-11-14-daily-digest.md, daily-news/2026-11-14-gasgoo-
 - 限时价结束后价格体系与月销爬坡
 - CMP 平台后续车型（ID.AURA L5 等）放量节奏
 - 增程/纯电双动力申报口径最终确认
+## 2026-11-28 更新：两周订单破万（AI 日报）
+- **上汽大众 ID.ERA 5X 两周订单破万（征程 6H）**（[[horizon-robotics]]）——11/12 上市后订单兑现节奏健康
+- 与 ID. AURA T6（10 月新能源中型 SUV 销冠、订单破 5 万，[[volkswagen]]）构成大众在华新能源「双箭头」（[[courizon]] 酷睿程技术底座）

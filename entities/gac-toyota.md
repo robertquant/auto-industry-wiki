@@ -1,7 +1,7 @@
 ---
 title: 广汽丰田（GAC Toyota）
 created: 2026-10-13
-updated: 2026-11-20
+updated: 2026-11-28
 type: entity
 tags: [oem-jp, vehicle, adas, controversy]
 sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md]
@@ -40,3 +40,7 @@ sources: [raw/articles/2026-10-13-daily-digest.md, daily-news/2026-10-13-gasgoo-
 - [[toyota]] - 丰田全球主体
 - [[honda-china]] - 日系在华衰退对照
 - [[japanese-automaker-crisis-2026]] - 日系三重结构性危机
+## 2026-11-28 更新：铂智系列 20 万辆交付 + 全系升级 Momenta R7（晚报）
+- **铂智系列 20 个月达成 20 万辆交付**（合资纯电最快）；铂智 3X 连续 13 个月居合资纯电月度销量第一
+- **12 月起铂智 3X 推送第五次 OTA，铂智 3X/7 均升级 Momenta R7 强化学习世界模型**（[[momenta]]）——「静默降级争议」后的补位动作：芯片降级到 [[snapdragon-8650]] 省成本、智驾体验用 Momenta R7 补课，[[adas-liability-guarantee]] 语境下的信任修复样本
+- 发布技术品牌「丰田要件」：铂智 7 纳入 128 项验证标准——合资用「标准话语」对冲中国供应链质疑

@@ -1,7 +1,7 @@
 ---
 title: 华为ADS (Huawei Autonomous Driving Solution)
 created: 2026-05-03
-updated: 2026-11-26
+updated: 2026-11-28
 type: entity
 tags: [huawei-ads, adas, l3, huawei, technology, supplier, world-model]
 sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/articles/2026-05-26-ai-panorama.md, memory/2026-05-29.md, memory/2026-06-13.md, memory/2026-06-15.md, daily-news/2026-11-07-gasgoo-evening.md]
@@ -178,3 +178,8 @@ sources: [memory/2026-05-03.md, memory/2026-05-09.md, memory/2026-05-11.md, raw/
 - **奕境曾清林判断**：「上半场电动化、下半场考题在智驾」；摄像头夜间/雨夜短板 → **激光雷达数量与布局绕不过**（[[lidar-penetration]]）
 - 语境：深蓝 L07 AI 激光版全系标配激光雷达（[[deepal]]）+ 乾崑生态大会智驾破 200 万（[[huawei-auto]] 11/26）——「渗透率 70% + 乾崑九成」坐实华为智驾存量运营叙事
 - 判断：70% 渗透率意味着增量市场从「首次上车」转向「方案替换与升级」——华为的存量数据飞轮（[[data-loop]]）与激光雷达回归（[[speedtron]] 出货 +186%）同框，智驾供应链竞争进入「量产规模」维度
+
+## 2026-11-28 更新：灼识蓝皮书——全栈自研赛道华为 HI 54.8%（晚报 + AI 日报）
+- 《2026 中国高阶智能驾驶行业蓝皮书》：2025 全栈自研高阶智驾装车量华为 HI **54.8%** + 福瑞泰克 25.0% = **79.8%**——全栈自研赛道双寡头格局
+- 印奇：智驾下半场 = 模型驱动 + Tier0.5 + L2/L4 闭环——竞争维度从软硬件能力转向算法迭代/数据闭环/规模化交付（[[training-loop]]）
+- 对照 11/26 已录「乾崑占组合驾驶辅助方案超九成」：方案口径与全栈自研口径双第一

@@ -2003,3 +2003,14 @@
 - 导航更新：index.md Last updated 2026-11-27；Total 407→**410**（entities 181→184：产品/平台 30→33）；新增 hongqi-h9/imjing-x9/lantu-taishan 三个产品页条目；blurb 更新 18 条（含 hyundai 陈旧摘要重写）
 - 完整性校验：comm 输出为空 ✅（410 注册 = 410 文件，0 缺失；额外链接为独立分库 index，属预期）
 - 未建页（单次提及未达阈值/已覆盖）：福特马歇尔LFP工厂投产（已录 catl 11/20-21 福特线）、泽景股份HUD合作（已录 cockpit-supplier-ranking 语境未更新，单次提及）、长安马自达（并入 changan 页）、启境新标识（已录 aistaland）、蔚来ES8玄金揽月/L60黑骑士（并入 nio 页）、星驰品牌（已录 yinwang/huawei-auto 双页，未单独建页——品牌信息有限，2027 车型落地后评估）
+
+## [2026-11-28] ingest | 每日整理（晨报 + 汽车AI日报 + 盖世晚报 + robert 讨论深挖）
+- **核心素材**：小鹏图灵AI共驾技术深挖（与 robert 讨论）+ NX7 激光雷达配置核实纠错（日报数据错配教训）+ 广州车展第二日
+- 新建 raw/articles/2026-11-28-daily-digest.md（晨报+AI日报+讨论素材；晚报已在 daily-news/2026-11-28-gasgoo-evening.md）
+- 新建实体 3：**snapdragon-8650**（高通中阶智驾芯片~100 TOPS：零跑Lafa5/东风日产NX7 Ultra/广汽丰田铂智3X同芯——「中阶城市NOA标准答案」，Momenta R7 100 TOPS跑通城市NOA+世界模型，雷达+域控打包差价仅1万）、**byd-hai-jing**（海洋网旗舰MPV 11/28全球首发：5.27米/纯电900km+/专属MPV平台/双闪充、2027Q1上市）、**alipay-in-car-assistant**（支付宝车载助手3.0：80+品牌/1800万辆/意图体系+声纹支付——支付入口卡位座舱生态）
+- 重写概念页 1：**ai-co-driving**（11/28 深挖补全：无独立白皮书核实→等效整理；第二代VLA 6.4.0 Agent自闭环训练提速10-12倍/RSI自进化+自我蒸馏；System2/1/0三层架构；X-VMC2.0；本质判断=世界模型场景理解的预测性动能回收调度=特斯拉单踏板升级版；人驾成为端到端第二战场）
+- 更新实体页 15：nissan（**更正激光雷达仅320 Ultra 13.99万限时，非12万级**+三档配置明细+上市3小时订单破万+预售超八成选Ultra+成本拆解）、gac-toyota（铂智20个月20万辆+12月起全系升级Momenta R7+「丰田要件」128项验证标准）、horizon-robotics（舱驾融合芯片+车载智能操作平台2026Q4量产、ID.ERA 5X两周订单破万征程6H、1000万→1500万仅12个月）、changan（天枢领航Ultra 2.0央企首个一段式端到端、启源Q06 24h订单3.5万台）、byd（海鲸全球首发+海洋网800万辆）、geely（银河M8定价19.98-23.58万落地+千里浩瀚H5+激光雷达）、chery（单月出口19.47万辆+61.5%）、volkswagen（前三季营业利润仅0.71亿欧-98.7%/在华交付-30.2%）、jaguar-land-rover+stellantis（美国产卫士避15%关税）、renault（福兰「生涯最大失误」细节+Q3电动车+84.7%）、gac（出口22.31万辆+122%、昊铂埃安BU+55.96%）、avatr-t09（中国首秀锚定50万级）、id-era-5x（两周订单破万）、huawei-ads（灼识蓝皮书华为HI 54.8%+福瑞泰克25%=79.8%、印奇下半场判断）、xiaopeng（白皮书核实+OTA节奏）、mercedes-benz（中国×北京奔驰合营70%/30%）、shangjie（Z7T星野套装首展）
+- 更新概念页 5：changan-tianshu（Ultra 2.0 能力跃升+超级小安）、auto-chip-competitive-landscape（盖世口径英伟达37.4% vs 2025全年53.8%、昇腾610 86万颗/14.4%三年前1.9%——分层格局）、chinese-oem-export（1-9月出口820.5万辆+65.8%全年破千万）、north-america-ev-trade-barriers-2026（美国汽车创新联盟永久禁令立法轨道/参院已过/众院联署破百）、world-model（NWM 3.0训练侧：数据量7倍/训练效率5倍）、2026-guangzhou-auto-show（第二日「发布场退化为转化场」：海鲸/鼎曜/T6/NX7/供应链签约）
+- 导航更新：index.md Last updated 2026-11-28；Total 410→**413**（entities 184→187：芯片厂商20→21、供应商/方案商29→30、产品/平台33→34）；blurb 更新 20 条
+- 完整性校验：comm 输出为空 ✅（413 注册 = 413 文件，0 缺失；额外链接为独立分库 index，属预期）
+- 未建页（单次提及未达阈值/已覆盖）：ID. AURA T6 订单破5万（并入 volkswagen/2026-guangzhou-auto-show）、RoboVAN 交付破万（并入 autonomous-logistics-vehicle 语境未更新，单次提及）、途虎×郑州日产（单次提及，后市场）、华为巨鲸电池平台（并入 wenjie-m8/huawei-auto 语境）、星驰 WEWA 架构新增车型（已录 11/27）、小米澎程交付破6万（并入 xiaomi-auto 语境，下次整理）

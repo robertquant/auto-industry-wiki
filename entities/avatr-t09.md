@@ -1,7 +1,7 @@
 ---
 title: 阿维塔T09
 created: 2026-10-10
-updated: 2026-10-14
+updated: 2026-11-28
 type: entity
 tags: [vehicle, oem-cn, adas, ev-tech, export]
 sources: [raw/articles/2026-10-10-daily-digest.md]
@@ -46,3 +46,6 @@ sources: [raw/articles/2026-10-10-daily-digest.md]
 ## 2026-10-14 补充：概念版巴黎首秀 + 50万级定位
 - **T09 概念版巴黎首秀**（[[2026-paris-auto-show]]）：华为乾崑 + 三电机；**50 万级、2026 年内上市**（媒体口径）——定价区间浮出
 - 判断：50 万级插混旗舰 vs [[li-auto]] i9/问界 M9 的高端混战（[[9-series-suv-battle]]）；2026 年内上市意味着国内交付先于欧洲准入
+
+## 2026-11-28 更新：广州车展中国首秀，锚定 50 万级（晨报）
+- 11/27 广州车展中国首秀：明确锚定 **50 万级**市场（10 月巴黎车展全球首发已录）——华为乾崑首款高端旗舰的中国定价带正式落位（[[huawei-ads]]、[[huawei-auto]]）

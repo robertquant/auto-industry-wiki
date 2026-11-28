@@ -1,10 +1,10 @@
 ---
 title: 图灵AI共驾（人驾智驾共驾模式）
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-28
 type: concept
-tags: [adas, ai, trend]
-sources: [raw/articles/2026-11-25-daily-digest.md, daily-news/2026-11-25-gasgoo-evening.md]
+tags: [adas, ai, trend, prediction]
+sources: [raw/articles/2026-11-25-daily-digest.md, daily-news/2026-11-25-gasgoo-evening.md, raw/articles/2026-11-28-daily-digest.md]
 ---
 
 # 图灵AI共驾（人驾智驾共驾模式）
@@ -15,7 +15,23 @@ sources: [raw/articles/2026-11-25-daily-digest.md, daily-news/2026-11-25-gasgoo-
 ## 核心机制
 - 不同于「接管/脱手」二分：共驾 = 人主导、AI 随时补位（辅助而非替代）
 - 首个落地功能 **VLA 自适应减速**：VLA 大模型动态调节能量回收，拥堵路况制动踏板介入频次降 **95%**、城市通勤续航 +**12.4%**
-- **12 月首批 OTA 推送 G9L、MONA L05**（[[xpeng-g9l]]、[[mona-l05]]）
+- **12 月首批 OTA 推送 G9L、MONA L05**（[[xpeng-g9l]]、[[mona-l05]]），2027Q2 全量铺开
+
+## 2026-11-28 技术深挖（与 robert 讨论整理）
+
+### 文档状态核实
+- **无独立官方白皮书**——仅有发布会通稿 + 媒体解读（广州市科技局转载最接近官方口径）；以下要点整理为「等效白皮书」
+
+### 技术底座
+- **第二代 VLA**：6.4.0 版本起 Agent 自主闭环训练，训练提速 **10-12 倍**；**RSI 递归自我进化 + 自我蒸馏**（自蒸馏=模型自己产数据自己训练，绕开人工标注瓶颈）
+- **图灵具身智能三层架构**：System 2 大脑（全局规划）/ System 1 小脑（VLA 执行）/ System 0 本能（底层反射）——把「规划-执行-反射」分层，共驾的介入走 System 1+0 快通道
+- **首个功能 VLA 自适应减速 = 预测性动能回收调度**（非档位调节）：VLA 用场景理解预测前方减速需求，提前调度动能回收；底层 **X-VMC2.0 全车域融合控制**支撑
+- 实测补充：G9L 高管称同路况能耗差约 **20%**（大于 12.4% 官方口径——工况口径差异）
+
+### 判断
+- 本质 = **「用世界模型场景理解做预测性动能回收调度」**——特斯拉单踏板逻辑的升级版（[[world-model]]、[[vla-model]]）
+- 真看点不是省电：**人驾场景成为端到端模型的第二战场**——智驾从「开了才存在」变成「整车底层持续在线」，人驾数据也成为模型训练闭环的一部分（[[training-loop]] 的共驾化）
+- 与 [[nissan]] NX7/Momenta R7 在同一周把「100 TOPS + 世界模型」打向 13.99 万——共驾与平价化两条叙事同时压低「高阶智驾=昂贵+独立」的旧认知
 
 ## 行业意义
 - 智驾叙事从「替你开」（替代）转向「陪你开」（共驾）——差异化竞争新维度；同日蔚来 NIO IN 发牌 NWM 3.0（[[nio]]、[[world-model]]），「双发布会摊牌日」验证智驾竞争从参数转向场景叙事
@@ -30,4 +46,5 @@ sources: [raw/articles/2026-11-25-daily-digest.md, daily-news/2026-11-25-gasgoo-
 - [[xiaopeng]] - 首发厂商
 - [[vla-model]] - 技术底座（VLA 大模型）
 - [[vla-mass-production]] - VLA 量产路线
+- [[world-model]] - 预测性动能回收的世界模型底座
 - [[xiaopeng-adas-roadmap]] - 小鹏智驾路线时间表

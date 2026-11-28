@@ -1,7 +1,7 @@
 ---
 title: 长安天枢领航
 created: 2026-06-13
-updated: 2026-06-15
+updated: 2026-11-28
 type: concept
 tags: [changan, adas, vla, l3]
 sources: [memory/2026-06-13.md, memory/2026-06-15.md]
@@ -78,3 +78,9 @@ sources: [memory/2026-06-13.md, memory/2026-06-15.md]
 - 与华为ADS竞争与合作关系
 - 启源Q06市场反响
 - Pro/Max/Ultra三版本市场接受度
+## 2026-11-28 更新：天枢领航 Ultra 2.0——央企首个一段式端到端（晚报 + AI 日报）
+- **Ultra 2.0 = 央企首个一段式端到端智驾**，2027 年 1 月中旬 OTA
+- 能力跃升：场景从城市道路拓展至开放道路、园区；新增**车位到车位全链路领航、多点式掉头、收费站自主通行**
+- 座舱 AI 升级「超级小安」：舱驾融合交互领航（[[cockpit-driving-fusion]] 语境）；同步开启天枢领航 Pro 城区 NCA OTA
+- 数据底座：每月 350 万条道路数据——一段式端到端的数据飞轮支撑（[[data-loop]]、[[training-loop]]）
+- 搭载验证：启源 Q06 上市 24h 订单 3.5 万台（Ultra 版占比近 50%）——天枢 Ultra 付费意愿实证（[[changan]]）

@@ -1,7 +1,7 @@
 ---
 title: 地平线 (Horizon Robotics)
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-28
 type: entity
 tags: [chip, adas, ai, tier1]
 sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/2026-08-18.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-12-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md]
@@ -122,3 +122,8 @@ sources: [raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, memory/
 - **整车智能体入选世界互联网大会「20 大领先成果」**（11/2 乌镇）——中国 L4/具身智能集中展示的一环（[[l4-global-race-2027]]）
 - 同台口径：**征程 BPU 累计出货 1,500 万套**（约每 3 台智能车 1 台）、星空舱驾融合、HSD 一段式端到端量产；**40+ 车企、200+ 伙伴生态**
 - 判断：乌镇成果 = 「征程走量、星空定调、酷睿程自主叙事」（10/29 已录）之外的第四层：**国家级奖项背书**——与德国总统合肥体验（10/29）、中汽学会特等奖（10/30）连成 10 月下旬的国家级认可连击；物理 AI 平台战（[[ecarx]] 同日 ×Arm 备忘录）下，地平线用「成果清单 + 生态规模」对打「平台叙事」
+
+## 2026-11-28 更新：舱驾融合芯片 Q4 量产 + 征程 6H 合资走量兑现（AI 日报）
+- **舱驾融合芯片 + 车载智能操作平台 2026Q4 量产**——[[cabin-driving-fusion]] 赛道从发布进入量产（对照 [[starry-sky-chip]] 星空双线）
+- **上汽大众 ID.ERA 5X 两周订单破万（征程 6H）**（[[id-era-5x]]）：征程 6H 已在上汽大众 ID. AURA T6（10 月新能源中型 SUV 销冠、订单破 5 万，[[volkswagen]]）与 ID.ERA 5X 双线装车——合资走量通道成型
+- 节奏确认：征程累计 1500 万套/500 款定点，**1000 万→1500 万仅 12 个月**（10/5 已录 1500 万套口径）；份额对照（昇腾 610 86 万颗/14.4%、英伟达盖世口径 1-9 月 37.4%）见 [[auto-chip-competitive-landscape]]

@@ -1,7 +1,7 @@
 ---
 title: 奇瑞汽车 (Chery)
 created: 2026-09-09
-updated: 2026-11-24
+updated: 2026-11-28
 type: entity
 tags: [oem-cn, export, sales, ev-tech]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-05-daily-digest.md, daily-news/2026-11-05-gasgoo-evening.md, daily-news/2026-11-07-gasgoo-evening.md, memory/2026-11-07.md]
@@ -182,3 +182,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-da
 ## 2026-11-22 更新：iCAR V25 上市（11/19，晨报）
 - **奇瑞 iCAR 品牌 V25 上市（11/19）**——iCAR「年轻人的车」品类继续扩军（价格/配置细节待补）
 - 与 11/17 捷途双线（环游者 EV+乾崑版旅行者7）同框——奇瑞 11 月新品节奏密集：国内守盘（[[china-export-leaders-2026]]）与出海对冲并行
+
+## 2026-11-28 更新：单月出口 19.47 万辆（+61.5%，晨报口径）
+- 出口王地位延续（8 月 19.7 万已录）；1-9 月中国大盘出口 820.5 万辆 +65.8%，全年破千万无悬念（[[chinese-oem-export]]）
+- 判断：出口占比超 70% 的结构（10/20 已录）继续强化——国内总量收缩（[[2026-11-market-weak-start]]）下出口是唯一增长极

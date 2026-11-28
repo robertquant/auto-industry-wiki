@@ -1,7 +1,7 @@
 ---
 title: Stellantis (斯特兰蒂斯)
 created: 2026-09-09
-updated: 2026-11-23
+updated: 2026-11-28
 type: entity
 tags: [oem-eu, strategy, ecosystem]
 sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-30.md, daily-news/2026-08-09-gasgoo-evening.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-10-gasgoo-evening.md]
@@ -157,3 +157,6 @@ sources: [raw/articles/2026-11-11-daily-digest.md, memory/2026-06-30.md, daily-n
 ## 2026-11-23 更新：1 亿欧元委托零跑开发欧宝 C 级 SUV
 - **11/20 与零跑签约 1 亿欧元工程大单**：委托开发欧宝 C 级 SUV（2028 上市）——继 B10 萨拉戈萨共线（10/16 已录）后，Stellantis 技术缺口进一步依赖零跑（[[leapmotor]]）
 - 判断：Stellantis「买技术」路线从平台（Smart Car）延伸到整车开发外包——在华合资瘦身（东风神龙等）与欧洲技术采购并行，集团资源向欧宝/雪铁龙等主品牌集中
+
+## 2026-11-28 更新：× JLR 美国产卫士避 15% 关税（晨报）
+- 与 [[jaguar-land-rover]] 敲定美国本地生产卫士——北美产能对冲关税（与零跑/欧宝欧洲本地化同逻辑：本地化产能成唯一护城河，[[export-tax-rebate-cut-2026]]）

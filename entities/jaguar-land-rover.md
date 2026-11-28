@@ -1,7 +1,7 @@
 ---
 title: 捷豹路虎 (Jaguar Land Rover)
 created: 2026-05-02
-updated: 2026-11-23
+updated: 2026-11-28
 type: entity
 tags: [jaguar, landrover, jlr, europe, tata]
 sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, european-automakers/2026-06-movement.md, daily-news/2026-07-03-eu-carmakers-weekly.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-11-01-daily-digest.md]
@@ -124,3 +124,7 @@ sources: [memory/2026-05-14.md, memory/2026-05-18.md, memory/2026-06-19.md, euro
 ## 2026-11-23 更新：Ti7 外观设计诉讼推进（原告视角）
 - **海牙法院 11/20 临时禁令**：Ti7 侵犯卫士110 外观设计权，欧盟销售/进口+匈牙利生产冻结，罚金上限 1000 万欧（[[byd-ti7-eu-design-ban]]）——JLR 须 **6 个月内提正式诉讼**
 - 判断：外观设计权成为 JLR（及欧洲传统车企）对抗中国车型的**低成本法律武器**——「先冻结后诉讼」模式预期扩散；JLR 自身在华困境（捷豹 9 月仅 6 辆，11/22 已录）与欧盟侧攻势形成「防守本土、进攻中国品牌」不对称策略
+
+## 2026-11-28 更新：× Stellantis 敲定美国产卫士——避 15% 关税（晨报）
+- 与 [[stellantis]] 敲定美国本地生产卫士（Defender），规避美国关税（15% 档）——「欧洲豪华品牌 × 欧洲多品牌集团」产能互换样本（[[north-america-ev-trade-barriers-2026]]）
+- 对照 11/23 已录海牙临时禁令（Ti7 外观设计权，[[byd-ti7-eu-design-ban]]）：JLR 在欧用法律武器防守、在美用产能落地防守——双线防御姿态

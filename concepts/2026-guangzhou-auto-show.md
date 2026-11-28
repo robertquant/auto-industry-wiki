@@ -1,7 +1,7 @@
 ---
 title: 广州车展 2026
 created: 2026-11-22
-updated: 2026-11-27
+updated: 2026-11-28
 type: concept
 tags: [trend, ecosystem, vehicle, sales]
 sources: [raw/articles/2026-11-22-daily-digest.md, daily-news/2026-11-22-gasgoo-evening.md, daily-news/2026-11-25-gasgoo-evening.md]
@@ -44,3 +44,9 @@ sources: [raw/articles/2026-11-22-daily-digest.md, daily-news/2026-11-22-gasgoo-
 - [[2026-beijing-auto-show]] / [[2026-paris-auto-show]] - 年度展会观测链
 - [[2026-11-market-weak-start]] - 年末弱大盘下的投放背景
 - [[leapmotor-lafa5]] - 车展窗口上市车型
+## 11/28 第二天：媒体日冷清、交付数据密集兑现
+- **「发布场退化为转化场」**：媒体日冷清（1106 台展车/115 首发/新能源 63.9% 已录）——车展去发布化成定局，声量转向体系叙事（乾崑生态大会 11/26 已录）
+- 重磅首发：比亚迪海鲸 MPV 全球首发（[[byd-hai-jing]]）、仰望鼎曜国内首秀（预售 208 万限 399 台，[[yangwang-dingyao]]）、阿维塔 T09 中国首秀锚定 50 万级（[[avatr-t09]]）、吉利银河 M8 预售 19.98-23.58 万（[[geely]]）
+- 交付兑现：一汽-大众 ID. AURA T6 订单破 5 万/交付 2 万辆（[[volkswagen]]）、广汽丰田铂智 20 万辆交付+Momenta R7 升级（[[gac-toyota]]）、上汽大通 RoboVAN 交付破万（[[autonomous-logistics-vehicle]]）、东风日产 NX7 上市 3 小时订单破万（[[nissan]]）、小米澎程累计交付破 6 万（[[xiaomi-auto]]）
+- 供应链签约：旗新动力×祺盛动力（对冲关税）、奔驰中国×北京奔驰合营（公示至 12/6，[[mercedes-benz]]）、途虎×郑州日产
+- 判断：车展价值从「首发声量」转向「订单与交付的转化场」——媒体日冷清不是行业冷清，是发布渠道迁移（广州→线上/生态大会/品牌自办）

@@ -1,7 +1,7 @@
 ---
 title: 长安汽车 (Changan)
 created: 2026-08-17
-updated: 2026-11-27
+updated: 2026-11-28
 type: entity
 tags: [oem-cn, ev-tech, vehicle]
 sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-evening.md, memory/2026-08-18.md, memory/2026-09-09.md, daily-news/2026-09-09-gasgoo-evening.md, daily-news/2026-09-18-gasgoo-evening.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, daily-news/2026-10-18-gasgoo-evening.md, raw/articles/2026-10-25-daily-digest.md]
@@ -175,3 +175,7 @@ sources: [raw/articles/2026-09-28-daily-digest.md, daily-news/2026-08-14-gasgoo-
 - **广州车展申报第二批 L3 号牌 + L4 牌照**，渗透率 30% 目标（汽车AI日报口径）——继首批 L3 附条件准入（[[baic]] 并列）后的第二波卡位（[[l3-mass-production-2026]]、[[l3-mandatory-standard]]）
 - **长安马自达披露 1-10 月销量同比 +33.5%，新能源占比升至 56%（超燃油车）**；EZ-6/EZ-60 支撑新能源结构，**2025 年 4 月以来 EZ 系列出口 5.3 万辆、覆盖 60+ 国家**——合资反哺全球体系的样本（[[china-tech-reverse-export]]）
 - 判断：长安「L3 牌照第二波 + 合资新能源化」双线推进——央企阵营（长安/一汽/东风）在 L3 国标（2027.7.1）前的牌照军备竞赛同步提速（[[l3-architecture-preemption-2026]]）
+
+## 2026-11-28 更新：天枢领航 Ultra 2.0 发布 + 启源 Q06 订单（晚报/AI 日报）
+- **天枢领航 Ultra 2.0 = 央企首个一段式端到端**，2027/1 中旬 OTA（车位到车位全链路领航/多点式掉头/收费站自主通行，细节见 [[changan-tianshu]]）
+- 启源 Q06 上市 24h 订单 3.5 万台（Ultra 版占比近 50%）；每月 350 万条道路数据支撑训练（[[data-loop]]）

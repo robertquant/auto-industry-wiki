@@ -1,7 +1,7 @@
 ---
 title: 比亚迪 (BYD)
 created: 2026-06-30
-updated: 2026-11-26
+updated: 2026-11-28
 type: entity
 tags: [oem-cn, new-energy, battery, phev, ev, overseas]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, memory/2026-06-30.md, daily-news/2026-06-30-gasgoo-evening.md, memory/2026-07-31.md, daily-news/2026-08-15-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-11-gasgoo-evening.md, daily-news/2026-09-16-gasgoo-evening.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-26-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-06-gasgoo-evening.md, daily-news/2026-11-10-gasgoo-evening.md, raw/articles/2026-11-15-daily-digest.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
@@ -345,3 +345,7 @@ APEC 工商领导人峰会（深圳）披露：比亚迪累计产销新能源车
 ## 2026-11-26 更新：第三代唐上市 18.79 万起（晨报）
 - **第三代唐正式上市：18.79 万起**（11/24 已录「第三代唐上市、纯电 850km」的定价落地）——王朝旗舰 SUV 换代的走量定价
 - 判断：唐系是比亚迪 20 万级插混/纯电基盘（对照 [[denza]] 30 万+ 高端线）——18.79 万起 = 在广州车展前夜锁定置换客群（[[2026-guangzhou-auto-show]]、[[2026-11-market-weak-start]] 弱大盘语境）
+
+## 2026-11-28 更新：海洋网旗舰 MPV「海鲸」全球首发（广州车展）
+- 全球首发（11/28 广州车展）：5.27 米 D 级 MPV、纯电 900km+、专属下一代 MPV 平台、海洋美学 2.0、纯电插混双闪充；**2027Q1 上市**
+- 海洋网累计销量破 800 万辆——海鲸承担海洋网高端上探（细节见 [[byd-hai-jing]]，与 [[denza]]/[[yangwang]] 构成 MPV 三级矩阵）

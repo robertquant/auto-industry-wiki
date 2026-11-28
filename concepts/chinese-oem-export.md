@@ -1,7 +1,7 @@
 ---
 title: 中国车企出海 (Chinese OEM Export)
 created: 2026-09-09
-updated: 2026-11-24
+updated: 2026-11-28
 type: concept
 tags: [export, strategy, trend, oem-cn]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, raw/articles/2026-11-21-daily-digest.md]
@@ -118,3 +118,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-11-daily
 ## 2026-11-23 补充：39 个市场份额反超日系 + 上汽单月新高
 - **中国车企已在 39 个市场销量份额反超日系**（晚报口径）——全球份额博弈里程碑：新能源渗透率（[[nev-penetration-60-percent]] 70.6% 首破 70%，11/23 晨报）与出海份额（[[china-export-leaders-2026]]）双升
 - **上汽 10 月海外 16.3 万辆（+67.3%）创单月新高**；叠加 Ti7 欧盟外观设计禁售令（[[byd-ti7-eu-design-ban]]）——出海高增长与合规风险同框：知识产权尽调进入出海必修课
+
+## 2026-11-28 更新：1-9 月出口 820.5 万辆 +65.8%（晨报口径）
+- 全年出口破千万辆无悬念——10 月单月 92.8 万（+68.5%，11/24 已录）后继续高增；奇瑞单月 19.47 万（+61.5%）领跑（[[chery]]）
+- 判断：出口从「增量叙事」进入「千万辆规模叙事」——对应的合规风险（欧盟配额 [[eu-hybrid-export-caps-2026]]、北美禁令 [[north-america-ev-trade-barriers-2026]]）同步放大，本地化产能验证节奏（[[export-tax-rebate-cut-2026]]）

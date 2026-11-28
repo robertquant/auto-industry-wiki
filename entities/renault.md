@@ -1,7 +1,7 @@
 ---
 title: 雷诺 (Renault)
 created: 2026-09-09
-updated: 2026-11-27
+updated: 2026-11-28
 type: entity
 tags: [oem-eu, ev-tech, strategy, sales, export]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-13-daily-digest.md, raw/articles/2026-11-11-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-09-09.md, raw/articles/2026-09-19-daily-digest.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-21-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-24-daily-digest.md, raw/articles/2026-09-25-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-18-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-30-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-06-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, memory/2026-11-16.md, daily-news/2026-11-20-gasgoo-evening.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md]
@@ -459,3 +459,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-11-13-daily
 - **雷诺与福特合作落地口径：基于 [[ampere]] 平台合作开发欧洲电动乘用车与商用车**——从 2025 年的传闻合作升级为平台级产品开发框架
 - 定位再确认：雷诺走「平台供应商 + 轻资产整合者」路线（11/16 Jefferies 上调已录）——Ampere 从内部工程中心（7 月已录）转向对第三方收费的技术资产；对照 [[geely]] Horse 合资（动力总成层）与未来 Twingo 平台外供（日产 Pixio 12 月定价已录），雷诺外供版图从动力总成到整车平台双层铺开
 - 判断：把「卖平台」做成收入线有先发风险：平台毛利厚但客户竞品同源（福特欧洲电动车直接对标雷诺产品线）——雷诺用「技术换时间」的代价是培养贴身对手；真正赢家是 Ampere 的工程产能利用率（[[ampere]]）
+
+## 2026-11-28 更新：福兰「生涯最大失误」细节 + Q3 电动车销量 +84.7%（晨报）
+- 福兰公开反思细节：2016-17 掌舵雷诺中国时没敢向戈恩说真话——「挤上末班车还没买票」（11/27 已录反思框架，今日补细节）
+- **Q3 电动车销量 +84.7%**——「中国工程+欧洲制造」验证（[[twingo-e-tech]] 10 月法国纯电销冠 4747 辆已录）；雷诺把研发直接搬进上海（[[renault-acdc-model]]），是欧洲传统阵营里答案最彻底的

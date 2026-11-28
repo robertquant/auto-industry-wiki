@@ -1,7 +1,7 @@
 ---
 title: 大众汽车 (Volkswagen)
 created: 2026-08-09
-updated: 2026-11-25
+updated: 2026-11-28
 type: entity
 tags: [oem-eu, ev-tech, adas, joint-venture, strategy]
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-daily\-digest\.md, raw/articles/2026-11-11-daily-digest.md, daily-news/2026-08-09-gasgoo-evening.md, daily-news/2026-08-17-gasgoo-evening.md, memory/2026-09-09.md, daily-news/2026-09-13-gasgoo-evening.md, memory/2026-09-20.md, raw/articles/2026-09-20-daily-digest.md, raw/articles/2026-09-22-daily-digest.md, raw/articles/2026-09-23-daily-digest.md, raw/articles/2026-09-26-daily-digest.md, memory/2026-09-29.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-17-daily-digest.md, raw/articles/2026-10-19-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, daily-news/2026-10-25-gasgoo-evening.md, raw/articles/2026-10-30-daily-digest.md, daily-news/2026-10-30-gasgoo-evening.md, raw/articles/2026-10-31-daily-digest.md, daily-news/2026-11-07-gasgoo-evening.md, raw/articles/2026-11-14-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
@@ -354,3 +354,7 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026\-11\-12\-da
 
 ## 2026-11-19 ID. AURA L5 开启预订
 一汽-大众 ID. AURA L5 纯电掀背家轿开启预订：580 Plus/Pro/Max 三版本、双C架构（CMP+CEA）。AURA 系列在 T6（中型SUV）登顶之后的第二款走量车型——大众在华新能源产品密度继续加密（关联 [[id-era-5x]]）。
+
+## 2026-11-28 更新：前三季营业利润仅 0.71 亿欧（-98.7%）、在华交付 -30.2%（晨报）
+- 营业利润口径补充：前三季 0.71 亿欧、同比 **-98.7%**（对照 11/12 已录「Q3 经营亏损 58 亿欧、前 9 个月经营利润仅 0.1 亿欧」——两个口径均近归零，量级一致）
+- **在华交付 -30.2%**（前三季）——在华失速与 ID. AURA T6 新能源爆款（10 月 1.2 万辆已录）并行：结构性下滑+结构性爆款并存，合资转型「定点爆破」（[[id-era-5x]]、[[courizon]]）

@@ -1,7 +1,7 @@
 ---
 title: 小鹏汽车 (XPeng)
 created: 2026-05-11
-updated: 2026-11-26
+updated: 2026-11-28
 sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily-digest.md, raw/articles/2026-09-28-daily-digest.md, memory/2026-05-11.md, memory/2026-05-14.md, memory/2026-05-21.md, memory/2026-05-24.md, memory/2026-05-31.md, memory/2026-06-01.md, memory/2026-06-07.md, memory/2026-06-21.md, memory/2026-06-27.md, memory/2026-06-28.md, raw/articles/2026-10-07-daily-digest.md, raw/articles/2026-10-10-daily-digest.md, raw/articles/2026-10-22-daily-digest.md, raw/articles/2026-10-25-daily-digest.md, raw/articles/2026-10-31-daily-digest.md, raw/articles/2026-11-01-daily-digest.md, raw/articles/2026-11-10-daily-digest.md, raw/articles/2026-11-16-daily-digest.md, daily-news/2026-11-16-gasgoo-evening.md, memory/2026-11-16.md, daily-news/2026-11-20-ai-daily.md, raw/articles/2026-11-20-daily-digest.md, daily-news/2026-11-21-gasgoo-evening.md, raw/articles/2026-11-21-daily-digest.md, raw/articles/2026-11-25-daily-digest.md]
 ---
 
@@ -280,3 +280,8 @@ sources: [raw/articles/2026-11-24-daily-digest.md, raw/articles/2026-10-01-daily
 ## 2026-11-26 补充：肇庆项目细化——电池包+备件供应链中心（晚报）
 - **肇庆 18 亿项目落地细节**（11/23 已录落地）：**电池包 + 备件供应链中心**，**年产能约 20 万电池包**——电池包自产 + 售后备件一体化，供应链纵深继续（对照 [[li-auto-lianshan-battery]] 自研电池、[[mona-l03]] 系走量支撑）
 - 判断：20 万电池包产能 = MONA 系列走量基盘的供应链底座——新势力从「整车组装」向「电池包自制」延伸的又一样本（[[battery-white-box]]）
+
+## 2026-11-28 更新：图灵 AI 共驾白皮书核实 + 铺开节奏（与 robert 讨论整理）
+- 核实：无独立官方白皮书（仅通稿+媒体解读，广州市科技局转载最接近官方）；技术要点整理见 [[ai-co-driving]]
+- 落地节奏确认：2026.12 首批 OTA（G9L、MONA L05）→ 2027Q2 全量铺开；第二代 VLA 训练提速 10-12 倍（RSI 递归自我进化+自我蒸馏）
+- 判断：人驾场景成为端到端模型第二战场——智驾从「开了才存在」变「整车底层持续在线」（[[ai-co-driving]] 深挖）
